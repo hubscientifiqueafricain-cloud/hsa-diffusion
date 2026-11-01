@@ -38,6 +38,9 @@ jobs:
           git add -A calendrier site
           git diff --cached --quiet || (git commit -m "Diffusion : mise à jour" && git push)
       - uses: actions/configure-pages@v5
+        continue-on-error: true   # tant que Pages n'est pas activé
       - uses: actions/upload-pages-artifact@v3
+        continue-on-error: true   # tant que Pages n'est pas activé
         with: {path: site}
       - uses: actions/deploy-pages@v4
+        continue-on-error: true   # tant que Pages n'est pas activé
