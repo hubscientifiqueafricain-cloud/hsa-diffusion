@@ -24,7 +24,7 @@ def maintenant():  # heure d'Abidjan = GMT
 
 def medias_pour(post, fichier, reseau):
     """Utilise la déclinaison au bon format si elle a été publiée sur GitHub Pages, sinon l'original."""
-    medias = list(post.get("media") or [])
+    medias = [m if m.startswith("http") else f"{PAGES}/{m}" for m in post.get("media") or []]
     fmt = (post.get("formats") or {}).get(reseau) or FORMAT_PAR_RESEAU.get(reseau)
     if PAGES and fmt and medias:
         url = f"{PAGES}/declinaisons/{pathlib.Path(fichier).stem}/{fmt}.jpg"
@@ -49,6 +49,9 @@ def traiter(fichier, essai=False):
         return False
     if datetime.datetime.fromisoformat(str(post["quand"])) > maintenant():
         return False
+    # Mode manuel : si aucun réseau du post n'a de connecteur automatique, le poste de publication s'en charge.
+    if not any(c.dispo() and c.nom != "Manuel assisté" for r in post.get("reseaux", []) for c in CHAINES.get(r, [])):
+        return False
     resultats = post.setdefault("resultats", {})
     secours = []
     for reseau in post.get("reseaux", []):
@@ -67,7 +70,7 @@ def traiter(fichier, essai=False):
                 statut = "manuel" if lien == "MANUEL" else "publie"
                 resultats[reseau] = {"statut": statut, "via": c.nom, "lien": lien,
                                      "quand": maintenant().isoformat(), **({"erreurs": erreurs} if erreurs else {})}
-                if erreurs or statut == "manuel":
+                if erreurs:
                     secours.append(f"- **{reseau}** : {c.nom}" + (f" (échecs avant : {'; '.join(erreurs)})" if erreurs else ""))
                 break
             except Exception as e:

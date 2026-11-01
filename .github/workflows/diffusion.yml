@@ -1,20 +1,20 @@
 name: Diffusion HSA
 on:
-  schedule: [{cron: "*/15 * * * *"}]
+  schedule: [{cron: "0 * * * *"}]   # robot : toutes les heures (utile seulement si des clés de réseaux sont ajoutées)
   push: {branches: [main]}
   workflow_dispatch:
 permissions: {contents: write, issues: write, pages: write, id-token: write}
 concurrency: {group: diffusion, cancel-in-progress: false}
 jobs:
-  publier:
+  robot:
     runs-on: ubuntu-latest
-    environment: {name: github-pages}
     steps:
       - uses: actions/checkout@v4
+        with: {sparse-checkout: "calendrier\npublieur\nrequirements.txt"}
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
-      - name: Publier ce qui est dû
+      - name: Publier ce qui est dû (réseaux reliés seulement)
         env:
           PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -30,17 +30,25 @@ jobs:
           METRICOOL_TOKEN: ${{ secrets.METRICOOL_TOKEN }}
           METRICOOL_USER_ID: ${{ secrets.METRICOOL_USER_ID }}
         run: python publieur/publier.py
-      - name: Préparer formats et tableau de bord
-        run: python publieur/preparer.py
       - name: Enregistrer les résultats
         run: |
           git config user.name "robot-hsa" && git config user.email "robot-hsa@users.noreply.github.com"
-          git add -A calendrier site
+          git add -A calendrier
           git diff --cached --quiet || (git commit -m "Diffusion : mise à jour" && git push)
+  poste:
+    if: github.event_name != 'schedule'
+    needs: robot
+    runs-on: ubuntu-latest
+    environment: {name: github-pages}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - name: Construire le poste de publication
+        run: python publieur/preparer.py
       - uses: actions/configure-pages@v5
-        continue-on-error: true   # tant que Pages n'est pas activé
       - uses: actions/upload-pages-artifact@v3
-        continue-on-error: true   # tant que Pages n'est pas activé
         with: {path: site}
       - uses: actions/deploy-pages@v4
-        continue-on-error: true   # tant que Pages n'est pas activé
