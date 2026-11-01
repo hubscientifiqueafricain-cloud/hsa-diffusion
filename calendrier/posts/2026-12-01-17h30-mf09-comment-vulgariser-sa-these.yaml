@@ -1,0 +1,36 @@
+quand: '2026-12-01T17:30:00'
+statut: prevu
+source: Micro-formations YouTube
+titre: Comment vulgariser sa thèse pour le grand public ? | Micro-formation HSA n°9
+type: video
+details: YouTube · vidéo 16:9 · épisode 9/12 · miniature et sous-titres (.srt) fournis
+reseaux:
+- youtube
+apercu: media/micro-formations/MF09-comment-vulgariser-sa-these-miniature.jpg
+media:
+- media/micro-formations/MF09-comment-vulgariser-sa-these.mp4
+- media/micro-formations/MF09-comment-vulgariser-sa-these-miniature.jpg
+- media/micro-formations/MF09-comment-vulgariser-sa-these.srt
+youtube:
+  titre: Comment vulgariser sa thèse pour le grand public ? | Micro-formation HSA n°9
+  type: video
+  categorie: EDUCATION
+  pour_enfants: false
+  tags:
+  - valorisation de la recherche
+  - valoriser sa recherche
+  - thèse
+  - mémoire
+  - doctorat
+  - chercheur africain
+  - recherche scientifique
+  - HSA
+  - Hub Scientifique Africain
+  - micro-formation
+  miniature: media/micro-formations/MF09-comment-vulgariser-sa-these-miniature.jpg
+  sous_titres: media/micro-formations/MF09-comment-vulgariser-sa-these.srt
+texte: "Ta grand-mère, ton voisin ou un ministre doivent pouvoir comprendre ta recherche en une minute. Voici la méthode.\n\nDans cette micro-formation :\n▶ La méthode en 4 temps\n   • 1. Le problème\n   • 2. Ce que tu as trouvé\n   • 3. Un exemple ou un chiffre\n   • 4. Ce que ça change\n▶ Les pièges\n   • Le jargon\n   • Trop de détails\n\nÀ retenir : Vulgariser n'est pas simplifier à l'excès. C'est choisir l'essentiel et le dire avec les mots des autres.\n\n\U0001F4AC Tu as une question sur la valorisation de ta recherche ? Pose-la en commentaire : on y répondra dans une prochaine vidéo.\n\U0001F514 Abonne-toi pour ne rien manquer de la série « Valoriser ta recherche · 1 question, 2 minutes ».\n\n\U0001F310 HSA, le Hub Scientifique Africain : https://www.hubscientifiqueafricain.com\n\n#ValorisationDeLaRecherche #Doctorat #RechercheAfricaine"
+question_youtube:
+- Comment bien réussir la vulgarisation scientifique de sa thèse ? (RIFDOC)
+- Comment faire sa première vidéo de vulgarisation scientifique ?
+- 5 astuces de vulgarisation
