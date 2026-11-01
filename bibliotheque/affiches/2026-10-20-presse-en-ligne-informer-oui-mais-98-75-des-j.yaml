@@ -3,10 +3,7 @@ source: Affiches des articles du blog
 titre: 'Presse en ligne : informer, oui, mais 98,75 % des journalistes courent aussi après les likes.'
 type: image
 reseaux:
-- facebook
-- instagram
 - linkedin
-- whatsapp
 apercu: https://static.wixstatic.com/media/3126f7_cc342292bcf3487fb24f54fad0eea24d~mv2.jpg
 media:
 - https://static.wixstatic.com/media/3126f7_cc342292bcf3487fb24f54fad0eea24d~mv2.jpg

@@ -3,10 +3,7 @@ source: Affiches des articles du blog
 titre: 'Racket policier à Abidjan : seule une victime sur cinq porte plainte.'
 type: image
 reseaux:
-- facebook
-- instagram
 - linkedin
-- whatsapp
 apercu: https://static.wixstatic.com/media/3126f7_5cf8249591f348338448a7acf15315a3~mv2.jpg
 media:
 - https://static.wixstatic.com/media/3126f7_5cf8249591f348338448a7acf15315a3~mv2.jpg

@@ -3,10 +3,7 @@ source: Affiches des articles du blog
 titre: 'Université virtuelle : WhatsApp, la salle de classe préférée des étudiants.'
 type: image
 reseaux:
-- facebook
-- instagram
 - linkedin
-- whatsapp
 apercu: https://static.wixstatic.com/media/3126f7_04780eba6dad41558a4087dd99f80d19~mv2.jpg
 media:
 - https://static.wixstatic.com/media/3126f7_04780eba6dad41558a4087dd99f80d19~mv2.jpg

@@ -63,7 +63,7 @@ pre{white-space:pre-wrap;font:inherit;font-size:14px;background:var(--fond);bord
 <div id="toast"></div>
 <script>
 const NOMS={facebook:"Facebook",instagram:"Instagram",linkedin:"LinkedIn",tiktok:"TikTok",youtube:"YouTube",whatsapp:"WhatsApp",x:"X",telegram:"Telegram",threads:"Threads"};
-const CONSEILS={instagram:"Carrousel ou Reel, lien dans la bio",tiktok:"Mode photo pour un carrousel, vidéo sinon",youtube:"En Short pour les vidéos",linkedin:"Ajoute les images une par une (ou en document)",whatsapp:"Chaîne ou statut : bouton Partager depuis le téléphone"};
+const CONSEILS={instagram:"Carrousel ou Reel, lien dans la bio",tiktok:"Mode photo pour un carrousel, vidéo sinon",youtube:"En Short pour les vidéos",linkedin:"Carrousel : ajoutez les images. PDF : bouton « Ajouter un document »",whatsapp:"Chaîne ou statut : bouton Partager depuis le téléphone"};
 let POSTS=[],vue="jour",limite=40;
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -92,7 +92,7 @@ function carte(p){
   const tout=reseaux.length&&reseaux.every(r=>fait(p,r));
   const apercu=p.apercu?`<img class="vignette" loading="lazy" src="${esc(url(p.apercu))}" alt="">`:`<div class="vignette"></div>`;
   const heure=p.quand?p.quand.slice(11,16).replace(":","h"):"";
-  const medias=p.media.map(m=>/\.mp4/i.test(m)?`<a href="${esc(url(m))}" download target="_blank"><span class="vid">▶</span></a>`:`<a href="${esc(url(m))}" download target="_blank"><img loading="lazy" src="${esc(url(m))}" alt=""></a>`).join("");
+  const medias=p.media.map(m=>/\.pdf/i.test(m)?`<a href="${esc(url(m))}" download target="_blank"><span class="vid">📄</span></a>`:/\.mp4/i.test(m)?`<a href="${esc(url(m))}" download target="_blank"><span class="vid">▶</span></a>`:`<a href="${esc(url(m))}" download target="_blank"><img loading="lazy" src="${esc(url(m))}" alt=""></a>`).join("");
   const lignes=reseaux.map(r=>`<div class="reseau"><div class="reseau-tete"><b>${NOMS[r]||r}</b>
       <button class="btn principal" data-act="partager" data-id="${p.id}" data-r="${r}">Partager</button>
       <button class="btn" data-act="copier" data-id="${p.id}" data-r="${r}">Copier le texte</button>

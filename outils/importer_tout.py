@@ -182,8 +182,102 @@ def bibliotheque():
             n += 1
     return n
 
-if __name__ == "__main__":
+if __name__ == "__main__" and not {"--annexes", "--pdf"} & set(sys.argv):
     print("packs", packs())
     print("semaine", semaine())
     print("metricool", metricool())
     print("bibliotheque", bibliotheque())
+
+# ---------- 5. Dossiers annexes (ajout du 1er novembre) ----------
+import subprocess
+
+def video(src, dest_rel):
+    """Copie une vidéo ; les vidéos lourdes (> 800 kb/s) sont réencodées pour tenir dans GitHub Pages."""
+    dest = MEDIA / dest_rel
+    if dest.exists():
+        return str(dest.relative_to(R))
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(src)],
+                               capture_output=True, text=True).stdout or 1)
+    if src.stat().st_size * 8 / dur > 800_000:
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(src), "-c:v", "libx264", "-crf", "28", "-maxrate", "650k",
+                        "-bufsize", "1300k", "-preset", "veryfast", "-c:a", "aac", "-b:a", "96k", "-movflags", "+faststart", str(dest)], check=True)
+    else:
+        shutil.copy2(src, dest)
+    return str(dest.relative_to(R))
+
+def creas_annexes():
+    n = 0
+    # a) ancienne version des 60 posts de novembre (avec textes)
+    base = PF / "contenu-valorisation-30j"
+    texte = (base / "textes-des-60-posts.md").read_text(encoding="utf-8")
+    for bloc in re.split(r"\n(?=## Jour )", texte)[1:]:
+        t = re.match(r"## Jour (\d+) · .*?· (\d+)h(\d+)", bloc)
+        titre = re.search(r"\*\*(.+?)\*\*", bloc).group(1)
+        stem = re.search(r"fichier ([\w-]+)", bloc).group(1)
+        fb = re.search(r"### Facebook\n(.*?)(?=\n### LinkedIn|\Z)", bloc, re.S).group(1).strip()
+        li = re.search(r"### LinkedIn\n(.*?)(?=\n---|\n## |\Z)", bloc, re.S).group(1).strip()
+        fichiers = sorted(base.glob(f"creas/{stem}*"), key=lambda p: (len(p.stem), p.stem))
+        vids = [p for p in fichiers if p.suffix == ".mp4"]
+        imgs = [p for p in fichiers if p.suffix == ".jpg" and "apercu" not in p.name]
+        ap = [p for p in fichiers if "apercu" in p.name]
+        ms = [video(v, f"novembre-30j/{v.name}") for v in vids] + [media(i, f"novembre-30j/{i.name}") for i in imgs]
+        typ = "video" if vids else ("carrousel" if len(imgs) > 1 else "image")
+        apercu = media(ap[0], f"novembre-30j/{ap[0].name}") if ap else (ms[0] if imgs else None)
+        post = {"statut": "brouillon", "source": "Novembre, 1re version (30 jours)", "titre": titre, "type": typ,
+                "details": f"Prévu à l'origine jour {t.group(1)}, {t.group(2)}h{t.group(3)}", "reseaux": RESEAUX[typ],
+                "apercu": apercu, "media": ms, "texte": fb, "textes": {"linkedin": li}}
+        ecrire(BIB / "novembre-30j", f"{stem}.yaml", post)
+        n += 1
+    # b) créas sans texte : une fiche par créa (ou par paire fil/story)
+    dossiers = [("reseaux-sociaux-hsa/ecosysteme-hsa-creas", "Créas de l'écosystème HSA"),
+                ("reseaux-sociaux-hsa/pub-pass-hsa", "Pub Pass HSA"),
+                ("reseaux-sociaux-hsa/couvertures", "Couvertures des pages"),
+                ("linkedin/couvertures-guides", "Couvertures des guides (LinkedIn)"),
+                ("evenements-scientifiques/creas", "Événements scientifiques"),
+                ("creas/prix-valorisation-2026", "Prix de la valorisation 2026"),
+                ("pub-hsa", "Vidéos pub HSA"),
+                ("inspiration-pages", "Reels inspirés (Canal+, Wave, Yango, Startup Boost)")]
+    for d, serie in dossiers:
+        for p in sorted((PF / d).rglob("*")):
+            if "sources" in p.parts or "archives" in p.parts or p.suffix.lower() not in (".jpg", ".png", ".mp4"):
+                continue
+            if d == "inspiration-pages" and p.suffix != ".mp4":
+                continue  # les images sont déjà dans les posts de la semaine du 2 au 8 novembre
+            if "apercu" in p.name:
+                continue
+            rel = f"annexes/{slug(serie, 25)}/{p.relative_to(PF / d)}"
+            m = video(p, rel) if p.suffix == ".mp4" else media(p, rel)
+            typ = "video" if p.suffix == ".mp4" else "image"
+            fmt = "story 9:16" if re.search(r"story|9x16|vertical|1920", str(p)) else ("16:9" if "16x9" in p.name else "fil 4:5" if re.search(r"feed|4x5|1350", str(p)) else "")
+            post = {"statut": "brouillon", "source": serie, "titre": p.stem.replace("-", " "), "type": typ,
+                    "details": fmt, "reseaux": RESEAUX[typ], "apercu": None if typ == "video" else m, "media": [m], "texte": ""}
+            ecrire(BIB / slug(serie, 30), f"{slug(str(p.relative_to(PF / d)), 70)}.yaml", post)
+            n += 1
+    return n
+
+if __name__ == "__main__" and "--annexes" in sys.argv and "--pdf" not in sys.argv:
+    print("annexes", creas_annexes())
+
+# ---------- 6. PDF des articles de vulgarisation (LinkedIn) ----------
+import csv
+def pdf_articles():
+    affiches = {a["lien_article"].rstrip("/").split("/")[-1]: a["affiche"] for a in json.load(open(R / "media/catalogue.json", encoding="utf-8"))}
+    n = 0
+    for l in csv.DictReader(open(PF / "blog-pdf/liste-des-pdf.csv", encoding="utf-8-sig"), delimiter=";"):
+        src = PF / "blog-pdf/pdf" / l["Fichier PDF"]
+        m = media(src, f"articles-pdf/{src.name}")
+        if not m:
+            continue
+        lien = l["Lien de l'article"]
+        post = {"statut": "brouillon", "source": "PDF des articles de vulgarisation", "titre": l["Titre"], "type": "document",
+                "details": f"Article publié le {l['Date']}", "reseaux": ["linkedin"],
+                "apercu": affiches.get(lien.rstrip("/").split("/")[-1]), "media": [m], "lien": lien,
+                "texte": f"📄 {l['Titre']}\n\nL'article complet en PDF, à lire et à partager. Une recherche africaine rendue accessible à tous par le Hub Scientifique Africain.",
+                "hashtags": ["HSA", "RechercheAfricaine", "ValorisationDeLaRecherche", "Vulgarisation"]}
+        ecrire(BIB / "articles-pdf", f"{l['Date']}-{slug(l['Titre'])}.yaml", post)
+        n += 1
+    return n
+
+if __name__ == "__main__" and "--pdf" in sys.argv:
+    print("pdf", pdf_articles())

@@ -3,10 +3,7 @@ source: Affiches des articles du blog
 titre: 'Le train Abidjan-Bouaké : construit pour évacuer, pas pour développer.'
 type: image
 reseaux:
-- facebook
-- instagram
 - linkedin
-- whatsapp
 apercu: https://static.wixstatic.com/media/3126f7_0d0ca7bf831e43ac984f2741d1b82e93~mv2.jpg
 media:
 - https://static.wixstatic.com/media/3126f7_0d0ca7bf831e43ac984f2741d1b82e93~mv2.jpg
