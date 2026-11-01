@@ -1,0 +1,36 @@
+quand: '2026-11-06T17:30:00'
+statut: prevu
+source: Micro-formations YouTube
+titre: À qui appartiennent les résultats de ma recherche ? | Micro-formation HSA n°5
+type: video
+details: YouTube · vidéo 16:9 · épisode 5/30 · miniature et sous-titres (.srt) fournis
+reseaux:
+- youtube
+apercu: media/micro-formations/MF05-a-qui-appartiennent-les-resultats-de-ma-recherche-miniature.jpg
+media:
+- media/micro-formations/MF05-a-qui-appartiennent-les-resultats-de-ma-recherche.mp4
+- media/micro-formations/MF05-a-qui-appartiennent-les-resultats-de-ma-recherche-miniature.jpg
+- media/micro-formations/MF05-a-qui-appartiennent-les-resultats-de-ma-recherche.srt
+youtube:
+  titre: À qui appartiennent les résultats de ma recherche ? | Micro-formation HSA n°5
+  type: video
+  categorie: EDUCATION
+  pour_enfants: false
+  tags:
+  - valorisation de la recherche
+  - valoriser sa recherche
+  - thèse
+  - mémoire
+  - doctorat
+  - chercheur africain
+  - recherche scientifique
+  - HSA
+  - Hub Scientifique Africain
+  - micro-formation
+  miniature: media/micro-formations/MF05-a-qui-appartiennent-les-resultats-de-ma-recherche-miniature.jpg
+  sous_titres: media/micro-formations/MF05-a-qui-appartiennent-les-resultats-de-ma-recherche.srt
+texte: "Avant de valoriser ta recherche, une question à régler : à qui appartiennent tes résultats ? La réponse est souvent : ça dépend.\n\nDans cette micro-formation :\n▶ Ça dépend de 3 choses\n   • Ton statut\n   • Tes contrats\n   • Le règlement de ton institution\n▶ Les repères généraux\n   • Ton texte : droit d'auteur\n   • Invention : souvent à l'employeur\n   • Les données d'un projet : vérifie\n▶ Le bon réflexe\n   • Lis tes textes, demande\n\nÀ retenir : Ces règles varient selon les pays et les institutions. Clarifie la propriété avant de valoriser : tu éviteras bien des conflits.\n\n\U0001F4AC Tu as une question sur la valorisation de ta recherche ? Pose-la en commentaire : on y répondra dans une prochaine vidéo.\n\U0001F514 Abonne-toi pour ne rien manquer de la série « Valoriser ta recherche · 1 question, 2 minutes ».\n\n\U0001F310 HSA, le Hub Scientifique Africain : https://www.hubscientifiqueafricain.com\n\n#ValorisationDeLaRecherche #Doctorat #RechercheAfricaine"
+question_youtube:
+- Qui détient la propriété intellectuelle sur les innovations ?
+- Le droit de la propriété intellectuelle est-il adapté à la recherche scientifique ?
+- 'Recherche scientifique : la propriété intellectuelle expliquée aux enseignants'

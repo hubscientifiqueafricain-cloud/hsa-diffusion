@@ -1,11 +1,11 @@
 """Ajoute les micro-formations au calendrier de diffusion (réseau YouTube).
 
-  python micro-formations/calendrier.py 2026-11-03     # 1re vidéo ce jour-là, puis mardi et vendredi
+  python micro-formations/calendrier.py 2026-11-03     # 1re vidéo ce jour-là, puis une par jour
 
 Crée un fichier calendrier/posts/<date>-17h30-mf<NN>-<slug>.yaml par épisode, au statut « prevu ».
 Le titre YouTube, la description, les tags, la miniature et les sous-titres sont dans le fichier.
 """
-import sys, datetime, pathlib, yaml
+import sys, glob, os, datetime, pathlib, yaml
 
 ICI = pathlib.Path(__file__).resolve().parent
 RACINE = ICI.parent
@@ -30,10 +30,10 @@ def description(ep, d):
 
 def main():
     d = yaml.safe_load(open(ICI / "episodes.yaml", encoding="utf-8"))
+    for ancien in glob.glob(str(RACINE / "calendrier" / "posts" / "*-mf[0-9][0-9]-*.yaml")):
+        os.remove(ancien)  # on replanifie toute la série
     jour = datetime.date.fromisoformat(sys.argv[1] if len(sys.argv) > 1 else "2026-11-03")
     for ep in d["episodes"]:
-        while jour.weekday() not in (1, 4):  # mardi, vendredi
-            jour += datetime.timedelta(days=1)
         base = f"MF{ep['n']:02d}-{ep['slug']}"
         titre = f"{ep['q']} | Micro-formation HSA n°{ep['n']}"
         if len(titre) > 100:

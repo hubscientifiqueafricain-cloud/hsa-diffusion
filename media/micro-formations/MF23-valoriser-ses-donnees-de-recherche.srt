@@ -1,0 +1,31 @@
+1
+00:00:00,600 --> 00:00:07,032
+Tes questionnaires, tes mesures, tes cartes : ces données ont souvent plus de valeur que tu ne le penses.
+
+2
+00:00:07,882 --> 00:00:14,218
+Un : les déposer dans un entrepôt de données. Elles deviennent citables, et on te cite.
+
+3
+00:00:14,568 --> 00:00:20,064
+Deux : en tirer une carte, un tableau de bord ou un indicateur utile aux acteurs de terrain.
+
+4
+00:00:20,414 --> 00:00:24,830
+Trois : t'en servir comme base pour de nouvelles études ou prestations.
+
+5
+00:00:25,680 --> 00:00:28,368
+Anonymise les données personnelles.
+
+6
+00:00:28,718 --> 00:00:33,086
+Et vérifie que ton contrat ou ton financeur t'autorise à les partager.
+
+7
+00:00:33,936 --> 00:00:39,648
+Des données bien rangées, documentées et partagées travaillent pour toi bien après ta soutenance.
+
+8
+00:00:40,498 --> 00:00:55,138
+Tu as une question sur la valorisation de ta recherche ? Pose-la en commentaire, on y répondra dans une prochaine vidéo. Abonne-toi, et retrouve HSA, le Hub Scientifique Africain, sur hubscientifiqueafricain point com.

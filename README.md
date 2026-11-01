@@ -51,7 +51,7 @@ YouTube = une vidéo courte (16:9, voix off, sous-titres, miniature). Les script
 ```bash
 pip install edge-tts
 python micro-formations/render.py            # refait les vidéos (ou : render.py 3 7 pour certains épisodes)
-python micro-formations/calendrier.py 2026-11-03   # les place au calendrier, mardi et vendredi 17h30
+python micro-formations/calendrier.py 2026-11-03   # les place au calendrier, une par jour à 17h30
 ```
 
 YouTube n'est pas encore relié à Metricool : tant que ce n'est pas fait, ces vidéos passent par le
