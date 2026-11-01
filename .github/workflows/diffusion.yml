@@ -1,0 +1,43 @@
+name: Diffusion HSA
+on:
+  schedule: [{cron: "*/15 * * * *"}]
+  push: {branches: [main]}
+  workflow_dispatch:
+permissions: {contents: write, issues: write, pages: write, id-token: write}
+concurrency: {group: diffusion, cancel-in-progress: false}
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    environment: {name: github-pages}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - name: Publier ce qui est dû
+        env:
+          PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          LINKEDIN_TOKEN: ${{ secrets.LINKEDIN_TOKEN }}
+          LINKEDIN_AUTEUR: ${{ secrets.LINKEDIN_AUTEUR }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CANAL: ${{ secrets.TELEGRAM_CANAL }}
+          METRICOOL_TOKEN: ${{ secrets.METRICOOL_TOKEN }}
+          METRICOOL_USER_ID: ${{ secrets.METRICOOL_USER_ID }}
+        run: python publieur/publier.py
+      - name: Préparer formats et tableau de bord
+        run: python publieur/preparer.py
+      - name: Enregistrer les résultats
+        run: |
+          git config user.name "robot-hsa" && git config user.email "robot-hsa@users.noreply.github.com"
+          git add -A calendrier site
+          git diff --cached --quiet || (git commit -m "Diffusion : mise à jour" && git push)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: {path: site}
+      - uses: actions/deploy-pages@v4
