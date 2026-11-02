@@ -71,7 +71,7 @@ def entete(im, n, serie):
     lg = logo(200)
     im.paste(lg, (110, 70), lg)
     f = font("b", 26)
-    txt = f"MICRO-FORMATION · ÉP. {n:02d}"
+    txt = "BANDE-ANNONCE" if n == 0 else f"MICRO-FORMATION · ÉP. {n:02d}"
     w = f.getlength(txt)
     d.rounded_rectangle((W - 110 - w - 56, 78, W - 110, 136), radius=29, outline=Y, width=3)
     d.text((W - 110 - w - 28, 92), txt, font=f, fill=Y)
@@ -118,7 +118,7 @@ def barre(im, p):
 def ecran_question(ep, serie):
     im = FOND.copy(); entete(im, ep["n"], serie)
     d = ImageDraw.Draw(im)
-    d.text((110, 300), "LA QUESTION", font=font("xb", 40), fill=Y)
+    d.text((110, 300), ep.get("etiquette", "LA QUESTION"), font=font("xb", 40), fill=Y)
     f = font("noir", 96)
     y = 370
     for l in couper(ep["q"], f, 1650):
@@ -161,7 +161,7 @@ def miniature(ep, chemin):
     im = FOND.copy()
     d = ImageDraw.Draw(im)
     lg = logo(300); im.paste(lg, (110, 90), lg)
-    f = font("xb", 46); t = f"ÉP. {ep['n']:02d}"; w = f.getlength(t)
+    f = font("xb", 46); t = "BANDE-ANNONCE" if ep['n'] == 0 else f"ÉP. {ep['n']:02d}"; w = f.getlength(t)
     d.rounded_rectangle((W - 110 - w - 70, 100, W - 110, 186), radius=43, fill=Y)
     d.text((W - 110 - w - 35, 143), t, font=f, fill=BG, anchor="lm")
     q = ep.get("miniature") or ep["q"]
