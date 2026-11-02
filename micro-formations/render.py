@@ -144,17 +144,31 @@ def ecran_resume(ep, serie):
         d.text((110, y), l, font=f, fill=BLANC); y += 92
     return im
 
+# Zones laissées libres pour l'écran de fin YouTube (en pixels sur 1920x1080) :
+# deux vidéos/playlists à droite, bouton S'abonner en bas à gauche.
+ZONES_FIN = {"video_1": (1170, 150, 1810, 510), "video_2": (1170, 570, 1810, 930), "abonnement": (135, 610, 435, 910)}
+DUREE_FIN = 16  # secondes à l'écran (YouTube : écran de fin de 5 à 20 s)
+
 def ecran_fin(ep, serie):
     im = FOND.copy()
     d = ImageDraw.Draw(im)
-    lg = logo(520)
-    im.paste(lg, ((W - lg.width) // 2, 170), lg)
-    d.text((W // 2, 470), "Pose ta question en commentaire", font=font("noir", 76), fill=BLANC, anchor="ma")
-    d.text((W // 2, 575), "On y répond dans une prochaine vidéo", font=font("m", 44), fill=GRIS, anchor="ma")
-    f = font("xb", 44); t = "hubscientifiqueafricain.com"; w = f.getlength(t)
-    d.rounded_rectangle(((W - w) // 2 - 50, 680, (W + w) // 2 + 50, 770), radius=45, fill=Y)
-    d.text((W // 2, 725), t, font=f, fill=BG, anchor="mm")
-    d.text((W // 2, 830), "Abonne-toi pour la prochaine question", font=font("sb", 40), fill=BLANC, anchor="ma")
+    lg = logo(260)
+    im.paste(lg, (110, 120), lg)
+    d.text((110, 290), "Merci d'avoir regardé !", font=font("noir", 70), fill=BLANC)
+    y = 385
+    for l in couper("Pose ta question en commentaire : on y répond dans une prochaine vidéo.", font("m", 38), 900):
+        d.text((110, y), l, font=font("m", 38), fill=GRIS); y += 50
+    for nom, (x0, y0, x1, y1) in ZONES_FIN.items():
+        if nom == "abonnement":
+            d.ellipse((x0, y0, x1, y1), outline=Y, width=6)
+        else:
+            d.rounded_rectangle((x0, y0, x1, y1), radius=18, fill=(30, 17, 6), outline=(110, 80, 25), width=3)
+            d.text(((x0 + x1) // 2, (y0 + y1) // 2), "Regarde aussi" if nom == "video_1" else "La playlist",
+                   font=font("sb", 34), fill=(120, 100, 75), anchor="mm")
+    d.text((480, 700), "Abonne-toi", font=font("noir", 60), fill=Y)
+    d.text((480, 780), "Une micro-formation", font=font("m", 36), fill=BLANC)
+    d.text((480, 826), "chaque jour à 17h30", font=font("m", 36), fill=BLANC)
+    d.text((110, 990), "hubscientifiqueafricain.com", font=font("sb", 34), fill=GRIS)
     return im
 
 def miniature(ep, chemin):
@@ -215,7 +229,7 @@ def fabriquer(ep, serie, outro):
         tl.append({"kind": kind, "ref": ref, "txt": txt, "a": t, "b": t + d, "i": i})
         t += d + 0.35
         prec = kind
-    fin = t + 1.2
+    fin = max(t + 1.2, tl[-1]["a"] - 0.5 + DUREE_FIN)
     # 3. la bande-son
     entrees, filtres = [], []
     for k, r in enumerate(tl):

@@ -137,3 +137,17 @@ Créer → Nouvelle playlist (visibilité Publique). Ajoute chaque épisode à s
 ```
 👉 Et toi, quelle question te poses-tu sur la valorisation de ta recherche ? Écris-la ici : on y répondra dans une prochaine micro-formation.
 ```
+
+## 7. Écran de fin (à faire sur chaque vidéo)
+
+Les 16 dernières secondes de chaque vidéo sont prévues pour l'écran de fin : à gauche « Merci d'avoir regardé ! » et un cercle jaune, à droite deux cadres vides. Il suffit de poser les éléments YouTube dessus.
+
+**La première fois (épisode 1)** : YouTube Studio → la vidéo → Écran de fin → « Ajouter un élément » :
+1. **S'abonner** : place le rond sur le cercle jaune, en bas à gauche.
+2. **Vidéo** → « Vidéo la plus récente » : cale-la sur le cadre « Regarde aussi », en haut à droite.
+3. **Playlist** → choisis la playlist de l'épisode (voir la partie 5) : cale-la sur le cadre « La playlist », en bas à droite.
+4. Étire chaque élément jusqu'à la fin de la vidéo (16 secondes), puis Enregistrer.
+
+**Pour les vidéos suivantes** : Écran de fin → « Importer depuis une vidéo » → choisis l'épisode 1. Les trois éléments se placent au même endroit. Il ne reste qu'à changer la playlist si l'épisode appartient à une autre playlist.
+
+Astuce : « Vidéo la plus récente » se met à jour tout seul. Chaque ancienne vidéo renverra donc vers la dernière micro-formation publiée.
