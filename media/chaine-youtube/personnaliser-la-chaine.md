@@ -140,14 +140,14 @@ Créer → Nouvelle playlist (visibilité Publique). Ajoute chaque épisode à s
 
 ## 7. Écran de fin (à faire sur chaque vidéo)
 
-Les 16 dernières secondes de chaque vidéo sont prévues pour l'écran de fin : à gauche « Merci d'avoir regardé ! » et un cercle jaune, à droite deux cadres vides. Il suffit de poser les éléments YouTube dessus.
+Les 16 dernières secondes de chaque vidéo sont prévues pour l'écran de fin. À gauche, « Merci d'avoir regardé ! » et un cercle jaune. À droite, les miniatures des **deux épisodes suivants** (« Épisode suivant » et « Ensuite »). Il suffit de poser les éléments YouTube dessus.
 
-**La première fois (épisode 1)** : YouTube Studio → la vidéo → Écran de fin → « Ajouter un élément » :
+**Sur chaque vidéo** : YouTube Studio → la vidéo → Écran de fin → « Ajouter un élément » :
 1. **S'abonner** : place le rond sur le cercle jaune, en bas à gauche.
-2. **Vidéo** → « Vidéo la plus récente » : cale-la sur le cadre « Regarde aussi », en haut à droite.
-3. **Playlist** → choisis la playlist de l'épisode (voir la partie 5) : cale-la sur le cadre « La playlist », en bas à droite.
+2. **Vidéo** → « Choisir une vidéo spécifique » → l'épisode suivant : cale-la sur la miniature du haut.
+3. **Vidéo** → « Choisir une vidéo spécifique » → l'épisode d'après : cale-la sur la miniature du bas.
 4. Étire chaque élément jusqu'à la fin de la vidéo (16 secondes), puis Enregistrer.
 
-**Pour les vidéos suivantes** : Écran de fin → « Importer depuis une vidéo » → choisis l'épisode 1. Les trois éléments se placent au même endroit. Il ne reste qu'à changer la playlist si l'épisode appartient à une autre playlist.
+Pour aller plus vite : « Importer depuis une vidéo » reprend la position des éléments d'une vidéo déjà réglée. Il ne reste qu'à changer les deux vidéos.
 
-Astuce : « Vidéo la plus récente » se met à jour tout seul. Chaque ancienne vidéo renverra donc vers la dernière micro-formation publiée.
+**Attention au calendrier** : YouTube ne propose que les vidéos déjà en ligne. Comme les épisodes sortent un par jour, règle l'écran de fin de l'épisode N le jour où l'épisode N+2 sort, ou mets d'abord « Vidéo la plus récente » à la place, puis remplace-la. La bande-annonce renvoie aux épisodes 1 et 2.

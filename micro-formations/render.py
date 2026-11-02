@@ -149,6 +149,22 @@ def ecran_resume(ep, serie):
 ZONES_FIN = {"video_1": (1170, 150, 1810, 510), "video_2": (1170, 570, 1810, 930), "abonnement": (135, 610, 435, 910)}
 DUREE_FIN = 16  # secondes à l'écran (YouTube : écran de fin de 5 à 20 s)
 
+EPISODES = None
+def episodes_suivants(n):
+    """Les deux épisodes qui suivent n dans la série (on reboucle au début ; la bande-annonce, n = 0, mène aux épisodes 1 et 2)."""
+    global EPISODES
+    if EPISODES is None:
+        EPISODES = yaml.safe_load(open(ICI / "episodes.yaml", encoding="utf-8"))["episodes"]
+    nums = [e["n"] for e in EPISODES]
+    i = nums.index(n) + 1 if n in nums else 0
+    return [EPISODES[(i + k) % len(EPISODES)] for k in (0, 1)]
+
+def capture(ep):
+    """La miniature de l'épisode, fabriquée à la volée."""
+    chemin = TRAVAIL / f"miniature-{ep['n']:02d}.jpg"
+    miniature(ep, chemin)
+    return Image.open(chemin).convert("RGB")
+
 def ecran_fin(ep, serie):
     im = FOND.copy()
     d = ImageDraw.Draw(im)
@@ -158,13 +174,18 @@ def ecran_fin(ep, serie):
     y = 385
     for l in couper("Pose ta question en commentaire : on y répond dans une prochaine vidéo.", font("m", 38), 900):
         d.text((110, y), l, font=font("m", 38), fill=GRIS); y += 50
+    suivants = episodes_suivants(ep["n"])
     for nom, (x0, y0, x1, y1) in ZONES_FIN.items():
         if nom == "abonnement":
             d.ellipse((x0, y0, x1, y1), outline=Y, width=6)
-        else:
-            d.rounded_rectangle((x0, y0, x1, y1), radius=18, fill=(30, 17, 6), outline=(110, 80, 25), width=3)
-            d.text(((x0 + x1) // 2, (y0 + y1) // 2), "Regarde aussi" if nom == "video_1" else "La playlist",
-                   font=font("sb", 34), fill=(120, 100, 75), anchor="mm")
+            continue
+        suivant = suivants[0 if nom == "video_1" else 1]
+        d.text((x0, y0 - 44), "ÉPISODE SUIVANT" if nom == "video_1" else "ENSUITE", font=font("xb", 28), fill=Y)
+        vignette = capture(suivant).resize((x1 - x0, y1 - y0), Image.LANCZOS)
+        masque = Image.new("L", vignette.size, 0)
+        ImageDraw.Draw(masque).rounded_rectangle((0, 0, vignette.width - 1, vignette.height - 1), radius=18, fill=255)
+        im.paste(vignette, (x0, y0), masque)
+        d.rounded_rectangle((x0, y0, x1, y1), radius=18, outline=(110, 80, 25), width=3)
     d.text((480, 700), "Abonne-toi", font=font("noir", 60), fill=Y)
     d.text((480, 780), "Une micro-formation", font=font("m", 36), fill=BLANC)
     d.text((480, 826), "chaque jour à 17h30", font=font("m", 36), fill=BLANC)
