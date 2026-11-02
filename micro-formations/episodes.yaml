@@ -1,0 +1,564 @@
+# Série YouTube « Valoriser ta recherche : 1 question, 2 minutes » (HSA)
+# Chaque épisode répond à une question que les gens se posent sur YouTube.
+# yt : titres de vidéos YouTube où la question apparaît (relevé du 1er novembre 2026).
+# Une étape (beat) = une ligne à l'écran + la phrase dite par la voix off.
+serie: "Valoriser ta recherche · 1 question, 2 minutes"
+outro: "Tu as une question sur la valorisation de ta recherche ? Pose-la en commentaire, on y répondra dans une prochaine vidéo. Abonne-toi, et retrouve HSA, le Hub Scientifique Africain, sur hubscientifiqueafricain point com."
+episodes:
+
+- n: 1
+  slug: c-est-quoi-la-valorisation-de-la-recherche
+  miniature: "La valorisation, c'est quoi ?"
+  q: "C'est quoi, concrètement, la valorisation de la recherche ?"
+  yt: ["Qu'est-ce que la valorisation de la recherche ?", "Comprendre VRAIMENT la valorisation de la recherche (Xerfi)", "La valorisation de la recherche à l'université (Univ. Montpellier)"]
+  accroche: "On en parle dans tous les colloques, mais personne ne l'explique simplement. La valorisation de la recherche, c'est quoi, concrètement ?"
+  slides:
+  - t: "La définition simple"
+    beats:
+    - ["Faire servir tes résultats", "Valoriser ta recherche, c'est faire en sorte que tes résultats servent à quelqu'un, en dehors du jury et des autres chercheurs."]
+    - ["à ceux qui peuvent les utiliser", "Une communauté, une entreprise, une administration, une ONG, un hôpital, une école."]
+  - t: "Ce que ce n'est pas"
+    beats:
+    - ["Pas seulement publier", "Publier un article, c'est parler à tes pairs. C'est indispensable, mais ce n'est qu'une étape."]
+    - ["Pas forcément vendre", "Une politique publique inspirée de ta thèse, c'est aussi de la valorisation, même si personne ne paie."]
+    - ["Pas réservé aux sciences dures", "Droit, sociologie, lettres, économie : toute connaissance utile peut être valorisée."]
+  - t: "Ce que ça produit"
+    beats:
+    - ["De l'impact", "Bien faite, la valorisation produit de l'impact : ta recherche change quelque chose."]
+    - ["Des revenus", "Des revenus : ton savoir a un prix."]
+    - ["De la notoriété", "Et de la notoriété : on te connaît, on te cite, on te recrute."]
+  resume: "En une phrase : valoriser, c'est faire passer ta recherche du tiroir à la vraie vie."
+
+- n: 2
+  slug: pourquoi-valoriser-ses-resultats-de-recherche
+  miniature: "Pourquoi valoriser ta recherche ?"
+  q: "Pourquoi valoriser ses résultats de recherche ?"
+  yt: ["Pourquoi valoriser ?", "Valorisation de la recherche : quelles motivations ? (Link Grenoble Alpes)", "Pourquoi valoriser les résultats de la recherche ? (C2D Education)"]
+  accroche: "Tu as soutenu, tu as ton diplôme. Alors pourquoi te fatiguer à valoriser ta recherche ? Voici quatre bonnes raisons."
+  slides:
+  - t: "4 raisons de valoriser"
+    beats:
+    - ["1. Ton travail sert enfin", "Un, ton travail sert enfin. Des mois d'enquête et d'analyse ne méritent pas de dormir dans une bibliothèque."]
+    - ["2. Ta carrière avance", "Deux, ta carrière avance. Un chercheur visible reçoit plus d'invitations, de partenariats et d'offres."]
+    - ["3. Tu crées des revenus", "Trois, tu peux en tirer des revenus : expertise, formation, études, produits."]
+    - ["4. L'Afrique en a besoin", "Quatre, nos pays ont besoin de solutions pensées ici, par des chercheurs d'ici, pour des problèmes d'ici."]
+  - t: "Et pour ceux qui financent"
+    beats:
+    - ["Les bailleurs demandent l'impact", "De plus en plus, les bailleurs et les appels à projets demandent : à quoi votre recherche a-t-elle servi ?"]
+    - ["Valoriser = être prêt à répondre", "Valoriser dès maintenant, c'est avoir une réponse solide le jour où on te pose la question."]
+  resume: "Ta recherche a coûté du temps, de l'argent et de l'énergie. La valoriser, c'est lui donner un retour sur investissement."
+
+- n: 3
+  slug: quels-sont-les-types-de-valorisation
+  miniature: "Les 3 types de valorisation"
+  q: "Quels sont les différents types de valorisation ?"
+  yt: ["Quels sont les différents types de valorisation ?", "La valorisation de la recherche en 9 vidéos ludiques (Réseau C.U.R.I.E.)", "La valorisation de la recherche PROTÈGE / DIVERTIT / AIDE (Réseau LiEU)"]
+  accroche: "Valoriser sa recherche, ce n'est pas forcément créer une entreprise. Il existe au moins trois grandes familles de valorisation."
+  slides:
+  - t: "La valorisation sociale"
+    beats:
+    - ["Informer, former, éclairer", "La valorisation sociale : tu informes le public, tu formes des professionnels, tu éclaires une décision publique."]
+    - ["Ex. : une note aux décideurs", "Exemple : une note de deux pages remise à une mairie à partir de ton mémoire."]
+  - t: "La valorisation économique"
+    beats:
+    - ["Vendre un savoir ou un produit", "La valorisation économique : ton savoir devient une prestation, une formation, un produit ou une entreprise."]
+    - ["Ex. : une étude pour une ONG", "Exemple : une ONG te paie pour une étude de terrain dans ton domaine."]
+  - t: "La valorisation académique"
+    beats:
+    - ["Publier, communiquer, enseigner", "La valorisation académique : articles, colloques, cours. Elle construit ta crédibilité."]
+    - ["La base des deux autres", "C'est souvent elle qui ouvre la porte aux deux autres."]
+  resume: "Social, économique, académique : une même recherche peut emprunter les trois chemins. Choisis celui qui correspond à ton objectif."
+
+- n: 4
+  slug: valoriser-une-recherche-en-sciences-humaines-et-sociales
+  miniature: "Sciences humaines : on peut valoriser ?"
+  q: "Peut-on valoriser une recherche en sciences humaines et sociales ?"
+  yt: ["La valorisation de la recherche en Sciences Humaines et Sociales", "Cinq expériences de valorisation en SHS (Réseau LiEU)", "La valorisation économique en Sciences Humaines et Sociales (SATT Aquitaine)"]
+  accroche: "« Je fais de la sociologie, du droit ou de l'histoire. Mon sujet ne se valorise pas. » C'est faux, et voici pourquoi."
+  slides:
+  - t: "Les SHS produisent de l'utile"
+    beats:
+    - ["Comprendre les gens", "Les sciences humaines et sociales expliquent comment les gens vivent, décident, consomment et s'organisent."]
+    - ["= ce que cherchent les décideurs", "C'est exactement ce dont ont besoin les gouvernements, les ONG et les entreprises pour agir."]
+  - t: "Ce que tu peux proposer"
+    beats:
+    - ["Études et diagnostics", "Des études et diagnostics de terrain."]
+    - ["Formations", "Des formations pour les agents, les enseignants, les animateurs."]
+    - ["Évaluations de projets", "Des évaluations de projets et de politiques publiques."]
+    - ["Contenus grand public", "Des livres, des podcasts, des expositions, des contenus pour le grand public."]
+  resume: "En SHS, on valorise moins des brevets que des méthodes, des analyses et des compétences. Et c'est très demandé."
+
+- n: 5
+  slug: a-qui-appartiennent-les-resultats-de-ma-recherche
+  miniature: "À qui appartient ta recherche ?"
+  q: "À qui appartiennent les résultats de ma recherche ?"
+  yt: ["Qui détient la propriété intellectuelle sur les innovations ?", "Le droit de la propriété intellectuelle est-il adapté à la recherche scientifique ?", "Recherche scientifique : la propriété intellectuelle expliquée aux enseignants"]
+  accroche: "Avant de valoriser ta recherche, une question à régler : à qui appartiennent tes résultats ? La réponse est souvent : ça dépend."
+  slides:
+  - t: "Ça dépend de 3 choses"
+    beats:
+    - ["Ton statut", "D'abord ton statut : étudiant, doctorant boursier, enseignant-chercheur salarié, chercheur indépendant."]
+    - ["Tes contrats", "Ensuite tes contrats : contrat de bourse, convention de stage, contrat de projet avec un partenaire."]
+    - ["Le règlement de ton institution", "Enfin le règlement de ton université ou de ton centre de recherche."]
+  - t: "Les repères généraux"
+    beats:
+    - ["Ton texte : droit d'auteur", "En général, tu es l'auteur de ton mémoire ou de ta thèse et tu as des droits sur ce texte."]
+    - ["Invention : souvent à l'employeur", "Une invention faite dans le cadre de ton travail de chercheur salarié revient souvent à ton employeur."]
+    - ["Les données d'un projet : vérifie", "Les données collectées dans un projet financé peuvent avoir des conditions d'utilisation."]
+  - t: "Le bon réflexe"
+    beats:
+    - ["Lis tes textes, demande", "Lis tes contrats, et demande au service de la recherche ou de la valorisation de ton institution avant de vendre ou de breveter."]
+  resume: "Ces règles varient selon les pays et les institutions. Clarifie la propriété avant de valoriser : tu éviteras bien des conflits."
+
+- n: 6
+  slug: breveter-ou-publier
+  miniature: "Breveter ou publier ?"
+  q: "Breveter ou publier : que choisir ?"
+  yt: ["Le brevet d'invention (définition, protection, dépôt de brevet)", "Quels sont les critères de brevetabilité d'une invention ?", "Comment déclarer son invention ?"]
+  accroche: "Tu as mis au point un procédé, un appareil, une formule. Faut-il publier tout de suite, ou d'abord breveter ?"
+  slides:
+  - t: "Une invention est brevetable si…"
+    beats:
+    - ["Elle est nouvelle", "Une invention est brevetable si elle est nouvelle : personne ne l'a rendue publique avant."]
+    - ["Elle est inventive", "Si elle n'est pas évidente pour un spécialiste du domaine."]
+    - ["Elle a une application industrielle", "Et si elle peut être fabriquée ou utilisée concrètement."]
+  - t: "Le piège à éviter"
+    beats:
+    - ["Publier avant = perdre la nouveauté", "En règle générale, si tu publies ou présentes ton invention avant de déposer le brevet, elle n'est plus nouvelle."]
+    - ["Soutenance, colloque, post : attention", "Une soutenance publique, un poster ou un post sur les réseaux peuvent suffire."]
+  - t: "Le bon ordre"
+    beats:
+    - ["1. Garder confidentiel", "Un : garde l'invention confidentielle."]
+    - ["2. Déclarer à ton institution", "Deux : déclare-la au service de valorisation de ton institution."]
+    - ["3. Déposer, puis publier", "Trois : dépose, par exemple auprès de l'OAPI pour ses pays membres, puis publie."]
+  resume: "Breveter et publier ne s'opposent pas. Il faut juste les faire dans le bon ordre."
+
+- n: 7
+  slug: creer-une-startup-a-partir-de-sa-these
+  miniature: "Ta thèse peut devenir une startup"
+  q: "Comment créer une startup à partir de sa thèse ?"
+  yt: ["Lancer une start-up après la thèse ?", "De chercheur à entrepreneur (CNRS)", "Comment devenir chercheur entrepreneur ?"]
+  accroche: "Ta thèse contient peut-être une entreprise. Mais entre un résultat de recherche et une startup, il y a quelques étapes à ne pas sauter."
+  slides:
+  - t: "Les 5 étapes"
+    beats:
+    - ["1. Trouver le problème du client", "Un : identifie qui a le problème que ta recherche résout, et s'il est prêt à payer."]
+    - ["2. Vérifier la propriété", "Deux : vérifie à qui appartiennent les résultats, et protège ce qui doit l'être."]
+    - ["3. Tester une première version", "Trois : teste une version simple auprès de vrais clients, même dix suffisent."]
+    - ["4. Former une équipe", "Quatre : entoure-toi. Un profil commercial ou gestion complète souvent bien le chercheur."]
+    - ["5. Chercher l'accompagnement", "Cinq : rapproche-toi des incubateurs, des concours et des programmes d'appui à l'innovation."]
+  resume: "La startup n'est pas la seule voie de valorisation, mais si ton résultat répond à un vrai besoin, c'est une aventure qui vaut le coup."
+
+- n: 8
+  slug: que-faire-de-son-memoire-apres-la-soutenance
+  miniature: "Après la soutenance : 5 actions"
+  q: "Que faire de son mémoire ou de sa thèse après la soutenance ?"
+  yt: ["Que faire après ma thèse ? (Université de Liège)", "Point de fusion : Que faire après sa thèse ?", "Après la thèse : postdoc, indépendance, reconversion"]
+  accroche: "La soutenance est passée. Et maintenant, ton mémoire va finir dans un tiroir ? Voici cinq choses à faire dans les trois mois."
+  slides:
+  - t: "5 actions après la soutenance"
+    beats:
+    - ["1. Un résumé grand public", "Un : écris un résumé de ta recherche en une page, sans jargon."]
+    - ["2. Un article tiré d'un chapitre", "Deux : transforme ton meilleur chapitre en article scientifique."]
+    - ["3. Une fiche d'expertise", "Trois : prépare une fiche d'expertise qui dit ce que tu sais faire, et pour qui."]
+    - ["4. Trois organisations à contacter", "Quatre : repère trois organisations qui pourraient utiliser tes résultats, et écris-leur."]
+    - ["5. Un post pour en parler", "Cinq : parle de ta recherche en ligne, avec un exemple concret."]
+  resume: "Ton diplôme marque la fin des études, pas la fin de ta recherche. C'est maintenant qu'elle peut commencer à servir."
+
+- n: 9
+  slug: comment-vulgariser-sa-these
+  miniature: "Vulgarise ta thèse en 1 minute"
+  q: "Comment vulgariser sa thèse pour le grand public ?"
+  yt: ["Comment bien réussir la vulgarisation scientifique de sa thèse ? (RIFDOC)", "Comment faire sa première vidéo de vulgarisation scientifique ?", "5 astuces de vulgarisation"]
+  accroche: "Ta grand-mère, ton voisin ou un ministre doivent pouvoir comprendre ta recherche en une minute. Voici la méthode."
+  slides:
+  - t: "La méthode en 4 temps"
+    beats:
+    - ["1. Le problème", "Un : commence par le problème que vivent les gens, pas par ta méthode."]
+    - ["2. Ce que tu as trouvé", "Deux : dis ce que tu as trouvé, en une phrase."]
+    - ["3. Un exemple ou un chiffre", "Trois : ajoute un exemple ou un chiffre qui frappe."]
+    - ["4. Ce que ça change", "Quatre : explique ce que ça change pour la personne en face de toi."]
+  - t: "Les pièges"
+    beats:
+    - ["Le jargon", "Remplace chaque mot technique par un mot du quotidien, ou explique-le."]
+    - ["Trop de détails", "Ne raconte pas tout : un seul message bien compris vaut mieux que dix oubliés."]
+  resume: "Vulgariser n'est pas simplifier à l'excès. C'est choisir l'essentiel et le dire avec les mots des autres."
+
+- n: 10
+  slug: utiliser-linkedin-pour-valoriser-sa-recherche
+  miniature: "LinkedIn pour ta recherche"
+  q: "Comment utiliser LinkedIn pour valoriser sa recherche ?"
+  yt: ["Comment utiliser LinkedIn pour valoriser sa recherche ? (HES-SO)", "Valoriser sa recherche avec ORCID", "Valoriser sa recherche : les profils de chercheuses et chercheurs"]
+  accroche: "Les décideurs, les ONG et les recruteurs sont sur LinkedIn. Ta recherche aussi devrait y être. Voici comment."
+  slides:
+  - t: "Ton profil"
+    beats:
+    - ["Un titre qui dit ce que tu résous", "Dans ton titre, ne mets pas seulement « doctorant ». Dis quel problème tu sais résoudre."]
+    - ["Ta recherche dans la section Infos", "Résume ta recherche en trois phrases simples dans la section Infos."]
+    - ["Lien ORCID, articles, mémoire", "Ajoute tes publications, ton lien ORCID et ton mémoire en document."]
+  - t: "Tes publications"
+    beats:
+    - ["Un post par semaine", "Publie une fois par semaine : un résultat, une anecdote de terrain, une leçon apprise."]
+    - ["Un chiffre + une histoire", "La recette qui marche : un chiffre fort, une histoire courte, une question à la fin."]
+  resume: "LinkedIn est un CV qui travaille pour toi pendant que tu dors. Fais-en la vitrine de ta recherche."
+
+- n: 11
+  slug: financer-la-valorisation-de-ses-travaux
+  miniature: "Financer ta valorisation"
+  q: "Comment financer la valorisation de ses travaux ?"
+  yt: ["Financements de la valorisation des travaux de recherche (Université PSL)", "Comment trouver un financement ?", "Trophées de la valorisation de la recherche"]
+  accroche: "Valoriser coûte parfois de l'argent : un prototype, une étude de marché, un dépôt de brevet. Où trouver le financement ?"
+  slides:
+  - t: "5 sources à explorer"
+    beats:
+    - ["Prix et concours", "Les prix et concours pour jeunes chercheurs et innovateurs : de l'argent et de la visibilité."]
+    - ["Appels à projets", "Les appels à projets des fonds nationaux, des agences et des bailleurs internationaux."]
+    - ["Ton institution", "Ton université ou ton centre : certains ont des fonds ou des services d'appui à la valorisation."]
+    - ["Incubateurs", "Les incubateurs et programmes d'accélération, qui financent et accompagnent."]
+    - ["Tes premiers clients", "Et souvent oublié : tes premiers clients. Une prestation payée finance la suite."]
+  - t: "Le conseil"
+    beats:
+    - ["Commence petit", "Commence par ce qui ne coûte presque rien : une formation, une étude, un conseil. Les revenus financeront le reste."]
+  resume: "Le manque d'argent n'est pas toujours l'obstacle. Souvent, c'est le manque d'information sur les opportunités."
+
+- n: 12
+  slug: l-erreur-a-eviter-en-valorisation
+  miniature: "L'erreur n°1 en valorisation"
+  q: "Quelle est la plus grosse erreur en valorisation de la recherche ?"
+  yt: ["Valorisation de la recherche : l'ERREUR à éviter (Xerfi)", "Le challenge de la valorisation des découvertes scientifiques (ULB TV)", "Comment passer de l'idée de valorisation à valorisation effective ?"]
+  accroche: "Beaucoup de chercheurs échouent à valoriser leur recherche à cause d'une seule erreur. La voici."
+  slides:
+  - t: "L'erreur"
+    beats:
+    - ["Partir de sa recherche", "L'erreur, c'est de partir de sa recherche : « j'ai trouvé ceci, qui en veut ? »"]
+    - ["… au lieu du besoin", "Au lieu de partir du besoin : « qui a un problème que je sais résoudre ? »"]
+  - t: "Comment l'éviter"
+    beats:
+    - ["Parle aux utilisateurs", "Parle aux personnes concernées avant de proposer quoi que ce soit."]
+    - ["Écoute leurs mots", "Note les mots qu'elles utilisent, et reprends-les dans ton offre."]
+    - ["Adapte ton offre", "Adapte ta proposition à leur réalité : leur budget, leur calendrier, leurs contraintes."]
+  resume: "La valorisation commence par l'écoute. Ce n'est pas au client de comprendre ta recherche, c'est à toi de comprendre son problème."
+
+- n: 13
+  slug: quand-commencer-a-valoriser-sa-recherche
+  miniature: "Quand commencer à valoriser ?"
+  q: "Quand faut-il commencer à valoriser sa recherche ?"
+  yt: ["Valorisation et carrière du chercheur : quels choix ?", "Comment anticiper son projet professionnel pendant la thèse ?", "Que faire après une thèse ?"]
+  accroche: "Beaucoup de chercheurs se disent : je valoriserai après la soutenance. C'est souvent trop tard. Alors, quand commencer ?"
+  slides:
+  - t: "Le bon moment : dès le début"
+    beats:
+    - ["En choisissant ton sujet", "Dès le choix du sujet, demande-toi : qui pourrait utiliser ces résultats ?"]
+    - ["Pendant le terrain", "Pendant le terrain, garde le contact avec les acteurs que tu rencontres. Ce sont tes futurs partenaires."]
+    - ["Pendant la rédaction", "Pendant la rédaction, note les résultats qui parlent au grand public."]
+  - t: "Pourquoi ne pas attendre"
+    beats:
+    - ["Les contacts refroidissent", "Après la soutenance, les contacts se sont refroidis et les données vieillissent."]
+    - ["Tu gagnes des mois", "En t'y prenant tôt, tu sors de la soutenance avec un réseau, un message et une première offre."]
+  resume: "Valoriser n'est pas une étape qui vient après la recherche. C'est un réflexe à cultiver pendant toute la recherche."
+
+- n: 14
+  slug: c-est-quoi-le-transfert-de-technologie
+  miniature: "Le transfert de technologie, c'est quoi ?"
+  q: "C'est quoi, le transfert de technologie ?"
+  yt: ["Le transfert de technologies (Toulouse Tech Transfer)", "Le transfert de technologie, un passeport pour l'avenir (TEDx)", "UNLOCK Tech Transfer (Université Paris Cité)"]
+  accroche: "Transfert de technologie : l'expression fait peur. Pourtant l'idée est simple. Explication en une minute."
+  slides:
+  - t: "L'idée simple"
+    beats:
+    - ["Du labo vers ceux qui produisent", "Le transfert de technologie, c'est faire passer un résultat du laboratoire vers une entreprise ou une organisation qui va le produire ou l'utiliser."]
+    - ["Un savoir-faire, pas seulement un objet", "On transfère un procédé, une méthode, un logiciel, une variété, un savoir-faire."]
+  - t: "Les 3 façons de transférer"
+    beats:
+    - ["1. Une licence", "Un : une licence. Tu autorises une entreprise à exploiter ton invention, contre une rémunération."]
+    - ["2. Une collaboration", "Deux : une collaboration. Tu développes la solution avec un partenaire."]
+    - ["3. Une startup", "Trois : une startup. Tu crées toi-même l'entreprise qui exploite le résultat."]
+  resume: "Le transfert de technologie, c'est le pont entre ce que le labo sait faire et ce dont le terrain a besoin."
+
+- n: 15
+  slug: quels-contrats-pour-valoriser-sa-recherche
+  miniature: "Quels contrats pour valoriser ?"
+  q: "Quels contrats pour valoriser sa recherche ?"
+  yt: ["La valorisation de la recherche : les différents contrats possibles (Savoie Technolac)", "Capsule : la valorisation des résultats en situation de recherche partenariale"]
+  accroche: "Une entreprise ou une ONG s'intéresse à ta recherche. Bonne nouvelle. Mais quel contrat signer ? Voici les quatre principaux."
+  slides:
+  - t: "Les 4 contrats à connaître"
+    beats:
+    - ["La prestation de service", "La prestation : on te paie pour un travail précis, une étude, une analyse, un diagnostic."]
+    - ["Le contrat de recherche", "Le contrat de recherche : un partenaire finance une recherche que tu mènes pour lui."]
+    - ["La collaboration de recherche", "La collaboration : vous cherchez ensemble, et vous partagez les résultats selon des règles fixées à l'avance."]
+    - ["La licence", "La licence : tu autorises un partenaire à exploiter un résultat protégé, contre une redevance."]
+  - t: "Ce qu'il faut vérifier"
+    beats:
+    - ["À qui sont les résultats ?", "Avant de signer, vérifie toujours à qui appartiendront les résultats, et si tu pourras les publier."]
+  resume: "Un bon contrat protège ta recherche et ta relation avec le partenaire. Fais-toi accompagner par le service juridique ou de valorisation de ton institution."
+
+- n: 16
+  slug: presenter-sa-recherche-en-30-secondes
+  miniature: "Ta recherche en 30 secondes"
+  q: "Comment présenter sa recherche en 30 secondes ?"
+  yt: ["Comment présenter son mémoire en 5 minutes ?", "Ma thèse en 180 secondes", "Pour vous, qu'est-ce que la vulgarisation scientifique ?"]
+  accroche: "Dans un ascenseur, un ministre te demande : tu travailles sur quoi ? Tu as trente secondes. Voici la formule."
+  slides:
+  - t: "La formule en 4 phrases"
+    beats:
+    - ["1. Le problème", "Un : le problème. Par exemple, dans nos villages, beaucoup de femmes enceintes sont anémiées."]
+    - ["2. Ta question", "Deux : ta question. Je cherche à savoir pourquoi les traitements sont mal suivis."]
+    - ["3. Ce que tu as trouvé", "Trois : ce que tu as trouvé, en une phrase et un chiffre."]
+    - ["4. Ce que tu proposes", "Quatre : ce que tu proposes. Et si on formait les agents de santé à expliquer le traitement ?"]
+  - t: "Les règles"
+    beats:
+    - ["Zéro jargon", "Aucun mot technique."]
+    - ["Entraîne-toi à voix haute", "Et entraîne-toi à voix haute, jusqu'à ce que ça sorte naturellement."]
+  resume: "Si tu ne peux pas expliquer ta recherche en trente secondes, personne ne pourra la recommander à ta place."
+
+- n: 17
+  slug: trouver-un-partenaire-pour-sa-recherche
+  miniature: "Trouver un partenaire pour ta recherche"
+  q: "Comment trouver un partenaire pour sa recherche ?"
+  yt: ["Qu'est-ce qu'un chargé du partenariat et de valorisation ?", "Patrizia Borghetti, responsable partenariat et valorisation de la recherche (CNRS)", "Journée d'échanges et de partenariat sur la valorisation économique des résultats de la recherche"]
+  accroche: "Une ONG, une entreprise, une mairie pourraient utiliser ta recherche. Encore faut-il les trouver. Voici la méthode."
+  slides:
+  - t: "Les 4 étapes"
+    beats:
+    - ["1. Fais la carte des acteurs", "Un : liste tous ceux qui travaillent sur ton sujet. Ministères, ONG, entreprises, projets, associations."]
+    - ["2. Choisis-en trois", "Deux : choisis les trois qui ont le plus besoin de tes résultats."]
+    - ["3. Envoie un message court", "Trois : écris-leur un message court. Ce que tu as trouvé, et en quoi ça peut les aider."]
+    - ["4. Propose un petit premier pas", "Quatre : propose un petit premier pas. Une présentation de trente minutes, une note, un atelier."]
+  - t: "Où les rencontrer"
+    beats:
+    - ["Salons, ateliers, LinkedIn", "Va aussi là où ils sont : salons, ateliers de restitution, journées scientifiques, LinkedIn."]
+  resume: "Un partenaire ne vient pas chercher ta thèse dans la bibliothèque. C'est à toi de faire le premier pas."
+
+- n: 18
+  slug: combien-facturer-une-prestation-d-expertise
+  miniature: "Combien facturer ton expertise ?"
+  q: "Combien facturer une prestation d'expertise ?"
+  yt: ["Qu'est-ce qu'un consultant ?", "Le consulting en 10 min", "Conférence : Consultant, formateur. Suffit-il de croire en son expertise ?"]
+  accroche: "Une organisation te demande ton tarif pour une étude, et tu ne sais pas quoi répondre. Voici comment fixer ton prix."
+  slides:
+  - t: "Calcule ton prix en 3 temps"
+    beats:
+    - ["1. Compte tes jours", "Un : compte le nombre de jours de travail réel, terrain, analyse et rédaction compris."]
+    - ["2. Fixe ton tarif journalier", "Deux : fixe un tarif par jour, en regardant ce que demandent les consultants de ton niveau dans ton pays."]
+    - ["3. Ajoute les frais", "Trois : ajoute les frais. Transport, enquêteurs, matériel, communication."]
+  - t: "Les erreurs à éviter"
+    beats:
+    - ["Travailler gratuitement", "Ne travaille pas gratuitement en espérant être payé la prochaine fois."]
+    - ["Oublier le devis écrit", "Et envoie toujours un devis écrit, avec ce qui est inclus et le calendrier de paiement."]
+  resume: "Ton savoir a de la valeur. Un prix clair et justifié rassure le client, et te fait respecter."
+
+- n: 19
+  slug: devenir-consultant-avec-son-master-ou-doctorat
+  miniature: "Devenir consultant avec ton diplôme"
+  q: "Comment devenir consultant avec son master ou son doctorat ?"
+  yt: ["Qu'est-ce qu'un consultant ?", "3 minutes pour comprendre le métier de consultant", "Vincent Pinte, consultant chercheur", "Après la thèse : postdoc, indépendance, reconversion"]
+  accroche: "Ton master ou ton doctorat t'a appris à enquêter, analyser et rédiger. Ce sont exactement les compétences d'un consultant."
+  slides:
+  - t: "Ce que tu sais déjà faire"
+    beats:
+    - ["Enquêter sur le terrain", "Concevoir une enquête et collecter des données sur le terrain."]
+    - ["Analyser des données", "Analyser des données avec des outils comme SPSS, R, Excel ou un SIG."]
+    - ["Rédiger un rapport", "Rédiger un rapport clair et argumenté."]
+  - t: "Comment te lancer"
+    beats:
+    - ["Choisis une niche", "Choisis une niche, liée à ton sujet de recherche."]
+    - ["Prépare ta fiche d'expertise", "Prépare une fiche d'expertise d'une page."]
+    - ["Réponds aux appels d'offres", "Surveille les appels d'offres et les avis de recrutement de consultants des ONG et des agences."]
+  resume: "Tu n'as pas besoin d'attendre un poste. Ton expertise peut déjà être une activité."
+
+- n: 20
+  slug: transformer-sa-these-en-formation
+  miniature: "Ta thèse peut devenir une formation"
+  q: "Comment transformer sa thèse ou son mémoire en formation ?"
+  yt: ["Transformer ta thèse en formation", "Valoriser la recherche, est-ce que ça s'apprend ?", "La valorisation de la recherche AIDE (Réseau LiEU)"]
+  accroche: "Ce que tu as appris pendant ta recherche, d'autres ont besoin de l'apprendre. Et ils sont prêts à payer pour ça."
+  slides:
+  - t: "Les 4 étapes"
+    beats:
+    - ["1. Trouve qui doit apprendre", "Un : identifie qui a besoin de ce savoir. Agents de santé, enseignants, agriculteurs, étudiants."]
+    - ["2. Fixe un objectif concret", "Deux : fixe un objectif concret. À la fin, ils sauront faire quoi ?"]
+    - ["3. Découpe en modules courts", "Trois : découpe en modules courts, avec des exemples tirés de ton terrain."]
+    - ["4. Teste avec un petit groupe", "Quatre : teste avec un petit groupe, puis améliore."]
+  - t: "Les formats possibles"
+    beats:
+    - ["Atelier, en ligne, sur mesure", "Atelier en présentiel, formation en ligne, ou formation sur mesure pour une organisation."]
+  resume: "Une formation, c'est ta recherche rendue utile, une personne à la fois."
+
+- n: 21
+  slug: ecrire-une-note-pour-les-decideurs
+  miniature: "Une note pour les décideurs"
+  q: "Comment écrire une note pour les décideurs à partir de sa recherche ?"
+  yt: ["Valorisation de la recherche : partager, échanger pour renforcer l'impact", "L'impact sociétal de la recherche : une approche novatrice (TEDx)", "Entretien avec le DG de l'Agence nationale de valorisation de la recherche"]
+  accroche: "Un ministre ne lira pas tes trois cents pages. Mais il peut lire deux pages. C'est le rôle de la note aux décideurs."
+  slides:
+  - t: "La structure d'une note"
+    beats:
+    - ["1. Le message clé", "Un : le message clé, en haut de la page, en une phrase."]
+    - ["2. Le problème et son coût", "Deux : le problème, et ce qu'il coûte à la société."]
+    - ["3. Ce que montre ta recherche", "Trois : ce que montre ta recherche, avec deux ou trois chiffres."]
+    - ["4. Des recommandations", "Quatre : trois recommandations réalistes, chacune avec qui doit agir."]
+  - t: "Les règles"
+    beats:
+    - ["Deux pages maximum", "Deux pages maximum, des titres clairs, un graphique simple."]
+  resume: "Une bonne note aux décideurs transforme un résultat de recherche en décision possible."
+
+- n: 22
+  slug: mesurer-l-impact-de-sa-recherche
+  miniature: "Mesurer l'impact de ta recherche"
+  q: "Comment mesurer l'impact de sa recherche ?"
+  yt: ["Valoriser et mesurer l'impact de la recherche", "L'impact de la recherche en management : où en est-on ?", "Quel est l'impact de la recherche et développement ?"]
+  accroche: "On te demande : quel est l'impact de ta recherche ? Si tu réponds seulement par le nombre de citations, tu passes à côté. Voici quoi mesurer."
+  slides:
+  - t: "4 familles d'indicateurs"
+    beats:
+    - ["La visibilité", "La visibilité : téléchargements, vues, articles de presse, invitations."]
+    - ["L'utilisation", "L'utilisation : qui a repris tes résultats, dans quel rapport, quel projet, quelle formation."]
+    - ["Les décisions", "Les décisions : une politique, un règlement ou une pratique qui a changé."]
+    - ["Les revenus", "Les revenus : prestations, formations, financements obtenus."]
+  - t: "Le réflexe"
+    beats:
+    - ["Garde des preuves", "Garde une trace de tout : courriels, captures, attestations. Ce sont tes preuves d'impact."]
+  resume: "L'impact se prouve. Commence dès aujourd'hui un petit tableau de suivi de ta recherche."
+
+- n: 23
+  slug: valoriser-ses-donnees-de-recherche
+  miniature: "Tes données valent de l'or"
+  q: "Comment valoriser ses données de recherche ?"
+  yt: ["Valoriser les données de la recherche (CNRS Inist)", "Données de la recherche, propriété intellectuelle et open data", "Valoriser sa recherche avec ORCID"]
+  accroche: "Tes questionnaires, tes mesures, tes cartes : ces données ont souvent plus de valeur que tu ne le penses."
+  slides:
+  - t: "3 façons de valoriser tes données"
+    beats:
+    - ["Les publier dans un entrepôt", "Un : les déposer dans un entrepôt de données. Elles deviennent citables, et on te cite."]
+    - ["En faire une carte ou un tableau de bord", "Deux : en tirer une carte, un tableau de bord ou un indicateur utile aux acteurs de terrain."]
+    - ["Les réutiliser pour des études", "Trois : t'en servir comme base pour de nouvelles études ou prestations."]
+  - t: "Avant de partager"
+    beats:
+    - ["Anonymise", "Anonymise les données personnelles."]
+    - ["Vérifie tes droits", "Et vérifie que ton contrat ou ton financeur t'autorise à les partager."]
+  resume: "Des données bien rangées, documentées et partagées travaillent pour toi bien après ta soutenance."
+
+- n: 24
+  slug: c-est-quoi-une-licence
+  miniature: "Une licence, c'est quoi ?"
+  q: "C'est quoi, une licence d'exploitation ?"
+  yt: ["La valorisation de la recherche : les différents contrats possibles", "Commercialisation de la recherche et transfert de technologie (Cambridge)", "Le brevet d'invention"]
+  accroche: "Tu as un résultat protégé, mais tu ne veux pas créer d'entreprise. La solution s'appelle peut-être une licence."
+  slides:
+  - t: "Le principe"
+    beats:
+    - ["Tu restes propriétaire", "Avec une licence, ton institution ou toi restez propriétaires du résultat."]
+    - ["Un partenaire l'exploite", "Un partenaire obtient le droit de l'exploiter : fabriquer, vendre, utiliser."]
+    - ["Contre une rémunération", "En échange, il paie : une somme au départ, un pourcentage sur les ventes, ou les deux."]
+  - t: "Les points à négocier"
+    beats:
+    - ["Exclusive ou non ?", "La licence est-elle exclusive ou non ?"]
+    - ["Quel territoire, quelle durée ?", "Sur quel territoire, et pour combien de temps ?"]
+  resume: "La licence permet à ta recherche d'aller sur le marché sans que tu deviennes chef d'entreprise."
+
+- n: 25
+  slug: gagner-un-prix-ou-un-concours
+  miniature: "Gagner un prix avec ta recherche"
+  q: "Comment gagner un prix ou un concours avec sa recherche ?"
+  yt: ["Trophées de la valorisation de la recherche (Toulouse Tech Transfer)", "Le Salon de la valorisation des résultats de recherche et de l'innovation en Afrique de l'Ouest", "Prix et concours"]
+  accroche: "Prix de l'innovation, concours de jeunes chercheurs, trophées de la valorisation : ils apportent argent et visibilité. Voici comment mettre toutes les chances de ton côté."
+  slides:
+  - t: "Les 5 clés d'un bon dossier"
+    beats:
+    - ["Un problème clair", "Un problème clair et important pour la société."]
+    - ["Une solution démontrée", "Une solution démontrée par tes résultats, pas seulement une idée."]
+    - ["Des chiffres", "Des chiffres qui prouvent l'impact possible."]
+    - ["Une suite concrète", "Une suite concrète : ce que tu feras avec le prix."]
+    - ["Un dossier soigné", "Un dossier soigné, relu, rendu avant la date limite."]
+  - t: "L'astuce"
+    beats:
+    - ["Lis la grille d'évaluation", "Lis la grille d'évaluation et réponds point par point. Le jury note ce qu'il demande."]
+  resume: "Un prix, ce n'est pas seulement de l'argent. C'est une porte d'entrée vers des partenaires et des financements."
+
+- n: 26
+  slug: qui-peut-m-aider-a-valoriser-ma-recherche
+  miniature: "Qui peut t'aider à valoriser ?"
+  q: "Qui peut m'aider à valoriser ma recherche ?"
+  yt: ["Qu'est-ce qu'un chargé du partenariat et de valorisation ?", "Portrait d'une chargée de valorisation du Cirad", "Centre d'innovation et de transfert de technologie (Université Hassan II)", "Comment les offices de transfert de technologie vont plus loin"]
+  accroche: "Tu n'es pas obligé de valoriser ta recherche seul. Voici les personnes et les structures qui peuvent t'aider."
+  slides:
+  - t: "Tes alliés"
+    beats:
+    - ["Le service de valorisation", "Le service de valorisation ou de la recherche de ton université : contrats, propriété intellectuelle, partenaires."]
+    - ["L'agence nationale", "L'agence nationale de la recherche ou de la valorisation de ton pays, quand elle existe."]
+    - ["Les incubateurs", "Les incubateurs et les fablabs, pour passer de l'idée au prototype et à l'entreprise."]
+    - ["Les réseaux de chercheurs", "Les réseaux et communautés de chercheurs, comme HSA, pour apprendre et trouver des opportunités."]
+  resume: "Avant de dire « je ne sais pas comment faire », va frapper à ces portes. Elles existent pour toi."
+
+- n: 27
+  slug: ecrire-un-article-de-vulgarisation
+  miniature: "Écrire un article grand public"
+  q: "Comment écrire un article de vulgarisation scientifique ?"
+  yt: ["Bases de la vulgarisation scientifique : comment écrit-on un article de vulgarisation ?", "La bonne vulgarisation scientifique", "Le storytelling et la vulgarisation scientifique"]
+  accroche: "Un article de vulgarisation peut faire connaître ta recherche à des milliers de lecteurs. Voici comment l'écrire."
+  slides:
+  - t: "La structure qui marche"
+    beats:
+    - ["1. Un titre qui intrigue", "Un : un titre qui pose une question ou annonce une surprise."]
+    - ["2. Une histoire pour commencer", "Deux : commence par une scène ou une personne réelle de ton terrain."]
+    - ["3. Le résultat, simplement", "Trois : explique ton résultat simplement, avec un chiffre fort."]
+    - ["4. Ce que ça change", "Quatre : termine par ce que ça change pour le lecteur."]
+  - t: "Où le publier"
+    beats:
+    - ["Blog, magazine, journal", "Sur un blog, dans un magazine, un journal ou sur des plateformes comme le blog HSA."]
+  resume: "Écrire pour le grand public, c'est écrire pour être compris, pas pour être évalué."
+
+- n: 28
+  slug: valoriser-sa-recherche-en-video-ou-podcast
+  miniature: "Ta recherche en vidéo ou en podcast"
+  q: "Comment valoriser sa recherche en vidéo ou en podcast ?"
+  yt: ["Comment faire sa première vidéo de vulgarisation scientifique ?", "TUTO Valoriser sa recherche par le podcast", "Valoriser sa recherche par le jeu vidéo"]
+  accroche: "Une vidéo d'une minute peut toucher plus de monde qu'un article lu par dix spécialistes. Voici comment te lancer."
+  slides:
+  - t: "Pour te lancer"
+    beats:
+    - ["Un téléphone suffit", "Un téléphone, une fenêtre pour la lumière, un endroit calme : c'est suffisant pour commencer."]
+    - ["Un message par vidéo", "Un seul message par vidéo, en moins de deux minutes."]
+    - ["Montre ton terrain", "Montre ton terrain, tes outils, les gens. C'est ce qui rend ta recherche vivante."]
+  - t: "Les formats"
+    beats:
+    - ["Vidéo courte", "Une vidéo courte pour les réseaux sociaux."]
+    - ["Podcast", "Un podcast, si tu es plus à l'aise à l'oral."]
+    - ["Interview", "Ou une interview avec un média local."]
+  resume: "Ta recherche a une voix et un visage : le tien. Ose les montrer."
+
+- n: 29
+  slug: valoriser-les-savoirs-locaux
+  miniature: "Valoriser les savoirs locaux"
+  q: "Comment valoriser une recherche sur les savoirs locaux ?"
+  yt: ["Médecine traditionnelle : le Sénégal mise sur la recherche et la valorisation", "L'innovation made in Africa : la valorisation de notre patrimoine culturel (TEDx)", "Asthme à Biankouma : 15 plantes de tradipraticiens passées au crible"]
+  accroche: "Plantes médicinales, techniques agricoles, savoir-faire artisanaux : la recherche africaine travaille souvent sur des savoirs locaux. Les valoriser demande des précautions."
+  slides:
+  - t: "Les 3 règles d'or"
+    beats:
+    - ["1. Le consentement", "Un : obtiens le consentement libre et éclairé des communautés et des détenteurs du savoir."]
+    - ["2. Le partage des avantages", "Deux : prévois le partage des avantages, comme le prévoient les règles internationales, notamment le protocole de Nagoya."]
+    - ["3. La reconnaissance", "Trois : cite et reconnais les détenteurs du savoir dans tout ce que tu publies ou produis."]
+  - t: "Les formes possibles"
+    beats:
+    - ["Produits, guides, formations", "Produits améliorés, guides pratiques, formations, labels de qualité : les possibilités sont nombreuses."]
+  resume: "Valoriser les savoirs locaux, c'est créer de la valeur avec les communautés, jamais à leurs dépens."
+
+- n: 30
+  slug: valoriser-sa-recherche-ca-s-apprend
+  miniature: "Valoriser, ça s'apprend ?"
+  q: "Valoriser sa recherche, est-ce que ça s'apprend ?"
+  yt: ["Valoriser la recherche, est-ce que ça s'apprend ? (Link Grenoble Alpes)", "Formation aux métiers de valorisation des résultats de recherche", "Parcours de formation : valorisation de projets de recherche innovants"]
+  accroche: "Tu te dis peut-être : la valorisation, ce n'est pas pour moi, je ne suis pas commercial. Bonne nouvelle : ça s'apprend."
+  slides:
+  - t: "Les compétences à développer"
+    beats:
+    - ["Communiquer simplement", "Communiquer simplement sur ta recherche."]
+    - ["Comprendre les besoins", "Comprendre les besoins des utilisateurs."]
+    - ["Négocier et chiffrer", "Négocier, chiffrer, rédiger une offre."]
+    - ["Connaître tes droits", "Connaître les bases de la propriété intellectuelle."]
+  - t: "Comment apprendre"
+    beats:
+    - ["Formations, mentors, pratique", "Formations courtes, mentors, communautés de chercheurs, et surtout la pratique, un petit projet à la fois."]
+  resume: "Personne ne naît en sachant valoriser. Chaque chercheur qui y arrive a commencé un jour. Pourquoi pas toi, aujourd'hui ?"

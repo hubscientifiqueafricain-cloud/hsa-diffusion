@@ -1,0 +1,36 @@
+quand: '2026-11-15T17:30:00'
+statut: prevu
+source: Micro-formations YouTube
+titre: C'est quoi, le transfert de technologie ? | Micro-formation HSA n°14
+type: video
+details: YouTube · vidéo 16:9 · épisode 14/30 · miniature et sous-titres (.srt) fournis
+reseaux:
+- youtube
+apercu: media/micro-formations/MF14-c-est-quoi-le-transfert-de-technologie-miniature.jpg
+media:
+- media/micro-formations/MF14-c-est-quoi-le-transfert-de-technologie.mp4
+- media/micro-formations/MF14-c-est-quoi-le-transfert-de-technologie-miniature.jpg
+- media/micro-formations/MF14-c-est-quoi-le-transfert-de-technologie.srt
+youtube:
+  titre: C'est quoi, le transfert de technologie ? | Micro-formation HSA n°14
+  type: video
+  categorie: EDUCATION
+  pour_enfants: false
+  tags:
+  - valorisation de la recherche
+  - valoriser sa recherche
+  - thèse
+  - mémoire
+  - doctorat
+  - chercheur africain
+  - recherche scientifique
+  - HSA
+  - Hub Scientifique Africain
+  - micro-formation
+  miniature: media/micro-formations/MF14-c-est-quoi-le-transfert-de-technologie-miniature.jpg
+  sous_titres: media/micro-formations/MF14-c-est-quoi-le-transfert-de-technologie.srt
+texte: "Transfert de technologie : l'expression fait peur. Pourtant l'idée est simple. Explication en une minute.\n\nDans cette micro-formation :\n▶ L'idée simple\n   • Du labo vers ceux qui produisent\n   • Un savoir-faire, pas seulement un objet\n▶ Les 3 façons de transférer\n   • 1. Une licence\n   • 2. Une collaboration\n   • 3. Une startup\n\nÀ retenir : Le transfert de technologie, c'est le pont entre ce que le labo sait faire et ce dont le terrain a besoin.\n\n\U0001F4AC Tu as une question sur la valorisation de ta recherche ? Pose-la en commentaire : on y répondra dans une prochaine vidéo.\n\U0001F514 Abonne-toi pour ne rien manquer de la série « Valoriser ta recherche · 1 question, 2 minutes ».\n\n\U0001F310 HSA, le Hub Scientifique Africain : https://www.hubscientifiqueafricain.com\n\n#ValorisationDeLaRecherche #Doctorat #RechercheAfricaine"
+question_youtube:
+- Le transfert de technologies (Toulouse Tech Transfer)
+- Le transfert de technologie, un passeport pour l'avenir (TEDx)
+- UNLOCK Tech Transfer (Université Paris Cité)

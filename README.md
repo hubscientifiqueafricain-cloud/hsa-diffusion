@@ -42,6 +42,21 @@ python publieur/preparer.py                           # formats + tableau de bor
 python outils/formats.py <image|URL> sortie/          # décliner un visuel à la main
 ```
 
+## Micro-formations YouTube
+
+Série « Valoriser ta recherche · 1 question, 2 minutes » : une question que les gens se posent sur
+YouTube = une vidéo courte (16:9, voix off, sous-titres, miniature). Les scripts sont dans
+`micro-formations/episodes.yaml`, les vidéos dans `media/micro-formations/`.
+
+```bash
+pip install edge-tts
+python micro-formations/render.py            # refait les vidéos (ou : render.py 3 7 pour certains épisodes)
+python micro-formations/calendrier.py 2026-11-03   # les place au calendrier, une par jour à 17h30
+```
+
+YouTube n'est pas encore relié à Metricool : tant que ce n'est pas fait, ces vidéos passent par le
+poste de publication (titre, description, tags, miniature et sous-titres prêts à copier).
+
 ## Limites connues (imposées par les réseaux, pas par l'outil)
 
 - Facebook/Instagram : rien ne passe par l'API tant que le contrôle de sécurité du compte Meta n'est pas levé.
