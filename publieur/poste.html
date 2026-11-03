@@ -104,6 +104,7 @@ function carte(p){
     <div class="meta">${heure?`<b>${heure}</b> · `:""}<span class="puce">${esc(p.source)}</span>${esc(p.type)}</div>
     <div class="titre">${esc(p.titre)}</div>
     ${p.details?`<div class="meta">${esc(p.details)}</div>`:""}</div></div>
+    ${p.media.filter(m=>/\.pdf/i.test(m)).map(m=>`<div class="reseau"><a class="btn principal" style="text-decoration:none" href="${esc(url(m))}" download target="_blank">📄 Télécharger le PDF de l'article</a></div>`).join("")}
     ${p.media.length?`<details><summary>Visuels (${p.media.length}) · <a href="#" data-act="tout" data-id="${p.id}">tout télécharger</a></summary><div class="medias">${medias}</div></details>`:""}
     ${p.premier_commentaire?`<div class="reseau"><div class="reseau-tete"><b>1er commentaire</b><button class="btn" data-act="comm" data-id="${p.id}">Copier</button></div><div class="meta">${esc(p.premier_commentaire)}</div></div>`:""}
     ${lignes}</article>`;
@@ -118,7 +119,7 @@ function filtrer(){
 function rendu(){
   const liste=filtrer();let html="";
   if(vue==="bibliotheque"){
-    html=`<p class="meta">${liste.length} créas prêtes à publier quand vous voulez.</p>`+liste.slice(0,limite).map(carte).join("");
+    html=`<div class="carte" style="padding:12px"><b>📄 Les 132 articles de vulgarisation en PDF</b><br><a class="btn principal" style="display:inline-block;margin-top:8px;text-decoration:none" href="media/articles-pdf/HSA-132-articles-PDF.zip" download>Tout télécharger (zip, 60 Mo)</a> <button class="btn" data-act="voirpdf">Voir les PDF un par un</button></div><p class="meta">${liste.length} créas prêtes à publier quand vous voulez.</p>`+liste.slice(0,limite).map(carte).join("");
   }else{
     const futurs=vue==="calendrier"?liste.filter(p=>p.quand.slice(0,10)>=auj()):liste;
     const parJour={};futurs.forEach(p=>(parJour[p.quand.slice(0,10)]??=[]).push(p));
@@ -143,6 +144,7 @@ document.addEventListener("click",e=>{
   if(b.dataset.act==="comm")copier(p.premier_commentaire);
   if(b.dataset.act==="tout"){e.preventDefault();toutTelecharger(p)}
   if(b.dataset.act==="plus"){limite+=40;rendu()}
+  if(b.dataset.act==="voirpdf"){$("#f-source").value="PDF des articles de vulgarisation";limite=40;rendu()}
 });
 document.addEventListener("change",e=>{
   const c=e.target;if(c.dataset.act==="fait"){ecrire("fait:"+c.dataset.id+":"+c.dataset.r,c.checked?"1":"");rendu();return}
