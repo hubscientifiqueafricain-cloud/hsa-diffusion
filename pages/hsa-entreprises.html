@@ -240,6 +240,26 @@
   @media (max-width: 1100px) { .jours.quatre { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 620px) { .jours.quatre { grid-template-columns: 1fr; } }
   .formule.pack { margin-top: 18px; }
+  section.bloc { margin-bottom: 130px; }
+  .hero { padding: 90px 0 70px; }
+  .lead { max-width: 520px; }
+  .chiffres { margin: 20px 0 120px; }
+  .chiffres.trois { grid-template-columns: repeat(3, 1fr); }
+  @media (max-width: 720px) { .chiffres.trois { grid-template-columns: 1fr; } }
+  .titre { margin-bottom: 44px; }
+  .jour { padding: 32px 28px; gap: 16px; }
+  .jour h3 { font-size: 22px; }
+  .court { opacity: .78; margin: 0; font-size: 15px; }
+  .livs.simple { gap: 10px; }
+  .livs.simple li { background: none; border: 0; padding: 0 0 0 18px; position: relative; font-size: 15px; opacity: .92; }
+  .livs.simple li::before { content: ""; position: absolute; left: 0; top: .6em; width: 7px; height: 7px; border-radius: 50%; background: #FFC400; }
+  .pack-ligne { display: grid; grid-template-columns: 1.4fr 1fr auto; gap: 24px; align-items: center; }
+  .pack-ligne .btn { margin-top: 0; width: auto; }
+  @media (max-width: 900px) { .pack-ligne { grid-template-columns: 1fr; } .pack-ligne .btn { width: 100%; } }
+  .faq details { margin-bottom: 4px; }
+  .jours.quatre .prixf { white-space: nowrap; }
+  .jours.quatre .prixf b { font-size: 28px; }
+  .prixf small { white-space: normal; }
   .vedette { outline: 2px solid rgba(255, 204, 0, .7); }
 </style>
 </head>
@@ -258,113 +278,87 @@
 
   <header class="hero">
     <div class="apparait">
-      <div class="pastilles">
-        <span class="pastille"><span class="pt"></span>Offre entreprises et startups</span>
-        <span class="pastille">Attirer les talents</span>
-        <span class="pastille">Toucher les chercheurs</span>
-        <span class="pastille">Collaborer avec la recherche</span>
-        <span class="pastille">Créer de l'impact</span>
-      </div>
+      <div class="pastilles"><span class="pastille"><span class="pt"></span>Offre entreprises et startups</span></div>
       <h1>Rapprochez votre entreprise <span class="or">de la science africaine.</span></h1>
-      <p class="lead">HSA, le premier réseau social scientifique africain, réunit masterants, doctorants et jeunes chercheurs qui produisent, vulgarisent et valorisent la recherche. Avec HSA Entreprises, faites-en vos talents, vos clients et vos partenaires de recherche, et construisez avec eux des projets à impact.</p>
+      <p class="lead">100 000 masterants, doctorants et jeunes chercheurs réunis sur HSA, le premier réseau social scientifique africain.</p>
       <div class="actions">
-        <a class="btn btn-or" href="#formules">Voir les formules
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        <a class="btn btn-or" href="#formules">Voir les formules</a>
         <a class="btn btn-verre v-wa" target="_blank" rel="noopener" href="#">Parler à un conseiller</a>
-      </div>
-      <div class="preuves">
-        <span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="9" cy="8" r="4"/><path d="M2 21c0-4 3-6 7-6s7 2 7 6"/></svg>100 000 jeunes en Master et en doctorat</span>
-        <span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3l7 4v5c0 4.5-3 8-7 9-4-1-7-4.5-7-9V7z"/><path d="M9 12l2 2 4-4"/></svg>Page en ligne en 48 h ou remboursé</span>
       </div>
     </div>
 
     <aside class="verre produit apparait d2" aria-label="Résumé de l'offre">
       <div class="eti">HSA Entreprises</div>
-      <h3>Votre marque au cœur de la science africaine</h3>
-      <p class="sous">Trois offres annuelles et une offre Impact sur devis</p>
-      <div class="prix"><b>dès 10 000 <small>FCFA / mois</small></b></div>
-      <span class="eco">soit 120 000 FCFA par an · facture et reçu au nom de votre entreprise</span>
+      <h3>Quatre leviers pour vous</h3>
       <ul class="infos">
-        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>Page entreprise et offres illimitées : stage, emploi, alternance, recherche</li>
-        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>Articles sponsorisés, HSA Magazine, logo sur nos événements</li>
-        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>Masterants et doctorants sur vos thématiques</li>
-        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>Formations certifiantes et communautés co-créées pour l'impact</li>
+        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>Attirer les talents</li>
+        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>Toucher les chercheurs</li>
+        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>Collaborer avec la recherche</li>
+        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>Créer de l'impact</li>
       </ul>
-      <a class="btn btn-or" href="#inscription">Démarrer maintenant</a>
-      <div class="places">Paiement par mobile money ou virement</div>
+      <div class="prix"><b>dès 10 000 <small>FCFA / mois</small></b></div>
+      <a class="btn btn-or" href="#inscription">Démarrer</a>
     </aside>
   </header>
 
-  <div class="chiffres">
-    <div class="verre"><b>100 000</b><span>jeunes en Master et en doctorat</span></div>
-    <div class="verre"><b>4</b><span>leviers : attirer, toucher, collaborer, impacter</span></div>
+  <div class="chiffres trois">
+    <div class="verre"><b>100 000</b><span>jeunes scientifiques</span></div>
     <div class="verre"><b>48 h</b><span>pour être en ligne</span></div>
-    <div class="verre"><b>1</b><span>interlocuteur dédié sur WhatsApp</span></div>
+    <div class="verre"><b>1</b><span>conseiller dédié</span></div>
   </div>
-
-  <section class="bloc" aria-labelledby="t-defis">
-    <div class="titre">
-      <div class="surtitre">Pour qui</div>
-      <h2 id="t-defis">Vous vous reconnaissez ?</h2>
-    </div>
-    <div class="douleurs">
-      <div class="verre"><div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="9" cy="8" r="4"/><path d="M2 21c0-4 3-6 7-6s7 2 7 6M17 11a3 3 0 1 0 0-6M22 21c0-3-2-5-5-5.5"/></svg></div><p>Vous peinez à trouver des stagiaires, ingénieurs et profils scientifiques qualifiés.</p></div>
-      <div class="verre"><div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg></div><p>Les jeunes diplômés ne connaissent pas encore votre entreprise ni vos métiers.</p></div>
-      <div class="verre"><div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 11l18-8-8 18-2-8z"/></svg></div><p>Vos produits et services s'adressent aux laboratoires, chercheurs et experts, mais vous ne savez pas comment les atteindre.</p></div>
-      <div class="verre"><div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 3v18h18"/><path d="M7 15l4-4 3 3 5-6"/></svg></div><p>Vous avez des questions de recherche, mais pas de lien avec les universités et les jeunes chercheurs.</p></div>
-    </div>
-    <p class="phrase">HSA vous donne une place <b>là où se forment les talents et les décideurs scientifiques de demain</b>.</p>
-  </section>
 
   <section class="bloc" id="solutions" aria-labelledby="t-sol">
     <div class="titre">
       <div class="surtitre">Nos solutions</div>
       <h2 id="t-sol">Quatre leviers, une seule plateforme</h2>
-      <p>Comme les grands réseaux de carrière et de recherche dans le monde, HSA met votre entreprise en relation directe avec la communauté scientifique africaine.</p>
     </div>
     <div class="jours quatre">
       <article class="verre jour">
         <div class="num"><span>A</span><em>Marque employeur</em></div>
-        <h3>Attirez les talents scientifiques</h3>
-        <ul class="livs">
-          <li><b>·</b>Une page entreprise dans l'annuaire HSA : votre histoire, vos métiers, vos valeurs, les photos de vos équipes</li>
-          <li><b>·</b>Vos offres de stage, d'emploi et d'alternance publiées sans limite</li>
-          <li><b>·</b>Vos offres de collaboration scientifique et de recherche publiées sans limite</li>
-          <li><b>·</b>Les candidatures arrivent directement chez vous</li>
-          <li><b>·</b>Vos événements, journées de recrutement et portes ouvertes dans l'agenda HSA</li>
+        <h3>Attirez les talents</h3>
+        <p class="court">Faites-vous connaître des jeunes scientifiques.</p>
+        <ul class="livs simple">
+          <li>Page entreprise dans l'annuaire HSA</li>
+          <li>Votre histoire, vos métiers et vos valeurs</li>
+          <li>Photos de vos équipes</li>
+          <li>Offres de stage, d'emploi, d'alternance et de recherche sans limite</li>
+          <li>Candidatures reçues directement</li>
         </ul>
       </article>
       <article class="verre jour">
         <div class="num"><span>B</span><em>Business marketing</em></div>
         <h3>Touchez les chercheurs</h3>
-        <ul class="livs">
-          <li><b>·</b>Des articles sponsorisés sur votre expertise, rédigés avec vous, publiés sur le blog et les réseaux sociaux HSA</li>
-          <li><b>·</b>Des parutions dans HSA Magazine</li>
-          <li><b>·</b>Votre logo comme partenaire sur tous les événements HSA</li>
-          <li><b>·</b>Une campagne de promotion chaque mois auprès de la communauté</li>
+        <p class="court">Montrez votre expertise à la communauté.</p>
+        <ul class="livs simple">
+          <li>Articles sponsorisés, rédigés avec vous</li>
+          <li>Diffusion sur le blog et les réseaux HSA</li>
+          <li>Parutions dans HSA Magazine</li>
+          <li>Logo sur tous nos événements</li>
+          <li>Une campagne de promotion par mois</li>
         </ul>
       </article>
       <article class="verre jour">
-        <div class="num"><span>C</span><em>Collaboration recherche</em></div>
-        <h3>Collaborez avec les jeunes chercheurs</h3>
-        <ul class="livs">
-          <li><b>·</b>Des opportunités de coopération avec les jeunes chercheurs et leurs laboratoires</li>
-          <li><b>·</b>Accueillez des masterants et des doctorants qui travaillent sur vos thématiques</li>
-          <li><b>·</b>Recrutez des jeunes chercheurs pour mener vos projets de recherche</li>
-          <li><b>·</b>Entrez en contact avec les laboratoires et les entreprises du réseau HSA</li>
-          <li><b>·</b>HSA Apporteurs : les 100 000 masterants, doctorants et jeunes chercheurs deviennent vos relais et vous recommandent de nouveaux clients, particuliers, organisations et entreprises</li>
+        <div class="num"><span>C</span><em>Collaboration</em></div>
+        <h3>Collaborez avec la recherche</h3>
+        <p class="court">Travaillez avec les jeunes chercheurs.</p>
+        <ul class="livs simple">
+          <li>Coopérations scientifiques</li>
+          <li>Masterants et doctorants sur vos thématiques</li>
+          <li>Recrutement de jeunes chercheurs</li>
+          <li>Contacts avec les laboratoires</li>
+          <li>Une communauté qui vous recommande des clients</li>
         </ul>
       </article>
       <article class="verre jour">
         <div class="num"><span>D</span><em>Impact</em></div>
-        <h3>Créez de l'impact avec la jeunesse scientifique</h3>
-        <ul class="livs">
-          <li><b>·</b>Des programmes de formation en ligne certifiants, co-créés avec vous et HSA, pour former les jeunes chercheurs à vos métiers</li>
-          <li><b>·</b>Une communauté thématique à votre nom (énergie, santé, agriculture, data...), animée par HSA</li>
-          <li><b>·</b>Un prix ou une bourse de recherche à votre nom pour récompenser les meilleurs travaux</li>
-          <li><b>·</b>Un défi Scirathon sur un enjeu de votre secteur, résolu par les jeunes chercheurs</li>
-          <li><b>·</b>Un mentorat de jeunes chercheurs par vos experts</li>
-          <li><b>·</b>Un rapport d'impact annuel (jeunes formés, projets accompagnés) pour votre politique RSE</li>
+        <h3>Créez de l'impact</h3>
+        <p class="court">Formez et accompagnez la relève scientifique.</p>
+        <ul class="livs simple">
+          <li>Formations en ligne certifiantes, créées avec vous</li>
+          <li>Communauté thématique à votre nom</li>
+          <li>Prix, bourse de recherche ou défi Scirathon</li>
+          <li>Mentorat de jeunes chercheurs</li>
+          <li>Rapport d'impact pour votre RSE</li>
         </ul>
       </article>
     </div>
@@ -374,69 +368,86 @@
     <div class="titre">
       <div class="surtitre">Formules</div>
       <h2 id="t-form">Choisissez votre formule</h2>
-      <p>Trois offres annuelles avec facture et reçu officiels, réunies dans le Pack Croissance, et une offre Impact construite sur devis.</p>
     </div>
     <div class="jours quatre">
       <article class="verre jour formule">
         <div class="num"><span>1</span><em>Marque Employeur</em></div>
         <div class="prixf"><b>120 000</b> FCFA / an<small>soit 10 000 FCFA par mois</small></div>
-        <ul class="livs">
-          <li><b>·</b>Page entreprise : histoire, métiers, valeurs, photos</li>
-          <li><b>·</b>Offres de stage, d'emploi et d'alternance sans limite</li>
-          <li><b>·</b>Offres de collaboration scientifique et de recherche sans limite</li>
-          <li><b>·</b>Candidatures reçues directement</li>
-          <li><b>·</b>Vos événements dans l'agenda HSA</li>
+        <ul class="livs simple">
+          <li>Page entreprise dans l'annuaire HSA</li>
+          <li>Votre histoire et vos métiers</li>
+          <li>Vos valeurs et votre culture</li>
+          <li>Photos de vos équipes</li>
+          <li>Offres de stage sans limite</li>
+          <li>Offres d'emploi sans limite</li>
+          <li>Offres d'alternance sans limite</li>
+          <li>Offres de collaboration et de recherche</li>
+          <li>Candidatures reçues directement</li>
+          <li>Vos événements dans l'agenda HSA</li>
         </ul>
         <a class="btn btn-verre choisir" data-formule="Marque Employeur" href="#inscription">Choisir</a>
       </article>
       <article class="verre jour formule">
         <div class="num"><span>2</span><em>Business Marketing</em></div>
         <div class="prixf"><b>240 000</b> FCFA / an<small>soit 20 000 FCFA par mois</small></div>
-        <ul class="livs">
-          <li><b>·</b>1 article sponsorisé par trimestre, rédigé avec vous</li>
-          <li><b>·</b>Diffusion sur le blog et les réseaux sociaux HSA</li>
-          <li><b>·</b>Parutions dans HSA Magazine</li>
-          <li><b>·</b>Logo partenaire sur tous les événements HSA</li>
-          <li><b>·</b>1 campagne de promotion par mois</li>
+        <ul class="livs simple">
+          <li>1 article sponsorisé par trimestre</li>
+          <li>Article rédigé avec vous</li>
+          <li>Diffusion sur le blog HSA</li>
+          <li>Relais sur les réseaux sociaux HSA</li>
+          <li>Parution dans HSA Magazine</li>
+          <li>Logo sur tous nos événements</li>
+          <li>1 campagne de promotion par mois</li>
+          <li>Visibilité auprès des chercheurs</li>
+          <li>Visibilité auprès des laboratoires</li>
+          <li>Bilan de diffusion</li>
         </ul>
         <a class="btn btn-verre choisir" data-formule="Business Marketing" href="#inscription">Choisir</a>
       </article>
       <article class="verre jour formule">
         <div class="num"><span>3</span><em>Collaboration Recherche</em></div>
-        <div class="prixf"><b>180 000</b> FCFA / an<small>soit 15 000 FCFA par mois · commission sur les clients apportés</small></div>
-        <ul class="livs">
-          <li><b>·</b>Opportunités de coopération scientifique</li>
-          <li><b>·</b>Masterants et doctorants sur vos thématiques</li>
-          <li><b>·</b>Recrutement de jeunes chercheurs pour vos projets</li>
-          <li><b>·</b>Mise en relation avec laboratoires et entreprises</li>
-          <li><b>·</b>HSA Apporteurs : la communauté vous recommande de nouveaux clients</li>
+        <div class="prixf"><b>180 000</b> FCFA / an<small>soit 15 000 FCFA par mois</small></div>
+        <ul class="livs simple">
+          <li>Coopérations scientifiques</li>
+          <li>Masterants sur vos thématiques</li>
+          <li>Doctorants sur vos thématiques</li>
+          <li>Sujets de mémoire et de thèse</li>
+          <li>Recrutement de jeunes chercheurs</li>
+          <li>Mise en relation avec les laboratoires</li>
+          <li>Contacts avec les universités</li>
+          <li>HSA Apporteurs : clients recommandés</li>
+          <li>Commission seulement si le client signe</li>
+          <li>Bilan des mises en relation</li>
         </ul>
         <a class="btn btn-verre choisir" data-formule="Collaboration Recherche" href="#inscription">Choisir</a>
       </article>
       <article class="verre jour formule">
         <div class="num"><span>4</span><em>Impact</em></div>
-        <div class="prixf"><b>Sur devis</b><small>chaque programme est construit avec vous</small></div>
-        <ul class="livs">
-          <li><b>·</b>1 programme de formation en ligne certifiant co-créé</li>
-          <li><b>·</b>1 communauté thématique à votre nom</li>
-          <li><b>·</b>1 prix ou bourse de recherche, ou 1 défi Scirathon</li>
-          <li><b>·</b>Mentorat de jeunes chercheurs par vos experts</li>
-          <li><b>·</b>Rapport d'impact annuel pour votre RSE</li>
+        <div class="prixf"><b>Sur devis</b><small>construit avec vous</small></div>
+        <ul class="livs simple">
+          <li>Formation en ligne certifiante</li>
+          <li>Programme construit avec vous</li>
+          <li>Communauté thématique à votre nom</li>
+          <li>Prix scientifique à votre nom</li>
+          <li>Bourse de recherche</li>
+          <li>Défi Scirathon</li>
+          <li>Mentorat de jeunes chercheurs</li>
+          <li>Animation assurée par HSA</li>
+          <li>Rapport d'impact pour votre RSE</li>
+          <li>Un conseiller dédié</li>
         </ul>
         <a class="btn btn-verre v-wa-impact" target="_blank" rel="noopener" href="#">Demander un devis</a>
       </article>
     </div>
-      <article class="verre jour formule vedette pack">
-        <div class="num"><span>★</span><em>Pack Croissance</em></div>
-        <div class="prixf"><b>350 000</b> FCFA / an<small>soit environ 29 000 FCFA par mois · 190 000 FCFA d'économie</small></div>
-        <ul class="livs">
-          <li><b>·</b>Marque Employeur, Business Marketing et Collaboration Recherche réunies</li>
-          <li><b>·</b>1 interlocuteur dédié</li>
-          <li><b>·</b>Un bilan des résultats chaque trimestre</li>
-        </ul>
-        <a class="btn btn-or choisir" data-formule="Pack Croissance" href="#inscription">Choisir</a>
-      </article>
-    <p class="phrase">Besoin d'aller plus loin ? <b>Sponsoring du Scirathon, études auprès des chercheurs, vidéos et contenus de l'Agence HSA</b> : <a class="v-wa" target="_blank" rel="noopener" href="#">demandez un devis sur WhatsApp</a>.</p>
+    <article class="verre jour formule vedette pack">
+      <div class="pack-ligne">
+        <div><div class="num"><span>★</span><em>Pack Croissance</em></div>
+          <p class="court">Marque Employeur, Business Marketing et Collaboration Recherche réunies.</p></div>
+        <div class="prixf"><b>350 000</b> FCFA / an<small>190 000 FCFA d'économie</small></div>
+        <a class="btn btn-or choisir" data-formule="Pack Croissance" href="#inscription">Choisir le pack</a>
+      </div>
+    </article>
+    <p class="phrase">Un besoin particulier ? <a class="v-wa" target="_blank" rel="noopener" href="#">Demandez un devis sur WhatsApp</a>.</p>
   </section>
 
   <section class="bloc" id="inscription" aria-labelledby="t-insc">
@@ -557,23 +568,19 @@
       <h2 id="t-faq">Vous avez encore des questions ?</h2>
     </div>
     <div class="faq">
-      <details class="verre"><summary>Qui sont les 100 000 jeunes scientifiques ?</summary><p>Des masterants, doctorants et jeunes chercheurs de la communauté HSA, en Afrique francophone, dans toutes les disciplines : santé, agronomie, environnement, ingénierie, data, sciences sociales...</p></details>
-      <details class="verre"><summary>Qui fait le travail : nous ou HSA ?</summary><p>Vous remplissez deux formulaires (votre entreprise, vos offres) et vous nous donnez vos sujets. HSA crée votre page, met vos offres en avant, rédige les articles avec vous, diffuse vos campagnes, co-construit vos formations et anime vos communautés, et vous envoie un bilan.</p></details>
-      <details class="verre"><summary>Comment reçoit-on les candidatures ?</summary><p>Chaque offre renvoie vers votre adresse e-mail ou votre lien de candidature. Les candidats vous écrivent directement.</p></details>
-      <details class="verre"><summary>Comment accueillir un masterant ou un doctorant ?</summary><p>Vous décrivez votre thématique et ce que vous attendez. HSA la présente aux masterants, doctorants et jeunes chercheurs concernés et vous transmet les profils intéressés. Vous choisissez ensemble le cadre : stage de recherche, thèse en partenariat, mission courte.</p></details>
-      <details class="verre"><summary>Comment fonctionne HSA Apporteurs ?</summary><p>C'est du bouche-à-oreille rémunéré, inclus dans l'offre Collaboration Recherche. Vous décrivez votre offre et la commission que vous versez pour un client signé. Les masterants, doctorants et jeunes chercheurs de HSA vous recommandent des contacts de leur réseau. Si le client signe, vous versez la commission prévue. Sinon, vous ne payez rien de plus.</p></details>
-      <details class="verre"><summary>Comment fonctionne l'offre Impact ?</summary><p>Elle est sur devis, car chaque programme est différent. Vous apportez votre savoir-faire et vos experts. HSA construit avec vous la formation en ligne certifiante, l'annonce à la communauté, gère les inscriptions et anime votre communauté thématique. Les participants reçoivent une attestation à votre nom et à celui de HSA, et vous recevez un rapport d'impact chiffré pour votre politique RSE.</p></details>
-      <details class="verre"><summary>Comment payer ?</summary><p>Par mobile money via notre lien sécurisé, ou par virement sur facture pro forma. Vous recevez une facture et un reçu officiels au nom de votre entreprise.</p></details>
-      <details class="verre"><summary>Et si nous avons un besoin particulier ?</summary><p>Sponsoring du Scirathon, étude ou enquête auprès des chercheurs, vidéos et contenus de l'Agence HSA : écrivez-nous sur WhatsApp pour un devis sur mesure.</p></details>
+      <details class="verre"><summary>Qui sont les 100 000 jeunes scientifiques ?</summary><p>Des masterants, doctorants et jeunes chercheurs d'Afrique francophone, dans toutes les disciplines.</p></details>
+      <details class="verre"><summary>Qui fait le travail ?</summary><p>HSA. Vous nous donnez vos informations et vos sujets, nous créons votre page, diffusons vos offres et vos contenus, et vous envoyons un bilan.</p></details>
+      <details class="verre"><summary>Comment fonctionne HSA Apporteurs ?</summary><p>Les membres HSA vous recommandent des clients. Vous ne versez une commission que si le client signe.</p></details>
+      <details class="verre"><summary>Comment fonctionne l'offre Impact ?</summary><p>Sur devis : nous construisons avec vous une formation certifiante ou une communauté, et vous recevez un rapport d'impact pour votre RSE.</p></details>
+      <details class="verre"><summary>Comment payer ?</summary><p>Par mobile money ou par virement sur facture pro forma. Facture et reçu officiels au nom de votre entreprise.</p></details>
     </div>
   </section>
 
   <section class="verre final">
-    <h2>Les talents et les experts de demain se forment aujourd'hui sur HSA</h2>
-    <p>Faites-en vos collaborateurs, vos clients et vos partenaires de recherche avec HSA Entreprises.</p>
+    <h2>Les talents de demain se forment aujourd'hui sur HSA</h2>
     <div class="actions">
-      <a class="btn btn-or" href="#inscription">Démarrer HSA Entreprises</a>
-      <a class="btn btn-verre v-wa" target="_blank" rel="noopener" href="#">Parler à un conseiller sur WhatsApp</a>
+      <a class="btn btn-or" href="#inscription">Démarrer</a>
+      <a class="btn btn-verre v-wa" target="_blank" rel="noopener" href="#">Parler à un conseiller</a>
     </div>
   </section>
   <footer>HSA, Hub Scientifique Africain · le premier réseau social scientifique africain · hubscientifiqueafricain@gmail.com · +225 07 07 89 29 70</footer>
