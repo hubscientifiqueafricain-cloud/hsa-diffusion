@@ -69,3 +69,9 @@ Pages en ligne : /ambassadeurs et /gagner-argent-memoire-these (formulaires test
 - Groupe 2 en pause 120251315702720165 : GN, CM, GA, CG, CD, TD, CF, MG · 21-35
   - Pub A 120251315707160165 · Pub B 120251315707240165
 - Note : les créas portent maintenant un compte Instagram (17841414917162129), mais les placements restent Facebook seulement.
+
+## Pass Valoris B2 (étudiant, cercle orange)
+- Image hash : 4e8a352b2e1f01221c7dbb8e5e56b5f2
+- Créa : 1161510589773494 (utm_content=tiroir)
+- Remplace l'ancienne créa B sur les pubs 120251315702660165 (groupe 1 UEMOA) et 120251315707240165 (groupe 2, en pause)
+- Campagne 120251314430190165 toujours en BROUILLON, non lancée
