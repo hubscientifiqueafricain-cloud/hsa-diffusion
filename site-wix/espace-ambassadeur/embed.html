@@ -1,0 +1,658 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Espace Ambassadeur HSA</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap">
+<style>
+  /* Layout : cockpit d'ambassadeur. Bandeau « prochain versement » en tête, puis compteurs, grande courbe, et cartes en grille 2 colonnes qui passent à 1 sur téléphone. */
+  :root {
+    --nuit: #140701; --brun: #230e02; --or: #ffcc00; --or-2: #ffb347; --cuivre: #c8742a;
+    --texte: #fbf4ea; --doux: #d9c6b0; --faible: #a08a74;
+    --verre: rgba(255,255,255,.06); --verre-fort: rgba(255,255,255,.11); --bord: rgba(255,255,255,.14);
+    --ok: #4ade80; --info: #7cc4ff; --rayon: 20px;
+    --display: "Bricolage Grotesque", "Trebuchet MS", sans-serif;
+    --body: "Plus Jakarta Sans", "Segoe UI", Roboto, Arial, sans-serif;
+    color-scheme: dark;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: var(--body); color: var(--texte); line-height: 1.5; overflow-x: hidden;
+    background: radial-gradient(120% 60% at 50% 0%, #3b1a07 0%, #1d0b02 55%, #120601 100%) fixed, var(--nuit); }
+  .wrap { max-width: 1080px; margin: 0 auto; padding-block: 20px 48px;
+    padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+    display: grid; gap: 18px; }
+  h1, h2, h3 { font-family: var(--display); line-height: 1.12; margin: 0; text-wrap: balance; }
+  h1 { font-size: clamp(26px, 4.6vw, 40px); font-weight: 800; letter-spacing: -.02em; }
+  h1 em { font-style: normal; color: var(--or); }
+  h2 { font-size: 19px; font-weight: 800; }
+  p { margin: 0; }
+  .doux { color: var(--doux); } .faible { color: var(--faible); }
+  .num { font-variant-numeric: tabular-nums; }
+  .carte { background: var(--verre); border: 1px solid var(--bord); border-radius: var(--rayon); padding: 20px; min-width: 0;
+    box-shadow: 0 18px 44px rgba(0,0,0,.32), inset 0 1px 0 rgba(255,255,255,.1); }
+  .tete-carte { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 14px; }
+  .eyebrow { font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--faible); font-weight: 700; }
+  .demo { display: inline-flex; gap: 6px; align-items: center; font-size: 12px; font-weight: 700; color: var(--info);
+    background: rgba(124,196,255,.1); border: 1px solid rgba(124,196,255,.3); padding: 4px 10px; border-radius: 999px; }
+
+  /* En-tête */
+  .entete { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; flex-wrap: wrap; }
+  .entete .sous { margin-top: 6px; color: var(--doux); }
+  .niveau { display: flex; align-items: center; gap: 12px; padding: 10px 14px 10px 10px; border-radius: 999px;
+    background: var(--verre-fort); border: 1px solid var(--bord); }
+  .medaille { width: 38px; height: 38px; border-radius: 50%; display: grid; place-items: center; font: 800 15px var(--display);
+    color: var(--brun); background: conic-gradient(from 200deg, #fff3b0, var(--or), var(--cuivre), var(--or), #fff3b0); }
+  .niveau b { display: block; font-family: var(--display); font-size: 15px; }
+  .niveau span { font-size: 12px; color: var(--doux); }
+
+  /* Bandeau versement */
+  .versement { display: grid; grid-template-columns: 1.3fr 1fr; gap: 18px; align-items: center;
+    background: linear-gradient(135deg, rgba(255,204,0,.16), rgba(255,179,71,.06) 60%, rgba(255,255,255,.03));
+    border-color: rgba(255,204,0,.35); }
+  .grand { font: 800 clamp(38px, 7vw, 60px) var(--display); letter-spacing: -.02em; color: var(--or); line-height: 1; margin: 8px 0 6px; }
+  .grand small { font-size: .38em; color: var(--texte); margin-left: 6px; letter-spacing: 0; }
+  .compte { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+  .compte div { background: rgba(0,0,0,.28); border: 1px solid var(--bord); border-radius: 14px; padding: 10px 6px; text-align: center; }
+  .compte b { display: block; font: 800 26px var(--display); font-variant-numeric: tabular-nums; }
+  .compte span { font-size: 11px; color: var(--faible); text-transform: uppercase; letter-spacing: .06em; }
+  .compte-titre { font-size: 13px; color: var(--doux); margin-bottom: 8px; }
+
+  /* Compteurs */
+  .kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+  .kpi { padding: 16px; }
+  .kpi .val { font: 800 26px var(--display); margin: 6px 0 2px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .kpi .tend { font-size: 12px; font-weight: 700; color: var(--ok); }
+  .kpi .tend.bas { color: #fca5a5; }
+  .kpi svg { display: block; width: 100%; height: 34px; margin-top: 8px; }
+
+  /* Onglets */
+  .onglets { display: inline-flex; background: rgba(0,0,0,.3); border: 1px solid var(--bord); border-radius: 999px; padding: 3px; gap: 2px; flex-wrap: wrap; }
+  .onglets button { border: 0; background: transparent; color: var(--doux); font: 600 13px var(--body); padding: 7px 12px; border-radius: 999px; cursor: pointer; }
+  .onglets button[aria-pressed="true"] { background: var(--or); color: var(--brun); }
+  .onglets button:focus-visible, .btn:focus-visible, input:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+  .barre-outils { display: flex; gap: 8px; flex-wrap: wrap; }
+
+  /* Grande courbe */
+  .courbe { position: relative; }
+  .courbe svg { display: block; width: 100%; height: 280px; overflow: visible; }
+  .total-courbe { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; margin-bottom: 6px; }
+  .total-courbe b { font: 800 30px var(--display); font-variant-numeric: tabular-nums; }
+  .bulle { position: absolute; pointer-events: none; background: #2c1406; border: 1px solid rgba(255,204,0,.45); border-radius: 12px;
+    padding: 8px 10px; font-size: 13px; white-space: nowrap; transform: translate(-50%, -110%); box-shadow: 0 10px 24px rgba(0,0,0,.4); }
+  .bulle b { color: var(--or); font-variant-numeric: tabular-nums; }
+  .axe { fill: var(--faible); font: 500 11px var(--body); }
+  .grille { stroke: rgba(255,255,255,.08); }
+
+  .grille2 { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .grille2 > * { min-width: 0; }
+
+  /* Barres hebdo */
+  .barres svg { display: block; width: 100%; height: 220px; overflow: visible; }
+  .legende { display: flex; gap: 14px; flex-wrap: wrap; font-size: 12px; color: var(--doux); margin-top: 10px; }
+  .legende i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+
+  /* Donut */
+  .donut-zone { display: grid; grid-template-columns: 170px 1fr; gap: 18px; align-items: center; }
+  .donut { position: relative; width: 170px; height: 170px; }
+  .donut svg { width: 170px; height: 170px; transform: rotate(-90deg); }
+  .donut .centre { position: absolute; inset: 0; display: grid; place-content: center; text-align: center; }
+  .donut .centre b { font: 800 34px var(--display); color: var(--or); }
+  .donut .centre > span { font-size: 12px; color: var(--doux); }
+  .entonnoir { display: grid; gap: 10px; }
+  .etape { display: grid; gap: 4px; }
+  .etape .ligne { display: flex; justify-content: space-between; font-size: 13px; }
+  .jauge { height: 10px; border-radius: 999px; background: rgba(255,255,255,.08); overflow: hidden; }
+  .jauge i { display: block; height: 100%; border-radius: 999px; background: linear-gradient(90deg, var(--or-2), var(--or)); width: 0; transition: width 1.1s cubic-bezier(.2,.8,.2,1); }
+
+  /* Heatmap */
+  .heat { display: grid; grid-auto-flow: column; grid-template-rows: repeat(7, 1fr); gap: 4px; overflow-x: auto; padding-bottom: 4px; }
+  .heat i { width: 100%; min-width: 14px; aspect-ratio: 1; border-radius: 4px; background: rgba(255,255,255,.06); display: block; }
+  .heat-zone { display: grid; grid-template-columns: auto 1fr; gap: 8px; }
+  .jours { display: grid; grid-template-rows: repeat(7, 1fr); gap: 4px; font-size: 10px; color: var(--faible); }
+  .jours span { display: flex; align-items: center; }
+  .echelle { display: flex; align-items: center; gap: 4px; font-size: 11px; color: var(--faible); margin-top: 10px; }
+  .echelle i { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+
+  /* Classement */
+  .podium { display: grid; gap: 12px; }
+  .rang { display: flex; align-items: baseline; gap: 8px; }
+  .rang b { font: 800 48px var(--display); color: var(--or); line-height: 1; }
+  .piste { position: relative; height: 14px; border-radius: 999px; background: rgba(255,255,255,.08); margin-top: 6px; }
+  .piste i { position: absolute; inset: 0 auto 0 0; border-radius: 999px; background: linear-gradient(90deg, var(--cuivre), var(--or)); width: 0; transition: width 1.2s cubic-bezier(.2,.8,.2,1); }
+  .piste .cible { position: absolute; top: -6px; bottom: -6px; width: 2px; background: #fff; border-radius: 2px; }
+  .piste-leg { display: flex; justify-content: space-between; font-size: 12px; color: var(--faible); margin-top: 6px; }
+
+  /* Simulateur */
+  .simu input[type=range] { width: 100%; accent-color: var(--or); margin: 14px 0 6px; }
+  .simu-res { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 12px; }
+  .simu-res div { background: rgba(0,0,0,.26); border: 1px solid var(--bord); border-radius: 14px; padding: 12px; }
+  .simu-res b { display: block; font: 800 20px var(--display); color: var(--or); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .simu-res span { font-size: 12px; color: var(--doux); }
+
+  /* Code */
+  .code-zone { display: grid; grid-template-columns: 1fr auto; gap: 16px; align-items: center; }
+  .code { font: 800 34px var(--display); letter-spacing: .08em; color: var(--or); }
+  .lien { font-size: 13px; color: var(--doux); word-break: break-all; }
+  .btns { display: flex; gap: 10px; flex-wrap: wrap; }
+  .btn { display: inline-flex; align-items: center; gap: 8px; padding: 12px 18px; border-radius: 999px; border: 0; cursor: pointer;
+    font: 700 15px var(--body); text-decoration: none; transition: transform .15s; }
+  .btn:hover { transform: translateY(-2px); }
+  .btn-or { background: linear-gradient(135deg, var(--or), var(--or-2)); color: var(--brun); box-shadow: 0 10px 26px rgba(255,204,0,.3); }
+  .btn-wa { background: #25d366; color: #062e16; }
+
+  /* Tableau */
+  .table-zone { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 520px; }
+  th, td { text-align: left; padding: 11px 10px; border-bottom: 1px solid rgba(255,255,255,.08); }
+  th { color: var(--faible); font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .06em; }
+  td.r, th.r { text-align: right; font-variant-numeric: tabular-nums; }
+  .pill { display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: 12px; font-weight: 700; }
+  .pill.paye { background: rgba(74,222,128,.14); color: var(--ok); }
+  .pill.inscrit { background: rgba(255,255,255,.08); color: var(--doux); }
+  .pill.verse { background: rgba(255,204,0,.14); color: var(--or); }
+  .pill.attente { background: rgba(124,196,255,.12); color: var(--info); }
+  .avatar { width: 30px; height: 30px; border-radius: 50%; display: inline-grid; place-items: center; font: 700 12px var(--body);
+    color: var(--brun); margin-right: 10px; vertical-align: middle; }
+
+  /* Timeline versements */
+  .timeline { display: grid; gap: 0; }
+  .tl { display: grid; grid-template-columns: 18px 1fr auto; gap: 12px; align-items: start; padding-bottom: 14px; position: relative; }
+  .tl::before { content: ""; position: absolute; left: 8px; top: 18px; bottom: 0; width: 2px; background: rgba(255,255,255,.1); }
+  .tl:last-child::before { display: none; }
+  .tl .point { width: 18px; height: 18px; border-radius: 50%; border: 3px solid var(--or); background: var(--brun); margin-top: 2px; }
+  .tl .point.futur { border-color: var(--info); border-style: dashed; }
+  .tl b.m { font-family: var(--display); font-variant-numeric: tabular-nums; }
+
+  /* TikTok */
+  .tiktok { background: linear-gradient(135deg, rgba(37,244,238,.08), rgba(254,44,85,.08)); border-color: rgba(254,44,85,.3); }
+  .tiktok .vues { font: 800 28px var(--display); }
+
+  .vide { text-align: center; padding: 40px 20px; }
+
+  @media (max-width: 860px) {
+    .kpis { grid-template-columns: repeat(2, 1fr); }
+    .grille2, .versement { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 480px) {
+    .donut-zone, .code-zone { grid-template-columns: 1fr; justify-items: start; }
+    .simu-res { grid-template-columns: 1fr; }
+    .compte b { font-size: 22px; }
+    .kpi .val { font-size: 21px; }
+    .courbe svg { height: 230px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { transition: none !important; animation: none !important; }
+  }
+  .trace { stroke-dasharray: var(--len); stroke-dashoffset: var(--len); animation: dessine 1.4s cubic-bezier(.2,.8,.2,1) forwards; }
+  @keyframes dessine { to { stroke-dashoffset: 0; } }
+  .monte { transform-origin: bottom; transform-box: fill-box; animation: monte .8s cubic-bezier(.2,.8,.2,1) both; }
+  @keyframes monte { from { transform: scaleY(.02); } }
+</style>
+</head>
+<body>
+
+<div class="wrap" id="app"><p class="doux">Chargement de ton espace…</p></div>
+
+<script>
+(function () {
+  // ===== Réglages =====
+  var COMMISSION = 500;        // FCFA par Pass Premium payé avec le code
+  var JOUR_VERSEMENT = 5;      // 0 = dimanche … 5 = vendredi
+  var HEURE_VERSEMENT = 20;
+  var PRIX_DEMO = 2000;        // prix du Pass Premium en novembre (10 000 F ensuite) pour les données d'exemple
+
+  var app = document.getElementById('app');
+  var MOIS = ['janv.','févr.','mars','avr.','mai','juin','juil.','août','sept.','oct.','nov.','déc.'];
+  var JOURS = ['dim.','lun.','mar.','mer.','jeu.','ven.','sam.'];
+  var reduit = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var etat = { data: null, metrique: 'ca', periode: '12s', mode: 'cumul', filtre: 'tous', simu: 5 };
+
+  function fcfa(n) { return Math.round(n || 0).toLocaleString('fr-FR').replace(/ | /g, ' ') + ' F'; }
+  function nb(n) { return Math.round(n || 0).toLocaleString('fr-FR').replace(/ | /g, ' '); }
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function jour0(d) { var x = new Date(d); x.setHours(0, 0, 0, 0); return x; }
+  function lundi(d) { var x = jour0(d); var k = (x.getDay() + 6) % 7; x.setDate(x.getDate() - k); return x; }
+  function dfmt(d) { d = new Date(d); return d.getDate() + ' ' + MOIS[d.getMonth()]; }
+  function estPaye(f) { return /pay|vers/i.test(f.statut || ''); }
+  function gain(f) { return +f.montant || COMMISSION; }
+  function prix(f) { return +f.prix || 0; }
+
+  // ===== Données d'exemple (affichées seulement hors Wix) =====
+  function demo() {
+    var seed = 7; function rnd() { seed = (seed * 16807) % 2147483647; return (seed - 1) / 2147483646; }
+    var prenoms = ['Aïcha K.','Yao M.','Fatou D.','Koffi A.','Mariam T.','Serge B.','Awa C.','Ibrahim S.','Grâce N.','Moussa O.','Esther Y.','Junior K.','Salimata B.','Hervé G.','Nadia Z.','Paul E.','Rokia F.','Didier L.'];
+    var campus = ['UFHB Cocody','Univ. Alassane Ouattara','INP-HB','Univ. Nangui Abrogoua','Univ. Jean Lorougnon Guédé'];
+    var auj = jour0(new Date()); var f = [];
+    for (var i = 89; i >= 0; i--) {
+      var d = new Date(auj); d.setDate(d.getDate() - i);
+      var force = 0.25 + (89 - i) / 89 * 1.6 + (d.getDay() === 6 || d.getDay() === 0 ? -.2 : .15);
+      var n = Math.floor(rnd() * force * 4.2);
+      for (var j = 0; j < n; j++) {
+        var paye = rnd() < 0.68;
+        var h = new Date(d); h.setHours(8 + Math.floor(rnd() * 13), Math.floor(rnd() * 60));
+        f.push({ nom: prenoms[Math.floor(rnd() * prenoms.length)], campus: campus[Math.floor(rnd() * campus.length)],
+          statut: paye ? 'Pass payé' : 'inscrit', montant: paye ? COMMISSION : 0, prix: paye ? PRIX_DEMO : 0, date: h.toISOString() });
+      }
+    }
+    var v = [], semaine = lundi(auj);
+    for (var w = 2; w <= 9; w++) {
+      var deb = new Date(semaine); deb.setDate(deb.getDate() - 7 * w);
+      var fin = new Date(deb); fin.setDate(fin.getDate() + 7);
+      var cnt = f.filter(function (x) { var t = new Date(x.date); return estPaye(x) && t >= deb && t < fin; }).length;
+      var pay = new Date(fin); pay.setDate(pay.getDate() + ((JOUR_VERSEMENT - pay.getDay() + 7) % 7));
+      if (cnt) v.push({ date: pay.toISOString(), montant: cnt * COMMISSION, statut: 'versé' });
+    }
+    return { estAmbassadeur: true, demo: true, prenom: 'Awa', code: 'AWA-HSA25', lien: 'hubscientifiqueafricain.com/chercheurs-premium?code=AWA-HSA25',
+      filleuls: f.reverse(), versements: v, rang: 7, nbAmbassadeurs: 64, top: 10, vuesTikTok: 18400 };
+  }
+
+  // ===== Calculs =====
+  function calc(d) {
+    var f = (d.filleuls || []).map(function (x) { return Object.assign({}, x, { t: x.date ? new Date(x.date) : null }); });
+    var payes = f.filter(estPaye);
+    var ca = payes.reduce(function (s, x) { return s + prix(x); }, 0);
+    var com = payes.reduce(function (s, x) { return s + gain(x); }, 0);
+    var verse = d.totalVerse != null ? d.totalVerse : (d.versements || []).reduce(function (s, x) { return s + (+x.montant || 0); }, 0);
+    var debSem = lundi(new Date());
+    var semPayes = payes.filter(function (x) { return x.t && x.t >= debSem; }).length;
+    var aVerser = d.aVerser != null ? d.aVerser : Math.max(0, com - verse);
+    return { f: f, payes: payes, ca: ca, com: com, verse: verse, aVerser: aVerser, semPayes: semPayes,
+      inscrits: f.length, conv: f.length ? payes.length / f.length : 0 };
+  }
+
+  function seriePar(c, pas, nbPts, metrique) {
+    // pas : 'j' ou 's'
+    var fin = pas === 'j' ? jour0(new Date()) : lundi(new Date());
+    var pts = [];
+    for (var i = nbPts - 1; i >= 0; i--) {
+      var deb = new Date(fin); deb.setDate(deb.getDate() - (pas === 'j' ? i : i * 7));
+      var f2 = new Date(deb); f2.setDate(f2.getDate() + (pas === 'j' ? 1 : 7));
+      var lot = c.payes.filter(function (x) { return x.t && x.t >= deb && x.t < f2; });
+      var v = metrique === 'ca' ? lot.reduce(function (s, x) { return s + prix(x); }, 0)
+            : metrique === 'com' ? lot.reduce(function (s, x) { return s + gain(x); }, 0) : lot.length;
+      pts.push({ d: deb, v: v, fin: f2 });
+    }
+    return pts;
+  }
+
+  function evolution(c) {
+    var s = seriePar(c, 's', 3, 'com'); // dernière semaine complète vs celle d'avant
+    var a = s[0].v, b = s[1].v;
+    return a ? (b - a) / a : (b ? 1 : 0);
+  }
+
+  // ===== Rendu =====
+  function rendre(d) {
+    etat.data = d;
+    if (!d || !d.estAmbassadeur) {
+      app.innerHTML = '<div class="carte vide"><p class="eyebrow">Espace ambassadeur HSA</p><h1 style="margin:10px 0 12px">Ton espace s\'ouvre dès que ta candidature est validée</h1>'
+        + '<p class="doux" style="max-width:52ch;margin:0 auto 18px">Tu gagneras 500 FCFA pour chaque Pass Premium payé avec ton code, versés chaque semaine par mobile money, sans plafond.</p>'
+        + '<a class="btn btn-or" href="https://www.hubscientifiqueafricain.com/ambassadeurs" target="_top">Devenir ambassadeur</a></div>';
+      return;
+    }
+    var c = calc(d);
+    var ev = evolution(c);
+    var niv = c.payes.length >= 100 ? ['Or', 'Plus de 100 Pass'] : c.payes.length >= 30 ? ['Argent', (100 - c.payes.length) + ' Pass avant Or'] : ['Bronze', (30 - c.payes.length) + ' Pass avant Argent'];
+    var html = '';
+
+    html += '<header class="entete"><div>'
+      + (d.demo ? '<span class="demo">Exemple : données fictives</span>' : '<span class="eyebrow">Espace ambassadeur HSA</span>')
+      + '<h1 style="margin-top:8px">' + (d.prenom ? 'Bonjour ' + esc(d.prenom) + ', ton réseau <em>rapporte</em>.' : 'Ton réseau <em>rapporte</em>.') + '</h1>'
+      + '<p class="sous">Tous les paiements faits avec ton code, en direct.</p></div>'
+      + '<div class="niveau"><div class="medaille">' + niv[0][0] + '</div><div><b>Niveau ' + niv[0] + '</b><span>' + niv[1] + '</span></div></div></header>';
+
+    // Bandeau versement
+    html += '<section class="carte versement"><div><p class="eyebrow">À recevoir au prochain versement</p>'
+      + '<div class="grand num"><span data-compte="' + c.aVerser + '">0</span><small>FCFA</small></div>'
+      + '<p class="doux">Versé par mobile money, chaque semaine, sans plafond. Cette semaine : <b style="color:var(--texte)">' + c.semPayes + ' Pass</b> payés avec ton code.</p></div>'
+      + '<div><p class="compte-titre" id="prochain">Prochain versement</p><div class="compte" id="compte">'
+      + '<div><b>0</b><span>jours</span></div><div><b>0</b><span>heures</span></div><div><b>0</b><span>min</span></div><div><b>0</b><span>sec</span></div></div></div></section>';
+
+    // KPIs
+    var kp = [
+      ['Chiffre d\'affaires généré', c.ca, 'ca', true],
+      ['Commissions gagnées', c.com, 'com', true],
+      ['Pass payés avec ton code', c.payes.length, 'n', false],
+      ['Déjà versé', c.verse, 'com', true]
+    ];
+    html += '<section class="kpis">' + kp.map(function (k, i) {
+      var s = seriePar(c, 's', 10, k[2]);
+      var tend = i === 3 ? '<span class="tend" style="color:var(--doux)">' + (d.versements || []).length + ' versements reçus</span>'
+        : '<span class="tend' + (ev < 0 ? ' bas' : '') + '">' + (ev >= 0 ? '▲ +' : '▼ ') + Math.round(ev * 100) + ' % la semaine dernière</span>';
+      return '<div class="carte kpi"><p class="eyebrow">' + k[0] + '</p><div class="val"><span data-compte="' + k[1] + '"' + (k[3] ? ' data-f="1"' : '') + '>0</span></div>' + tend + spark(s) + '</div>';
+    }).join('') + '</section>';
+
+    // Grande courbe
+    html += '<section class="carte"><div class="tete-carte"><div><p class="eyebrow">Évolution</p><h2>Ce que ton code a généré</h2></div>'
+      + '<div class="barre-outils"><div class="onglets" role="group" aria-label="Indicateur">'
+      + bouton('metrique', 'ca', 'Chiffre d\'affaires') + bouton('metrique', 'com', 'Commissions') + bouton('metrique', 'n', 'Pass') + '</div>'
+      + '<div class="onglets" role="group" aria-label="Période">' + bouton('periode', '30j', '30 j') + bouton('periode', '12s', '12 sem.') + bouton('periode', 'tout', 'Tout') + '</div>'
+      + '<div class="onglets" role="group" aria-label="Affichage">' + bouton('mode', 'cumul', 'Cumulé') + bouton('mode', 'periode', 'Par période') + '</div></div></div>'
+      + '<div class="total-courbe"><b id="totalCourbe" class="num"></b><span class="doux" id="legCourbe"></span></div>'
+      + '<div class="courbe" id="courbe"></div></section>';
+
+    // Barres + donut
+    html += '<div class="grille2">'
+      + '<section class="carte barres"><div class="tete-carte"><div><p class="eyebrow">Paiements hebdomadaires</p><h2>Tes commissions semaine par semaine</h2></div></div><div id="barres"></div>'
+      + '<div class="legende"><span><i style="background:var(--or)"></i>Versée</span><span><i style="background:var(--info)"></i>Semaine en cours, à verser</span></div></section>'
+      + '<section class="carte"><div class="tete-carte"><div><p class="eyebrow">Conversion</p><h2>De l\'inscription au paiement</h2></div></div>'
+      + '<div class="donut-zone"><div class="donut">' + donut(c.conv) + '<div class="centre"><b class="num"><span data-compte="' + Math.round(c.conv * 100) + '">0</span> %</b><span>ont payé</span></div></div>'
+      + '<div class="entonnoir">'
+      + etape('Inscrits avec ton code', c.inscrits, 1)
+      + etape('Pass payés', c.payes.length, c.inscrits ? c.payes.length / c.inscrits : 0)
+      + etape('Pas encore payé', c.inscrits - c.payes.length, c.inscrits ? (c.inscrits - c.payes.length) / c.inscrits : 0)
+      + '<p class="faible" style="font-size:13px">Relance ceux qui n\'ont pas encore payé : chaque Pass, c\'est 500 F de plus.</p></div></div></section>'
+      + '</div>';
+
+    // Heatmap + classement
+    html += '<div class="grille2">'
+      + '<section class="carte"><div class="tete-carte"><div><p class="eyebrow">Activité</p><h2>Tes jours les plus forts</h2></div><span class="faible" style="font-size:13px">12 dernières semaines</span></div>'
+      + heatmap(c) + '</section>'
+      + '<section class="carte podium"><div><p class="eyebrow">Classement de la semaine</p><h2>Course au bonus hebdo</h2></div>'
+      + (d.rang ? '<div class="rang"><b class="num">' + d.rang + '<sup style="font-size:.4em">e</sup></b><span class="doux">sur ' + nb(d.nbAmbassadeurs) + ' ambassadeurs</span></div>'
+        + '<div><div class="piste"><i data-largeur="' + Math.max(4, Math.round((1 - (d.rang - 1) / Math.max(1, d.nbAmbassadeurs - 1)) * 100)) + '"></i><span class="cible" style="left:' + Math.round((1 - ((d.top || 10) - 1) / Math.max(1, d.nbAmbassadeurs - 1)) * 100) + '%"></span></div>'
+        + '<div class="piste-leg"><span>Dernier</span><span>Top ' + (d.top || 10) + ' = bonus</span><span>1er</span></div></div>'
+        + '<p class="doux">' + (d.rang <= (d.top || 10) ? 'Tu es dans le top ' + (d.top || 10) + ' : garde le rythme jusqu\'à dimanche pour toucher le bonus.' : 'Encore un effort pour entrer dans le top ' + (d.top || 10) + ' et toucher le bonus.') + '</p>'
+        : '<p class="doux">Le classement s\'affiche dès ton premier Pass payé de la semaine. Les meilleurs ambassadeurs touchent un bonus chaque semaine.</p>')
+      + '</section></div>';
+
+    // Simulateur + code
+    html += '<div class="grille2">'
+      + '<section class="carte simu"><p class="eyebrow">Simulateur</p><h2>Et si tu passais à la vitesse supérieure ?</h2>'
+      + '<label for="simu" class="doux" style="display:block;margin-top:10px">Pass payés par semaine : <b id="simuVal" style="color:var(--or)">' + etat.simu + '</b></label>'
+      + '<input id="simu" type="range" min="1" max="60" value="' + etat.simu + '">'
+      + '<div class="simu-res"><div><b id="simuS"></b><span>par semaine</span></div><div><b id="simuM"></b><span>par mois</span></div><div><b id="simuA"></b><span>sur l\'année</span></div></div>'
+      + '<p class="faible" style="font-size:13px;margin-top:10px">Sans plafond. Hors bonus hebdo et challenge TikTok.</p></section>'
+      + '<section class="carte"><p class="eyebrow">Ton code ambassadeur</p><div class="code-zone" style="margin-top:8px"><div style="min-width:0"><div class="code">' + esc(d.code) + '</div><div class="lien">' + esc(d.lien) + '</div></div></div>'
+      + '<div class="btns" style="margin-top:16px"><button class="btn btn-or" id="copier" type="button">Copier mon lien</button><button class="btn btn-wa" id="wa" type="button">Partager sur WhatsApp</button></div>'
+      + '<p class="faible" style="font-size:13px;margin-top:14px">L\'étudiant saisit ton code au moment de payer son Pass Premium : le paiement apparaît ici tout de suite.</p></section>'
+      + '</div>';
+
+    // Paiements + versements
+    html += '<section class="carte"><div class="tete-carte"><div><p class="eyebrow">Paiements avec ton code</p><h2>Qui a utilisé ton code</h2></div>'
+      + '<div class="onglets" role="group" aria-label="Filtre">' + bouton('filtre', 'tous', 'Tous') + bouton('filtre', 'paye', 'Payés') + bouton('filtre', 'inscrit', 'Pas encore payé') + '</div></div>'
+      + '<div class="table-zone" id="table"></div></section>';
+
+    html += '<div class="grille2">'
+      + '<section class="carte"><div class="tete-carte"><div><p class="eyebrow">Mobile money</p><h2>Tes versements</h2></div></div><div class="timeline">' + timeline(d, c) + '</div></section>'
+      + '<section class="carte tiktok"><p class="eyebrow">Challenge TikTok HSA</p><h2 style="margin:6px 0 10px">La vidéo la plus vue de la semaine est récompensée</h2>'
+      + (d.vuesTikTok != null ? '<p class="doux">Tes vues cette semaine</p><div class="vues num"><span data-compte="' + d.vuesTikTok + '">0</span></div>' : '')
+      + '<p class="doux" style="margin-top:10px">Publie une vidéo qui fait connaître HSA sur ton TikTok, avec ton code en description. Résultats annoncés chaque semaine dans le groupe des ambassadeurs.</p></section>'
+      + '</div>';
+
+    app.innerHTML = html;
+    brancher();
+    dessinerCourbe();
+    dessinerBarres(c);
+    dessinerTable();
+    majSimu();
+    animerCompteurs();
+    lancerCompte();
+    requestAnimationFrame(function () {
+      app.querySelectorAll('[data-largeur]').forEach(function (el) { el.style.width = el.getAttribute('data-largeur') + '%'; });
+      app.querySelectorAll('.jauge i').forEach(function (el) { el.style.width = el.getAttribute('data-l') + '%'; });
+    });
+  }
+
+  function bouton(cle, val, txt) {
+    return '<button type="button" data-cle="' + cle + '" data-val="' + val + '" aria-pressed="' + (etat[cle] === val) + '">' + txt + '</button>';
+  }
+
+  function spark(s) {
+    var w = 200, h = 34, max = Math.max.apply(null, s.map(function (p) { return p.v; })) || 1;
+    var pts = s.map(function (p, i) { return [i / (s.length - 1) * w, h - 3 - p.v / max * (h - 6)]; });
+    var l = pts.map(function (p, i) { return (i ? 'L' : 'M') + p[0].toFixed(1) + ' ' + p[1].toFixed(1); }).join(' ');
+    var last = pts[pts.length - 1];
+    return '<svg viewBox="0 0 ' + w + ' ' + h + '" preserveAspectRatio="none" aria-hidden="true"><path d="' + l + ' L' + w + ' ' + h + ' L0 ' + h + 'Z" fill="rgba(255,204,0,.12)"/>'
+      + '<path d="' + l + '" fill="none" stroke="#ffcc00" stroke-width="2" vector-effect="non-scaling-stroke"/>'
+      + '<circle cx="' + last[0] + '" cy="' + last[1] + '" r="3" fill="#ffcc00"/></svg>';
+  }
+
+  function donut(p) {
+    var r = 70, C = 2 * Math.PI * r;
+    return '<svg viewBox="0 0 170 170" aria-hidden="true"><circle cx="85" cy="85" r="' + r + '" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="18"/>'
+      + '<circle cx="85" cy="85" r="' + r + '" fill="none" stroke="url(#gd)" stroke-width="18" stroke-linecap="round" stroke-dasharray="' + C + '" stroke-dashoffset="' + C + '" data-donut="' + (C * (1 - p)) + '" style="transition:stroke-dashoffset 1.3s cubic-bezier(.2,.8,.2,1)"/>'
+      + '<defs><linearGradient id="gd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb347"/><stop offset="1" stop-color="#ffcc00"/></linearGradient></defs></svg>';
+  }
+
+  function etape(t, v, p) {
+    return '<div class="etape"><div class="ligne"><span class="doux">' + t + '</span><b class="num">' + nb(v) + '</b></div><div class="jauge"><i data-l="' + Math.round(p * 100) + '"></i></div></div>';
+  }
+
+  function heatmap(c) {
+    var debut = lundi(new Date()); debut.setDate(debut.getDate() - 7 * 11);
+    var comptes = {}, max = 1;
+    c.payes.forEach(function (x) { if (!x.t || x.t < debut) return; var k = jour0(x.t).getTime(); comptes[k] = (comptes[k] || 0) + 1; max = Math.max(max, comptes[k]); });
+    var auj = jour0(new Date()).getTime(), cases = '';
+    var parJour = [0, 0, 0, 0, 0, 0, 0];
+    for (var i = 0; i < 84; i++) {
+      var d = new Date(debut); d.setDate(d.getDate() + i);
+      var v = comptes[d.getTime()] || 0; parJour[(d.getDay() + 6) % 7] += v;
+      var a = v ? (.22 + .78 * v / max) : 0;
+      var futur = d.getTime() > auj;
+      cases += '<i title="' + dfmt(d) + ' : ' + v + ' Pass" style="' + (futur ? 'background:transparent;border:1px dashed rgba(255,255,255,.1)' : v ? 'background:rgba(255,204,0,' + a.toFixed(2) + ')' : '') + '"></i>';
+    }
+    var noms = ['lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi', 'dimanche'];
+    var best = parJour.indexOf(Math.max.apply(null, parJour));
+    return '<div class="heat-zone"><div class="jours"><span>lun.</span><span></span><span>mer.</span><span></span><span>ven.</span><span></span><span>dim.</span></div><div class="heat">' + cases + '</div></div>'
+      + '<div class="echelle">Moins <i style="background:rgba(255,255,255,.06)"></i><i style="background:rgba(255,204,0,.3)"></i><i style="background:rgba(255,204,0,.6)"></i><i style="background:rgba(255,204,0,1)"></i> Plus</div>'
+      + '<p class="doux" style="margin-top:10px">Ton meilleur jour : <b style="color:var(--or)">le ' + noms[best] + '</b>. Programme tes partages ce jour-là.</p>';
+  }
+
+  function timeline(d, c) {
+    var v = (d.versements || []).slice().sort(function (a, b) { return new Date(b.date) - new Date(a.date); }).slice(0, 5);
+    var out = '<div class="tl"><span class="point futur"></span><div><b>Prochain versement</b><div class="faible" style="font-size:13px">' + dfmt(prochainVersement()) + '</div></div><b class="m" style="color:var(--info)">' + fcfa(c.aVerser) + '</b></div>';
+    if (!v.length) return out + '<p class="faible">Ton premier versement apparaîtra ici.</p>';
+    return out + v.map(function (x) {
+      return '<div class="tl"><span class="point"></span><div><b>Versé</b> <span class="pill verse">mobile money</span><div class="faible" style="font-size:13px">' + dfmt(x.date) + '</div></div><b class="m">' + fcfa(x.montant) + '</b></div>';
+    }).join('');
+  }
+
+  // ===== Grande courbe =====
+  function dessinerCourbe() {
+    var c = calc(etat.data), zone = document.getElementById('courbe');
+    var s = etat.periode === '30j' ? seriePar(c, 'j', 30, etat.metrique)
+          : etat.periode === '12s' ? seriePar(c, 's', 12, etat.metrique)
+          : seriePar(c, 's', Math.max(4, nbSemaines(c)), etat.metrique);
+    if (etat.mode === 'cumul') { var cu = 0; s = s.map(function (p) { cu += p.v; return { d: p.d, v: cu, inc: p.v, fin: p.fin }; }); }
+    var total = etat.mode === 'cumul' ? s[s.length - 1].v : s.reduce(function (a, p) { return a + p.v; }, 0);
+    var unite = etat.metrique === 'n' ? function (v) { return nb(v) + ' Pass'; } : fcfa;
+    document.getElementById('totalCourbe').textContent = unite(total);
+    document.getElementById('legCourbe').textContent = { ca: 'de chiffre d\'affaires généré', com: 'de commissions gagnées', n: 'payés avec ton code' }[etat.metrique]
+      + ' sur ' + { '30j': 'les 30 derniers jours', '12s': 'les 12 dernières semaines', tout: 'toute la période' }[etat.periode];
+
+    var W = Math.max(320, zone.clientWidth || 800), H = zone.clientWidth < 480 ? 230 : 280, pl = 52, pr = 12, pt = 16, pb = 28;
+    var max = Math.max.apply(null, s.map(function (p) { return p.v; })) || 1;
+    var pas = echelle(max); max = pas * Math.ceil(max / pas) || 1;
+    var x = function (i) { return pl + (s.length === 1 ? 0 : i / (s.length - 1) * (W - pl - pr)); };
+    var y = function (v) { return pt + (1 - v / max) * (H - pt - pb); };
+    var g = '';
+    for (var t = 0; t <= max + 0.001; t += pas) {
+      g += '<line class="grille" x1="' + pl + '" x2="' + (W - pr) + '" y1="' + y(t) + '" y2="' + y(t) + '"/>'
+        + '<text class="axe" x="' + (pl - 8) + '" y="' + (y(t) + 4) + '" text-anchor="end">' + court(t) + '</text>';
+    }
+    var nbEtiq = Math.min(s.length, W < 480 ? 4 : 7);
+    for (var k = 0; k < nbEtiq; k++) {
+      var i = Math.round(k / (nbEtiq - 1 || 1) * (s.length - 1));
+      g += '<text class="axe" x="' + x(i) + '" y="' + (H - 8) + '" text-anchor="' + (k === 0 ? 'start' : k === nbEtiq - 1 ? 'end' : 'middle') + '">' + dfmt(s[i].d) + '</text>';
+    }
+    var pts = s.map(function (p, i) { return [x(i), y(p.v)]; });
+    var ligne = lisse(pts);
+    var aire = ligne + ' L' + pts[pts.length - 1][0] + ' ' + y(0) + ' L' + pts[0][0] + ' ' + y(0) + ' Z';
+    var der = pts[pts.length - 1];
+    zone.innerHTML = '<svg viewBox="0 0 ' + W + ' ' + H + '" style="height:' + H + 'px" role="img" aria-label="Courbe">'
+      + '<defs><linearGradient id="ga" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffcc00" stop-opacity=".38"/><stop offset="1" stop-color="#ffcc00" stop-opacity="0"/></linearGradient></defs>'
+      + g + '<path d="' + aire + '" fill="url(#ga)"/>'
+      + '<path class="trace" d="' + ligne + '" fill="none" stroke="#ffcc00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>'
+      + '<circle cx="' + der[0] + '" cy="' + der[1] + '" r="10" fill="rgba(255,204,0,.2)"/><circle cx="' + der[0] + '" cy="' + der[1] + '" r="5" fill="#ffcc00" stroke="#230e02" stroke-width="2"/>'
+      + '<line id="curseur" y1="' + pt + '" y2="' + y(0) + '" stroke="rgba(255,255,255,.35)" stroke-dasharray="3 3" visibility="hidden"/>'
+      + '<circle id="pointC" r="6" fill="#ffcc00" stroke="#fff" stroke-width="2" visibility="hidden"/>'
+      + '<rect x="' + pl + '" y="0" width="' + (W - pl - pr) + '" height="' + H + '" fill="transparent" id="capte"/></svg><div class="bulle" id="bulle" hidden></div>';
+    var p = zone.querySelector('.trace');
+    if (p && p.getTotalLength) { var L = p.getTotalLength(); p.style.setProperty('--len', L); if (reduit) p.classList.remove('trace'); }
+    var capte = zone.querySelector('#capte'), bulle = zone.querySelector('#bulle'), cur = zone.querySelector('#curseur'), pc = zone.querySelector('#pointC'), svg = zone.querySelector('svg');
+    function montre(ev) {
+      var r = svg.getBoundingClientRect(), cx = ((ev.touches ? ev.touches[0].clientX : ev.clientX) - r.left) * W / r.width;
+      var i = Math.max(0, Math.min(s.length - 1, Math.round((cx - pl) / ((W - pl - pr) / Math.max(1, s.length - 1)))));
+      var q = pts[i];
+      cur.setAttribute('x1', q[0]); cur.setAttribute('x2', q[0]); cur.setAttribute('visibility', 'visible');
+      pc.setAttribute('cx', q[0]); pc.setAttribute('cy', q[1]); pc.setAttribute('visibility', 'visible');
+      var per = etat.periode === '30j' ? dfmt(s[i].d) : 'Semaine du ' + dfmt(s[i].d);
+      bulle.innerHTML = per + '<br><b>' + unite(s[i].v) + '</b>' + (etat.mode === 'cumul' ? ' <span class="faible">(+' + unite(s[i].inc) + ')</span>' : '');
+      bulle.hidden = false;
+      var px = q[0] * r.width / W, py = q[1] * r.height / H;
+      bulle.style.left = Math.max(70, Math.min(r.width - 70, px)) + 'px'; bulle.style.top = py + 'px';
+    }
+    function cache() { bulle.hidden = true; cur.setAttribute('visibility', 'hidden'); pc.setAttribute('visibility', 'hidden'); }
+    capte.addEventListener('mousemove', montre); capte.addEventListener('touchstart', montre, { passive: true }); capte.addEventListener('touchmove', montre, { passive: true });
+    capte.addEventListener('mouseleave', cache);
+  }
+
+  function nbSemaines(c) {
+    var t = c.payes.map(function (x) { return x.t ? x.t.getTime() : Date.now(); });
+    if (!t.length) return 4;
+    return Math.ceil((lundi(new Date()) - lundi(new Date(Math.min.apply(null, t)))) / (7 * 864e5)) + 1;
+  }
+  function echelle(max) { var e = Math.pow(10, Math.floor(Math.log10(max / 4 || 1))); var r = max / 4 / e; return (r <= 1 ? 1 : r <= 2 ? 2 : r <= 5 ? 5 : 10) * e; }
+  function court(v) { return v >= 1e6 ? (v / 1e6).toLocaleString('fr-FR', { maximumFractionDigits: 1 }) + ' M' : v >= 1e3 ? (v / 1e3).toLocaleString('fr-FR', { maximumFractionDigits: 1 }) + ' k' : String(Math.round(v)); }
+  function lisse(p) {
+    if (p.length < 3) return p.map(function (q, i) { return (i ? 'L' : 'M') + q[0] + ' ' + q[1]; }).join(' ');
+    var d = 'M' + p[0][0] + ' ' + p[0][1];
+    for (var i = 0; i < p.length - 1; i++) {
+      var p0 = p[i - 1] || p[i], p1 = p[i], p2 = p[i + 1], p3 = p[i + 2] || p2;
+      var c1x = p1[0] + (p2[0] - p0[0]) / 6, c1y = p1[1] + (p2[1] - p0[1]) / 6;
+      var c2x = p2[0] - (p3[0] - p1[0]) / 6, c2y = p2[1] - (p3[1] - p1[1]) / 6;
+      var bas = Math.max(p1[1], p2[1]); // la courbe ne plonge pas sous le point le plus bas
+      d += ' C' + c1x.toFixed(1) + ' ' + Math.min(c1y, bas).toFixed(1) + ' ' + c2x.toFixed(1) + ' ' + Math.min(c2y, bas).toFixed(1) + ' ' + p2[0].toFixed(1) + ' ' + p2[1].toFixed(1);
+    }
+    return d;
+  }
+
+  // ===== Barres hebdo =====
+  function dessinerBarres(c) {
+    var zone = document.getElementById('barres');
+    var s = seriePar(c, 's', 8, 'com');
+    var W = Math.max(300, zone.clientWidth || 480), H = 220, pl = 44, pr = 6, pt = 22, pb = 26;
+    var max = Math.max.apply(null, s.map(function (p) { return p.v; })) || 1;
+    var pas = echelle(max); max = pas * Math.ceil(max / pas);
+    var bw = (W - pl - pr) / s.length;
+    var y = function (v) { return pt + (1 - v / max) * (H - pt - pb); };
+    var g = '';
+    for (var t = 0; t <= max + 0.001; t += pas) g += '<line class="grille" x1="' + pl + '" x2="' + (W - pr) + '" y1="' + y(t) + '" y2="' + y(t) + '"/><text class="axe" x="' + (pl - 6) + '" y="' + (y(t) + 4) + '" text-anchor="end">' + court(t) + '</text>';
+    s.forEach(function (p, i) {
+      var enCours = i === s.length - 1;
+      var x = pl + i * bw + bw * .18, w = bw * .64, h = Math.max(2, y(0) - y(p.v));
+      g += '<rect class="monte" style="animation-delay:' + (i * 60) + 'ms" x="' + x.toFixed(1) + '" y="' + (y(0) - h).toFixed(1) + '" width="' + w.toFixed(1) + '" height="' + h.toFixed(1) + '" rx="6" fill="' + (enCours ? '#7cc4ff' : '#ffcc00') + '"><title>Semaine du ' + dfmt(p.d) + ' : ' + fcfa(p.v) + '</title></rect>';
+      if (p.v && bw > 34) g += '<text class="axe" x="' + (x + w / 2) + '" y="' + (y(0) - h - 6) + '" text-anchor="middle" style="fill:var(--texte);font-weight:700">' + court(p.v) + '</text>';
+      if (i % (bw < 40 ? 2 : 1) === 0 || enCours) g += '<text class="axe" x="' + (x + w / 2) + '" y="' + (H - 8) + '" text-anchor="middle">' + (enCours ? 'en cours' : dfmt(p.d)) + '</text>';
+    });
+    zone.innerHTML = '<svg viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Commissions par semaine">' + g + '</svg>';
+  }
+
+  // ===== Tableau =====
+  function dessinerTable() {
+    var c = calc(etat.data);
+    var l = c.f.filter(function (x) { return etat.filtre === 'tous' || (etat.filtre === 'paye' ? estPaye(x) : !estPaye(x)); })
+      .sort(function (a, b) { return (b.t || 0) - (a.t || 0); }).slice(0, 12);
+    var couleurs = ['#ffcc00', '#ffb347', '#c8742a', '#7cc4ff', '#4ade80', '#f9a8d4'];
+    var z = document.getElementById('table');
+    if (!l.length) { z.innerHTML = '<p class="faible" style="padding:20px 0">Aucun paiement pour l\'instant. Partage ton lien pour démarrer.</p>'; return; }
+    z.innerHTML = '<table><thead><tr><th>Étudiant</th><th>Campus</th><th>Date</th><th>Statut</th><th class="r">Ta commission</th></tr></thead><tbody>'
+      + l.map(function (x) {
+        var ini = (x.nom || '?').split(/\s+/).map(function (m) { return m[0]; }).join('').slice(0, 2).toUpperCase();
+        var col = couleurs[(x.nom || '').length % couleurs.length];
+        return '<tr><td><span class="avatar" style="background:' + col + '">' + esc(ini) + '</span>' + esc(x.nom) + '</td><td class="doux">' + esc(x.campus || '—') + '</td>'
+          + '<td class="doux num">' + (x.t ? dfmt(x.t) + ', ' + String(x.t.getHours()).padStart(2, '0') + 'h' + String(x.t.getMinutes()).padStart(2, '0') : '') + '</td>'
+          + '<td>' + (estPaye(x) ? '<span class="pill paye">Payé</span>' : '<span class="pill inscrit">Inscrit</span>') + '</td>'
+          + '<td class="r">' + (estPaye(x) ? '<b style="color:var(--or)">+' + fcfa(gain(x)) + '</b>' : '<span class="faible">—</span>') + '</td></tr>';
+      }).join('') + '</tbody></table>';
+  }
+
+  // ===== Simulateur =====
+  function majSimu() {
+    var n = etat.simu;
+    document.getElementById('simuVal').textContent = n;
+    document.getElementById('simuS').textContent = fcfa(n * COMMISSION);
+    document.getElementById('simuM').textContent = fcfa(n * COMMISSION * 52 / 12);
+    document.getElementById('simuA').textContent = fcfa(n * COMMISSION * 52);
+  }
+
+  // ===== Compteurs animés =====
+  function animerCompteurs() {
+    app.querySelectorAll('[data-compte]').forEach(function (el) {
+      var cible = +el.getAttribute('data-compte'), f = el.hasAttribute('data-f');
+      var fmt = function (v) { return f ? fcfa(v) : nb(v); };
+      if (reduit) { el.textContent = fmt(cible); return; }
+      var t0 = performance.now(), dur = 1300;
+      (function pas(t) { var k = Math.min(1, (t - t0) / dur), e = 1 - Math.pow(1 - k, 3); el.textContent = fmt(cible * e); if (k < 1) requestAnimationFrame(pas); })(t0);
+    });
+    requestAnimationFrame(function () { var dn = app.querySelector('[data-donut]'); if (dn) dn.style.strokeDashoffset = dn.getAttribute('data-donut'); });
+  }
+
+  // ===== Compte à rebours =====
+  function prochainVersement() {
+    var n = new Date(), d = new Date(n);
+    d.setHours(HEURE_VERSEMENT, 0, 0, 0);
+    d.setDate(d.getDate() + ((JOUR_VERSEMENT - d.getDay() + 7) % 7));
+    if (d <= n) d.setDate(d.getDate() + 7);
+    return d;
+  }
+  var minuteur;
+  function lancerCompte() {
+    clearInterval(minuteur);
+    var cible = prochainVersement();
+    var t = document.getElementById('prochain');
+    t.textContent = 'Prochain versement : ' + ['dimanche', 'lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi'][cible.getDay()] + ' ' + dfmt(cible) + ', ' + HEURE_VERSEMENT + 'h';
+    var cases = document.querySelectorAll('#compte b');
+    function tic() {
+      var r = Math.max(0, cible - new Date());
+      var v = [Math.floor(r / 864e5), Math.floor(r / 36e5) % 24, Math.floor(r / 6e4) % 60, Math.floor(r / 1e3) % 60];
+      v.forEach(function (x, i) { cases[i].textContent = String(x).padStart(2, '0'); });
+    }
+    tic(); minuteur = setInterval(tic, 1000);
+  }
+
+  // ===== Interactions =====
+  function brancher() {
+    app.querySelectorAll('[data-cle]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var cle = b.getAttribute('data-cle'); etat[cle] = b.getAttribute('data-val');
+        app.querySelectorAll('[data-cle="' + cle + '"]').forEach(function (x) { x.setAttribute('aria-pressed', x === b); });
+        if (cle === 'filtre') dessinerTable(); else dessinerCourbe();
+      });
+    });
+    document.getElementById('simu').addEventListener('input', function (e) { etat.simu = +e.target.value; majSimu(); });
+    document.getElementById('copier').addEventListener('click', function () {
+      var b = this;
+      if (window.parent !== window && !etat.data.demo) { parent.postMessage({ type: 'copier' }, '*'); return; }
+      var lien = 'https://' + etat.data.lien.replace(/^https?:\/\//, '');
+      try { navigator.clipboard.writeText(lien).then(function () { b.textContent = 'Lien copié !'; }, function () { b.textContent = lien; }); } catch (e) { b.textContent = lien; }
+    });
+    document.getElementById('wa').addEventListener('click', function () {
+      if (window.parent !== window && !etat.data.demo) { parent.postMessage({ type: 'whatsapp' }, '*'); return; }
+      window.open('https://wa.me/?text=' + encodeURIComponent('Prends ton Pass Premium HSA avec mon code ' + etat.data.code + ' : https://' + etat.data.lien), '_blank');
+    });
+  }
+
+  var largeur = window.innerWidth;
+  window.addEventListener('resize', function () {
+    if (!etat.data || !etat.data.estAmbassadeur || Math.abs(window.innerWidth - largeur) < 40) return;
+    largeur = window.innerWidth; dessinerCourbe(); dessinerBarres(calc(etat.data));
+  });
+
+  // ===== Liaison avec la page Wix (Velo) =====
+  // La page envoie : { type: 'data', data: { estAmbassadeur, prenom, code, lien, filleuls: [{ nom, campus, statut, montant (commission), prix (payé par l'étudiant), date }],
+  //   versements: [{ date, montant }], totalVerse, aVerser, rang, nbAmbassadeurs, top, vuesTikTok } }
+  var recu = false;
+  window.addEventListener('message', function (e) {
+    var m = e.data || {};
+    if (m.type === 'data') { recu = true; rendre(m.data); }
+    if (m.type === 'copie') { var b = document.getElementById('copier'); if (b) b.textContent = 'Lien copié !'; }
+  });
+  try { parent.postMessage({ type: 'pret' }, '*'); } catch (e) {}
+  setTimeout(function () { if (!recu) rendre(demo()); }, window.parent === window ? 0 : 1500);
+})();
+</script>
+</body>
+</html>
