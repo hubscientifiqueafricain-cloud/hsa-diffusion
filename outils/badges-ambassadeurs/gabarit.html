@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<style>
+  :root {
+    --brun: #1f0d03;
+    --creme: #fff7ea;
+    --jaune: #fecb00;
+    --orange: #c8410f;
+    --texte2: #6b4a2f;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { background: transparent; }
+  body { font-family: "Inter Display", "Inter", system-ui, sans-serif; color: var(--brun); -webkit-font-smoothing: antialiased; }
+
+  /* ---------- LE BADGE ---------- */
+  .badge {
+    width: 540px; height: 856px;
+    background: #fff; border-radius: 34px; overflow: hidden;
+    display: flex; flex-direction: column; position: relative;
+  }
+  .badge .tete {
+    background: var(--brun); height: 196px; flex: none;
+    display: flex; flex-direction: column; align-items: center; justify-content: flex-end;
+    padding-bottom: 26px; position: relative;
+  }
+  .badge .fente {
+    position: absolute; top: 22px; left: 50%; transform: translateX(-50%);
+    width: 92px; height: 16px; border-radius: 10px; background: #fff; opacity: .95;
+  }
+  .badge .tete img { height: 62px; }
+  .badge .role {
+    margin-top: 16px; color: #fff; font-weight: 800; font-size: 21px; letter-spacing: .26em;
+  }
+  .badge .corps { flex: 1; overflow: hidden; display: flex; flex-direction: column; align-items: center; padding: 26px 40px 0; min-height: 0; }
+  .badge .photo {
+    width: 228px; height: 228px; border-radius: 50%; padding: 8px; background: var(--jaune); flex: none;
+  }
+  .badge .photo img {
+    width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: {{cadrage}};
+    display: block; background: #eee;
+  }
+  .badge .prenom { margin-top: 20px; font-weight: 900; font-size: {{taille_prenom}}px; line-height: 1.05; letter-spacing: -.02em; text-align: center; white-space: nowrap; }
+  .badge .nom { margin-top: 6px; font-weight: 800; font-size: {{taille_nom}}px; line-height: 1.05; letter-spacing: .02em; text-transform: uppercase; text-align: center; white-space: nowrap; }
+  .badge .univ { margin-top: 12px; font-weight: 700; font-size: 20px; line-height: 1.25; text-align: center; color: var(--texte2); max-width: 440px; }
+  .badge .lieu { margin-top: 4px; font-weight: 500; font-size: 18px; color: var(--texte2); text-align: center; }
+  .badge .niveau {
+    margin-top: 12px; font-weight: 700; font-size: 15px; letter-spacing: .08em; text-transform: uppercase;
+    background: #fff3c4; color: var(--brun); padding: 6px 14px; border-radius: 999px;
+  }
+  .badge .infos {
+    margin-top: auto; width: 100%; border-top: 2px dashed #eadfcf;
+    display: flex; align-items: center; justify-content: space-between; padding: 12px 0 16px;
+  }
+  .badge .infos dl { display: grid; grid-template-columns: auto; row-gap: 6px; }
+  .badge .infos dt { font-size: 12px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: #a08670; }
+  .badge .infos dd { font-family: "JetBrains Mono", monospace; font-weight: 800; font-size: 21px; margin-top: 1px; }
+  .badge .qr { width: 96px; height: 96px; flex: none; }
+  .badge .qr img { width: 100%; height: 100%; image-rendering: pixelated; display: block; }
+  .badge .pied {
+    background: var(--jaune); height: 68px; flex: none;
+    display: flex; align-items: center; justify-content: space-between; padding: 0 30px;
+    font-weight: 800; font-size: 17px; white-space: nowrap;
+  }
+  .badge .pied span:last-child { font-weight: 600; font-size: 13px; }
+
+  /* ---------- BADGE SEUL ---------- */
+  body.seul { width: 540px; height: 856px; }
+
+  /* ---------- VISUELS BIENVENUE ---------- */
+  .scene { position: relative; overflow: hidden; background: var(--creme); }
+  .scene .logo {
+    position: absolute; background: var(--brun); border-radius: 22px; padding: 18px 24px;
+  }
+  .scene .logo img { height: 48px; display: block; }
+  .scene .pastille {
+    position: absolute; background: var(--brun); color: var(--jaune); border-radius: 999px;
+    font-weight: 800; font-size: 22px; letter-spacing: .04em; padding: 14px 26px;
+  }
+  .scene h1 { position: absolute; font-weight: 900; letter-spacing: -.035em; line-height: 1.02; }
+  .scene h1 mark { background: var(--jaune); color: var(--brun); border-radius: 14px; padding: 0 14px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .scene h1 em { font-style: normal; color: var(--orange); }
+  .scene .rond { position: absolute; border-radius: 50%; background: var(--jaune); }
+  .scene .cordon {
+    position: absolute; width: 34px; background: var(--brun); border-radius: 8px;
+  }
+  .scene .attache {
+    position: absolute; width: 68px; height: 34px; border-radius: 8px; background: #c9c3bb; border: 4px solid #9f978d;
+  }
+  .scene .porte { position: absolute; transform-origin: 50% 0; }
+  .scene .porte .badge { box-shadow: 0 30px 60px rgba(31,13,3,.28), 0 6px 14px rgba(31,13,3,.15); }
+  .scene .texte { position: absolute; }
+  .scene .texte p { font-size: 28px; line-height: 1.35; color: var(--texte2); }
+  .scene .texte p b { color: var(--brun); }
+  .scene .code {
+    margin-top: 26px; background: #fff; border-radius: 22px; padding: 20px 24px;
+    box-shadow: 0 4px 0 rgba(31,13,3,.06);
+  }
+  .scene .code small { display: block; font-size: 17px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: #a08670; }
+  .scene .code strong { display: block; margin-top: 6px; font-family: "JetBrains Mono", monospace; font-size: 36px; font-weight: 800; }
+  .scene .code span { display: block; margin-top: 6px; font-size: 19px; color: var(--texte2); }
+  .scene .appel {
+    position: absolute; font-size: 22px; font-weight: 600; color: var(--texte2);
+  }
+  .scene .appel b { color: var(--brun); }
+
+  /* 4:5 Facebook / Instagram */
+  body.post { width: 1080px; height: 1350px; }
+  body.post .scene { width: 1080px; height: 1350px; }
+  body.post .logo { left: 64px; top: 56px; }
+  body.post .pastille { right: 64px; top: 72px; }
+  body.post h1 { left: 64px; top: 178px; width: 960px; font-size: {{taille_titre_post}}px; }
+  body.post .rond { width: 860px; height: 860px; left: 500px; top: 520px; }
+  body.post .cordon { left: 812px; top: 470px; height: 120px; }
+  body.post .attache { left: 795px; top: 580px; }
+  body.post .porte { left: 560px; top: 604px; transform: rotate(3deg) scale(.82); transform-origin: 50% 0; }
+  body.post .texte { left: 64px; top: 600px; width: 480px; }
+  body.post .appel { left: 64px; bottom: 60px; width: 470px; }
+
+  /* 9:16 Story / Statut WhatsApp */
+  body.story { width: 1080px; height: 1920px; }
+  body.story .scene { width: 1080px; height: 1920px; }
+  body.story .logo { left: 64px; top: 90px; }
+  body.story .pastille { right: 64px; top: 106px; }
+  body.story h1 { left: 64px; top: 230px; width: 960px; font-size: {{taille_titre_story}}px; text-align: left; }
+  body.story .rond { width: 1300px; height: 1300px; left: -110px; top: 760px; }
+  body.story .cordon { left: 523px; top: 520px; height: 150px; }
+  body.story .attache { left: 506px; top: 660px; }
+  body.story .porte { left: 270px; top: 684px; transform: rotate(-2deg) scale(1.12); }
+  body.story .texte { left: 64px; right: 64px; top: 1676px; }
+  body.story .texte p { display: none; }
+  body.story .code { margin-top: 0; display: flex; align-items: center; justify-content: space-between; }
+  body.story .code span { display: none; }
+  body.story .appel { left: 64px; right: 64px; bottom: 36px; text-align: center; font-size: 24px; }
+</style>
+</head>
+<body class="{{format}}">
+
+<template id="t-badge">
+  <div class="badge">
+    <div class="tete">
+      <div class="fente"></div>
+      <img src="{{logo}}" alt="HSA">
+      <div class="role">{{role_majuscules}}</div>
+    </div>
+    <div class="corps">
+      <div class="photo"><img src="{{photo}}" alt=""></div>
+      <div class="prenom">{{prenom}}</div>
+      <div class="nom">{{nom}}</div>
+      <div class="univ">{{universite}}</div>
+      <div class="lieu">{{lieu}}</div>
+      {{bloc_niveau}}
+      <div class="infos">
+        <dl>
+          <div><dt>N° de badge</dt><dd>{{numero}}</dd></div>
+          <div><dt>Code promo</dt><dd>{{code}}</dd></div>
+        </dl>
+        <div class="qr"><img src="{{qr}}" alt=""></div>
+      </div>
+    </div>
+    <div class="pied"><span>{{role_titre}} {{annee}}</span><span>hubscientifiqueafricain.com</span></div>
+  </div>
+</template>
+
+<div id="racine"></div>
+
+<script>
+  const fmt = document.body.className;
+  const badge = document.getElementById("t-badge").content.cloneNode(true);
+  const racine = document.getElementById("racine");
+  if (fmt === "seul") {
+    racine.appendChild(badge);
+  } else {
+    racine.innerHTML = `
+      <div class="scene">
+        <div class="rond"></div>
+        <div class="logo"><img src="{{logo}}" alt="HSA"></div>
+        <div class="pastille">● {{pastille}}</div>
+        <h1>Bienvenue à {{article}}<br><mark>{{nouveau_role}}</mark><br><em>{{prenom}} {{nom}}</em></h1>
+        <div class="texte">
+          <p>{{il_elle}} représente <b>HSA</b> {{a_univ}}<b>{{universite}}</b>{{lieu_phrase}} pour l'année <b>{{annee}}</b>.</p>
+          <div class="code">
+            <small>Son code promo</small>
+            <strong>{{code}}</strong>
+            <span>À utiliser pour ton Pass HSA</span>
+          </div>
+        </div>
+        <div class="cordon"></div>
+        <div class="attache"></div>
+        <div class="porte"></div>
+        <div class="appel">Toi aussi, représente HSA dans ton université :<br><b>hubscientifiqueafricain.com/ambassadeurs</b></div>
+      </div>`;
+    racine.querySelector(".porte").appendChild(badge);
+  }
+
+  // Ajustement automatique pour les noms et universités longs.
+  const px = (el) => parseFloat(getComputedStyle(el).fontSize);
+  document.querySelectorAll(".badge").forEach((b) => {
+    const corps = b.querySelector(".corps");
+    for (const sel of [".prenom", ".nom"]) {
+      const el = b.querySelector(sel);
+      while (el.scrollWidth > corps.clientWidth - 70 && px(el) > 16) el.style.fontSize = px(el) - 1 + "px";
+    }
+    const photo = b.querySelector(".photo");
+    const univ = b.querySelector(".univ");
+    let garde = 0;
+    while (corps.scrollHeight > corps.clientHeight + 1 && garde++ < 60) {
+      if (photo.offsetWidth > 170) { photo.style.width = photo.style.height = photo.offsetWidth - 6 + "px"; }
+      else if (px(univ) > 15) { univ.style.fontSize = px(univ) - 1 + "px"; }
+      else break;
+    }
+  });
+  const titre = document.querySelector(".scene h1");
+  if (titre) {
+    const maxi = fmt === "post" ? 360 : 400;
+    while (titre.offsetHeight > maxi && px(titre) > 40) titre.style.fontSize = px(titre) - 2 + "px";
+  }
+</script>
+</body>
+</html>

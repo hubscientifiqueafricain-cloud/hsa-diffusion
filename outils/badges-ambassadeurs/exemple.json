@@ -1,0 +1,15 @@
+[
+  {
+    "prenom": "Aïcha",
+    "nom": "Koné",
+    "genre": "F",
+    "universite": "Université Félix Houphouët-Boigny",
+    "ville": "Abidjan",
+    "pays": "Côte d'Ivoire",
+    "niveau": "Master 1 · Biologie",
+    "numero": "HSA-CI-001",
+    "code": "HSA-AICHA26",
+    "photo": "assets/exemple-photo.jpg",
+    "cadrage": "50% 30%"
+  }
+]
