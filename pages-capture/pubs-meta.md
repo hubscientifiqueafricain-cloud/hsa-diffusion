@@ -56,3 +56,7 @@ Pages en ligne : /ambassadeurs et /gagner-argent-memoire-these (formulaires test
 - Visuel : pub-ambassadeur-badge-1080x1350.jpg (hash 12494bc8297ebb75401f37065e278bce)
 - Créa : 4519567615040089 (titre « Représente HSA dans ton université cette rentrée », utm_content=badge)
 - Branchée sur les pubs badge 120251314944590165, 120251314954960165, 120251314955420165 (brouillon, rien lancé)
+
+## Ambassadeurs · badge v5 (année dans le titre)
+- Visuel : pub-ambassadeur-badge-1080x1350.jpg (hash f321e2ff79b8420b42330f58b34ccc81), étiquette « Recrutement ouvert »
+- Créa : 1457447599818366 (titre « Représente HSA dans ton université cette rentrée 2026-2027 »), branchée sur les 3 pubs badge (brouillon)
