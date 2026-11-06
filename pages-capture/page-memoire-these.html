@@ -80,7 +80,7 @@
   @media (max-width: 820px) { .avantages { grid-template-columns: 1fr; } }
   footer { text-align: center; color: var(--doux); font-size: 13px; padding: 30px 0 40px; }
   @media (max-width: 820px) {
-    .hero, .offre { grid-template-columns: 1fr; }
+    .hero, .offre { grid-template-columns: minmax(0, 1fr); } .hero > *, .offre > * { min-width: 0; }
     .grille { grid-template-columns: 1fr; }
     header .btn { display: none; }
     .hero .lead, .hero > div:first-child > .btn { display: none; }
