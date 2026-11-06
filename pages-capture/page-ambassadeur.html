@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Deviens ambassadeur HSA sur ton campus</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap">
+<style>
+  :root {
+    --nuit: #160801; --brun: #230e02; --or: #ffcc00; --or-2: #ffb347;
+    --texte: #fbf4ea; --doux: #d9c6b0; --verre: rgba(255,255,255,.07); --verre-fort: rgba(255,255,255,.12);
+    --bord: rgba(255,255,255,.16); --ok: #4ade80; --rayon: 22px;
+    --display: "Bricolage Grotesque", "Trebuchet MS", sans-serif;
+    --body: "Plus Jakarta Sans", "Segoe UI", Roboto, Arial, sans-serif;
+    color-scheme: dark;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: var(--body); color: var(--texte); line-height: 1.6; overflow-x: hidden;
+    background: radial-gradient(120% 70% at 50% 0%, #3b1a07 0%, #1d0b02 55%, #120601 100%) fixed, var(--nuit); }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+  .verre { background: var(--verre); border: 1px solid var(--bord); border-radius: var(--rayon);
+    box-shadow: 0 20px 50px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.12); }
+  header { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 18px 0; }
+  header img { height: 30px; width: auto; display: block; }
+  h1, h2, h3 { font-family: var(--display); line-height: 1.12; margin: 0; }
+  h1 { font-size: clamp(32px, 6vw, 56px); font-weight: 800; letter-spacing: -.02em; }
+  h1 em { font-style: normal; color: var(--or); }
+  h2 { font-size: clamp(24px, 4vw, 36px); font-weight: 800; margin-bottom: 14px; }
+  h3 { font-size: 19px; margin-bottom: 6px; }
+  p { margin: 0 0 12px; }
+  .doux { color: var(--doux); }
+  .pastille { display: inline-flex; gap: 8px; align-items: center; padding: 6px 14px; border-radius: 999px;
+    background: rgba(255,204,0,.12); border: 1px solid rgba(255,204,0,.35); color: var(--or); font-weight: 700; font-size: 13px; margin-bottom: 16px; }
+  .hero { display: grid; grid-template-columns: 1.1fr .9fr; gap: 32px; align-items: start; padding: 24px 0 40px; }
+  .hero .lead { font-size: 18px; color: var(--doux); margin: 18px 0 20px; }
+  .puces { list-style: none; padding: 0; margin: 0 0 20px; display: grid; gap: 10px; }
+  .puces li { display: flex; gap: 10px; align-items: flex-start; }
+  .puces li::before { content: "✓"; color: var(--brun); background: var(--or); border-radius: 50%; width: 22px; height: 22px; flex: 0 0 22px;
+    display: grid; place-items: center; font-size: 13px; font-weight: 800; margin-top: 2px; }
+  .btn { display: inline-flex; align-items: center; justify-content: center; gap: 10px; padding: 15px 24px; border-radius: 999px; border: 0;
+    font: 700 16px var(--body); cursor: pointer; text-decoration: none; transition: transform .15s; text-align: center; }
+  .btn:hover { transform: translateY(-2px); }
+  .btn:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
+  .btn-or { background: linear-gradient(135deg, var(--or), var(--or-2)); color: var(--brun); box-shadow: 0 10px 30px rgba(255,204,0,.35); }
+  .btn-wa { background: #25d366; color: #062e16; }
+  .btn-verre { background: var(--verre-fort); color: var(--texte); border: 1px solid var(--bord); }
+  .btn-bloc { width: 100%; }
+  .carte { padding: 24px; }
+  form h2 { font-size: 24px; margin-bottom: 6px; }
+  .champs { display: grid; gap: 12px; margin-top: 14px; }
+  .champ { display: flex; flex-direction: column; gap: 5px; }
+  .champ label { font-size: 14px; font-weight: 600; }
+  .champ input, .champ select { width: 100%; padding: 13px 14px; border-radius: 14px; border: 1px solid var(--bord);
+    background: rgba(0,0,0,.25); color: var(--texte); font: 16px var(--body); outline: none; }
+  .champ select option { background: var(--brun); }
+  .champ input:focus, .champ select:focus { border-color: var(--or); box-shadow: 0 0 0 4px rgba(255,204,0,.15); }
+  .erreur { color: #fca5a5; font-size: 14px; min-height: 20px; margin: 8px 0 0; }
+  .petit { font-size: 13px; color: var(--doux); margin-top: 10px; }
+  section { padding: 36px 0; }
+  .grille { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .grille .carte { padding: 20px; }
+  .num { font-family: var(--display); font-size: 30px; font-weight: 800; color: var(--or); }
+  .offre { display: grid; grid-template-columns: 1.2fr .8fr; gap: 24px; align-items: center; padding: 28px; border-color: rgba(255,204,0,.45); }
+  .prix { font-family: var(--display); font-size: 44px; font-weight: 800; color: var(--or); line-height: 1; }
+  .barre { text-decoration: line-through; color: var(--doux); font-size: 16px; }
+  .bravo { display: none; text-align: center; }
+  .bravo.visible { display: block; }
+  .bravo .actions { display: grid; gap: 12px; margin-top: 18px; }
+  details { padding: 16px 20px; margin-bottom: 10px; }
+  summary { cursor: pointer; font-weight: 700; }
+  details p { margin: 10px 0 0; color: var(--doux); }
+  .hero-seul { grid-template-columns: 1fr; max-width: 760px; }
+  .grille-2 { grid-template-columns: repeat(2, 1fr); }
+  .candidature { max-width: 620px; margin: 0 auto; }
+  @media (max-width: 820px) { .grille-2 { grid-template-columns: 1fr; } .hero-seul .lead, .hero-seul > div > .btn { display: block; } }
+  footer { text-align: center; color: var(--doux); font-size: 13px; padding: 30px 0 40px; }
+  @media (max-width: 820px) {
+    .hero, .offre { grid-template-columns: 1fr; }
+    .grille { grid-template-columns: 1fr; }
+    header .btn { display: none; }
+    .hero .lead, .hero > div:first-child > .btn { display: none; }
+    .hero h1 { margin-bottom: 14px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <img src="data:image/png;base64,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" alt="HSA, Hub Scientifique Africain">
+    <a class="btn btn-wa v-groupe" href="#" target="_blank" rel="noopener">Rejoindre le groupe des ambassadeurs</a>
+  </header>
+
+  <div class="hero hero-seul">
+    <div>
+      <span class="pastille">On recrute des campus ambassadeurs</span>
+      <h1>Représente HSA sur ton campus et <em>gagne de l'argent</em>.</h1>
+      <p class="lead">Tu connais tout le monde à la fac ? Où que tu sois en Afrique francophone, deviens ambassadeur du Hub Scientifique Africain : tu fais connaître HSA aux étudiants de ton campus et tu touches une commission sur chaque inscription payée avec ton code.</p>
+      <ul class="puces">
+        <li><span><b>500 FCFA</b> par Pass Premium payé avec ton code</span></li>
+        <li>Versés chaque semaine par mobile money, sans plafond</li>
+        <li>Un bonus chaque semaine pour les meilleurs</li>
+        <li>Un contrat de manager de campus possible pour les meilleurs</li>
+        <li>Seul ou en équipe, comme tu veux</li>
+        <li>Un espace pour suivre les paiements faits avec ton code</li>
+        <li>Certificat d'ambassadeur et accès gratuit au réseau</li>
+      </ul>
+      <a class="btn btn-or" href="#candidature">Je pose ma candidature</a>
+    </div>
+  </div>
+
+  <section id="criteres">
+    <h2>Qui peut devenir ambassadeur ?</h2>
+    <div class="grille grille-2">
+      <div class="verre carte"><div class="num">🎓</div><h3>Tu es à l'université</h3><p class="doux">Étudiant en licence, master ou doctorat, ou diplômé récemment, dans une université ou une grande école d'Afrique francophone.</p></div>
+      <div class="verre carte"><div class="num">🤝</div><h3>Tu as un bon réseau</h3><p class="doux">Groupes WhatsApp de promo, associations, bureau des étudiants, délégués, clubs : tu touches beaucoup d'étudiants autour de toi.</p></div>
+      <div class="verre carte"><div class="num">⚡</div><h3>Tu es dynamique</h3><p class="doux">Tu aimes parler aux gens, tu es régulier et sérieux. C'est ce qui fait la différence sur les résultats et sur tes gains.</p></div>
+      <div class="verre carte"><div class="num">🌍</div><h3>Tu veux créer de l'impact avec la science</h3><p class="doux">Tu as envie de contribuer à faire connaître la recherche africaine et à aider les étudiants à tirer profit de leurs travaux.</p></div>
+    </div>
+  </section>
+
+  <section id="candidature">
+    <div class="candidature">
+      <div class="verre carte">
+        <form id="formulaire" novalidate>
+          <h2>Pose ta candidature</h2>
+          <p class="doux">2 minutes. Réponse sur WhatsApp sous 48 h.</p>
+          <div class="champs">
+            <div class="champ"><label for="prenom">Prénom</label><input id="prenom" autocomplete="given-name" required></div>
+            <div class="champ"><label for="nom">Nom</label><input id="nom" autocomplete="family-name"></div>
+            <div class="champ"><label for="whatsapp">Numéro WhatsApp</label><input id="whatsapp" type="tel" inputmode="tel" autocomplete="tel" placeholder="Avec l'indicatif, ex. : +221 77 000 00 00" required></div>
+            <div class="champ"><label for="email">E-mail (facultatif)</label><input id="email" type="email" autocomplete="email"></div>
+            <div class="champ"><label for="universite">Université ou école</label><input id="universite" placeholder="Ex. : Université Cheikh Anta Diop" required></div>
+            <div class="champ"><label for="campus">Ville / campus</label><input id="campus" placeholder="Ex. : Abidjan, Dakar, Lomé, Yaoundé…"></div>
+            <div class="champ"><label for="niveau">Ton niveau</label>
+              <select id="niveau" required>
+                <option value="">Choisir…</option>
+                <option>Licence</option>
+                <option>Master</option>
+                <option>Doctorat</option>
+                <option>Jeune diplômé(e)</option>
+              </select>
+            </div>
+            <div class="champ"><label for="motivation">Pourquoi toi ? (associations, groupes WhatsApp, délégué…)</label><input id="motivation" placeholder="Ex. : délégué de promo, 3 groupes de 200 étudiants"></div>
+          </div>
+          <p class="erreur" id="erreur" role="alert"></p>
+          <button class="btn btn-or btn-bloc" type="submit">Envoyer ma candidature</button>
+          <p class="petit">Tes informations servent uniquement à étudier ta candidature. HSA ne les partage avec personne.</p>
+        </form>
+  
+        <div class="bravo" id="bravo" aria-live="polite">
+          <h2>Candidature reçue, <span id="bravo-prenom"></span> !</h2>
+          <p class="doux">Envoie-nous un message pour accélérer ta validation, puis rejoins le groupe des ambassadeurs : c'est là qu'on partage les visuels, les messages prêts à envoyer et les résultats de la semaine.</p>
+          <div class="actions">
+            <a class="btn btn-wa v-confirmer" href="#" target="_blank" rel="noopener">Confirmer sur WhatsApp</a>
+            <a class="btn btn-verre v-groupe" href="#" target="_blank" rel="noopener">Rejoindre le groupe des ambassadeurs</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section id="comment">
+    <h2>Comment ça marche</h2>
+    <div class="grille">
+      <div class="verre carte"><div class="num">1</div><h3>Tu candidates</h3><p class="doux">On valide ton profil sous 48 h et tu reçois ton code ambassadeur personnel et ton espace, où tu suis tous les étudiants que tu as parrainés, ce qu'ils ont payé et tes gains.</p></div>
+      <div class="verre carte"><div class="num">2</div><h3>Tu partages</h3><p class="doux">Groupes WhatsApp, amphis, associations : on te donne les visuels et les messages. Les étudiants paient avec ton code.</p></div>
+      <div class="verre carte"><div class="num">3</div><h3>Tu es payé</h3><p class="doux">Chaque semaine, on te verse tes commissions par mobile money : 500 FCFA sur chaque abonnement Premium payé avec ton code. 20 abonnements = 10 000 FCFA pour toi.</p></div>
+    </div>
+  </section>
+
+  <section id="tiktok">
+    <div class="verre offre">
+      <div>
+        <span class="pastille">Bonus · Challenge TikTok HSA</span>
+        <h2>Fais une vidéo, fais des vues, gagne de l'argent.</h2>
+        <p class="doux">En plus de tes commissions, participe au challenge TikTok des ambassadeurs : publie des vidéos de promotion de HSA sur ton compte TikTok.</p>
+        <ul class="puces">
+          <li>Chaque semaine, la vidéo qui fait le plus de vues est récompensée</li>
+          <li>Autant de vidéos que tu veux, dans ton style</li>
+          <li>Les résultats sont annoncés dans le groupe des ambassadeurs</li>
+        </ul>
+      </div>
+      <div style="text-align:center">
+        <div class="prix" style="font-size:64px">🎬</div>
+        <p class="doux" style="margin-top:10px">La vidéo de la semaine avec le plus de vues gagne une rémunération.</p>
+        <a class="btn btn-or btn-bloc" href="#candidature">Je participe</a>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Questions fréquentes</h2>
+    <details class="verre"><summary>Qu'est-ce qu'un ambassadeur HSA ?</summary><p>C'est un étudiant ou un jeune chercheur qui représente le Hub Scientifique Africain dans son université : il fait connaître HSA autour de lui et touche une commission sur chaque inscription payée avec son code.</p></details>
+    <details class="verre"><summary>Est-ce que je dois payer quelque chose ?</summary><p>Non. Devenir ambassadeur est gratuit. Tu es payé uniquement à la commission, sur les inscriptions réellement payées avec ton code.</p></details>
+    <details class="verre"><summary>Combien je peux gagner ?</summary><p>500 FCFA pour chaque Pass Premium HSA payé avec ton code, sans plafond. Par exemple, 40 Pass dans le mois font 20 000 FCFA. En plus, un bonus est offert chaque semaine aux meilleurs ambassadeurs. Tes gains dépendent uniquement de tes inscriptions.</p></details>
+    <details class="verre"><summary>Quand et comment suis-je payé ?</summary><p>Chaque semaine, par mobile money (Wave, Orange Money, MTN, Moov…), pour toutes les inscriptions payées et vérifiées la semaine précédente.</p></details>
+    <details class="verre"><summary>Comment HSA sait que l'inscription vient de moi ?</summary><p>Tu reçois un code personnel. L'étudiant le saisit au moment de payer, et l'inscription s'affiche dans ton espace ambassadeur : tu y suis toutes les personnes que tu as parrainées, ce qu'elles ont payé, tes gains et tes versements.</p></details>
+    <details class="verre"><summary>Je ne suis pas en Côte d'Ivoire, je peux postuler ?</summary><p>Oui. On recrute dans toute l'Afrique francophone : Sénégal, Cameroun, Bénin, Togo, Burkina Faso, Mali, Niger, Guinée, Gabon, Congo, RDC, Madagascar… Tout se fait en ligne.</p></details>
+    <details class="verre"><summary>Qu'est-ce que je vais faire concrètement ?</summary><p>Partager les visuels HSA, présenter HSA à tes amis, à tes connaissances, dans tes réseaux et dans les associations, répondre aux questions des étudiants, les aider à s'inscrire avec ton code, et faire le point chaque semaine dans le groupe des ambassadeurs.</p></details>
+    <details class="verre"><summary>Combien de temps ça prend ?</summary><p>C'est toi qui décides, et tu peux travailler seul ou en équipe avec d'autres étudiants. Quelques messages par semaine dans tes groupes et un mot à la fin d'un cours suffisent pour commencer.</p></details>
+    <details class="verre"><summary>Qu'est-ce que HSA me fournit ?</summary><p>Ton code et ton espace de suivi, des visuels et des messages prêts à partager, une formation rapide pour bien présenter HSA, et le groupe des ambassadeurs pour poser tes questions.</p></details>
+    <details class="verre"><summary>Que se passe-t-il après ma candidature ?</summary><p>On étudie ta candidature et on te répond sur WhatsApp sous 48 heures. Si elle est retenue, tu reçois ton code et tu peux commencer tout de suite. Tu peux arrêter quand tu veux, sans engagement.</p></details>
+  </section>
+
+  <footer>HSA, Hub Scientifique Africain · hubscientifiqueafricain.com</footer>
+</div>
+
+<script>
+/* Réglages */
+const WHATSAPP_HSA = "2250707892970";
+const GROUPE_WHATSAPP = ""; /* lien d'invitation du groupe des ambassadeurs (https://chat.whatsapp.com/...) */
+const SOURCE = "ambassadeur";
+
+const $ = (s) => document.querySelector(s);
+const $$ = (s) => document.querySelectorAll(s);
+function wa(texte) { return "https://wa.me/" + WHATSAPP_HSA + "?text=" + encodeURIComponent(texte); }
+const lienGroupe = GROUPE_WHATSAPP || wa("Bonjour HSA, je veux rejoindre le groupe des ambassadeurs campus.");
+$$(".v-groupe").forEach(e => e.href = lienGroupe);
+
+function envoyer(d) { try { window.parent.postMessage(d, "*"); } catch (e) {} }
+function ouvrir(url) {
+  let w = null;
+  try { w = window.open(url, "_blank"); } catch (e) {}
+  if (w) { try { w.opener = null; } catch (e) {} } else { envoyer({ type: "hsa-open", url: url }); }
+}
+function aller(id) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  try { el.scrollIntoView({ behavior: "smooth", block: "start" }); } catch (e) {}
+  envoyer({ type: "hsa-scroll", offset: Math.max(0, Math.round(el.getBoundingClientRect().top + window.scrollY) - 20) });
+}
+document.addEventListener("click", (ev) => {
+  const a = ev.target.closest("a[href]");
+  if (!a) return;
+  const href = a.getAttribute("href");
+  if (href.startsWith("#")) { ev.preventDefault(); if (href.length > 1) aller(href.slice(1)); }
+  else if (a.target === "_blank") { ev.preventDefault(); envoyer({ type: "hsa-clic", source: SOURCE, lien: a.textContent.trim() }); ouvrir(a.href); }
+});
+
+$("#formulaire").addEventListener("submit", (ev) => {
+  ev.preventDefault();
+  const d = { type: "hsa-lead", source: SOURCE };
+  ["prenom", "nom", "whatsapp", "email", "universite", "campus", "niveau", "motivation"].forEach(k => d[k] = $("#" + k).value.trim());
+  const chiffres = d.whatsapp.replace(/\D/g, "");
+  if (!d.prenom || chiffres.length < 8 || !d.universite || !d.niveau) {
+    $("#erreur").textContent = "Merci d'indiquer ton prénom, un numéro WhatsApp valide, ton université et ton niveau.";
+    return;
+  }
+  $("#erreur").textContent = "";
+  envoyer(d);
+  $("#bravo-prenom").textContent = d.prenom;
+  $(".v-confirmer").href = wa("Bonjour HSA, je suis " + d.prenom + " " + d.nom + " (" + d.niveau + ", " + d.universite + "). Je viens de poser ma candidature pour être ambassadeur HSA sur mon campus.");
+  $("#formulaire").style.display = "none";
+  $("#bravo").classList.add("visible");
+  aller("bravo");
+});
+</script>
+</body>
+</html>
