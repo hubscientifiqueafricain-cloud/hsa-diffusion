@@ -75,3 +75,4 @@ Pages en ligne : /ambassadeurs et /gagner-argent-memoire-these (formulaires test
 - Créa : 1161510589773494 (utm_content=tiroir)
 - Remplace l'ancienne créa B sur les pubs 120251315702660165 (groupe 1 UEMOA) et 120251315707240165 (groupe 2, en pause)
 - Campagne 120251314430190165 toujours en BROUILLON, non lancée
+- 2026-11-06 12:11 UTC : campagne Pass Valoris PUBLIÉE sur go de l'utilisateur. Groupe 1 UEMOA actif (en examen Meta), groupe 2 vérifié en PAUSE.
