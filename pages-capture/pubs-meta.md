@@ -60,3 +60,12 @@ Pages en ligne : /ambassadeurs et /gagner-argent-memoire-these (formulaires test
 ## Ambassadeurs · badge v5 (année dans le titre)
 - Visuel : pub-ambassadeur-badge-1080x1350.jpg (hash f321e2ff79b8420b42330f58b34ccc81), étiquette « Recrutement ouvert »
 - Créa : 1457447599818366 (titre « Représente HSA dans ton université cette rentrée 2026-2027 »), branchée sur les 3 pubs badge (brouillon)
+
+## Pass Valoris · structure brouillon (6 nov. 2026)
+- Campagne 120251314430190165 · Trafic · budget campagne 3 USD/jour
+- Groupe 1 actif 120251314433760165 : CI, BF, ML, SN, BJ, TG, NE · 21-35 · Facebook
+  - Pub A main téléphone 120251314443730165 (créa 2002623364475037, hash bef7d34b04800966ff6062995129d577, utm_content=main)
+  - Pub B tiroir 120251315702660165 (créa 1006497982503063, hash c415c41d4b8fda247d2f6d832e2e1790, utm_content=tiroir)
+- Groupe 2 en pause 120251315702720165 : GN, CM, GA, CG, CD, TD, CF, MG · 21-35
+  - Pub A 120251315707160165 · Pub B 120251315707240165
+- Note : les créas portent maintenant un compte Instagram (17841414917162129), mais les placements restent Facebook seulement.
