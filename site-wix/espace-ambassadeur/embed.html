@@ -651,7 +651,9 @@
     if (m.type === 'copie') { var b = document.getElementById('copier'); if (b) b.textContent = 'Lien copié !'; }
   });
   try { parent.postMessage({ type: 'pret' }, '*'); } catch (e) {}
-  setTimeout(function () { if (!recu) rendre(demo()); }, window.parent === window ? 0 : 1500);
+  // Les données d'exemple ne s'affichent jamais sur le site : seulement dans la maquette.
+  var dansWix = /filesusr|wixsite|wix\.com|hubscientifiqueafricain/.test(location.hostname);
+  if (!dansWix) setTimeout(function () { if (!recu) rendre(demo()); }, window.parent === window ? 0 : 1500);
 })();
 </script>
 </body>
