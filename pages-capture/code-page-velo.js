@@ -29,6 +29,8 @@ $w.onReady(function () {
       prenom: d.prenom,
       nom: d.nom,
       whatsapp: d.whatsapp,
+      mobileMoney: d.mobilemoney,
+      operateur: d.operateur,
       email: d.email,
       niveau: d.niveau,
       discipline: d.discipline,

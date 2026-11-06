@@ -128,6 +128,19 @@
             <div class="champ"><label for="prenom">Prénom</label><input id="prenom" autocomplete="given-name" required></div>
             <div class="champ"><label for="nom">Nom</label><input id="nom" autocomplete="family-name"></div>
             <div class="champ"><label for="whatsapp">Numéro WhatsApp</label><input id="whatsapp" type="tel" inputmode="tel" autocomplete="tel" placeholder="Avec l'indicatif, ex. : +221 77 000 00 00" required></div>
+            <div class="champ"><label for="mobilemoney">Numéro mobile money (pour tes commissions)</label><input id="mobilemoney" type="tel" inputmode="tel" placeholder="Avec l'indicatif, ex. : +225 07 00 00 00 00" required></div>
+            <div class="champ"><label for="operateur">Opérateur mobile money</label>
+              <select id="operateur" required>
+                <option value="">Choisir…</option>
+                <option>Orange Money</option>
+                <option>MTN Mobile Money</option>
+                <option>Moov Money</option>
+                <option>Wave</option>
+                <option>Free Money</option>
+                <option>Airtel Money</option>
+                <option>Autre</option>
+              </select>
+            </div>
             <div class="champ"><label for="email">E-mail (facultatif)</label><input id="email" type="email" autocomplete="email"></div>
             <div class="champ"><label for="universite">Université ou école</label><input id="universite" placeholder="Ex. : Université Cheikh Anta Diop" required></div>
             <div class="champ"><label for="campus">Ville / campus</label><input id="campus" placeholder="Ex. : Abidjan, Dakar, Lomé, Yaoundé…"></div>
@@ -241,10 +254,11 @@ document.addEventListener("click", (ev) => {
 $("#formulaire").addEventListener("submit", (ev) => {
   ev.preventDefault();
   const d = { type: "hsa-lead", source: SOURCE };
-  ["prenom", "nom", "whatsapp", "email", "universite", "campus", "niveau", "motivation"].forEach(k => d[k] = $("#" + k).value.trim());
+  ["prenom", "nom", "whatsapp", "mobilemoney", "operateur", "email", "universite", "campus", "niveau", "motivation"].forEach(k => d[k] = $("#" + k).value.trim());
   const chiffres = d.whatsapp.replace(/\D/g, "");
-  if (!d.prenom || chiffres.length < 8 || !d.universite || !d.niveau) {
-    $("#erreur").textContent = "Merci d'indiquer ton prénom, un numéro WhatsApp valide, ton université et ton niveau.";
+  const chiffresMM = d.mobilemoney.replace(/\D/g, "");
+  if (!d.prenom || chiffres.length < 8 || chiffresMM.length < 8 || !d.operateur || !d.universite || !d.niveau) {
+    $("#erreur").textContent = "Merci d'indiquer ton prénom, un numéro WhatsApp valide, ton numéro mobile money et son opérateur, ton université et ton niveau.";
     return;
   }
   $("#erreur").textContent = "";
