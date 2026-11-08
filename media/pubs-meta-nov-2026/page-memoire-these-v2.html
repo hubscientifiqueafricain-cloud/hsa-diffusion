@@ -136,8 +136,9 @@
         </div>
         <div class="champs">
           <div class="champ"><label for="prenom">Prénom</label><input id="prenom" autocomplete="given-name" required></div>
+          <div class="champ"><label for="nom">Nom</label><input id="nom" autocomplete="family-name"></div>
           <div class="champ"><label for="whatsapp">Numéro WhatsApp</label><input id="whatsapp" type="tel" inputmode="tel" autocomplete="tel" placeholder="Ex. : +225 07 00 00 00 00" required></div>
-          <div class="champ"><label for="email">E-mail (facultatif, pour ton reçu)</label><input id="email" type="email" autocomplete="email"></div>
+          <div class="champ"><label for="email">E-mail (pour ton reçu et ton accès)</label><input id="email" type="email" autocomplete="email" required></div>
           <div class="champ"><label for="niveau">Ton niveau</label>
             <select id="niveau" required>
               <option value="">Choisir…</option>
@@ -148,9 +149,10 @@
               <option>Enseignant-chercheur</option>
             </select>
           </div>
+          <div class="champ"><label for="sujet">Sujet de ton mémoire ou de ta thèse</label><input id="sujet" placeholder="Ex. : accès à l'eau potable à Bouaké"></div>
         </div>
         <p class="erreur" id="erreur" role="alert"></p>
-        <button class="btn btn-or btn-bloc" type="submit">Je rejoins le Pass Valoris →</button><p class="petit" style="text-align:center">30 secondes · paiement mobile money à l'étape suivante</p>
+        <button class="btn btn-or btn-bloc" type="submit">Je rejoins le Pass Valoris →</button>
         <p class="petit">Tes informations servent uniquement à créer ton accès et t'envoyer ton reçu. HSA ne les partage avec personne.</p>
       </form>
 
@@ -274,16 +276,16 @@ document.addEventListener("click", (ev) => {
 $("#formulaire").addEventListener("submit", (ev) => {
   ev.preventDefault();
   const d = { type: "hsa-lead", source: SOURCE, offre: OFFRE };
-  ["prenom", "whatsapp", "email", "niveau"].forEach(k => d[k] = $("#" + k).value.trim()); d.nom = "";
+  ["prenom", "nom", "whatsapp", "email", "niveau", "sujet"].forEach(k => d[k] = $("#" + k).value.trim());
   const chiffres = d.whatsapp.replace(/\D/g, "");
-  if (!d.prenom || chiffres.length < 8 || (d.email && !/^\S+@\S+\.\S+$/.test(d.email)) || !d.niveau) {
-    $("#erreur").textContent = "Merci d'indiquer ton prénom, un numéro WhatsApp valide et ton niveau.";
+  if (!d.prenom || chiffres.length < 8 || !/^\S+@\S+\.\S+$/.test(d.email) || !d.niveau) {
+    $("#erreur").textContent = "Merci d'indiquer ton prénom, un numéro WhatsApp valide, ton e-mail et ton niveau.";
     return;
   }
   $("#erreur").textContent = "";
   envoyer(d);
   $("#bravo-prenom").textContent = d.prenom;
-  $(".v-preuve").href = wa("Bonjour HSA, voici ma capture de paiement pour le " + OFFRE + " (" + fcfa(prix) + ").\nPrénom : " + d.prenom + (d.email ? "\nE-mail : " + d.email : "") + "\nNiveau : " + d.niveau);
+  $(".v-preuve").href = wa("Bonjour HSA, voici ma capture de paiement pour le " + OFFRE + " (" + fcfa(prix) + ").\nNom : " + d.prenom + " " + d.nom + "\nE-mail : " + d.email + "\nNiveau : " + d.niveau);
   $("#formulaire").style.display = "none";
   const bb = $("#barreBas"); if (bb) bb.remove();
   $("#bravo").classList.add("visible");

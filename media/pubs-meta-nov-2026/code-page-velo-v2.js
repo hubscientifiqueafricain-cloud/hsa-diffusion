@@ -46,17 +46,22 @@ $w.onReady(function () {
       prenom: d.prenom,
       nom: d.nom,
       whatsapp: d.whatsapp,
+      mobileMoney: d.mobilemoney,
+      operateur: d.operateur,
       email: d.email,
       niveau: d.niveau,
+      discipline: d.discipline,
+      sujet: d.sujet,
       universite: d.universite,
       campus: d.campus,
+      motivation: d.motivation,
       campagne: campagne,
       statut: 'nouveau'
     }).catch((error) => console.error(error));
     contacts.appendOrCreateContact({
       name: { first: d.prenom || '', last: d.nom || '' },
       emails: d.email ? [{ email: d.email }] : [],
-      phones: d.whatsapp ? [{ tag: 'MOBILE', phone: d.whatsapp }] : []
+      phones: d.whatsapp ? [{ tag: 'MOBILE', countryCode: 'CI', phone: d.whatsapp }] : []
     }).catch((error) => console.error(error));
   });
 });

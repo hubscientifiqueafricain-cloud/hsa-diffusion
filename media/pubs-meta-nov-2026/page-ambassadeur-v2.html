@@ -126,12 +126,27 @@
       <div class="verre carte">
         <form id="formulaire" novalidate>
           <h2>Pose ta candidature</h2>
-          <p class="doux">1 minute. Réponse sur WhatsApp sous 48 h. Ton numéro mobile money te sera demandé après validation.</p>
+          <p class="doux">2 minutes. Réponse sur WhatsApp sous 48 h.</p>
           <div class="champs">
             <div class="champ"><label for="prenom">Prénom</label><input id="prenom" autocomplete="given-name" required></div>
-            <div class="champ"><label for="whatsapp">Numéro WhatsApp</label><input id="whatsapp" type="tel" inputmode="tel" autocomplete="tel" placeholder="Ex. : +226 70 00 00 00" required></div>
+            <div class="champ"><label for="nom">Nom</label><input id="nom" autocomplete="family-name"></div>
+            <div class="champ"><label for="whatsapp">Numéro WhatsApp</label><input id="whatsapp" type="tel" inputmode="tel" autocomplete="tel" placeholder="Avec l'indicatif, ex. : +221 77 000 00 00" required></div>
+            <div class="champ"><label for="mobilemoney">Numéro mobile money (pour tes commissions)</label><input id="mobilemoney" type="tel" inputmode="tel" placeholder="Avec l'indicatif, ex. : +225 07 00 00 00 00" required></div>
+            <div class="champ"><label for="operateur">Opérateur mobile money</label>
+              <select id="operateur" required>
+                <option value="">Choisir…</option>
+                <option>Orange Money</option>
+                <option>MTN Mobile Money</option>
+                <option>Moov Money</option>
+                <option>Wave</option>
+                <option>Free Money</option>
+                <option>Airtel Money</option>
+                <option>Autre</option>
+              </select>
+            </div>
+            <div class="champ"><label for="email">E-mail (facultatif)</label><input id="email" type="email" autocomplete="email"></div>
             <div class="champ"><label for="universite">Université ou école</label><input id="universite" placeholder="Ex. : Université Cheikh Anta Diop" required></div>
-            <div class="champ"><label for="campus">Ville / campus</label><input id="campus" placeholder="Ex. : Abidjan, Bouaké, Ouagadougou, Bobo…"></div>
+            <div class="champ"><label for="campus">Ville / campus</label><input id="campus" placeholder="Ex. : Abidjan, Dakar, Lomé, Yaoundé…"></div>
             <div class="champ"><label for="niveau">Ton niveau</label>
               <select id="niveau" required>
                 <option value="">Choisir…</option>
@@ -141,6 +156,7 @@
                 <option>Jeune diplômé(e)</option>
               </select>
             </div>
+            <div class="champ"><label for="motivation">Pourquoi toi ? (associations, groupes WhatsApp, délégué…)</label><input id="motivation" placeholder="Ex. : délégué de promo, 3 groupes de 200 étudiants"></div>
           </div>
           <p class="erreur" id="erreur" role="alert"></p>
           <button class="btn btn-or btn-bloc" type="submit">Envoyer ma candidature</button>
@@ -251,16 +267,17 @@ document.addEventListener("click", (ev) => {
 $("#formulaire").addEventListener("submit", (ev) => {
   ev.preventDefault();
   const d = { type: "hsa-lead", source: SOURCE };
-  ["prenom", "whatsapp", "universite", "campus", "niveau"].forEach(k => d[k] = $("#" + k).value.trim()); d.nom = "";
+  ["prenom", "nom", "whatsapp", "mobilemoney", "operateur", "email", "universite", "campus", "niveau", "motivation"].forEach(k => d[k] = $("#" + k).value.trim());
   const chiffres = d.whatsapp.replace(/\D/g, "");
-  if (!d.prenom || chiffres.length < 8 || !d.universite || !d.niveau) {
-    $("#erreur").textContent = "Merci d'indiquer ton prénom, un numéro WhatsApp valide, ton université et ton niveau.";
+  const chiffresMM = d.mobilemoney.replace(/\D/g, "");
+  if (!d.prenom || chiffres.length < 8 || chiffresMM.length < 8 || !d.operateur || !d.universite || !d.niveau) {
+    $("#erreur").textContent = "Merci d'indiquer ton prénom, un numéro WhatsApp valide, ton numéro mobile money et son opérateur, ton université et ton niveau.";
     return;
   }
   $("#erreur").textContent = "";
   envoyer(d);
   $("#bravo-prenom").textContent = d.prenom;
-  $(".v-confirmer").href = wa("Bonjour HSA, je suis " + d.prenom + " ("  + d.niveau + ", " + d.universite + (d.campus ? ", " + d.campus : "") + "). Je viens de poser ma candidature pour être ambassadeur HSA sur mon campus.");
+  $(".v-confirmer").href = wa("Bonjour HSA, je suis " + d.prenom + " " + d.nom + " (" + d.niveau + ", " + d.universite + "). Je viens de poser ma candidature pour être ambassadeur HSA sur mon campus.");
   $("#formulaire").style.display = "none";
   const bb = $("#barreBas"); if (bb) bb.remove();
   $("#bravo").classList.add("visible");

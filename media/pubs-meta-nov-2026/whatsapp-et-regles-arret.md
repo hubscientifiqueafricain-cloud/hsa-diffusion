@@ -37,7 +37,7 @@ Noter dans LeadsPubs (colonne statut) : nouveau → contacté → payé / candid
 
 **B. Validation**
 > C'est validé, bienvenue dans l'équipe {Prénom} 🎉 Ton code : AMB-{PRÉNOM}. Tu touches 500 FCFA par Pass payé avec ton code, versés chaque semaine.
-> Pour tes paiements, envoie-moi ton numéro mobile money et l'opérateur (Orange, MTN, Moov, Wave).
+> Tes commissions seront versées sur le numéro mobile money que tu as indiqué : {numéro} ({opérateur}). Dis-moi si ça change.
 > Rejoins le groupe des ambassadeurs ici : {lien}. Objectif de ta première semaine : 5 Pass.
 
 **C. Relance J+1 (pas de réponse)**
