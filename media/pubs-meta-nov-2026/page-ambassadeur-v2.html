@@ -93,6 +93,7 @@
     .barre-bas.cachee { display: none; }
   }
   .bravo .actions .btn { display: block; }
+  .btn > .v-prix { margin-left: -6px; }
 </style>
 </head>
 <body>
@@ -130,8 +131,8 @@
           <div class="champs">
             <div class="champ"><label for="prenom">Prénom</label><input id="prenom" autocomplete="given-name" required></div>
             <div class="champ"><label for="nom">Nom</label><input id="nom" autocomplete="family-name"></div>
-            <div class="champ"><label for="whatsapp">Numéro WhatsApp</label><input id="whatsapp" type="tel" inputmode="tel" autocomplete="tel" placeholder="Avec l'indicatif, ex. : +221 77 000 00 00" required></div>
-            <div class="champ"><label for="mobilemoney">Numéro mobile money (pour tes commissions)</label><input id="mobilemoney" type="tel" inputmode="tel" placeholder="Avec l'indicatif, ex. : +225 07 00 00 00 00" required></div>
+            <div class="champ"><label for="whatsapp">Numéro WhatsApp</label><input id="whatsapp" type="tel" inputmode="tel" autocomplete="tel" placeholder="Ex. : +226 70 00 00 00" required></div>
+            <div class="champ"><label for="mobilemoney">Numéro mobile money (pour tes commissions)</label><input id="mobilemoney" type="tel" inputmode="tel" placeholder="Ex. : +225 07 00 00 00 00" required></div>
             <div class="champ"><label for="operateur">Opérateur mobile money</label>
               <select id="operateur" required>
                 <option value="">Choisir…</option>
@@ -177,7 +178,7 @@
   </section>
 
   <section id="criteres">
-    <h2>Qui peut devenir ambassadeur ?</h2>
+    <h2>Qui peut devenir ambassadeur&nbsp;?</h2>
     <div class="grille grille-2">
       <div class="verre carte"><div class="num">🎓</div><h3>Tu es à l'université</h3><p class="doux">Étudiant en licence, master ou doctorat, ou diplômé récemment, dans une université ou une grande école d'Afrique francophone.</p></div>
       <div class="verre carte"><div class="num">🤝</div><h3>Tu as un bon réseau</h3><p class="doux">Groupes WhatsApp de promo, associations, bureau des étudiants, délégués, clubs : tu touches beaucoup d'étudiants autour de toi.</p></div>
@@ -218,16 +219,16 @@
 
   <section>
     <h2>Questions fréquentes</h2>
-    <details class="verre"><summary>Qu'est-ce qu'un ambassadeur HSA ?</summary><p>C'est un étudiant ou un jeune chercheur qui représente le Hub Scientifique Africain dans son université : il fait connaître HSA autour de lui et touche une commission sur chaque inscription payée avec son code.</p></details>
-    <details class="verre"><summary>Est-ce que je dois payer quelque chose ?</summary><p>Non. Devenir ambassadeur est gratuit. Tu es payé uniquement à la commission, sur les inscriptions réellement payées avec ton code.</p></details>
-    <details class="verre"><summary>Combien je peux gagner ?</summary><p>500 FCFA pour chaque Pass Premium HSA payé avec ton code, sans plafond. Par exemple, 40 Pass dans le mois font 20 000 FCFA. En plus, un bonus est offert chaque semaine aux meilleurs ambassadeurs. Tes gains dépendent uniquement de tes inscriptions.</p></details>
-    <details class="verre"><summary>Quand et comment suis-je payé ?</summary><p>Chaque semaine, par mobile money (Wave, Orange Money, MTN, Moov…), pour toutes les inscriptions payées et vérifiées la semaine précédente.</p></details>
-    <details class="verre"><summary>Comment HSA sait que l'inscription vient de moi ?</summary><p>Tu reçois un code personnel. L'étudiant le saisit au moment de payer, et l'inscription s'affiche dans ton espace ambassadeur : tu y suis toutes les personnes que tu as parrainées, ce qu'elles ont payé, tes gains et tes versements.</p></details>
-    <details class="verre"><summary>Je ne suis pas en Côte d'Ivoire, je peux postuler ?</summary><p>Oui. On recrute dans toute l'Afrique francophone : Sénégal, Cameroun, Bénin, Togo, Burkina Faso, Mali, Niger, Guinée, Gabon, Congo, RDC, Madagascar… Tout se fait en ligne.</p></details>
-    <details class="verre"><summary>Qu'est-ce que je vais faire concrètement ?</summary><p>Partager les visuels HSA, présenter HSA à tes amis, à tes connaissances, dans tes réseaux et dans les associations, répondre aux questions des étudiants, les aider à s'inscrire avec ton code, et faire le point chaque semaine dans le groupe des ambassadeurs.</p></details>
-    <details class="verre"><summary>Combien de temps ça prend ?</summary><p>C'est toi qui décides, et tu peux travailler seul ou en équipe avec d'autres étudiants. Quelques messages par semaine dans tes groupes et un mot à la fin d'un cours suffisent pour commencer.</p></details>
-    <details class="verre"><summary>Qu'est-ce que HSA me fournit ?</summary><p>Ton code et ton espace de suivi, des visuels et des messages prêts à partager, une formation rapide pour bien présenter HSA, et le groupe des ambassadeurs pour poser tes questions.</p></details>
-    <details class="verre"><summary>Que se passe-t-il après ma candidature ?</summary><p>On étudie ta candidature et on te répond sur WhatsApp sous 48 heures. Si elle est retenue, tu reçois ton code et tu peux commencer tout de suite. Tu peux arrêter quand tu veux, sans engagement.</p></details>
+    <details class="verre"><summary>Qu'est-ce qu'un ambassadeur HSA&nbsp;?</summary><p>C'est un étudiant ou un jeune chercheur qui représente le Hub Scientifique Africain dans son université : il fait connaître HSA autour de lui et touche une commission sur chaque inscription payée avec son code.</p></details>
+    <details class="verre"><summary>Est-ce que je dois payer quelque chose&nbsp;?</summary><p>Non. Devenir ambassadeur est gratuit. Tu es payé uniquement à la commission, sur les inscriptions réellement payées avec ton code.</p></details>
+    <details class="verre"><summary>Combien je peux gagner&nbsp;?</summary><p>500 FCFA pour chaque Pass Premium HSA payé avec ton code, sans plafond. Par exemple, 40 Pass dans le mois font 20 000 FCFA. En plus, un bonus est offert chaque semaine aux meilleurs ambassadeurs. Tes gains dépendent uniquement de tes inscriptions.</p></details>
+    <details class="verre"><summary>Quand et comment suis-je payé&nbsp;?</summary><p>Chaque semaine, par mobile money (Wave, Orange Money, MTN, Moov…), pour toutes les inscriptions payées et vérifiées la semaine précédente.</p></details>
+    <details class="verre"><summary>Comment HSA sait que l'inscription vient de moi&nbsp;?</summary><p>Tu reçois un code personnel. L'étudiant le saisit au moment de payer, et l'inscription s'affiche dans ton espace ambassadeur : tu y suis toutes les personnes que tu as parrainées, ce qu'elles ont payé, tes gains et tes versements.</p></details>
+    <details class="verre"><summary>Je ne suis pas en Côte d'Ivoire, je peux postuler&nbsp;?</summary><p>Oui. On recrute dans toute l'Afrique francophone : Sénégal, Cameroun, Bénin, Togo, Burkina Faso, Mali, Niger, Guinée, Gabon, Congo, RDC, Madagascar… Tout se fait en ligne.</p></details>
+    <details class="verre"><summary>Qu'est-ce que je vais faire concrètement&nbsp;?</summary><p>Partager les visuels HSA, présenter HSA à tes amis, à tes connaissances, dans tes réseaux et dans les associations, répondre aux questions des étudiants, les aider à s'inscrire avec ton code, et faire le point chaque semaine dans le groupe des ambassadeurs.</p></details>
+    <details class="verre"><summary>Combien de temps ça prend&nbsp;?</summary><p>C'est toi qui décides, et tu peux travailler seul ou en équipe avec d'autres étudiants. Quelques messages par semaine dans tes groupes et un mot à la fin d'un cours suffisent pour commencer.</p></details>
+    <details class="verre"><summary>Qu'est-ce que HSA me fournit&nbsp;?</summary><p>Ton code et ton espace de suivi, des visuels et des messages prêts à partager, une formation rapide pour bien présenter HSA, et le groupe des ambassadeurs pour poser tes questions.</p></details>
+    <details class="verre"><summary>Que se passe-t-il après ma candidature&nbsp;?</summary><p>On étudie ta candidature et on te répond sur WhatsApp sous 48 heures. Si elle est retenue, tu reçois ton code et tu peux commencer tout de suite. Tu peux arrêter quand tu veux, sans engagement.</p></details>
   </section>
 
   <footer>HSA, Hub Scientifique Africain · hubscientifiqueafricain.com</footer>
