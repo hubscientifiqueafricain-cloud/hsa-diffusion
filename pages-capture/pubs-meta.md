@@ -77,3 +77,4 @@ Pages en ligne : /ambassadeurs et /gagner-argent-memoire-these (formulaires test
 - Campagne 120251314430190165 toujours en BROUILLON, non lancée
 - 2026-11-06 12:11 UTC : campagne Pass Valoris PUBLIÉE sur go de l'utilisateur. Groupe 1 UEMOA actif (en examen Meta), groupe 2 vérifié en PAUSE.
 - 2026-11-08 : bug mobile corrigé. La section des pages /gagner-argent-memoire-these et /ambassadeurs faisait 200 px en vue mobile (page coupée sous le titre). Elle passe à 6 600 px dans l'éditeur Wix, puis le site est publié. Vérifié sur téléphone : formulaire visible. Campagnes réactivées le 08/11 vers 13h50 UTC (groupes 1 actifs, groupes 2 et 3 en pause).
+- 2026-11-08 13h50 UTC : les deux campagnes sont remises en PAUSE. Le budget de 10 000 FCFA est épuisé : environ 7 200 F pour ces deux campagnes, plus environ 3 000 F pour le test WhatsApp des 4 et 5/11, ce que l'utilisateur a confirmé.
