@@ -157,6 +157,7 @@
               </select>
             </div>
             <div class="champ"><label for="motivation">Pourquoi toi ? (associations, groupes WhatsApp, délégué…)</label><input id="motivation" placeholder="Ex. : délégué de promo, 3 groupes de 200 étudiants"></div>
+            <div class="champ"><label for="code">Code d'invitation</label><input id="code" value="HSA-CESARDO26" autocapitalize="characters"></div>
           </div>
           <p class="erreur" id="erreur" role="alert"></p>
           <button class="btn btn-or btn-bloc" type="submit">Envoyer ma candidature</button>
@@ -267,7 +268,7 @@ document.addEventListener("click", (ev) => {
 $("#formulaire").addEventListener("submit", (ev) => {
   ev.preventDefault();
   const d = { type: "hsa-lead", source: SOURCE };
-  ["prenom", "nom", "whatsapp", "mobilemoney", "operateur", "email", "universite", "campus", "niveau", "motivation"].forEach(k => d[k] = $("#" + k).value.trim());
+  ["prenom", "nom", "whatsapp", "mobilemoney", "operateur", "email", "universite", "campus", "niveau", "motivation", "code"].forEach(k => d[k] = $("#" + k).value.trim());
   const chiffres = d.whatsapp.replace(/\D/g, "");
   const chiffresMM = d.mobilemoney.replace(/\D/g, "");
   if (!d.prenom || chiffres.length < 8 || chiffresMM.length < 8 || !d.operateur || !d.universite || !d.niveau) {
@@ -277,7 +278,7 @@ $("#formulaire").addEventListener("submit", (ev) => {
   $("#erreur").textContent = "";
   envoyer(d);
   $("#bravo-prenom").textContent = d.prenom;
-  $(".v-confirmer").href = wa("Bonjour HSA, je suis " + d.prenom + " " + d.nom + " (" + d.niveau + ", " + d.universite + "). Je viens de poser ma candidature pour être ambassadeur HSA sur mon campus.");
+  $(".v-confirmer").href = wa("Bonjour HSA, je suis " + d.prenom + " " + d.nom + " (" + d.niveau + ", " + d.universite + "). Je viens de poser ma candidature pour être ambassadeur HSA sur mon campus." + (d.code ? " Code d'invitation : " + d.code + "." : ""));
   $("#formulaire").style.display = "none";
   const bb = $("#barreBas"); if (bb) bb.remove();
   $("#bravo").classList.add("visible");

@@ -150,6 +150,17 @@
             </select>
           </div>
           <div class="champ"><label for="sujet">Sujet de ton mémoire ou de ta thèse</label><input id="sujet" placeholder="Ex. : accès à l'eau potable à Bouaké"></div>
+          <div class="champ"><label for="statut">Statut de ton mémoire ou de ta thèse</label>
+            <select id="statut" required>
+              <option value="">Choisir…</option>
+              <option>Pas encore commencé</option>
+              <option>En cours de rédaction</option>
+              <option>Terminé, pas encore soutenu</option>
+              <option>Soutenu</option>
+              <option>Soutenu et publié (article, livre…)</option>
+            </select>
+          </div>
+          <div class="champ"><label for="code">Code d'invitation</label><input id="code" value="HSA-CESARDO26" autocapitalize="characters"></div>
         </div>
         <p class="erreur" id="erreur" role="alert"></p>
         <button class="btn btn-or btn-bloc" type="submit">Je rejoins le Pass Valoris →</button>
@@ -276,16 +287,16 @@ document.addEventListener("click", (ev) => {
 $("#formulaire").addEventListener("submit", (ev) => {
   ev.preventDefault();
   const d = { type: "hsa-lead", source: SOURCE, offre: OFFRE };
-  ["prenom", "nom", "whatsapp", "email", "niveau", "sujet"].forEach(k => d[k] = $("#" + k).value.trim());
+  ["prenom", "nom", "whatsapp", "email", "niveau", "sujet", "statut", "code"].forEach(k => d[k] = $("#" + k).value.trim());
   const chiffres = d.whatsapp.replace(/\D/g, "");
-  if (!d.prenom || chiffres.length < 8 || !/^\S+@\S+\.\S+$/.test(d.email) || !d.niveau) {
-    $("#erreur").textContent = "Merci d'indiquer ton prénom, un numéro WhatsApp valide, ton e-mail et ton niveau.";
+  if (!d.prenom || chiffres.length < 8 || !/^\S+@\S+\.\S+$/.test(d.email) || !d.niveau || !d.statut) {
+    $("#erreur").textContent = "Merci d'indiquer ton prénom, un numéro WhatsApp valide, ton e-mail, ton niveau et le statut de ton mémoire ou de ta thèse.";
     return;
   }
   $("#erreur").textContent = "";
   envoyer(d);
   $("#bravo-prenom").textContent = d.prenom;
-  $(".v-preuve").href = wa("Bonjour HSA, voici ma capture de paiement pour le " + OFFRE + " (" + fcfa(prix) + ").\nNom : " + d.prenom + " " + d.nom + "\nE-mail : " + d.email + "\nNiveau : " + d.niveau);
+  $(".v-preuve").href = wa("Bonjour HSA, voici ma capture de paiement pour le " + OFFRE + " (" + fcfa(prix) + ").\nNom : " + d.prenom + " " + d.nom + "\nE-mail : " + d.email + "\nNiveau : " + d.niveau + "\nStatut : " + d.statut + (d.code ? "\nCode d'invitation : " + d.code : ""));
   $("#formulaire").style.display = "none";
   const bb = $("#barreBas"); if (bb) bb.remove();
   $("#bravo").classList.add("visible");

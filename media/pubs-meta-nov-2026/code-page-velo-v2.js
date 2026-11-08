@@ -5,6 +5,7 @@
 //   - InitiateCheckout : quand la personne clique sur « Payer » (page Pass Valoris)
 //   - Contact          : quand la personne clique sur un bouton WhatsApp
 // et enregistre le code de la pub (utm_content) dans la colonne « campagne » de LeadsPubs.
+// Nouveaux champs : statutMemoire (statut du mémoire ou de la thèse) et codeInvitation (HSA-CESARDO26 par défaut).
 import wixData from 'wix-data';
 import wixLocationFrontend from 'wix-location-frontend';
 import wixWindowFrontend from 'wix-window-frontend';
@@ -55,6 +56,8 @@ $w.onReady(function () {
       universite: d.universite,
       campus: d.campus,
       motivation: d.motivation,
+      statutMemoire: d.statut,
+      codeInvitation: d.code,
       campagne: campagne,
       statut: 'nouveau'
     }).catch((error) => console.error(error));
