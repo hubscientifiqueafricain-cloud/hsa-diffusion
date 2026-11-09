@@ -43,6 +43,22 @@ def alerter(titre, corps):
                       headers={"Authorization": f"Bearer {tok}"},
                       json={"title": titre, "body": corps, "labels": ["diffusion"]})
 
+def images_non_validees(post):
+    """Contrôle visuel obligatoire : chaque image doit être marquée « ok » dans media/controle-visuel.json."""
+    sys.path.insert(0, str(RACINE / "outils"))
+    import controle_visuel as cv
+    reg, manque = cv.charger(), []
+    for m in post.get("media") or []:
+        if not str(m).lower().split("?")[0].endswith((".jpg", ".jpeg", ".png", ".webp")):
+            continue
+        try:
+            b = requests.get(m, timeout=60).content if str(m).startswith("http") else (RACINE / m).read_bytes()
+        except Exception:
+            manque.append(f"{m} (introuvable)"); continue
+        if cv.verdict(reg, cv.empreinte_octets(b)) != "ok":
+            manque.append(str(m))
+    return manque
+
 def traiter(fichier, essai=False):
     post = yaml.safe_load(open(fichier, encoding="utf-8"))
     if post.get("statut") != "prevu":
@@ -52,6 +68,21 @@ def traiter(fichier, essai=False):
     # Mode manuel : si aucun réseau du post n'a de connecteur automatique, le poste de publication s'en charge.
     if not any(c.dispo() and c.nom != "Manuel assisté" for r in post.get("reseaux", []) for c in CHAINES.get(r, [])):
         return False
+    manque = images_non_validees(post)
+    if manque:
+        print(f"BLOQUÉ (contrôle visuel) {fichier} : {manque}")
+        if not essai:
+            post["statut"] = "a_verifier"
+            yaml.safe_dump(post, open(fichier, "w", encoding="utf-8"), allow_unicode=True, sort_keys=False)
+            alerter(f"Image non vérifiée : {pathlib.Path(fichier).name}",
+                    "Publication bloquée : ces images n'ont pas passé le contrôle visuel obligatoire "
+                    "(mains, membres, visages, texte dans l'image, logo) :\n\n- " + "\n- ".join(manque) +
+                    "\n\nInspecte-les avec `python outils/controle_visuel.py planche ...`, refais celles qui ont un "
+                    "défaut, puis `valider` et remets le statut à « prevu ».")
+        return not essai
+    return _publier(fichier, post, essai)
+
+def _publier(fichier, post, essai):
     resultats = post.setdefault("resultats", {})
     secours = []
     for reseau in post.get("reseaux", []):
