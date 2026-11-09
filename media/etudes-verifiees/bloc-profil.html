@@ -1,0 +1,18 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<style>*{box-sizing:border-box}html,body{margin:0;background:transparent;font-family:Jost,"Futura PT",Futura,Arial,sans-serif;color:#2c0101}
+.w{padding:6px 2px}h3{margin:0 0 8px;font-size:18px;font-weight:500;display:flex;align-items:center;flex-wrap:wrap;gap:4px 8px}
+h3 span{font-size:12px;font-weight:500;color:#1f6b3a;background:#e8f4ec;border-radius:20px;padding:2px 9px}
+ul{list-style:none;margin:0;padding:0;max-height:96px;overflow-y:auto}
+li{padding:6px 0;border-top:1px solid #eee;font-size:15px;line-height:1.3}
+li a{color:#3b1f00;text-decoration:none;cursor:pointer}li a:hover{text-decoration:underline}
+li small{color:#8a7a6a;font-size:12px;margin-left:6px}
+@media(max-width:600px){h3{font-size:16px}h3 span{font-size:11px;padding:1px 7px}li{font-size:14px}ul{max-height:70px}}</style></head>
+<body><div class="w" id="w" hidden><h3>Études vérifiées <span>&#10003; auteur confirmé par HSA</span></h3><ul id="l"></ul></div>
+<script>
+function esc(t){return String(t||'').replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+window.addEventListener('message',function(e){var d=e.data||{};if(d.type!=='etudes'||!d.items)return;
+var h='';d.items.forEach(function(it){var an=it.date?new Date(it.date).getFullYear():'';h+='<li><a data-u="'+esc(it.url)+'">'+esc(it.titre)+'</a>'+(an?'<small>'+an+'</small>':'')+'</li>'});
+document.getElementById('l').innerHTML=h;document.getElementById('w').hidden=false;
+[].forEach.call(document.querySelectorAll('li a'),function(a){a.onclick=function(){parent.postMessage({type:'ouvrir',url:a.getAttribute('data-u')},'*')}})});
+parent.postMessage({type:'pret'},'*');
+</script></body></html>

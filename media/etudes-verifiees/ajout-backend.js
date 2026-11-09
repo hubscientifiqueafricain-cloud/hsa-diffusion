@@ -13,7 +13,7 @@ async function profilPublic(memberId) {
   return safe(async () => {
     const r = await wixData.query('Members/PublicData').eq('_id', memberId).limit(1).find(OPTS);
     const p = r.items[0];
-    return p && p.slug ? SITE + '/profile/' + p.slug + '/profile' : null;
+    return p && p.slug ? SITE + '/profil/' + p.slug + '/profile' : null;
   }, null);
 }
 
