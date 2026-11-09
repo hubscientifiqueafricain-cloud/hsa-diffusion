@@ -18,6 +18,24 @@ réseaux, dans tous les formats, avec un plan B automatique quand un canal bloqu
 5. **Tableau de bord** : `https://<compte>.github.io/hsa-diffusion/` affiche le calendrier, l'état
    de chaque réseau et, pour les publications manuelles, le texte prêt à copier.
 
+## Contrôle visuel obligatoire (avant toute publication)
+
+Aucune image ne part sans avoir été regardée en détail : mains et doigts, membres, visages, texte
+dans l'image (lisible et en bon français, sinon pas de texte), faux billets ou panneaux inventés,
+logo HSA. Une image défectueuse est refaite, jamais publiée.
+
+```bash
+python outils/controle_visuel.py planche media/.../*.jpg      # image entière + 4 zooms à inspecter
+python outils/controle_visuel.py valider media/.../*.jpg --note "mains, texte, logo vérifiés"
+python outils/controle_visuel.py refuser media/x.jpg --note "trois mains"
+python outils/controle_visuel.py manquants                    # images des posts à venir non validées
+```
+
+Le robot refuse de publier un post dont une image n'est pas marquée « ok » dans
+`media/controle-visuel.json` : il passe le post au statut `a_verifier` et ouvre une alerte.
+Pour les images générées par IA, demander dans le prompt « exactement deux mains, aucun texte,
+aucun panneau, aucun logo », puis vérifier quand même au zoom.
+
 ## Mise en route (une seule fois)
 
 - Settings → Pages → Source : **GitHub Actions**.
