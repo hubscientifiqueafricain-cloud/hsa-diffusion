@@ -6,6 +6,8 @@
 //   - Contact          : quand la personne clique sur un bouton WhatsApp
 // et enregistre le code de la pub (utm_content) dans la colonne « campagne » de LeadsPubs.
 // Nouveaux champs : statutMemoire (statut du mémoire ou de la thèse) et codeInvitation (HSA-CESARDO26 par défaut).
+// Depuis le 9 nov. : chaque page écrit dans sa propre liste CMS (CandidaturesAmbassadeurs ou InscriptionsValoris).
+// Si l'écriture échoue, la fiche part dans LeadsPubs pour ne jamais perdre d'inscription.
 import wixData from 'wix-data';
 import wixLocationFrontend from 'wix-location-frontend';
 import wixWindowFrontend from 'wix-window-frontend';
@@ -42,7 +44,7 @@ $w.onReady(function () {
       return;
     }
     pixel('Lead', { content_name: d.source === 'ambassadeur' ? 'Candidature ambassadeur' : 'Pass Valoris', content_category: q.utm_content || '' });
-    wixData.insert('LeadsPubs', {
+    const fiche = {
       source: d.source,
       prenom: d.prenom,
       nom: d.nom,
@@ -60,7 +62,14 @@ $w.onReady(function () {
       codeInvitation: d.code,
       campagne: campagne,
       statut: 'nouveau'
-    }).catch((error) => console.error(error));
+    };
+    const liste = d.source === 'ambassadeur' ? 'CandidaturesAmbassadeurs' : 'InscriptionsValoris';
+    wixData.insert(liste, fiche)
+      .catch((error) => {
+        console.error(error);
+        return wixData.insert('LeadsPubs', fiche);
+      })
+      .catch((error) => console.error(error));
     contacts.appendOrCreateContact({
       name: { first: d.prenom || '', last: d.nom || '' },
       emails: d.email ? [{ email: d.email }] : [],
