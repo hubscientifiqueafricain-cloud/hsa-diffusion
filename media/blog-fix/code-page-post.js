@@ -25,7 +25,7 @@ $w.onReady(async function () {
   }
   $w('#html1').onMessage((ev) => {
     if (ev.data && ev.data.type === 'revendiquer') {
-      wixLocationFrontend.to('/revendiquer-une-etude?article=' + encodeURIComponent(p._id));
+      wixLocationFrontend.to('/revendiquer-une-%C3%A9tude?article=' + encodeURIComponent(p._id));
     }
   });
 });
