@@ -3,6 +3,7 @@
 // par une lecture de la collection Blog/Posts à partir de l'adresse de l'article.
 import wixData from 'wix-data';
 import wixLocationFrontend from 'wix-location-frontend';
+import { auteursVerifies } from 'backend/hsaDashboard.web';
 
 const CATEGORIES_PUBLICATIONS = ['6a7707de9f91b1775fd10739', '17116fd6-d91b-4eba-b407-1aa19ef064e5'];
 
@@ -23,9 +24,17 @@ $w.onReady(async function () {
     $w('#section2').collapse();
     return;
   }
+  // Badge « Étude vérifiée » : auteurs dont la revendication est validée (statut « validé… » dans le CMS).
+  let auteurs = [];
+  const envoyerBadge = () => { if (auteurs.length) $w('#html1').postMessage({ type: 'verifiee', auteurs }); };
   $w('#html1').onMessage((ev) => {
-    if (ev.data && ev.data.type === 'revendiquer') {
+    const d = ev.data || {};
+    if (d.type === 'revendiquer') {
       wixLocationFrontend.to('/revendiquer-une-%C3%A9tude?article=' + encodeURIComponent(p._id));
     }
+    if (d.type === 'profil' && d.url) wixLocationFrontend.to(d.url);
+    if (d.type === 'pret') envoyerBadge();
   });
+  try { auteurs = (await auteursVerifies(p._id)) || []; } catch (e) { console.error(e); }
+  envoyerBadge();
 });
