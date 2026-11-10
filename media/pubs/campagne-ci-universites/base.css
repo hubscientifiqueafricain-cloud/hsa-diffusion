@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700;800&family=Inter:wght@500;600;700&display=swap');
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1080px;height:1350px;background:#FFF6E8;font-family:Inter,sans-serif;color:#24160E;position:relative;overflow:hidden}
+.blob{position:absolute;right:-330px;bottom:-330px;width:700px;height:700px;border-radius:50%;background:#FFCC00}
+.top{position:absolute;top:56px;left:64px;right:64px;display:flex;justify-content:space-between;align-items:center}
+.logo{background:#24160E;border-radius:18px;padding:18px 24px}
+.logo img{height:46px;display:block}
+.badge{background:#24160E;color:#FFCC00;font-weight:700;font-size:25px;letter-spacing:.5px;padding:16px 26px;border-radius:40px}
+h1{position:absolute;top:190px;left:64px;right:64px;font-family:'Bricolage Grotesque',sans-serif;font-weight:800;font-size:82px;line-height:1.02;letter-spacing:-2.5px}
+h1 .hl{white-space:nowrap;background:#FFCC00;padding:0 12px;border-radius:12px;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.chips{position:absolute;left:64px;right:64px;display:flex;flex-wrap:wrap;gap:14px}
+.chip{background:#fff;border:2px solid #24160E;border-radius:40px;padding:12px 22px;font-weight:700;font-size:27px}
+.chip small{font-weight:500;color:#6b5646;font-size:23px}
+.list{position:absolute;left:64px;font-size:33px;font-weight:600;line-height:1.55}
+.list div:before{content:"✓  ";color:#1F9D55;font-weight:800}
+.cta{position:absolute;left:64px;bottom:150px;background:#24160E;color:#FFCC00;font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:40px;padding:24px 40px;border-radius:60px}
+.foot{position:absolute;left:64px;bottom:58px;width:560px;font-size:22px;line-height:1.4;color:#5a4636}
