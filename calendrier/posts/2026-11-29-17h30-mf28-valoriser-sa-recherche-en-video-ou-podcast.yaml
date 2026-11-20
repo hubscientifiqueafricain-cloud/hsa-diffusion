@@ -1,0 +1,36 @@
+quand: '2026-11-29T17:30:00'
+statut: prevu
+source: Micro-formations YouTube
+titre: Comment valoriser sa recherche en vidéo ou en podcast ? | Micro-formation HSA n°28
+type: video
+details: YouTube · vidéo 16:9 · épisode 28/30 · miniature et sous-titres (.srt) fournis
+reseaux:
+- youtube
+apercu: media/micro-formations/MF28-valoriser-sa-recherche-en-video-ou-podcast-miniature.jpg
+media:
+- media/micro-formations/MF28-valoriser-sa-recherche-en-video-ou-podcast.mp4
+- media/micro-formations/MF28-valoriser-sa-recherche-en-video-ou-podcast-miniature.jpg
+- media/micro-formations/MF28-valoriser-sa-recherche-en-video-ou-podcast.srt
+youtube:
+  titre: Comment valoriser sa recherche en vidéo ou en podcast ? | Micro-formation HSA n°28
+  type: video
+  categorie: EDUCATION
+  pour_enfants: false
+  tags:
+  - valorisation de la recherche
+  - valoriser sa recherche
+  - thèse
+  - mémoire
+  - doctorat
+  - chercheur africain
+  - recherche scientifique
+  - HSA
+  - Hub Scientifique Africain
+  - micro-formation
+  miniature: media/micro-formations/MF28-valoriser-sa-recherche-en-video-ou-podcast-miniature.jpg
+  sous_titres: media/micro-formations/MF28-valoriser-sa-recherche-en-video-ou-podcast.srt
+texte: "Une vidéo d'une minute peut toucher plus de monde qu'un article lu par dix spécialistes. Voici comment te lancer.\n\nDans cette micro-formation :\n▶ Pour te lancer\n   • Un téléphone suffit\n   • Un message par vidéo\n   • Montre ton terrain\n▶ Les formats\n   • Vidéo courte\n   • Podcast\n   • Interview\n\nÀ retenir : Ta recherche a une voix et un visage : le tien. Ose les montrer.\n\n\U0001F4AC Tu as une question sur la valorisation de ta recherche ? Pose-la en commentaire : on y répondra dans une prochaine vidéo.\n\U0001F514 Abonne-toi pour ne rien manquer de la série « Valoriser ta recherche · 1 question, 2 minutes ».\n\n\U0001F310 HSA, le Hub Scientifique Africain : https://www.hubscientifiqueafricain.com\n\n#ValorisationDeLaRecherche #Doctorat #RechercheAfricaine"
+question_youtube:
+- Comment faire sa première vidéo de vulgarisation scientifique ?
+- TUTO Valoriser sa recherche par le podcast
+- Valoriser sa recherche par le jeu vidéo

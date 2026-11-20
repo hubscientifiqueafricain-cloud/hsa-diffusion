@@ -1,0 +1,36 @@
+quand: '2026-11-30T17:30:00'
+statut: prevu
+source: Micro-formations YouTube
+titre: Comment valoriser une recherche sur les savoirs locaux ? | Micro-formation HSA n°29
+type: video
+details: YouTube · vidéo 16:9 · épisode 29/30 · miniature et sous-titres (.srt) fournis
+reseaux:
+- youtube
+apercu: media/micro-formations/MF29-valoriser-les-savoirs-locaux-miniature.jpg
+media:
+- media/micro-formations/MF29-valoriser-les-savoirs-locaux.mp4
+- media/micro-formations/MF29-valoriser-les-savoirs-locaux-miniature.jpg
+- media/micro-formations/MF29-valoriser-les-savoirs-locaux.srt
+youtube:
+  titre: Comment valoriser une recherche sur les savoirs locaux ? | Micro-formation HSA n°29
+  type: video
+  categorie: EDUCATION
+  pour_enfants: false
+  tags:
+  - valorisation de la recherche
+  - valoriser sa recherche
+  - thèse
+  - mémoire
+  - doctorat
+  - chercheur africain
+  - recherche scientifique
+  - HSA
+  - Hub Scientifique Africain
+  - micro-formation
+  miniature: media/micro-formations/MF29-valoriser-les-savoirs-locaux-miniature.jpg
+  sous_titres: media/micro-formations/MF29-valoriser-les-savoirs-locaux.srt
+texte: "Plantes médicinales, techniques agricoles, savoir-faire artisanaux : la recherche africaine travaille souvent sur des savoirs locaux. Les valoriser demande des précautions.\n\nDans cette micro-formation :\n▶ Les 3 règles d'or\n   • 1. Le consentement\n   • 2. Le partage des avantages\n   • 3. La reconnaissance\n▶ Les formes possibles\n   • Produits, guides, formations\n\nÀ retenir : Valoriser les savoirs locaux, c'est créer de la valeur avec les communautés, jamais à leurs dépens.\n\n\U0001F4AC Tu as une question sur la valorisation de ta recherche ? Pose-la en commentaire : on y répondra dans une prochaine vidéo.\n\U0001F514 Abonne-toi pour ne rien manquer de la série « Valoriser ta recherche · 1 question, 2 minutes ».\n\n\U0001F310 HSA, le Hub Scientifique Africain : https://www.hubscientifiqueafricain.com\n\n#ValorisationDeLaRecherche #Doctorat #RechercheAfricaine"
+question_youtube:
+- 'Médecine traditionnelle : le Sénégal mise sur la recherche et la valorisation'
+- 'L''innovation made in Africa : la valorisation de notre patrimoine culturel (TEDx)'
+- 'Asthme à Biankouma : 15 plantes de tradipraticiens passées au crible'

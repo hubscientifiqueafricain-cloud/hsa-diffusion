@@ -32,6 +32,8 @@ def reseaux(source, typ, actuels=None):
         return ["facebook", "tiktok", "whatsapp"]
     if source in OPPORTUNITES:
         return ["facebook", "whatsapp"]
+    if source == "Micro-formations YouTube":
+        return ["youtube"]
     if source == "Vidéos pub HSA":
         return ["youtube", "facebook", "tiktok", "whatsapp"]
     if source == "Prix de la valorisation 2026":

@@ -1,0 +1,43 @@
+1
+00:00:00,600 --> 00:00:08,544
+Tu as mis au point un procédé, un appareil, une formule. Faut-il publier tout de suite, ou d'abord breveter ?
+
+2
+00:00:09,394 --> 00:00:14,314
+Une invention est brevetable si elle est nouvelle : personne ne l'a rendue publique avant.
+
+3
+00:00:14,664 --> 00:00:18,408
+Si elle n'est pas évidente pour un spécialiste du domaine.
+
+4
+00:00:18,758 --> 00:00:22,550
+Et si elle peut être fabriquée ou utilisée concrètement.
+
+5
+00:00:23,400 --> 00:00:30,144
+En règle générale, si tu publies ou présentes ton invention avant de déposer le brevet, elle n'est plus nouvelle.
+
+6
+00:00:30,494 --> 00:00:35,342
+Une soutenance publique, un poster ou un post sur les réseaux peuvent suffire.
+
+7
+00:00:36,192 --> 00:00:39,264
+Un : garde l'invention confidentielle.
+
+8
+00:00:39,614 --> 00:00:43,982
+Deux : déclare-la au service de valorisation de ton institution.
+
+9
+00:00:44,332 --> 00:00:50,092
+Trois : dépose, par exemple auprès de l'OAPI pour ses pays membres, puis publie.
+
+10
+00:00:50,942 --> 00:00:56,582
+Breveter et publier ne s'opposent pas. Il faut juste les faire dans le bon ordre.
+
+11
+00:00:57,432 --> 00:01:12,072
+Tu as une question sur la valorisation de ta recherche ? Pose-la en commentaire, on y répondra dans une prochaine vidéo. Abonne-toi, et retrouve HSA, le Hub Scientifique Africain, sur hubscientifiqueafricain point com.

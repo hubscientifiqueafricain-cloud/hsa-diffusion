@@ -1,0 +1,36 @@
+quand: '2026-12-01T17:30:00'
+statut: prevu
+source: Micro-formations YouTube
+titre: Valoriser sa recherche, est-ce que ça s'apprend ? | Micro-formation HSA n°30
+type: video
+details: YouTube · vidéo 16:9 · épisode 30/30 · miniature et sous-titres (.srt) fournis
+reseaux:
+- youtube
+apercu: media/micro-formations/MF30-valoriser-sa-recherche-ca-s-apprend-miniature.jpg
+media:
+- media/micro-formations/MF30-valoriser-sa-recherche-ca-s-apprend.mp4
+- media/micro-formations/MF30-valoriser-sa-recherche-ca-s-apprend-miniature.jpg
+- media/micro-formations/MF30-valoriser-sa-recherche-ca-s-apprend.srt
+youtube:
+  titre: Valoriser sa recherche, est-ce que ça s'apprend ? | Micro-formation HSA n°30
+  type: video
+  categorie: EDUCATION
+  pour_enfants: false
+  tags:
+  - valorisation de la recherche
+  - valoriser sa recherche
+  - thèse
+  - mémoire
+  - doctorat
+  - chercheur africain
+  - recherche scientifique
+  - HSA
+  - Hub Scientifique Africain
+  - micro-formation
+  miniature: media/micro-formations/MF30-valoriser-sa-recherche-ca-s-apprend-miniature.jpg
+  sous_titres: media/micro-formations/MF30-valoriser-sa-recherche-ca-s-apprend.srt
+texte: "Tu te dis peut-être : la valorisation, ce n'est pas pour moi, je ne suis pas commercial. Bonne nouvelle : ça s'apprend.\n\nDans cette micro-formation :\n▶ Les compétences à développer\n   • Communiquer simplement\n   • Comprendre les besoins\n   • Négocier et chiffrer\n   • Connaître tes droits\n▶ Comment apprendre\n   • Formations, mentors, pratique\n\nÀ retenir : Personne ne naît en sachant valoriser. Chaque chercheur qui y arrive a commencé un jour. Pourquoi pas toi, aujourd'hui ?\n\n\U0001F4AC Tu as une question sur la valorisation de ta recherche ? Pose-la en commentaire : on y répondra dans une prochaine vidéo.\n\U0001F514 Abonne-toi pour ne rien manquer de la série « Valoriser ta recherche · 1 question, 2 minutes ».\n\n\U0001F310 HSA, le Hub Scientifique Africain : https://www.hubscientifiqueafricain.com\n\n#ValorisationDeLaRecherche #Doctorat #RechercheAfricaine"
+question_youtube:
+- Valoriser la recherche, est-ce que ça s'apprend ? (Link Grenoble Alpes)
+- Formation aux métiers de valorisation des résultats de recherche
+- 'Parcours de formation : valorisation de projets de recherche innovants'
