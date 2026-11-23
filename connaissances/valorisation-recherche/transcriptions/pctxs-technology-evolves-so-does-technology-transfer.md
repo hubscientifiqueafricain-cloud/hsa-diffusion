@@ -1,0 +1,34 @@
+# PCTxs. Technology evolves. So does technology transfer.
+
+- Chaîne : Philip Kerr
+- Date : 6 avr. 2018
+- Durée : 4:00
+- Zone : Canada
+- Lien : https://www.youtube.com/watch?v=fN3H6Tpfs9k
+- Langue d'origine : en. Version française : traduction automatique YouTube de la transcription automatique. Le texte original suit la version française.
+
+---
+
+## Texte en français
+
+[0:03] [Musique] technologie [Musique] il nous rassemble il nous fait avancer et il est partout bienvenue à PC TXS mon nom est Philip Kerr et je suis le président et le co-fondateur de PC TXS a L'entreprise canadienne PC TXS est conçue pour vous aider à commercialiser votre technologie J'ai été avocat en brevets et en marques de commerce au Canada pendant plus de trente ans et au cours de ma carrière, j'ai remarqué que même si les modèles sont disponibles à l'échelle mondiale, de nombreuses grandes technologies ne sont pas commercialisées de manière efficace à l'échelle mondiale, tandis que la plupart des organisations peuvent avoir des possibilités de partenariat dans plusieurs pays, elles n'ont pas de tels contacts dans d'autres régions.
+
+[1:04] et, par conséquent, ils n'acquièrent pas de droits de brevet dans les autres régions comme vous le savez lorsque vous déposez une demande de brevet international, vous pouvez entrer dans la phase nationale dans 150 pays ou plus au 30 ou 31 mois en moyenne, plus de 150 pays participant au traité de coopération en matière de brevets, la plupart des organisations choisissent moins de trois ou quatre pays pour l'entrée en phase nationale, ce qui permet à ces pays de participer à la mise en oeuvre du traité de coopération en matière de brevets. Il s'agit là d'une très grande occasion perdue et la perte de droits de brevet précieux dans la plupart des pays du monde a été particulièrement importante. conçu pour aider à résoudre ce problème, notre stratégie est très simple à dire au monde entier sur votre technologie brevetable et comme une demande PCT est publiée à 18 mois, cela vous donne une excellente occasion d'utiliser les 12 ou 13 mois fenêtre entre la publication et l'entrée en phase nationale comme une opportunité de marketing et pour accroître la sensibilisation et l'intérêt pour votre technologie, en particulier dans les pays ou régions que vous n'avez pas actuellement commercialisation ou
+
+[2:07] En d'autres termes, nous vous donnons une chance de commercialiser et de vendre vos droits de brevet potentiels dans ces pays étrangers que vous ne pouvez ou ne pourrez probablement pas poursuivre vous-même et c'est gratuit c'est libre de devenir un membre de l'excédent du PCT et il est libre d'utiliser et nous dirigeons toutes les enquêtes et l'intérêt pour votre technologie directement à vous PC TXS est très facile à utiliser il faut moins de 2 minutes pour devenir un membre et il faut encore deux minutes pour ajouter votre technologie à notre catalogue mondial d'inscription vous n'avez qu'à saisir votre numéro de demande PCT et tous les Le système de l'OMPI télécharge automatiquement les chiffres et les revendications à partir du site Web de l'OMPI, de manière instantanée et exacte, l'accès au PCT dispose également d'un groupe d'utilisateurs et de discussion sur LinkedIn, avec plus d'un millier de membres, dont de nombreux membres. les sociétés multinationales universités cabinets d'avocats courtiers et inventeurs indépendants et si vous n'avez pas déjà fait ainsi, nous vous invitons à rejoindre le groupe en tant que membre actif et pour les organisations avec un grand portefeuille nous fournissons un
+
+[3:08] service de téléchargement de portefeuille qui est simple et pratique pour utiliser PC TXS est rapide, il est simple et il est gratuit PC TXS laissez-nous vous aider à commercialiser votre technologie vous
+
+---
+
+## Texte original (en)
+
+[0:03] [Music] technology [Music] it brings us together it moves us forward and it's everywhere welcome to PC TXS my name is Philip Kerr and I'm the president and the co-founder of PC TXS a Canadian company PC TXS is designed to help you commercialize your technology I've been a Canadian patent and trademark lawyer for more than thirty years and during my career I noticed that while patterns are available
+
+[0:51] globally many great technologies are not effectively commercialized on a worldwide basis while most organizations may have commercialization of partnering opportunities in several countries they have no such contacts in other regions of the world and consequently they don't acquire patent rights in those other regions as you know when you file an international patent application you can enter the national phase in up to 150 or more countries at the 30 or 31 month national phase deadline but on average of the more than 150 countries that participate in the patent cooperation treaty most organizations select fewer than three or four countries for national phase entry allowing their valuable technologies to fall into the public domain in the remaining 145 plus countries this is a very large lost opportunity and a loss of valuable patent rights throughout most of the world PCT access was specifically
+
+[1:42] designed to help solve this problem our strategy is very simple tell the whole world about your patentable technology and as a PCT application is published at 18 months this gives you an excellent opportunity to use the 12 or 13 month window between publication and national phase entry as a marketing opportunity and to expand the awareness and interest in your technology particularly in those countries or regions that you don't currently have commercialization or partnering opportunities in other words we give you a chance to market and sell off your potential patent rights in those foreign countries that you cannot or will not likely pursue on your own and it's free it's free to become a member of PCT excess and it's free to use and we direct all the inquiries and interest in your technology directly back to you PC TXS is very easy to use it takes less than 2 minutes to become a
+
+[2:33] member and it takes another two minutes to add your technology to our worldwide listing catalog you simply type in your PCT application number and all of the disclosure and figures and claims are automatically downloaded by our system from the WIPO website instantly and accurately PCT access also has a user and discussion group in LinkedIn with over a thousand members including many multinational corporations universities law firms brokers and independent inventors and if you've not already done so we welcome you to join the group as an active member and for organizations with a large portfolio we provide a free portfolio upload service that simple and convenient to use PC TXS is fast it's simple and it's free PC TXS let us help you commercialize your technology
+
+[3:39] you

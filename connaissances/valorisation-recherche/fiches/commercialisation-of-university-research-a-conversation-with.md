@@ -1,0 +1,31 @@
+# Fiche : Commercialisation de la recherche universitaire : une conversation avec des bureaux de transfert (Nigeria et Royaume-Uni)
+- Source : Oxford Brookes Business, 26 nov. 2021, https://www.youtube.com/watch?v=YscRte4FsoQ, Nigeria et Royaume-Uni
+- Intervenant(s) : animatrice Dr Shola Adesola (Oxford Brookes) ; Pr Oyedunni Arulogun (Centre pour l'entrepreneuriat et l'innovation, Université d'Ibadan) ; Dr Gibson (Université d'Ibadan, nom à vérifier) ; Pr Emeka Iwuala (Université Covenant, nom à vérifier) ; un représentant de l'industrie (nom à vérifier, transcrit « Akim ») ; Pr Simonetta Manfredi (Oxford Brookes) ; Dr Edward Cole (Oxford Brookes, ancien de l'industrie)
+- Pertinence : forte – table ronde sur la valorisation en contexte nigérian, avec comparaison britannique, obstacles et solutions concrètes.
+- Idées clés :
+  - À Ibadan, un centre d'entrepreneuriat et d'innovation créé en 2008 a conduit à une politique de propriété intellectuelle en 2012 ; environ 18 innovations enregistrées à ce jour.
+  - Obstacles cités : peu d'investissement dans les incubateurs et parcs industriels, culture entrepreneuriale et brevet faibles chez les chercheurs, absence de capital-risque, mauvaise communication entre acteurs du système national d'innovation, préférence des consommateurs pour les produits étrangers.
+  - Les chercheurs publient surtout pour être promus ; le brevet compte pour la promotion mais pas sa commercialisation, d'où l'idée d'ajouter la commercialisation aux critères.
+  - Les investisseurs demandent la création d'une société plutôt que d'investir dans l'université ; des règles empêchent un fonctionnaire de posséder une entreprise.
+  - L'Université Covenant (privée) a un bureau de propriété intellectuelle et de transfert, avec un agent PI, un agent d'affaires et un juriste, ainsi qu'une copropriété des brevets avec les chercheurs.
+  - Le point de vue de l'industrie : analyser le marché pour chaque invention, modéliser un parcours de commercialisation, déposer à l'international, actualiser les politiques et former régulièrement.
+  - Les femmes sont peu présentes parmi les fondateurs de spin-offs britanniques et rencontrent plus de difficultés pour lever des fonds ; il faut mesurer la participation par genre.
+  - Au Royaume-Uni, l'État finance une partie des activités d'échange de connaissances et récompense l'impact, ce qui finance les bureaux de transfert.
+  - Un programme national paie un jeune chercheur pour aller parler à une centaine d'entreprises avant de créer une société, avec un financement de lancement.
+  - Il vaut mieux accorder une licence exclusive avec option sur la propriété, car la plupart des spin-offs échouent.
+  - Une définition proposée : la commercialisation est la conversion d'une idée en valeur utilisée par le monde extérieur ; l'impact motive aussi beaucoup de chercheurs.
+- Chiffres et faits cités :
+  - [7:02] Environ 18 innovations enregistrées par le centre d'Ibadan.
+  - [25:16] L'Université Covenant a enregistré 26 brevets (selon l'intervenant, parmi les plus nombreux du pays).
+  - [41:29] Environ 13 % des spin-offs britanniques sont fondées ou cofondées par des femmes.
+  - [1:15:49] Environ 160 nouvelles spin-offs au Royaume-Uni l'année précédente, 1,2 milliard de livres levés ; 294 millions de revenus de licences, dont l'essentiel pour dix universités (à vérifier).
+  - [1:20:52] Une licence d'anticorps rapporte à une petite université environ 5 millions par an (à vérifier).
+  - [1:01:17] Aucun des brevets d'Ibadan n'est encore pleinement commercialisé.
+- Exemples et cas concrets : étudiant en génie mécanique d'Ibadan primé dans un concours mondial d'entrepreneuriat pour une plateforme d'apprentissage en ligne [9:38] ; brevet détenu par deux jumelles à Covenant, concédé en licence [59:32] ; expositions virtuelles avec plus de 23 pays [22:42].
+- Citations :
+  - [50:06] « Beaucoup de chercheurs veulent seulement leur brevet pour la promotion, puis s'arrêtent là. » (Dr Gibson, reformulé)
+  - [1:14:04] « Les défis du Nigeria sont identiques à ceux que j'ai connus au Royaume-Uni. » (Dr Edward Cole, reformulé)
+  - [1:36:02] « Un bureau de transfert ne devrait pas rédiger le plan d'affaires à la place des fondateurs. » (Dr Edward Cole, reformulé)
+- Réutilisation HSA : webinaire « Les obstacles de la valorisation en Afrique et les solutions » ; fiche pratique sur la copropriété des brevets et la licence avec option ; post sur la place des femmes dans les spin-offs.
+
+Transcription complète : [../transcriptions/commercialisation-of-university-research-a-conversation-with.md](../transcriptions/commercialisation-of-university-research-a-conversation-with.md)

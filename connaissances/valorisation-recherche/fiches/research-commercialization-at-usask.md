@@ -1,0 +1,33 @@
+# Fiche : Commercialisation de la recherche à l'Université de la Saskatchewan (USask)
+- Source : The Undergraduate RSAW Initiative, 9 juin 2021, https://www.youtube.com/watch?v=ZnE6uR2XeUc, zone : Canada
+- Intervenant(s) : Dr Chris Bowman, responsable du transfert de technologie (technologies de l'ingénierie, des sciences physiques, de la chimie, de l'informatique) au bureau Research Excellence and Innovation de l'Université de la Saskatchewan ; présentation par Merle Massey, coordinatrice de la recherche en premier cycle
+- Pertinence : forte – introduction pédagogique d'un responsable de transfert de technologie à la PI, aux brevets et à la propriété des inventions à l'université.
+- Idées clés :
+  - Le bureau de transfert cherche, parmi les idées de l'université, celles qui pourraient devenir un produit, et trouve des partenaires privés pour les porter, car l'université ne fabrique pas de produits.
+  - Il ne veut pas gêner la publication, qui reste la mission première de l'université.
+  - Cas de réussite : une chimie nouvelle pour dissoudre l'or (mines et recyclage d'électronique), start-up passée par une émission de pitch télévisée, financement par étapes.
+  - Le passage du laboratoire au produit est long : du « beaker » à l'usine, et pire encore en sciences de la vie à cause des essais cliniques.
+  - Beaucoup de bonnes idées échouent : l'entonnoir va de milliers d'idées à très peu de produits.
+  - Une idée seule n'est pas protégeable ; une idée publiée ou racontée tombe dans le domaine commun.
+  - Types de PI : marques, droit d'auteur, secrets d'affaires, brevets, dessins et modèles.
+  - Les secrets d'affaires sont rares à l'université, dont le métier est de diffuser.
+  - Le brevet dure 20 ans, est national (un brevet par pays), coûte des dizaines de milliers de dollars pour une protection large, et son application peut coûter autant ou plus que son obtention.
+  - Conditions : nouveauté, non-évidence, utilité, description suffisante pour qu'un homme du métier reproduise l'invention.
+  - Divulgation préalable (articles, thèses, affiches, exposés, conversations) peut bloquer la brevetabilité.
+  - Un brevet donne le droit d'exclure, pas le droit d'exploiter (liberté d'exploitation).
+  - Un inventeur n'est pas un auteur : il faut avoir contribué de façon créative ; une liste erronée peut faire invalider le brevet.
+  - Propriété : l'invention d'un employé appartient généralement à l'université ; pour le corps enseignant, accord de commercialisation avec paiement à l'inventeur ou restitution des droits si elle ne commercialise pas ; un étudiant non rémunéré qui travaille avec ses propres ressources garde son idée ; la recherche sponsorisée peut transférer la PI au sponsor.
+  - Si l'université prend la PI en charge, elle paie les frais de brevet.
+  - Une entreprise peut réussir sans aucune PI ; la PI sert à créer un « fossé » face aux concurrents.
+- Chiffres et faits cités :
+  - [5:56] Le bureau a été numéro un canadien en revenus de licences, grâce surtout à un vaccin animal contre le circovirus porcin ; les revenus ont chuté quand il est tombé dans le domaine public.
+  - [26:16] Durée d'un brevet : 20 ans.
+  - [26:16] Chaque brevet national peut coûter des dizaines de milliers de dollars.
+  - [4:13] Les fondateurs de la start-up de l'or ont reçu une offre de tous les investisseurs d'une émission de pitch, qu'ils ont refusée.
+- Exemples et cas concrets : dissolution de l'or (Steve Foley et ses étudiants, Université de la Saskatchewan) ; vaccin porcin ; programme d'entrepreneuriat étudiant ; exemples de PI (bouteille de Coca-Cola).
+- Citations :
+  - [29:37] « Un brevet ne donne pas le droit de faire quelque chose, seulement d'empêcher les autres de le faire. » (Chris Bowman)
+  - [36:22] « Vous n'avez besoin d'aucune protection de PI pour avoir une entreprise prospère. » (Chris Bowman)
+- Réutilisation HSA : module « bases de la PI pour chercheurs » ; post sur inventeur contre auteur ; webinaire sur le coût et l'application des brevets pour une petite entreprise.
+
+Transcription complète : [../transcriptions/research-commercialization-at-usask.md](../transcriptions/research-commercialization-at-usask.md)

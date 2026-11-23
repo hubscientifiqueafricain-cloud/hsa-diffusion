@@ -1,0 +1,34 @@
+# Fiche : AAU Talks: Challenge of Research Commercialization in African Universities (Pt 2)
+- **Source** : Association of African Universities (AAU), 14 sept. 2022, https://www.youtube.com/watch?v=dzvva9pRTlE, Afrique anglophone (Ghana). La seule transcription disponible est une traduction automatique **en allemand** d'une émission en anglais. Noms propres très déformés.
+- **Intervenant(s)** :
+  - Dr Morris (prénom transcrit « Tibiru Morris Apalia », orthographe incertaine), University of Cape Coast (Ghana), interviewé devant une bibliothèque du campus.
+  - Animateur de l'émission AAU Talks (nom inaudible).
+  - Un premier invité (« Dr Kjatisu » ou « Dr Ko ») est seulement évoqué, dans la partie 1 de l'émission.
+- **Pertinence** : moyenne. L'émission diagnostique les freins à la commercialisation dans les universités africaines (critères de promotion, infrastructures, mentorat, faible financement industriel). Le propos reste général, sans chiffres.
+- **Idées clés** :
+  - Les freins cités : manque d'éthique de la recherche, pression à publier pour être promu, coût des brevets (évoqués par l'animateur). S'y ajoutent, selon l'invité, des infrastructures insuffisantes, le manque de temps des chercheurs et l'incapacité à former et soutenir les jeunes enseignants.
+  - Lier la promotion uniquement au nombre de publications pousse à la quantité, voire à des pratiques contraires à l'éthique, au détriment d'une recherche qui mène à un produit ou à un brevet. Proposition : un article dans une grande revue (Nature, Science) devrait valoir deux ou trois articles ordinaires, pour récompenser la qualité.
+  - Débat sur les revues africaines à fort impact. Il en existe peu, hormis en Afrique du Sud et quelques-unes au Kenya, et aucune au Ghana selon l'invité. Publier dans des revues africaines et les citer augmenterait leur visibilité avec le temps.
+  - Ailleurs, l'industrie finance une grande partie de la recherche universitaire. En Afrique, le financement vient surtout de l'État et de fonds publics (au Ghana, probablement le GETFund ; la transcription est confuse), et le chercheur est livré à lui-même. Proposition : que les entreprises réservent chaque année un budget pour financer des chercheurs qui améliorent leurs produits.
+  - Le mentorat doit commencer pendant les études. Exiger un ou deux articles publiés avant l'obtention du master ou du doctorat expose l'étudiant à l'évaluation par les pairs.
+  - Associer les jeunes collègues aux projets en leur confiant des rôles (analyse de données, méthodologie). Certains seniors refusent de les aider par peur d'être dépassés.
+  - Proposition : rendre obligatoire, pour passer au rang supérieur (par exemple de maître de conférences à professeur), l'encadrement d'un ou deux jeunes collègues.
+  - Chaque université devrait réserver chaque année un budget dédié à la recherche et moderniser ses laboratoires et équipements.
+  - Il faut enseigner aux étudiants l'état de l'art de leur domaine (nanotechnologies, impression 3D…) pour qu'ils construisent au-delà.
+  - Conclusion de l'animateur : il faut réorienter l'allocation des fonds et le développement des infrastructures pour passer de « chercher et ranger » à « chercher et commercialiser ».
+- **Chiffres et faits cités** :
+  - [2:32] Exemple d'exigence de promotion : 10 publications pour passer de maître de conférences (lecturer) à professeur associé.
+  - Aucun autre chiffre n'est cité.
+- **Exemples et cas concrets** : University of Cape Coast, Ghana. Aucun cas de commercialisation précis n'est cité.
+- **Citations** :
+  - [1:42–2:32] « La recherche doit avoir un impact sur la société. Si l'on conditionne la promotion aux seules publications, on pousse les gens à faire des choses qui ne sont pas toujours éthiques. »
+  - [9:27] « Pour passer d'un rang au suivant, il devrait être obligatoire d'avoir encadré un ou deux jeunes collègues. »
+  - [12:00] « Il nous faut des chercheurs qui ne se contentent pas de chercher et de ranger, mais qui cherchent et commercialisent. » (synthèse de l'animateur)
+- **Utilisation possible par HSA** :
+  - Plaidoyer pour réformer les critères de promotion (CAMES et universités) afin d'intégrer brevets, licences et impact.
+  - Post-débat sur le thème « Publish or perish ou publish and patent ? ».
+  - Programme de mentorat entre chercheurs seniors et juniors sur la plateforme HSA.
+  - Argument pour les revues africaines et la visibilité des chercheurs africains.
+- **Mots-clés** : Afrique, carrière du chercheur, politique publique, financement et maturation, partenariats industrie, mesure d'impact.
+
+Transcription complète : [../transcriptions/aau-talks-challenge-of-research-commercialization-in-african.md](../transcriptions/aau-talks-challenge-of-research-commercialization-in-african.md)

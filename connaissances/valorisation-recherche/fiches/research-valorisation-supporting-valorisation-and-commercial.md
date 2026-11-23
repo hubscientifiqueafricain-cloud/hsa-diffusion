@@ -1,0 +1,50 @@
+# Fiche : Research Valorisation | Supporting valorisation and commercialisation in the university
+- Source : University Industry Innovation Network (UIIN), 1 juil. 2024, https://www.youtube.com/watch?v=3vPfPRd0h50, Europe (Royaume-Uni, réseau européen), avec un regard néerlandais et australien
+- Intervenant(s) et fonction : noms approximatifs, tels que la transcription les rend.
+  - Sarah Jabber : responsable du développement commercial à l'UIIN, animatrice.
+  - « Yeti Van… » : fondatrice de « Care for Impact » (Pays-Bas). Ancienne scientifique, inventrice, responsable du transfert de technologie et entrepreneure, aujourd'hui coach. Travaille pour le partenariat public-privé NeuroControl.
+  - Marguerite Evans-Galea (transcrit « Margaret Evans Gallia ») : directrice générale de l'Industry Mentoring Network in STEM (IMNIS, rattaché à l'ATSE) et cofondatrice de Women in STEM Australia.
+  - Chris Fellingham : responsable des sciences sociales et humaines à Oxford University Innovation et directeur fondateur de l'accélérateur ARC.
+- Pertinence pour le sujet : forte. Table ronde sur la culture de valorisation, les processus de spin-off, les entreprises sociales issues des SHS, le mentorat avec l'industrie et la carrière des jeunes chercheurs.
+- Idées clés :
+  - La « valorisation » met l'accent sur la création de valeur et d'impact à partir de la recherche, pas forcément sur la valeur commerciale directe.
+  - Le blocage principal aux Pays-Bas : les débats sur les conflits d'intérêts, les aides d'État et la « cupidité » des universités dans leurs licences aux start-ups ralentissent ou tuent des projets. Solution proposée : réunir université, chercheur, entrepreneur et investisseur dans une démarche de co-création autour de l'invention, avec des objectifs communs, au lieu du réflexe « détecter, protéger, licencier ». Il faut aussi de la flexibilité, sans se retrancher derrière les règles.
+  - La culture entrepreneuriale fait le gros du travail : elle sélectionne les candidats et rend l'entrepreneuriat désirable. Des modèles de pairs, la « saine envie » et l'émulation (« si mon collègue a levé des fonds, moi aussi ») sont plus efficaces que le démarchage généraliste.
+  - En SHS, l'absence d'exemples de pairs bloque (« tous ceux qui l'ont fait sont des scientifiques, ce n'est pas pour moi »). Les SHS doivent cesser de voir la commercialisation comme un « gros mot ».
+  - Un processus de spin-off formel, transparent et publié en ligne est décisif. Les comités opaques qui prennent 2 à 3 ans démotivent, surtout en SHS où la PI tangible manque et où il faut d'autant plus chercher son marché.
+  - Oxford autorise officiellement depuis environ 5 ans les entreprises sociales (finalité sociale ou environnementale avant le profit). Plus de 60 % des porteurs de projets en SHS ont choisi cette forme. Sans cet outil, ces projets n'auraient pas existé.
+  - La première motivation des chercheurs qui collaborent avec l'extérieur est presque toujours d'avoir un impact positif.
+  - Mentorat entre l'industrie et les jeunes chercheurs (IMNIS) : un an de mentorat, de développement professionnel et de réseautage entre doctorants ou jeunes chercheurs et des dirigeants de l'industrie. Cela crée confiance et respect, réduit l'intimidation à contacter un PDG, et apprend à présenter un calendrier et un budget. Les mentors découvrent aussi les contraintes universitaires.
+  - Les stages en entreprise pour les doctorants et les étudiants de master (programme Ignite, 3 mois) sont orientés vers la stratégie et l'innovation, alors que les entreprises ciblent d'ordinaire les étudiants de licence.
+  - Les accords de PI et les accords de transfert de matériel (MTA) bloqués sont l'une des principales critiques de l'industrie et du monde académique. Les universités manquent de stratégie d'engagement avec l'industrie.
+  - Bonne pratique peu coûteuse : un stage interne dans l'équipe de valorisation de l'établissement, où les jeunes chercheurs consacrent 20 % de leur temps à leur propre projet (préparation du pitch, formations par des experts en brevets, accès aux bases de brevets).
+  - Les universités ont un « devoir de diligence » envers les postdoctorants : c'est « l'entonnoir percé », car la majorité ne fera pas carrière dans l'académie. L'entrepreneuriat développe des compétences transférables, même sans créer d'entreprise.
+  - Freins de carrière : l'évaluation par les publications, les subventions et le facteur d'impact décourage la valorisation. Aux Pays-Bas, la valorisation est devenue une mission principale des universités, au même titre que l'enseignement et la recherche. Les compétences entrepreneuriales (prise de risque, gestion de projet, action) rendent aussi meilleur scientifique.
+- Chiffres et faits cités :
+  - Oxford a créé sa première entreprise dans les années 1950 [5:41].
+  - Certaines universités britanniques mettent 2 à 3 ans à décider d'une spin-off [9:41].
+  - Entreprises sociales autorisées à Oxford depuis environ 5 ans, et plus de 60 % des chercheurs en SHS veulent en créer une [10:29].
+  - Plus de 70 % des binômes de mentorat IMNIS restent en contact plus de 5 ans [13:40].
+  - Plus de 800 dirigeants d'entreprise engagés et 1 300 anciens participants [15:19].
+  - Stage Ignite de 3 mois [14:30]. 20 % du temps dédié au projet dans le stage interne de valorisation [19:34].
+  - Programme britannique ICURe (transcrit « IQ » ou « IURE »), financé par les conseils de la recherche, qui « rachète » le temps du chercheur : environ 20 000 £ pour 5 mois à temps plein, exclusivement consacrés à la start-up [23:42].
+- Exemples et cas concrets :
+  - Division des sciences médicales d'Oxford : culture entrepreneuriale forte et émulation.
+  - Accélérateur ARC (SHS, Oxford).
+  - IMNIS et Ignite (Australie, Académie des technologies et de l'ingénierie, ATSE).
+  - Financements fédéraux australiens transitant par un centre de croissance industrielle, créant un guichet unique national (bourses de recherche intégrées à l'industrie, mentorat, formation à la commercialisation, canal Slack commun).
+  - Partenariat public-privé NeuroControl (Pays-Bas).
+  - Vecteurs lentiviraux pour la thérapie génique : un exemple de technologie qui exige de nombreuses licences.
+- Citations fortes :
+  - « Le plus efficace n'est pas de convaincre les chercheurs un par un, mais d'utiliser la saine émulation entre pairs : s'il l'a fait, pourquoi pas moi ? » [7:16]-[8:06]
+  - « Ce sont toujours les personnes qui font la recherche et l'innovation : elles ont besoin d'être connectées et d'avoir les compétences et le savoir-faire. » [12:52]
+  - « Je suis devenue une meilleure scientifique en travaillant aussi sur le côté entrepreneurial de mon projet. » [25:18]
+- Utilisation possible par HSA :
+  - Argument central pour le réseau social HSA : la culture et les modèles de pairs. Mettre en avant des chercheurs africains, y compris en SHS, qui ont créé une start-up ou une entreprise sociale.
+  - Module « Valoriser les SHS : l'entreprise sociale comme véhicule ».
+  - Plaidoyer pour des processus de spin-off publiés et rapides dans les universités africaines.
+  - Programme HSA de mentorat entre chercheurs et industriels inspiré d'IMNIS.
+  - Post « L'entonnoir percé : 9 doctorants sur 10 ne seront pas professeurs, préparez-les ». Ce ratio est un cadrage HSA, pas un chiffre de la vidéo.
+- Mots-clés : SHS et impact, spin-offs et start-ups, rôle du bureau de transfert, partenariats industrie, carrière du chercheur, définitions, politique publique (Bayh-Dole, etc.), financement et maturation
+
+Transcription complète : [../transcriptions/research-valorisation-supporting-valorisation-and-commercial.md](../transcriptions/research-valorisation-supporting-valorisation-and-commercial.md)

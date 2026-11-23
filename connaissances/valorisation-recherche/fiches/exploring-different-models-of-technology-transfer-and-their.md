@@ -1,0 +1,34 @@
+# Fiche : Explorer les différents modèles de transfert de technologie et leur impact
+- Source : Gowling WLG, 28 juin 2022, https://www.youtube.com/watch?v=M7b7o6lUu3c, Golfe (Émirats arabes unis, Qatar) et Canada
+- Intervenant(s) : Tamara El-Shibib (animatrice, consultante senior en brevets et transfert de technologie, Gowling, Dubaï) ; Marc Nantel (vice-président recherche et relations extérieures, Niagara College, Canada) ; John McEntire (orthographe à vérifier ; directeur du développement industriel et du transfert de connaissances, Qatar Foundation, 32 ans d'expérience) ; Sami Bashir (directeur de la gestion technologique et de l'innovation, Université Khalifa, Abou Dabi) ; Mohamed Al Hemairy (responsable du bureau de transfert de technologie, Université de Sharjah)
+- Pertinence : forte – quatre modèles de bureaux de transfert comparés par des praticiens de régions jeunes en valorisation, avec partage des revenus, défis et indicateurs.
+- Idées clés :
+  - Le transfert de technologie est le pont entre la recherche et l'innovation : gérer la recherche pour qu'elle devienne produits et services à impact social ou économique.
+  - Les bureaux remplissent trois rôles : protéger la propriété intellectuelle, choisir la stratégie de protection, puis l'exploiter et la monétiser ; il faut aussi parfois publier pour empêcher qu'un tiers ne s'approprie une idée.
+  - Modèle « collège » (Niagara College) : les enseignants sont embauchés pour enseigner, la recherche est libérée de leur charge ; chaque projet part d'un problème apporté par une entreprise, qui reçoit la propriété intellectuelle à la fin du projet, sans longue négociation de licence.
+  - Ce modèle exige un cofinancement de l'entreprise (au moins un dollar pour chaque dollar public, environ 20 % en espèces et 80 % en nature) et le choix de partenaires qui ont les moyens de commercialiser.
+  - Modèle Qatar Foundation : le bureau gère la propriété intellectuelle de plusieurs institutions, forme les entrepreneurs (programme Al Khabeer) et propose des services à coût couvert et des services bénévoles à la communauté entrepreneuriale.
+  - Modèle « de la recherche aux start-ups » : des entrepreneurs en série étrangers examinent dix technologies sur une semaine et préparent des plans d'affaires ; plusieurs sociétés se sont ensuite installées à Doha.
+  - À l'Université Khalifa, l'engagement continu avec les professeurs, la sensibilisation et le travail avec un incubateur sont essentiels ; il faut être proactif pour repérer les travaux commercialisables avant même une invention.
+  - Une politique de propriété intellectuelle avantageuse aide à attirer des chercheurs peu sensibilisés ; à Sharjah, l'inventeur reçoit 50 % des revenus.
+  - Les défis communs : manque de sensibilisation, changements de direction qui font perdre la mémoire institutionnelle, attentes irréalistes (« construisez et ils viendront »), peu d'industries locales pour financer ou licencier, coût élevé de la protection.
+  - Le financement de la preuve de concept et des start-ups comme « entité transitoire » est un levier majeur quand l'industrie locale est faible.
+  - Les bureaux sont des facilitateurs plus que des centres de profit : la mission est l'impact à long terme, « amorcer la pompe ».
+- Chiffres et faits cités :
+  - [4:18] Plus de 250 inventeurs accompagnés dans leurs dépôts de brevet par le responsable de Sharjah au cours de sa carrière.
+  - [11:26] Plus de 750 chercheurs à l'Université de Sharjah.
+  - [18:45] Qatar Foundation : 850 à 900 personnes soutenues ; recherche appliquée à 30 ou 35 %.
+  - [33:05] Sharjah : 50 % des revenus à l'inventeur ; la moyenne ailleurs est de 33 à 38 % selon l'animatrice.
+  - [36:49] Niagara College : un projet seulement, sur quelques milliers en 11 ans, où l'établissement a gardé la propriété intellectuelle (une bière sans alcool vendue dans toute l'Amérique du Nord).
+  - [40:18] Environ 150 collèges communautaires au Canada.
+  - [1:00:09] Qatar Foundation : participation initiale de 5 à 8 % dans les start-ups plutôt que de l'argent ; environ 200 000 dollars en espèces encaissés jusque-là, dont 40 000 dollars d'une licence à un diffuseur britannique.
+  - [1:01:04] Partage des revenus de la Qatar Foundation : 80 % aux chercheurs sur la première tranche (500 000 rials, environ 165 000 dollars), puis 60 %, 40 % et 20 % ; 165 000 dollars correspondent au versement moyen à un inventeur en Amérique du Nord, selon l'intervenant.
+  - [58:12] Le bureau de Sharjah a trois ans d'existence et cinq brevets.
+- Exemples et cas concrets : bière sans alcool développée par la brasserie-école de Niagara College et licenciée à une jeune entreprise ; technologie de transcription et de traduction arabes issue d'un institut de recherche qatari, utilisée par une chaîne d'information ; programme « de la recherche aux start-ups » avec le parc scientifique et technologique du Qatar.
+- Citations :
+  - [1:03:51] « Je vois cela comme amorcer la pompe : une fois lancée, elle produira dix ou quinze ans plus tard bien plus qu'aujourd'hui. » (John, Qatar Foundation, reformulé)
+  - [14:10] « Il n'y a pas de longues négociations de licence : tout se passe lors du passage de relais à l'entreprise. » (Marc Nantel, reformulé)
+  - [51:02] « Il faut trouver cette entité transitoire, une start-up capable de faire la preuve de concept et d'étudier le contexte commercial. » (Sami Bashir, reformulé)
+- Réutilisation HSA : tableau comparatif « Quel modèle de bureau pour quel contexte » ; webinaire sur le partage des revenus entre inventeurs et institutions ; post sur la preuve de concept comme étape décisive quand l'industrie locale est faible.
+
+Transcription complète : [../transcriptions/exploring-different-models-of-technology-transfer-and-their.md](../transcriptions/exploring-different-models-of-technology-transfer-and-their.md)

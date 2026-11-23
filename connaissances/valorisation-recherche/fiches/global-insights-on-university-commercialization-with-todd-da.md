@@ -1,0 +1,34 @@
+# Fiche : Regards mondiaux sur la commercialisation universitaire, avec Todd Davey et Medisa Focic
+- Source : AUTM (podcast « AUTM on the Air »), 12 nov. 2025, https://www.youtube.com/watch?v=_sxjvltLlWY, Monde (comparaison de cinq régions, dont l'Afrique)
+- Intervenant(s) : Todd Davey (professeur associé en entrepreneuriat, IMT Business School Paris, associé du réseau UIN) ; Medisa Focic (doctorante à l'Université de technologie de Sydney, politiques de PI des universités européennes) ; animatrice : Lisa Mueller (AUTM) (noms écrits selon la transcription, à vérifier)
+- Pertinence : forte – Présentation d'une étude comparative mondiale sur la PI et la commercialisation dans les universités, avec un passage dédié à l'Afrique et des recommandations concrètes.
+- Idées clés :
+  - Malgré la croyance au potentiel de la PI universitaire, les résultats de commercialisation restent faibles partout, faute de politiques de PI, d'un bureau ou d'un personnel dédié, et de financement.
+  - Le modèle américain (loi Bayh-Dole) a servi de référence mondiale, mais il se transpose mal : droit civil contre common law, « privilège du professeur » en Europe, contextes locaux.
+  - L'Europe parle de valorisation plutôt que de commercialisation : la valeur est plurielle (individuelle, institutionnelle, sociétale) et la PI est un outil, pas une fin.
+  - En Asie, la commercialisation est portée par l'État : priorité nationale, financements, infrastructures proches des entreprises, indicateurs d'innovation.
+  - En Afrique, les pays diffèrent beaucoup, les ressources manquent et les politiques de PI sont moins développées, mais les initiatives privilégient l'innovation sociale et les solutions locales.
+  - Les chercheurs manquent d'incitations : la commercialisation est un travail en plus de l'enseignement, de l'encadrement et de la recherche ; la bureaucratie est un frein sous-estimé.
+  - La confiance entre université et industrie se construit par de petites collaborations, des accords clairs, des règles du jeu, des champions internes et des échanges temporaires entre milieux.
+  - Les politiques de PI sont souvent formelles et peu lisibles pour les chercheurs, notamment en sciences sociales et humaines ; elles manquent d'objectifs mesurables.
+  - Les revenus de la PI peuvent motiver les inventeurs, ou financer les spin-offs précoces.
+  - Les métriques doivent dépasser brevets et spin-offs : notes de politique, ateliers, savoir-faire, impact social.
+  - Recommandations : un « client mystère » pour tester son propre établissement, former tôt les jeunes chercheurs, construire des relations plutôt que des transactions, réviser régulièrement la politique de PI.
+- Chiffres et faits cités :
+  - [8:44] Aux États-Unis, les revenus de licences sont passés de 130 millions de dollars en 1991 à 2,4 milliards en 2015.
+  - [8:44] Quinze universités concentrent 70 % de ces revenus, souvent des établissements d'élite.
+  - [9:36] En Europe, moins de 1 % des universitaires font exclusivement des spin-offs ou des licences, et ceux qui en font collaborent aussi beaucoup avec l'industrie et le gouvernement.
+  - [7:54] Il peut s'écouler jusqu'à 25 ans entre le début d'un projet de recherche fondamentale et un produit sur le marché.
+  - [50:09] Siemens a identifié 16 écosystèmes de recherche et d'innovation.
+  - [44:10] Modèle de partage d'Oxford cité : jusqu'à 60 % des premiers 72 000 de revenus de licence pour l'inventeur (chiffre à vérifier).
+  - [59:43] Neuf chercheurs sur dix souhaitent créer de la valeur à partir de leur recherche, six sur dix collaborent hors du monde académique, trois sur dix avec l'industrie et un sur dix fait de la commercialisation.
+  - [1:21:09] 95 % des chercheurs qui collaborent tôt avec l'industrie continuent de le faire.
+- Exemples et cas concrets : écosystèmes de recherche de Siemens (collaborations multi-acteurs) ; projet minier australien AMIRA P260 (cycles de 3 à 4 ans avec grandes entreprises, PME et universités) ; Flinders University (un ancien étudiant devient directeur d'une spin-off) ; studios de l'UT Health San Antonio ; MIT, Oxford University Innovation, parc scientifique de l'Université Tsinghua.
+- Citations :
+  - [32:10] « Il y a un fossé culturel entre l'industrie et l'université : les objectifs, les délais et même le langage. » (Todd Davey)
+  - [1:14:13] « Il faut construire des relations plutôt que des transactions : si les relations sont solides, les transactions suivent. » (Todd Davey)
+  - [55:29] « Que le dirigeant fasse un exercice de client mystère : il sera choqué de voir combien c'est difficile et long. » (Todd Davey)
+  - [1:12:32] « Apprenons des bonnes pratiques, mais voyons ce qui marche dans notre propre contexte. » (Medisa Focic)
+- Réutilisation HSA : module de cours « Concevoir ou réviser une politique de PI universitaire » ; webinaire sur les indicateurs de valorisation au-delà des brevets ; post sur l'exercice du client mystère pour les directions d'université.
+
+Transcription complète : [../transcriptions/global-insights-on-university-commercialization-with-todd-da.md](../transcriptions/global-insights-on-university-commercialization-with-todd-da.md)

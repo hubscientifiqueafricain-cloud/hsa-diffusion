@@ -1,0 +1,55 @@
+# Fiche : Recent trends in university spinout terms
+- **Source** : Taylor Wessing LLP, 25 févr. 2021, https://www.youtube.com/watch?v=pEXFLM69zvc, Europe (Royaume-Uni) et États-Unis. Webinaire de 1 h 03 coorganisé avec Wilson Sonsini. Pas de version française : notes tirées du texte original anglais.
+- **Intervenant(s)** :
+  - Adrian Toutoungi (« adrian tatunji » dans la transcription), associé transactions chez Taylor Wessing (Cambridge, Royaume-Uni). Modérateur.
+  - Kathy Ku, chief licensing advisor chez Wilson Sonsini (Palo Alto). Elle a dirigé pendant 27 ans l'Office of Technology Licensing (OTL) de Stanford.
+  - Tony Raven, directeur général de Cambridge Enterprise (le TTO de l'université de Cambridge). Ancien entrepreneur, cofondateur de Summit Technology (chirurgie réfractive au laser).
+  - Jamie Kasuboski, venture associate chez RA Capital Management (Boston). Il travaillait auparavant au fonds de capital-risque de Boehringer Ingelheim.
+- **Pertinence** : forte. C'est une discussion experte et concrète sur les conditions de création de spin-offs : part du capital de l'université, clauses anti-dilution, droits préférentiels, frais initiaux, licence ou cession, accords de « pipeline », savoir-faire. Points de vue croisés États-Unis / Royaume-Uni et TTO / investisseur.
+- **Idées clés** :
+  - La part du capital (equity) prise par les universités varie énormément : de moins de 10 % à 60–70 %, voire 100 %. Les universités qui gagnent le plus en commercialisation sont souvent dans le bas de la fourchette. Cette diversité rend difficile, pour les fondateurs, de juger si une offre est « au prix du marché ».
+  - Pourquoi des écarts ? (1) Le degré d'implication souhaité comme actionnaire. (2) Le travail fourni par le TTO : à Stanford, l'écosystème fait tout (logique « darwinienne ») ; à Cambridge, le TTO aide à écrire le business plan, lever des fonds et trouver les dirigeants, donc il demande plus. (3) L'arbitrage entre capital et redevances. (4) La contribution réelle de chaque chercheur.
+  - Une petite part avec clause anti-dilution (non diluée jusqu'à un certain montant levé) peut équivaloir à une part plus grande pleinement diluable.
+  - En logiciel, les universités gagnent davantage avec le capital. En biotech, l'argent vient surtout des redevances sur les ventes, car la part de l'université est fortement diluée par des levées très lourdes et des sorties tardives. Georgia Tech ne faisait que des accords en capital et n'en fait plus aucun.
+  - Le point de vue de l'investisseur : le tableau de capitalisation (cap table) est l'élément le plus sensible. C'est un jeu à somme nulle. Une université qui détient une grosse part sans apporter de capital rend la société moins investissable (« 50 % pour l'université, c'est insensé »). Son conseil : se battre moins sur le capital et davantage sur les paiements d'étape (milestones), qui sont plus certains.
+  - La répartition entre chercheurs, département et université doit être réglée tôt, en interne. Ensuite, le front doit être uni face aux investisseurs, et c'est le marché qui fixe la dilution.
+  - Les objectifs divergent : l'université vise l'impact sociétal, l'investisseur le rendement. Les petits TTO subissent une pression pour couvrir leurs coûts. Les start-ups sont souvent « riches en capital, pauvres en cash », ce qui pousse les TTO vers plus de capital et moins de cash. Il ne faut pas « tuer le fournisseur », comme un supermarché qui écraserait ses prix d'achat.
+  - Anti-dilution et préemption. Aux États-Unis, c'est courant (5–10 % non dilués jusqu'à 10–20 M$ levés), et plus de 100 universités tiennent à leur droit préférentiel de souscription. Au Royaume-Uni, Cambridge a essayé deux fois, et les investisseurs du tour suivant ont exigé la suppression de la clause. L'université « ne va pas tuer une société pour ça ». L'investisseur accepte une anti-dilution plafonnée, pas permanente, et refuse qu'elle soit transmise aux investisseurs financiers d'amorçage.
+  - Cambridge et Oxford disposent de fonds propres ou partenaires pour exercer leurs droits de préemption : « si vous n'avez plus de siège à la table, on vous oublie ». Ils craignent les tours de financement très dilutifs (« cram down ») et l'empilement des préférences de liquidation. Il faut que les fondateurs académiques touchent une juste part pour devenir des entrepreneurs en série.
+  - Frais initiaux : pour une start-up, ils restent modestes (10 000 à 25 000 $). L'accord est chargé en fin de parcours : paiements d'étape croissants à mesure que le risque diminue, redevances. Aux États-Unis, en licence exclusive, le remboursement des frais de brevet est quasi systématique et c'est souvent la première préoccupation du TTO. Cambridge préfère ne pas retirer de cash à la start-up et parier sur le succès.
+  - Quand la PI vient de plusieurs institutions : un accord inter-institutionnel désigne une université chef de file si l'invention est commune. Sinon, c'est à la start-up de cartographier la PI dont elle a besoin (étude de liberté d'exploitation) et de négocier pièce par pièce, en expliquant ce qui est fondamental et ce qui est accessoire. On ne peut pas céder 30 % du capital à chacune des universités. Il faut éviter les ententes anticoncurrentielles entre universités.
+  - Licence plutôt que cession : aux États-Unis, sous le régime Bayh-Dole, les universités ne cèdent pratiquement jamais leur PI. Elles gardent le titre pour pouvoir reprendre la licence si le licencié ne développe pas la technologie.
+  - Accords de « pipeline » (droits sur les améliorations futures) : Stanford les limite à environ 2 ans et aux demandes dérivées du brevet initial, à cause de règles strictes sur les conflits d'intérêts. Elle n'acceptait pas de recherche sponsorisée par une start-up issue d'un professeur. Le Royaume-Uni accepte davantage qu'une spin-off finance la recherche de son labo d'origine, avec un pipeline court, étroit et limité au groupe concerné. Les investisseurs veulent ces accords pour ne pas voir leur société rendue obsolète par l'idée suivante du labo.
+  - Le savoir-faire est un actif sous-estimé, mais les universités gardent mal les secrets (impératif de publication). Il faut le définir très précisément, surtout s'il donne lieu à une redevance après l'expiration du brevet. Sa valeur se mesure au temps qu'il faudrait à un concurrent pour le reconstituer. Une spin-off peut se fonder sur du savoir-faire si celui-ci mène à une PI plus solide (composition de matière en biotech). Le savoir-faire est souvent dans la tête des chercheurs et peut s'acquérir par des contrats de consultance.
+- **Chiffres et faits cités** :
+  - [0:52] OTL de Stanford : 27 ans sous la direction de Kathy Ku, centaines de licences, plus de 1,8 Md$ de revenus.
+  - [0:52–1:42] Licence non exclusive du brevet Cohen-Boyer sur l'ADN recombinant : plus de 250 M$ avant son expiration à la fin des années 1990.
+  - [1:42] Vente des actions Google détenues par Stanford après l'introduction en bourse (vers 2005) : environ 350 M$.
+  - [1:42] Summit Technology rachetée en 2000 pour environ 850 M$.
+  - [2:32] Cambridge Enterprise : portefeuille d'environ 100 spin-offs actives, environ 10 nouvelles sociétés et 20 M£ de revenus de licences en 2019. Hausse de 250 % des spin-offs sous la direction de Tony Raven.
+  - [5:06] Enquête Nature Biotechnology (2014) sur les universités américaines et britanniques : part du capital demandée de moins de 10 % à 60–70 %, voire 100 %.
+  - [11:50] Anti-dilution typique jusqu'à 5–10 M$ levés, parfois 20 M$.
+  - [15:16] En biotech, il faut investir entre 20 M$ et 500 M$ avant que les actions aient de la valeur (introduction en bourse ou rachat).
+  - [16:59] Part typique de l'université aux États-Unis : un chiffre (haut de fourchette) à un faible pourcentage à deux chiffres selon la maturité. Europe plus conservatrice : faible pourcentage à deux chiffres en biotech.
+  - [18:42] Exemple d'un syndicat d'investisseurs apportant 100 M$.
+  - [24:33] Aux États-Unis : environ 5–10 % non dilués jusqu'à 10–20 M$. Plus de 100 universités tiennent au droit préférentiel. Droit de souscrire environ 10 % du tour.
+  - [26:20] Anti-dilution plafonnée, par exemple jusqu'à 25 M$ levés.
+  - [31:30] Données AUTM : environ 87 % des TTO américains perdent de l'argent sur un cycle de 20 ans. Le transfert est donc subventionné par l'université. Kathy Ku : « l'equity, c'est la cerise sur le gâteau, le cash reste roi ».
+  - [35:43] BioVex : l'universitaire fondateur a créé une biotech valant un milliard et n'en a retiré que « 709 » (unité inaudible). C'est le contre-exemple à éviter.
+  - [36:33] Frais initiaux pour les start-ups : environ 10 000 à 25 000 $.
+  - [50:07] Droits sur les améliorations limités à environ 2 ans à Stanford.
+- **Exemples et cas concrets** :
+  - Le litige naissant sur la répartition des revenus du vaccin d'Oxford entre universitaires, spin-off et université (article de presse cité en introduction).
+  - Le brevet Cohen-Boyer, les actions Google de Stanford, Summit Technology, BioVex, Georgia Tech, Cambridge Enterprise, les fonds d'Oxford.
+- **Citations** :
+  - [18:42] « Le tableau de capitalisation, c'est toujours 100 % d'un gâteau. On ne peut pas en créer davantage. Une université à 50 % du capital, c'est insensé : cela rend l'investissement impossible. » (Jamie Kasuboski)
+  - [31:30] « Nous ne pouvons pas vivre du seul capital. L'equity, c'est la cerise sur le gâteau ; le cash reste roi. » (Kathy Ku)
+  - [35:43] « Si nous voulons que nos universitaires jouent le jeu et deviennent des entrepreneurs en série, ils doivent voir un retour juste et équitable pour ce qu'ils ont contribué à créer. » (Tony Raven)
+- **Utilisation possible par HSA** :
+  - Module avancé « Négocier la création d'une spin-off » : part du capital, anti-dilution, préemption, frais initiaux, paiements d'étape, redevances, pipeline, savoir-faire.
+  - Fiche sur les erreurs à éviter : part universitaire trop élevée, cap table « bizarre », savoir-faire mal défini.
+  - Aide aux universités africaines qui rédigent leur politique de spin-off : recommander des parts modestes et des clauses lisibles pour les investisseurs.
+  - Post « 87 % des bureaux de transfert américains perdent de l'argent ».
+- **Mots-clés** : spin-offs et start-ups, licences, propriété intellectuelle et brevets, rôle du bureau de transfert, financement et maturation, politique publique (Bayh-Dole), carrière du chercheur.
+
+Transcription complète : [../transcriptions/recent-trends-in-university-spinout-terms.md](../transcriptions/recent-trends-in-university-spinout-terms.md)

@@ -1,0 +1,34 @@
+# Fiche : Innovation régionale, universités, transfert de technologie et écosystème (panel TechCon SoCal 2026)
+- Source : TechCon Global, 29 octobre 2026, https://www.youtube.com/watch?v=2_JG6x6rdgU, États-Unis (Californie du Sud)
+- Intervenant(s) : Dave De Chappelle (nom à vérifier), directeur général de l'Alliance for SoCal Innovation (animateur) ; Hala Madanat, vice-présidente Recherche et Innovation, San Diego State University ; Errol Arklic (nom à vérifier), directeur de l'innovation, UC Irvine ; Anthony Lee, président de Westcliff University ; Ian Williamson, doyen de la Paul Merage School of Business, UC Irvine
+- Pertinence : forte – un panel de responsables d'universités explique comment la valorisation, les start-up et les partenariats régionaux se mesurent et se financent.
+- Idées clés :
+  - L'université est un moteur d'innovation dont les effets débordent vers la communauté : valorisation des facultés, entrepreneuriat étudiant et soutien à l'écosystème extérieur.
+  - À UC Irvine, la gestion de la propriété intellectuelle couvre quatre segments : création de nouvelles entreprises, licences technologiques, collaboration avec les entreprises et recherche sponsorisée par l'industrie.
+  - San Diego State a noué un partenariat avec Techstars pour attirer des entreprises dans la région, au-delà de la seule valorisation de ses propres chercheurs.
+  - Les fonds de « preuve de concept » (premiers dollars investis dans un projet) sont jugés décisifs, et ils sont suivis de très près à UC Irvine comme à San Diego State.
+  - L'impact se mesure à deux niveaux : macro (évaluation annuelle de l'écosystème) et micro (suivi projet par projet).
+  - Mesurer ne se limite pas aux brevets : nombre d'étudiants formés, entreprises créées, emplois créés et maintenus dans la région, et formation de futurs investisseurs providentiels.
+  - Les programmes régionaux s'alignent sur les secteurs de l'économie locale (sciences de la vie, défense, tourisme, aéronautique, technologies médicales).
+  - L'État peut soutenir les universités par des partenariats stratégiques sectoriels, avec l'exemple d'une politique néo-zélandaise d'incitation à des formations conjointes université-industrie.
+  - Le risque entrepreneurial se travaille par l'exposition et l'expérimentation à faible enjeu plutôt que par un « tempérament » inné.
+  - Distinguer entrepreneuriat et innovation : l'innovation est une activité à plus haut risque.
+- Chiffres et faits cités :
+  - [5:11] UC Irvine soutient environ 50 millions de dollars de recherche sponsorisée par l'industrie par an, sur un budget de recherche d'environ 650 millions.
+  - [3:29] Techstars San Diego, avec San Diego State : 30 entreprises accueillies en trois ans.
+  - [13:39] Concours de nouvelles entreprises de l'école de commerce d'UC Irvine : de 160 équipes en octobre à 10 lauréats.
+  - [14:26] Programme « Future Leaders Initiative » lancé il y a cinq ans : plus de 175 jeunes de lycée cette année.
+  - [20:25] Impact économique régional estimé à plus de 5 milliards de dollars sur dix ans (évaluation annuelle d'UC Irvine).
+  - [21:17] Fonds de preuve de produit : environ 100 projets soutenus en dix ans, une quarantaine devenus des entreprises, une dizaine ayant restitué deux fois la mise.
+  - [16:06] 60 % des étudiants de San Diego State restent à San Diego, 82 % en Californie ; 65 % des diplômés d'UC Irvine restent dans la région [32:21].
+  - [25:32] Dernière évaluation d'impact économique de San Diego State : de l'ordre de 10 milliards de dollars.
+  - [6:53] Westcliff University est passée d'une centaine d'étudiants à environ 10 000 en 17 ans.
+  - [34:05] Incubateur d'une des universités : environ 85 stages rémunérés par an pour constituer des équipes autour des étudiants fondateurs.
+- Exemples et cas concrets : partenariat entre Westcliff et un réseau de business angels avec sessions de présentation toutes les deux semaines sur le campus, intégrées aux cours ; projet de fin d'études mêlant étudiants en gestion, en technique, de licence, de master et de doctorat ; conférence d'investisseurs providentiels à San Diego avec un fonds financé par les participants pour les trois meilleures entreprises sur six.
+- Citations :
+  - [21:17] « Le fonds de preuve de produit, c'est le premier dollar investi dans un projet qui essaie de commercialiser quelque chose. » (responsable de l'innovation, UC Irvine)
+  - [35:44] « Ce n'est pas une mentalité de prise de risque, c'est comportemental : ce qu'on a déjà vu ou essayé est moins risqué. » (Ian Williamson)
+  - [30:36] « Les jours du soutien indifférencié sont terminés : il faut identifier ses forces et s'y concentrer. » (un panéliste)
+- Réutilisation HSA : webinaire « Mesurer l'impact de la valorisation : indicateurs macro et micro » ; module de cours sur les fonds de preuve de concept ; post sur le rôle des universités dans l'écosystème régional.
+
+Transcription complète : [../transcriptions/regional-innovation-universities-tech-transfer-and-ecosystem.md](../transcriptions/regional-innovation-universities-tech-transfer-and-ecosystem.md)

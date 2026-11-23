@@ -1,0 +1,36 @@
+# Fiche : Commercialising university research : experience from Cambridge academics
+- Source : Frank Stajano Explains, 12 mars 2021 (conférence plus ancienne, vers 2014-2015, donnée à une conférence ACE-CSR), https://www.youtube.com/watch?v=f1SP7ifppFY, Europe (Royaume-Uni) (31 min, texte original anglais)
+- Intervenant(s) et fonction : Frank Stajano, reader en sécurité et vie privée au Computer Laboratory de l'Université de Cambridge, directeur du Centre d'excellence académique en cybersécurité de Cambridge, ancien salarié d'Oracle, AT&T, Google, Toshiba ; il rapporte de façon anonymisée les conseils de cinq collègues entrepreneurs : Pr Ted Briscoe (cofondateur d'iLexIR en 2003), Dr David Greaves (cofondateur de Virata en 1999, Tenison Technology EDA), Pr Andy Hopper (directeur du Computer Lab, cofondateur d'une douzaine d'entreprises), Jack Lang (entrepreneur en série, business angel, cofondateur et président de Raspberry Pi), Steven Murdoch (architecte sécurité de Cronto).
+- Pertinence pour le sujet : forte – retours d'expérience directs de chercheurs-entrepreneurs, avec des points de vue critiques sur les TTO et les brevets ; très utile pour la carrière du chercheur.
+- Idées clés :
+  - Le TTO de Cambridge (Cambridge Enterprise) a trois missions : transfert de technologie, consultance (gestion des contrats), fonds d'amorçage ; sa particularité : les chercheurs peuvent l'utiliser sans y être obligés (flexibilité).
+  - Facteurs de succès cités : pas de restriction sur la consultance tant que les obligations d'enseignement, de recherche et d'administration sont remplies ; contrats autorisant le travail commercial à côté ; barrières minimales à la création d'entreprise ; conseils internes par des collègues entrepreneurs, ouverts aussi aux anciens.
+  - La plupart des entreprises sont créées par des diplômés qui quittent l'université (« walk-outs »), peu par des universitaires en poste.
+  - Concilier entreprise et carrière académique est difficile : environ un jour par semaine en moyenne pour l'un ; publications sacrifiées pour d'autres ; proposition de congés pour création d'entreprise de 2-3 ans avec poste conservé, temps partiels, années sabbatiques.
+  - Les systèmes d'évaluation (REF britannique) pénalisent les départements dont les chercheurs partent fonder une entreprise : perte de talents, doctorants qui abandonnent ; il faut corriger les indicateurs si l'on valorise l'innovation.
+  - Critiques du TTO par certains : « bureaucrates » qui veulent contrôler la propriété et prélever des redevances sans savoir exploiter ce qui sort des schémas connus ; un TTO qui prend une grosse part initiale réduit la générosité future des anciens devenus riches envers l'université.
+  - Position radicale d'un répondant (logiciel) : les brevets freinent l'innovation et aucune université ne peut les défendre contre une grande entreprise ; la biotech est différente.
+  - Synthèse de Stajano sur le brevet : il gêne quand on veut une adoption la plus large possible d'une technologie nouvelle (« agrandir le gâteau d'abord ») ; il aide face à des concurrents établis, pour convaincre un gros client qu'on est seul à pouvoir fournir.
+  - Choisir le bon modèle économique : une équipe a perdu un an avant de comprendre que son invention relevait du transfert/consultance et non de la vente de produits ; « pas de modèle unique ».
+  - Comprendre le marché et savoir expliquer son projet à des non-spécialistes (« à sa belle-mère »).
+  - Pour un environnement entrepreneurial : l'échec doit être acceptable (environ 1 entreprise sur 10 réussit) ; si l'université prend une trop grosse part, l'incitation à créer diminue.
+  - Conseils : trouver un client et travailler avec lui sur un vrai problème ; s'associer à quelqu'un formé en gestion ; déposer tôt un brevet pour le matériel (attire les investisseurs) ; bien choisir ses associés ; décider si l'on vise l'argent ou le CV – on ne peut pas être PDG et mener une carrière académique complète.
+- Chiffres et faits cités :
+  - [1:46] Cluster de Cambridge : plus de 1 500 entreprises technologiques, plus de 50 000 emplois, plus de 10 milliards £ de chiffre d'affaires annuel, capitalisation cumulée de plus de 50 milliards £ ; [2:42] plus de 12 entreprises valorisées plus d'1 milliard £ en 15 ans.
+  - [2:42] ARM : plus de 95 % de part de marché des processeurs de téléphones mobiles ; plus de 50 milliards de puces à cœur ARM produites en 2014 ; 10 milliards en 2013.
+  - [3:35] XenSource vendue à Citrix en 2007 pour 500 M$ ; RealVNC : plus d'un milliard de copies déployées, trois Queen's Awards for Enterprise consécutifs.
+  - [4:27] Raspberry Pi : ordinateur à 20 $, 3,8 millions de cartes vendues en octobre 2014.
+  - [5:18] Environ 225 entreprises créées par des diplômés et personnels du Computer Laboratory.
+  - [7:53] SwiftKey : 1 million de téléchargements le premier jour sur l'App Store.
+  - [8:46] Virata : introduction record au NASDAQ en 1999, plus de 600 M$ levés en sept tours, jusqu'à 40 % des puces DSL mondiales.
+  - [12:07] Cronto vendue à Vasco pour 17 M€.
+  - [24:49] Environ 1 nouvelle entreprise sur 10 réussit.
+- Exemples et cas concrets : ARM (issue d'Acorn, licence de cœurs de processeur sans fabrication), XenSource (hyperviseur derrière Amazon EC2), RealVNC, Raspberry Pi (but éducatif), SwiftKey (issue d'iLexIR), Virata, Cronto (sécurité bancaire), « Hall of Fame » en bois du Computer Lab.
+- Citations fortes :
+  - [20:39] « Si l'on veut que les universités produisent ce type d'innovation, le système d'évaluation ne doit pas les pénaliser quand elles le font. »
+  - [24:49] « Il faut que l'échec soit acceptable, sans conséquences désastreuses pour vous et votre famille, si l'on veut que les gens prennent des risques. »
+  - [27:26] « Ne vous racontez pas d'histoires : vous ne pouvez pas mener une carrière académique complète et en même temps diriger votre spin-off comme PDG. Il faut choisir. »
+- Utilisation possible par HSA : module « Chercheur et entrepreneur : comment concilier ? » (congés de création, temps partiel, consultance) ; post « Breveter ou non ? Ça dépend » ; argument pour réformer les statuts des enseignants-chercheurs africains (autoriser consultance et création d'entreprise, ne pas pénaliser dans l'évaluation) ; témoignages pour masterclass ; message aux TTO africains : être facilitateurs plutôt que gardiens.
+- Mots-clés : spin-offs et start-ups, carrière du chercheur, rôle du bureau de transfert, propriété intellectuelle et brevets, politique publique, financement et maturation.
+
+Transcription complète : [../transcriptions/commercialising-university-research-experience-from-cambridg.md](../transcriptions/commercialising-university-research-experience-from-cambridg.md)

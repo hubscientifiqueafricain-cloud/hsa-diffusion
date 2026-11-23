@@ -1,0 +1,32 @@
+# Fiche : Archive : le Centre de commercialisation de l'Université de Washington, l'université de demain dès maintenant
+- Source : UW Video (chaîne de l'Université de Washington), 8 juil. 2014 (conférence donnée lors d'une réunion annuelle des partenaires industriels, 2010), https://www.youtube.com/watch?v=Ln8XJWpt3wc, États-Unis
+- Intervenant(s) : une responsable du Centre de commercialisation de l'Université de Washington (C4C), ancienne entrepreneuse de Seattle, nommée « Lyndon Rhodes » dans la transcription (orthographe à vérifier) ; un présentateur du département d'informatique et d'ingénierie
+- Pertinence : forte – Retour d'expérience sur la refonte d'un bureau de transfert de technologie, avec une orientation start-ups, spécialisation du personnel et financement de la maturation.
+- Idées clés :
+  - Le bureau de transfert a été « redémarré » sous la direction d'une entrepreneuse, ce qui change la culture : l'université ne risque pas la faillite, mais doit penser son influence sur dix ans.
+  - Les politiques fédérales américaines ont créé la « vallée de la mort » entre la fin du financement de la recherche et le moment où une entreprise peut attirer des capitaux.
+  - L'oratrice défend l'idée que l'université doit avoir un modèle économique et miser sur ses forces : recherche, participation pratique des étudiants et collaboration avec l'industrie.
+  - La collaboration avec l'industrie est difficile : motivations différentes (publier, horizons longs), exigences de licence des sponsors, risque de réputation.
+  - Pour rapprocher chercheurs et industrie : programmes d'affiliés, visites programmées, partenariats de long terme, et « portes tournantes » (séjours des chercheurs en entreprise).
+  - Les start-ups sont souvent la première étape avant l'intégration d'une innovation dans une grande entreprise ; elles ouvrent aussi l'accès à des financements non dilutifs.
+  - Le bureau a spécialisé ses équipes : agents de brevets (qui prennent en charge les dépôts), gestionnaires de technologie très qualifiés, experts en PI, entrepreneurs en résidence et directeurs sectoriels (sciences de la vie, informatique).
+  - Les conflits d'intérêts sont considérés comme inhérents au travail universitaire ; il faut les identifier, les déclarer et les gérer tôt, avec un comité tiers.
+  - Le « manque d'élan » tue les start-ups : un programme finance des post-doctorants en commercialisation pour qu'un étudiant fraîchement diplômé reste un an sur le projet.
+  - Les subventions de commercialisation sont désormais attribuées à des projets structurés par jalons, appuyés par entrepreneurs, étudiants MBA et agents de brevets.
+  - Il faut partager les revenus avec les départements pour inciter la culture entrepreneuriale, et à terme intégrer la PI dans les décisions de titularisation.
+- Chiffres et faits cités :
+  - [11:21] Environ 3 % de la recherche (environ 30 millions de dollars sur plus d'un milliard) est financée par l'industrie ; les meilleures universités atteignent 7 ou 8 %.
+  - [25:58] La phase 2 des subventions SBIR peut représenter 2 millions de dollars de capital non dilutif.
+  - [27:41] L'Université d'Utah génère environ 10 fois plus de start-ups par dollar de recherche que l'Université de Washington, avec une base de recherche d'un quart à un tiers.
+  - [28:34] Utah peut réunir jusqu'à un million de dollars pour une start-up, contre 50 000 dollars traditionnellement à Washington.
+  - [30:16] Le bureau compte 50 à 60 personnes, dont 15 gestionnaires de technologie.
+  - [29:25] Un brevet licenciable coûte environ 100 000 dollars à l'université.
+  - [51:02] Le soutien interne approche 300 000 dollars par projet ; 13,5 millions sur 20 millions visés sont engagés pour un fonds de capital-risque géré par des étudiants.
+- Exemples et cas concrets : partenariat Berkeley-BP (500 millions de dollars) et centre de 100 millions obtenu ensuite (montant à vérifier) ; Université d'Utah comme modèle ; groupe de business angels dédié aux dispositifs médicaux ; Innovation Showcase avec la Tech Alliance.
+- Citations :
+  - [4:23] « Le défi de la direction n'est pas la survie, c'est de rester une force significative pour le monde. » (la directrice du C4C)
+  - [34:33] « Nous pensons qu'il n'y a pas de moment trop tôt pour travailler avec nous. » (la directrice du C4C)
+  - [44:03] « L'un des tueurs de start-ups, c'est le manque d'élan. » (la directrice du C4C)
+- Réutilisation HSA : étude de cas pour un module « Organiser un bureau de transfert et spécialiser ses équipes » ; post sur la gestion des conflits d'intérêts ; webinaire sur les fonds de maturation et post-doctorants de commercialisation.
+
+Transcription complète : [../transcriptions/archive-the-uw-center-for-commercialization-tomorrow-s-unive.md](../transcriptions/archive-the-uw-center-for-commercialization-tomorrow-s-unive.md)

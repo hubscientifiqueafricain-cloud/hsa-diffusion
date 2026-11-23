@@ -1,0 +1,31 @@
+# Fiche : Financements non dilutifs et soutien à la commercialisation et aux spin-offs (Northeastern)
+- Source : Northeastern Center for Research Innovation, 11 janv. 2024, https://www.youtube.com/watch?v=MLj7KJRkfYQ, États-Unis
+- Intervenant(s) : Katie Hil[l], directrice des partenariats technologiques et du réseau de talents au Center for Research Innovation (CRI) ; Jenna (administratrice des programmes internes de subventions, bureau du développement de la recherche) ; Amy Carroll (vice-rectrice pour l'impact global) ; une collègue du CRI (orthographe des noms à vérifier)
+- Pertinence : forte – Panorama concret des financements internes non dilutifs d'une université pour passer de la recherche au prototype puis à la spin-off.
+- Idées clés :
+  - Le CRI aide les spin-offs qui utilisent la propriété intellectuelle de l'université avec les bonnes ressources au bon moment (projets pilotes : consultant en entrepreneuriat, aide à la rédaction de subventions, accompagnement du pitch, design).
+  - Trois programmes internes de subventions de recherche (niveaux 1, 2 et 3) financent des équipes interdisciplinaires, la préparation de grandes propositions fédérales et des initiatives planifiées de grande ampleur.
+  - Le programme « Impact Engines » finance des projets conçus pour faire avancer un défi sociétal de façon mesurable sur 3 à 5 ans ; il part du problème, pas du thème, et exige de croiser les disciplines.
+  - Un projet peut avoir un impact sans créer d'entreprise (exemple : un projet communautaire contre l'enchaînement vers la prison).
+  - Le Spark Fund comble l'écart entre résultats prometteurs de laboratoire et prototypes viables commercialement ; il ne prend aucune part de capital.
+  - Plusieurs fonds ciblent la spin-off : un fonds alpha pour le prototype, un accélérateur ouvert à tous (étapes « prêt, établi, lancement ») avec un fonds de transition, un prix pour les femmes innovatrices, un fonds d'impact social.
+  - Un réseau de mentors bénévoles (plus de 400 engagés depuis sa création) forme des équipes de mentors selon le besoin : premier contact, construction du modèle d'affaires, levée de fonds.
+  - Les projets de soutien étaient en phase pilote pour 14 spin-offs et la direction étudie leur extension.
+  - La complexité de l'écosystème impose un point de contact qui guide les porteurs.
+- Chiffres et faits cités :
+  - [2:34] Programme de niveau 1 : jusqu'à 50 000 dollars, 15 mois, jusqu'à 25 lauréats sur 60 à 80 candidatures par an.
+  - [5:08] Niveau 2 : jusqu'à 50 000 dollars (en pratique 15 000 à 30 000) pour préparer une grande proposition fédérale ; demande trois mois avant l'échéance.
+  - [6:01] Niveau 3 : subvention de planification jusqu'à 150 000 dollars.
+  - [11:11] Onze projets Impact Engine actifs et un terminé ; plus de 63 idées discutées en un an.
+  - [27:48] Impact Engine : phase de développement jusqu'à 200 000 dollars en deux ans ou moins, puis phase « engine » de trois à cinq ans.
+  - [17:18] Spark Fund : jusqu'à 50 000 dollars par subvention, au moins cinq subventions par cycle, sans prise de capital.
+  - [20:45] Fonds alpha : jusqu'à 10 000 dollars, par tranches de 5 000.
+  - [22:31] Fonds de transition de l'accélérateur : jusqu'à 30 000 dollars par start-up, par tranches de 10 000.
+  - [24:17] Prix pour les femmes innovatrices : jusqu'à 110 000 dollars ; fonds d'impact : 25 000 à 50 000 dollars.
+- Exemples et cas concrets : un projet de conception assistée par intelligence artificielle, financé d'abord par Impact Engine puis par le Spark Fund, devenu start-up et partenaire d'une grande marque de vêtements.
+- Citations :
+  - [16:26] « Le Spark Fund vise à combler le fossé entre des résultats de laboratoire prometteurs et des prototypes commercialement viables. » (Katie Hil[l])
+  - [39:49] « L'écosystème est censé être agile et flexible, mais pas toujours simple à parcourir : nous sommes là pour guider. » (Katie Hil[l])
+- Réutilisation HSA : fiche comparative « Quels financements non dilutifs pour une université africaine ? » ; module « Concevoir un fonds de maturation interne » ; webinaire sur l'articulation entre fonds de recherche, fonds de preuve de concept et accélérateur.
+
+Transcription complète : [../transcriptions/northeastern-non-dilutive-funding-and-support-for-research-c.md](../transcriptions/northeastern-non-dilutive-funding-and-support-for-research-c.md)

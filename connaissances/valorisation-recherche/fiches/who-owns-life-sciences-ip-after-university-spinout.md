@@ -1,0 +1,33 @@
+# Fiche : Qui possède la propriété intellectuelle en sciences de la vie après la création d'une spin-out ?
+- Source : Off-label Advice, 8 oct. 2026, https://www.youtube.com/watch?v=DUQZ1jt8pU0, États-Unis
+- Intervenant(s) : Michael Samarija (nom transcrit, à vérifier), avocat senior en propriété intellectuelle, docteur en sciences, ancien directeur de la propriété intellectuelle à MD Anderson et ancien vice-président des affaires de recherche à Loma Linda University Health, coauteur d'un manuel libre d'accès sur le transfert de technologie ; l'animatrice (conseil en stratégie d'entreprise, nom non identifié)
+- Pertinence : forte – guide très concret des pièges de propriété intellectuelle entre université, fondateurs et investisseurs avant une levée de fonds.
+- Idées clés :
+  - Au premier jour, la spin-out ne possède rien : l'université détient toute la propriété intellectuelle via le contrat de travail des chercheurs, étudiants et post-doctorants ; la société a besoin d'une licence.
+  - Aux États-Unis, la loi Bayh-Dole (recherche financée par l'État fédéral) permet aux universités de revendiquer les inventions et les obligent à partager les revenus avec les inventeurs ; le partage dépend de chaque établissement.
+  - La licence doit couvrir non seulement les brevets mais aussi le savoir-faire, les secrets de fabrication et les données.
+  - Une université ne peut pas céder à l'avance les droits sur des améliorations futures ; le mieux est un droit de première offre inscrit dans la licence.
+  - La propriété suit la conception de l'invention : qui l'a conçue, avec quelles ressources. Une idée sans lien avec le travail et sans ressource de l'université reste au chercheur.
+  - Les cahiers de laboratoire de l'entreprise doivent être tenus rigoureusement et séparés de ceux de l'université ; les cahiers électroniques, horodatés et non modifiables, sont recommandés.
+  - En diligence raisonnable (série A), les investisseurs vérifient d'abord la licence et la liste de propriété intellectuelle ; toute incohérence éveille des soupçons.
+  - Les clauses qui inquiètent les investisseurs ne sont pas surtout les redevances : domaine d'usage trop étroit, territoire, cessibilité, approbation de l'université en cas de changement de contrôle, propriété des données, jalons irréalistes, dette de frais de brevets.
+  - Les consultants et étudiants sans contrat posent un risque : sans accord écrit, la propriété de la propriété intellectuelle et des données est floue.
+  - Un accord de confidentialité signé par l'entreprise avant la licence peut avoir exposé des informations qui n'appartenaient pas à l'entreprise.
+  - Déposer une demande provisoire de brevet avant de discuter avec un grand groupe pharmaceutique (régime du « premier inventeur qui dépose »).
+  - Pour attirer des investisseurs américains, un chercheur étranger doit créer une entité américaine (par exemple une société du Delaware) qui détient des droits solides sur la propriété intellectuelle.
+  - Une analyse de liberté d'exploitation (FTO) complète est chère : à faire quand le produit est proche du marché ; avant cela, une veille légère sur les familles de brevets suffit.
+  - Plusieurs défauts se corrigent (mauvais inventeurs ou cessionnaire déclarés), d'autres sont irrécupérables (invention déjà publiée trop tôt).
+- Chiffres et faits cités :
+  - [22:13] Il faut en moyenne 10 à 12 ans pour amener un médicament ou un produit biotech de la conception à l'approbation de la FDA.
+  - [22:13] Coût moyen : 350 millions de dollars pour une petite molécule, jusqu'à 1,3 milliard de dollars pour une grosse molécule.
+  - [22:13] La durée d'un brevet est de 20 ans à compter du dépôt.
+  - [30:13] Pour accéder aux aides fédérales américaines non dilutives SBIR et STTR, l'intervenant conseille que les propriétaires de l'entreprise soient en majorité résidents américains ; il évoque une part d'au moins 30 % du montant utilisable pour les frais de structure (chiffre à vérifier).
+  - [45:14] Aux États-Unis, délai de grâce d'un an après publication pour déposer un brevet ; dans la plupart des pays, la publication fait perdre tout droit.
+- Exemples et cas concrets : professeur fondateur d'une plateforme thérapeutique en oncologie dont le laboratoire découvre ensuite une méthode d'administration utile pour les maladies auto-immunes (propriété possiblement partagée avec l'université) ; chercheur japonais voulant créer une entité américaine ; étudiant co-inventeur oublié.
+- Citations :
+  - [4:26] « Au premier jour, elle ne possède rien : l'université, par le contrat de travail, détient toute la propriété intellectuelle. » (Michael Samarija, reformulé)
+  - [18:38] « Les investisseurs aiment la technologie, mais ils aiment surtout l'équipe. » (Michael Samarija, reformulé)
+  - [39:07] « Faites enregistrer tout le travail des salariés dans un cahier de laboratoire électronique et vérifiez-le chaque jour. » (Michael Samarija, reformulé)
+- Réutilisation HSA : checklist « Propriété intellectuelle avant une levée de fonds » ; webinaire sur le contrat de licence université-spin-out ; module de cours sur les cahiers de laboratoire électroniques et les accords avec les consultants.
+
+Transcription complète : [../transcriptions/who-owns-life-sciences-ip-after-university-spinout.md](../transcriptions/who-owns-life-sciences-ip-after-university-spinout.md)

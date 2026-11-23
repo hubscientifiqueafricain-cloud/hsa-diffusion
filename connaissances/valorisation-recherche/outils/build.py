@@ -36,12 +36,15 @@ def fdate(s):
     y,m,dd = s[:10].split('-'); return f"{int(dd)} {MOIS[int(m)-1]} {y}"
 os.makedirs(f"{out}/transcriptions", exist_ok=True)
 rows, allfr = [], []
+USED = set()
 for k, r in d.items():
     if r.get('err') or not r.get('orig'): 
         rows.append((r.get('date',''), k, r, None, 0)); continue
     isfr = r['lang'].startswith('fr') or k in FR_ORIG
     fr = r['orig'] if isfr else (r['fr'] if isinstance(r.get('fr'), list) else None)
     name = slug(r['title']) + '.md'
+    if name in USED: name = slug(r['title'])[:48] + '-' + k.lower().replace('_','-') + '.md'
+    USED.add(name)
     url = f"https://www.youtube.com/watch?v={k}"
     if isfr: kind = "Transcription automatique YouTube en français (texte brut, sans ponctuation, peut contenir des erreurs de reconnaissance vocale)"
     elif fr: kind = f"Langue d'origine : {r['lang']}. Version française : traduction automatique YouTube de la transcription {'officielle' if r['kind']=='manual' else 'automatique'}. Le texte original suit la version française."
@@ -65,5 +68,5 @@ for date,k,r,name,w in rows:
     idx.append(f"| {fdate(date)} | {REGION.get(k,'')} | [{t}](https://www.youtube.com/watch?v={k}) | {r.get('author','')} | {w} | {f} |")
 open(f"{out}/index.md",'w').write('\n'.join(idx)+'\n')
 open(f"{out}/toutes-les-transcriptions-fr.md",'w').write("# Toutes les transcriptions en français : valorisation de la recherche\n\n" + '\n\n---\n\n'.join(allfr)+'\n')
-json.dump({k:{'title':r.get('title'),'author':r.get('author'),'date':(r.get('date') or '')[:10]} for _,k,r,_,_ in rows}, open(f"{out}/videos-traitees.json",'w'), ensure_ascii=False, indent=1)
+json.dump({k:{'title':r.get('title'),'author':r.get('author'),'date':(r.get('date') or '')[:10],'fichier':name} for _,k,r,name,_ in rows}, open(f"{out}/videos-traitees.json",'w'), ensure_ascii=False, indent=1)
 print(len(done), 'ok')

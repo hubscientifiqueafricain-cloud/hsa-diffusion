@@ -1,0 +1,34 @@
+# Fiche : La commercialisation pour les chercheurs (atelier du 24 septembre 2021, Université de l'Arkansas)
+- Source : UARK Office of Entrepreneurship & Innovation, 28 sept. 2021, https://www.youtube.com/watch?v=3SlrZKXLN8Y, États-Unis
+- Intervenant(s) : Sarah (directrice exécutive du bureau d'entrepreneuriat et d'innovation de l'université, nom de famille mal transcrit) ; David Hinton (directeur exécutif de Technology Ventures, le bureau de transfert, et directeur par intérim du parc de recherche) ; Shaheen (responsable de programmes) ; Stacy (animatrice) ; Catherine Corley (consultante, SBIR/STTR)
+- Pertinence : forte – Atelier de deux heures destiné aux chercheurs : validation du marché avant le développement, outils de modèle d'affaires, bases de la PI et lecture d'un brevet, programmes de soutien.
+- Idées clés :
+  - La première cause d'échec des start-ups est de construire quelque chose dont personne n'a besoin ; la maîtrise technique ne suffit pas.
+  - Le chercheur est formé à être obsédé par les problèmes de découverte ; commercialiser demande d'être obsédé par les problèmes de la société et du marché.
+  - Un produit viable se trouve à l'intersection de trois questions : faisabilité technique, volonté de payer et besoin réel (adéquation produit-marché).
+  - Dans le modèle universitaire classique, le premier contact avec le client a lieu après des années de travail ; il vaut mieux l'avoir dès le début.
+  - Trois méthodes complémentaires : design thinking (empathie), lean startup (modèle d'affaires) et méthode agile (prototypes rapides).
+  - Le « lean canvas » aide à écrire des hypothèses sur le client, le problème et la valeur, puis à les tester par des entretiens structurés ; les clients sont toujours des personnes.
+  - Cherchez des « morsures de requin » (besoins graves), pas des « vitamines » (améliorations agréables).
+  - La PI sert d'avantage défendable et rassure les investisseurs ; copyright, marques, secret commercial et brevets se combinent pour un même produit.
+  - Le bureau de transfert évalue les déclarations d'invention, finance la protection et concède surtout des licences à des start-ups, qui acceptent mieux le risque précoce que les grandes entreprises.
+  - Un brevet ne donne pas le droit de fabriquer, mais celui d'empêcher les autres ; il doit être utile, nouveau, non évident et non naturel.
+  - Les revendications définissent l'étendue de la protection : le préambule, la transition (« comprenant ») et les limitations ; la description publie l'information et bloque les concurrents.
+  - Une revendication doit aussi être applicable en pratique : un brevet de méthode difficile à faire respecter a peu de valeur.
+- Chiffres et faits cités :
+  - [4:26] Juicero : une machine à presser coûtant plusieurs centaines de dollars, tournée en dérision lorsqu'une vidéo a montré qu'on pouvait presser les sachets à la main.
+  - [17:03] Étude de cas Freeman (société FreeArm) : un dispositif de nutrition par sonde pensé pour des enfants s'est révélé utile pour d'autres publics (jeunes adultes, personnes âgées, patients atteints de cancer) après entretiens avec des clients.
+  - [35:03] Le droit d'auteur dure toute la vie de l'auteur plus une durée supplémentaire.
+  - [54:05] Un brevet dure 20 ans ; il faut déposer pays par pays (pas de brevet mondial).
+  - [1:00:12] Le développement d'un médicament, de la découverte à l'approbation par la FDA, prend en moyenne environ 16 ans (chiffre cité par l'intervenant).
+  - [1:17:02] Litige Apple-Samsung sur un brevet de design de rectangle aux coins arrondis : condamnation citée à un milliard de dollars, puis règlement à 500 millions.
+  - [30:39] Le parc de recherche de l'université compte environ 300 000 pieds carrés et une trentaine de start-ups.
+  - [1:51:36] Les gènes naturels ne sont plus brevetables ; l'exemple cité est celui du gène BRCA1 (Myriad, université de l'Utah).
+- Exemples et cas concrets : Juicero, Segway et la tasse numérique « Vessel » comme produits sans besoin marché ; FreeArm (Arkansas) ; exercice de groupe sur l'iPhone, Netflix et la bouteille de Coca-Cola (recette gardée en secret commercial plutôt que brevetée) ; analyse d'un brevet (« beer brella ») avec revendications indépendantes et dépendantes ; quiz sur brevets de design, d'utilité et de méthode.
+- Citations :
+  - [8:40] « La commercialisation et l'entrepreneuriat consistent à être obsédé par les problèmes de la société, du marché, de l'industrie. » (Sarah)
+  - [24:39] « Votre objectif est de transformer toutes vos hypothèses sur une opportunité d'affaires en faits. » (Sarah)
+  - [28:54] « Les investisseurs cherchent une propriété intellectuelle solide qui tient les concurrents très loin. » (David Hinton)
+- Réutilisation HSA : atelier en ligne « Valider le besoin avant de déposer un brevet » avec un lean canvas simplifié ; module sur les quatre formes de PI et la lecture d'un brevet ; post sur les fonds de maturation, I-Corps et SBIR/STTR comme modèles de programmes.
+
+Transcription complète : [../transcriptions/commercialization-for-researchers-9-24-21-uark-office-of-ent.md](../transcriptions/commercialization-for-researchers-9-24-21-uark-office-of-ent.md)

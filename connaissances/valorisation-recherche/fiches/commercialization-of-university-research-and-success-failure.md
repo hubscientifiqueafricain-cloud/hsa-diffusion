@@ -1,0 +1,31 @@
+# Fiche : Commercialisation de la recherche universitaire et réussites et échecs de start-ups agritech (Purdue DIAL Ventures)
+- Source : Center for Digital Agriculture, 9 avr. 2025, https://www.youtube.com/watch?v=dzlUNN5lESY, États-Unis (Université Purdue, Indiana)
+- Intervenant(s) : Jared Sutton (nom tel que transcrit, à vérifier), directeur général de Purdue DIAL Ventures, ancien responsable stratégie du National Pork Board ; animatrice : Angela (à vérifier)
+- Pertinence : moyenne – modèle original de création de start-ups numériques adossé à une université et à des entreprises, avec peu de propriété intellectuelle universitaire mais beaucoup de leçons de commercialisation.
+- Idées clés :
+  - DIAL Ventures (Purdue et High Alpha Innovation) recrute des entrepreneurs technologiques venus d'autres secteurs pour créer des start-ups qui répondent aux problèmes de l'agroalimentaire.
+  - Le rôle de l'université est celui d'un « organisateur de rencontres » (convenor) qui rassemble les bons acteurs autour de la table.
+  - Le programme dure six mois : immersion terrain, liste de plus de cent problèmes, tri jusqu'à six, puis trois concepts présentés aux investisseurs.
+  - Principe directeur : tomber amoureux du problème avant de chercher la solution (théorie des « tâches à accomplir », de Clayton Christensen).
+  - Pendant la première moitié du programme, on ne parle pas encore de solutions.
+  - Les fonds de capital-risque posent toujours la même question : avez-vous des clients qui paient ?
+  - L'industrie co-crée les solutions et, avec le temps, investit.
+  - Les start-ups s'appuient sur des technologies déjà existantes, assemblées pour résoudre un problème précis.
+  - L'université est investisseur silencieux du fonds ; il n'y a pas de propriété intellectuelle de l'université dans ces start-ups, ce qui facilite l'entrée du privé.
+  - Les entreprises devraient consacrer une petite part de leur budget d'innovation à l'innovation externe.
+  - Le capital-risque juge l'agriculture « lente et peu rentable » ; les grands acteurs de l'aval (agroalimentaire) sont de meilleurs partenaires.
+- Chiffres et faits cités :
+  - [6:51] En 2015, un rapport de McKinsey classait l'agriculture dernière sur 22 secteurs pour la numérisation.
+  - [18:00] Programme de six mois ; liste de plus de cent idées en deux semaines.
+  - [28:12] Fonds en cours de levée : objectif de 30 millions de dollars.
+  - [32:29] Pannes de machines : environ 40 milliards de dollars de pertes par an pour le secteur (chiffre cité par l'intervenant).
+  - [33:24] Environ 60 % des terres agricoles sont louées (à vérifier).
+  - [48:34] Capital-risque : sur dix paris, huit échouent, un rembourse, un rapporte très gros.
+- Exemples et cas concrets : Croft (démarches de visas agricoles numérisées), Grip (maintenance par code QR), Oaken (relations avec les propriétaires fonciers), Make Hay (vidéos d'agriculteurs pour les marques), Fieldist (assistant commercial vocal).
+- Citations :
+  - [19:42] « Il faut tomber amoureux du problème avant de proposer une solution. » (l'intervenant)
+  - [24:50] « La première question de tous les investisseurs : avez-vous des clients qui paient ? » (l'intervenant)
+  - [50:18] « Il faut marcher un kilomètre dans leurs chaussures. » (l'intervenant)
+- Réutilisation HSA : module « Partir du problème du client » ; étude de cas sur un modèle de start-up studio universitaire ; webinaire sur la création de start-ups à partir de technologies existantes.
+
+Transcription complète : [../transcriptions/commercialization-of-university-research-and-success-failure.md](../transcriptions/commercialization-of-university-research-and-success-failure.md)

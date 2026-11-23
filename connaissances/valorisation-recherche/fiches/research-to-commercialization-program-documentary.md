@@ -1,0 +1,33 @@
+# Fiche : Documentaire sur le programme « Recherche vers commercialisation » (R2C)
+- Source : Viktoria Ventures, 3 févr. 2026, https://www.youtube.com/watch?v=HRjGAx-ddPY, Kenya (Afrique de l'Est)
+- Intervenant(s) : porteurs du programme R2C (financeur, agence nationale d'innovation du Kenya, Viktoria Ventures), innovateurs et cofondateurs accompagnés, responsables d'universités, un représentant du département d'État kényan à la recherche et à l'innovation ; la plupart ne sont pas identifiés clairement dans la transcription (noms mal transcrits : « Lawrence Piger », « Charles Kalama », à vérifier)
+- Pertinence : forte – Documentaire sur un programme africain complet qui fait passer des résultats de recherche universitaire vers le marché, de l'innovateur au système national.
+- Idées clés :
+  - Beaucoup de fonds et d'efforts vont à la recherche, mais sans mécanisme délibéré pour protéger et faire mûrir les idées, une partie du potentiel commercial est perdue.
+  - Le programme R2C est mis en œuvre dans le cadre de RISE (systèmes de recherche et d'innovation pour l'Afrique), financé par le gouvernement britannique via le FCDO ; il se place à l'interface entre recherche et innovation.
+  - Le programme réunit plusieurs partenaires aux rôles complémentaires : l'agence nationale d'innovation (convocation et hébergement), un acteur de capital et de fonds d'anges (Viktoria Ventures), des financeurs et les universités, principales bénéficiaires.
+  - La formation des innovateurs tient en trois modules : comprendre la valeur de son innovation pour le client, passer à l'échelle, puis lever des fonds.
+  - Les chercheurs témoignent d'un changement de façon de penser : passer de la publication et de la thèse « qui prend la poussière » à la réflexion marché, emballage, juridique et lien avec les investisseurs.
+  - Le « venture builder » associe des innovateurs universitaires à des cofondateurs expérimentés en affaires, avec un financement stratégique, pour les innovations bloquées au stade du prototype.
+  - Les cofondateurs commencent par une évaluation des besoins puis un plan de travail de 6 mois (accès au financement, pénétration du marché, stratégie de croissance et pérennité).
+  - Au niveau des universités : révision de la politique de recherche et de la politique de propriété intellectuelle (répartition des revenus), formation des dirigeants et création d'un bureau de transfert de technologie « en tant que service ».
+  - Le volet genre, équité, diversité et inclusion cherche à identifier qui est exclu (femmes, jeunes, personnes en situation de handicap, institutions et régions moins représentées).
+  - Un modèle de formation de formateurs fait des relais internes les porte-drapeaux de la commercialisation dans chaque institution.
+  - Au niveau national, un département d'État pour la recherche et l'innovation a été créé et le gouvernement investit via un fonds d'innovation ; le modèle inspire d'autres pays africains.
+- Chiffres et faits cités :
+  - [7:42] Viktoria Ventures avait déjà accompagné plus de 300 entrepreneurs dans l'écosystème technologique avant R2C.
+  - [11:12] Une innovatrice dit avoir vendu plus de 150 pièces de ses produits (compléments) après le programme, alors qu'elle n'avait jamais rien vendu avant.
+  - [17:20] Une cofondatrice cite que moins de 2 % du capital levé sur le continent va aux femmes.
+  - [16:31] La start-up de béton autoréparant et imperméable annonce une garantie de 50 ans pour un bâtiment neuf.
+  - [21:33] Le lauréat du concours de pitch a reçu 4 000 dollars.
+  - [20:40] Le parcours de l'un des innovateurs commence en 2018, avec une subvention de trois universités pour devenir « université entrepreneuriale ».
+  - [33:01] Le gouvernement kényan finance la recherche à hauteur de 0,8 % du PIB, avec un objectif d'au moins 1 %.
+  - [32:08] Environ 25 vice-chanceliers étaient réunis pour discuter d'un cadre de leadership entrepreneurial.
+- Exemples et cas concrets : béton autoréparant et imperméable (Embu University) ; traitement des eaux usées industrielles et déchets de tanneries, technologie déjà brevetée, avec le défi de la commercialisation ; produits alimentaires fonctionnels pour consommateurs soucieux de leur santé ; une start-up bien-être envisagée pour un financement par un syndicat de business angels.
+- Citations :
+  - [11:12] « Avant le programme, je n'avais jamais vendu une seule pièce, parce qu'en tant que scientifique, tout s'arrêtait à la technologie. » (une innovatrice)
+  - [34:43] « Nous souhaitons une approche de la commercialisation de la recherche davantage détenue et portée par des Africains. » (un responsable du programme)
+  - [35:35] « Au Kenya, il faut faire de la recherche pour gagner de l'argent, pas de la recherche pour une promotion avec un titre et des poches vides. » (un innovateur)
+- Réutilisation HSA : module de cours sur l'architecture d'un programme national de commercialisation (formation, venture builder, politiques, financement) ; série de posts avec les témoignages de chercheurs devenus entrepreneurs ; webinaire sur la création d'un bureau de transfert « en tant que service » pour les petites universités.
+
+Transcription complète : [../transcriptions/research-to-commercialization-program-documentary.md](../transcriptions/research-to-commercialization-program-documentary.md)

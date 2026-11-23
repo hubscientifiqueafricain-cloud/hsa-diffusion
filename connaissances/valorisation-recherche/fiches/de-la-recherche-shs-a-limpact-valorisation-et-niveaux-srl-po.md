@@ -1,0 +1,36 @@
+# Fiche : De la recherche SHS à l'impact – Valorisation et niveaux SRL | Pôle PSL Innovation
+- Source : Université PSL, 26 juin 2025, https://www.youtube.com/watch?v=l69LCI5vyVs, France (webinaire, 1h02)
+- Intervenant(s) et fonction : Delphine Machi (responsable du service partenariat et valorisation, délégation Paris-Centre du CNRS, animatrice) ; Maria Teresa Pontois (responsable du pôle innovation, valorisation et partenariat industriel, CNRS Sciences humaines et sociales) ; Elias Ganivet (postdoctorant, laboratoires Géosciences Rennes et Espaces et Sociétés) ; Véronique Van Tilbeurgh (professeure de sociologie, Université Rennes 2).
+- Pertinence pour le sujet : forte – rare présentation opérationnelle de la valorisation des SHS hors brevet, avec un outil (échelle SRL) et un cas réel.
+- Idées clés :
+  - Le pôle universitaire d'innovation PSL (CNRS, Inria, Inserm, Agoranov, PSL) a trois objectifs : faire émerger des projets (sensibilisation, détection, idéation), multiplier les interactions avec le monde socio-économique, stimuler création d'entreprises et partenariats ; il cible aussi les actifs non brevetables (logiciels, SHS).
+  - Chaîne d'action CNRS SHS : détection (réseau de correspondants valorisation dans les unités), structuration des projets pour les programmes de financement, moyens pour le transfert (laboratoires communs, chaires), promotion (rencontres Innov'SHS, salons, lettres d'information).
+  - La déclaration d'invention / de logiciel est l'étape d'entrée du processus ; la faire dès qu'un résultat nouveau et potentiellement exploitable apparaît.
+  - Pour les SHS, le CNRS a créé une « déclaration d'innovation SHS », validée par les services juridiques : elle couvre savoir-faire (à garder confidentiel), méthodes, logiciels, bases de données, et aide à dater l'antériorité.
+  - Distinguer innovation (résultat valorisable économiquement ou ayant un impact social, sans forcément de protection) et invention (protégeable par brevet).
+  - Adapter les programmes existants plutôt que d'en créer de nouveaux : la prématuration CNRS parle désormais de verrous « scientifiques, méthodologiques et technologiques » et d'impacts sociaux et environnementaux, avec des bénéficiaires non marchands (parties prenantes).
+  - Outils CNRS : prématuration (TRL 1-2 vers 3-4, 12 à 18 mois, finance surtout du personnel et des prestations) ; OPEN (logiciels libres) ; accompagnement start-up ouvert aux SCIC ; RISE (expertise, conseil, savoir-faire) ; PISE (impact social et environnemental, appel à manifestation d'intérêt thématique, cofinancé avec des acteurs socio-économiques, seul programme fondé sur l'échelle SRL).
+  - Échelle SRL (Societal Readiness Level) : 9 niveaux comme le TRL, mais non linéaire – on peut revenir en arrière pour associer toutes les parties prenantes ; la preuve de concept se fait « dans la vraie vie », hors laboratoire.
+  - Double usage de la SRL : positionner la maturité d'une innovation sociale, et calibrer accompagnement et financement à chaque étape ; elle n'évalue pas l'impact lui-même.
+  - Chantier ouvert : construire des indicateurs d'impact complémentaires à partir des projets évalués par la SRL.
+  - Dans le cas présenté, les SHS ont joué quatre rôles : diagnostic du contexte et des tensions, indicateurs socio-économiques dans les modèles, enquête paysagère, réflexion sur la démarche participative.
+  - Pour mobiliser au-delà des convaincus : tirage au sort et rémunération des participants (modèle des conventions citoyennes) ; partir du point de vue des gens plutôt que leur demander de comprendre les chercheurs.
+  - Le soutien d'un acteur institutionnel qui prend le premier risque facilite l'arrivée d'autres cofinanceurs (fondations, collectivités, Banque des territoires, Bpifrance).
+- Chiffres et faits cités :
+  - [10:20] Arrivée de M. T. Pontois au CNRS SHS en octobre 2016.
+  - [13:55] Programme de prématuration CNRS depuis 2014, conçu au départ pour physique, biologie, ingénierie, chimie.
+  - [14:49] Taux de réussite des dossiers SHS en prématuration « presque 100 % » grâce à la coconstruction.
+  - [15:41] En 2023, plus de 50 % des logiciels libres issus des laboratoires CNRS venaient de chercheurs et ingénieurs SHS ; lancement du programme OPEN.
+  - [16:34] Programme PISE lancé en 2024 ; [18:20] thématique 2025 annoncée autour de « One Health ».
+  - [20:04] L'échelle SRL a été élaborée par l'Innovation Fund Denmark dans les années 2010, puis retravaillée par le laboratoire commun ANR DESTINS (MSHS de Poitiers, CNRS-Université de Poitiers, et une coopérative reconnue centre de compétences en innovation sociale).
+  - [28:57] « Territoires zéro chômeur de longue durée » : d'une dizaine à une cinquantaine de territoires ; positionné à SRL 7-8 ; a fait évoluer la loi.
+  - [39:20] Jeu sérieux « Trajectoire eau et territoire » : plus de 15 territoires, près de 1 000 participants ; ateliers de 2 à 3 h.
+- Exemples et cas concrets : projet « Trajectoire eau et territoire » (lauréat PISE 2024, thème risques de l'Anthropocène) issu d'une thèse financée par le CNRS (2020-2023) puis d'un projet ANR SAPS ; trois outils : jeu sérieux territorialisé (cartes, plateau, cubes) déployé avec l'association Water Family, modélisation hydrologique couplée à des trajectoires socio-économiques (au-delà du projet Explore 2), médiation paysagère (« cartes postales du futur » avec l'Institut supérieur de design de Saint-Malo) ; partenariats avec la Banque des territoires (Aquagir, Aqua-Repère) ; ateliers réunissant un syndicaliste agricole conventionnel et des militants d'Eau et Rivières de Bretagne ; Territoires zéro chômeur (ATD Quart Monde).
+- Citations fortes :
+  - [11:11] « Une innovation en SHS englobe des résultats de recherche qui peuvent être protégés autrement que par le brevet, ou pas du tout, mais qui peuvent être valorisés économiquement ou avoir un impact sur la société, sur les usages, sur la construction du bien commun. »
+  - [29:50] « L'innovation sociale consiste à changer la norme – non pas ce qui est normé, mais ce qui est jugé normal – et cela finit par avoir un impact sur la loi. »
+  - [56:40] « Ce n'est pas aux gens de faire l'effort de comprendre ce que nous avons à dire : en partant de leur point de vue, on peut les emmener très loin. »
+- Utilisation possible par HSA : module « Valoriser les SHS : au-delà du brevet » (déclaration d'innovation SHS, échelle SRL vs TRL) ; modèle de fiche de déclaration d'innovation adaptée aux universités ivoiriennes ; argument fort pour les chercheurs africains en SHS, majoritaires dans beaucoup d'universités ; post comparatif TRL/SRL ; cas d'école sur les jeux sérieux et la science participative (eau, climat).
+- Mots-clés : SHS et impact, détection d'inventions, rôle du bureau de transfert, financement et maturation, mesure d'impact, définitions, partenariats industrie.
+
+Transcription complète : [../transcriptions/de-la-recherche-shs-a-limpact-valorisation-et-niveaux-srl-po.md](../transcriptions/de-la-recherche-shs-a-limpact-valorisation-et-niveaux-srl-po.md)

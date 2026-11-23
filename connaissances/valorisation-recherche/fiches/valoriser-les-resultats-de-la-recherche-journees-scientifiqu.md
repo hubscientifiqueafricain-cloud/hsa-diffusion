@@ -1,0 +1,33 @@
+# Fiche : Valoriser les résultats de la recherche – Journées scientifiques du CAMES 2019 (02/12/2019)
+- Source : Afrique Universités TV, 4 décembre 2019, https://www.youtube.com/watch?v=2DpKYwB-_Qs, Afrique francophone (reportage, 22 min, transcription automatique bruitée)
+- Intervenant(s) et fonction : Pr Jacques François Mavoungou (directeur général de l'Institut de recherche agronomique et forestière, Libreville, Gabon ; responsable du programme thématique de recherche Santé du CAMES) ; Dr Andreas Strecker (directeur du programme microbiologie, immunologie et virologie, Fondation allemande pour la recherche – DFG) et un collègue chargé de l'Afrique et du Moyen-Orient à la DFG ; une professeure de l'Université de Bonn (programme Erasmus) ; un professeur de l'École polytechnique de l'Université de Lille (big data) ; Dr Georges de Noni (délégué régional de l'IRD en Île-de-France) ; Pr Eléonore Yayi Ladekan (ministre béninoise de l'Enseignement supérieur, présidente du Conseil des ministres du CAMES) ; Pr Maxime da Cruz (recteur de l'Université d'Abomey-Calavi) ; Pr Bertrand Mbatchi (secrétaire général du CAMES).
+- Pertinence pour le sujet : moyenne – diagnostic utile sur la recherche en Afrique francophone (espace CAMES) et sur la valorisation sociétale, mais reportage de synthèse peu opérationnel.
+- Idées clés :
+  - Thème des 4es Journées scientifiques du CAMES : « valorisation des résultats de la recherche et leur modèle économique », pour relier recherche et secteur productif et réduire la dépendance aux importations.
+  - Diagnostic Mavoungou : déséquilibre entre enseignement et recherche, universités devenues de « grands lycées » ; certains pays sans structures de recherche ; recherche orientée vers les thèses, les articles et l'avancement de grade ; chercheurs isolés ; production peu utile à la société.
+  - Cause historique avancée : fin de l'assistance technique française à la fin des années 1980, laissant des cadres peu préparés à définir des politiques de recherche ; absence de politique attractive pour retenir la diaspora scientifique.
+  - Réponse du CAMES : la recherche en réseau multi-pays via 12 programmes thématiques de recherche (PTR), avec mobilité des doctorants financée par des bailleurs.
+  - Critique exprimée dans les échanges : ces programmes doivent encore avoir un impact sur la vie des populations.
+  - DFG : finance seulement des projets portés par des institutions de recherche (pas d'individus isolés), rédigés en anglais ; il faut une idée pertinente, un partenaire allemand, une description de l'impact en Allemagne et en Afrique.
+  - Message de la DFG : sortir du « complexe d'infériorité » perceptible dans certains dossiers africains ; se présenter en partenaire égal.
+  - Big data : Afrique riche en données (téléphonie mobile) mais pauvre en équipements ; besoin d'une politique et d'investissements technologiques ; exemple d'usage : prédire les naissances prématurées pour planifier les soins néonatals (Bénin, Côte d'Ivoire).
+  - Modèle IRD de « valorisation sociétale » : coconstruire les problématiques avec les bénéficiaires, sortir de la logique « brevet à tout prix », protéger seulement pour mieux partager, s'appuyer sur l'open source ; ouvrir les projets (ex. paludisme) aux populations, collectivités et décideurs.
+  - Chaîne recherche → fab lab (prototype) → incubateur (maturation économique) → industrie, illustrée par le campus de l'innovation de Bondy.
+  - Le CAMES ne sera pas bailleur de fonds : aux chercheurs de se mettre en réseau et de présenter des projets solides aux bailleurs.
+- Chiffres et faits cités :
+  - [0:00] 4es Journées scientifiques du CAMES, Institut régional de santé publique de Ouidah (Bénin), à partir du 2 décembre 2019, pendant quatre jours.
+  - [1:41] L'espace CAMES couvre 19 pays.
+  - [3:23] 12 programmes thématiques de recherche ; [4:13] PTR Santé : bilan après 6 ans de fonctionnement.
+  - [7:13] DFG : plus de 33 projets financés en Afrique (chiffre peu clair dans la transcription), notamment sur le paludisme, les hépatites virales et le VIH/sida (Afrique du Sud, Burkina Faso, Bénin, Gabon, Zambie, Cameroun).
+  - [13:35] Chaque Africain possède en moyenne 2 à 3 téléphones portables (affirmation de l'orateur).
+  - [20:27] La recherche visible de l'espace CAMES ne représente que 2 % de l'économie mondiale du savoir (Pr Mbatchi).
+  - [18:45] 12 regroupements thématiques d'ateliers (biodiversité, changement climatique, énergie, pharmacopée et médecine traditionnelle africaine, sécurité alimentaire, TIC…).
+- Exemples et cas concrets : PTR Santé du CAMES ; financements DFG en Afrique ; campus de l'innovation de Bondy (IRD : laboratoires, fab lab, incubateur) ; démarche IRD sur le paludisme au Bénin ; délégation ivoirienne nombreuse saluée par la ministre.
+- Citations fortes :
+  - [2:34] « Là où le métier d'enseignant-chercheur est codifié, la recherche vise juste à faire des thèses, publier des articles et changer de grade. » (Pr Mavoungou, propos rapportés)
+  - [16:11] « Il faut sortir de la logique du brevet à tout prix : on protège quand c'est nécessaire, mais pour mieux partager. » (G. de Noni, reformulé)
+  - [21:16] « Le CAMES ne deviendra pas un bailleur de fonds : c'est aux chercheurs de se mettre en réseau multi-pays et d'aller frapper aux portes des bailleurs avec des projets solides. » (Pr Mbatchi, reformulé)
+- Utilisation possible par HSA : introduction d'un livre blanc « État de la valorisation dans l'espace CAMES » (diagnostic, 2 % de visibilité) ; argument pour la mise en réseau multi-pays, cœur de la proposition d'HSA ; module « Monter un dossier pour un bailleur international (DFG, Erasmus) » ; post sur la valorisation sociétale et l'open source comme alternative au brevet ; lien avec les critères CAMES d'avancement de carrière.
+- Mots-clés : Afrique, politique publique, carrière du chercheur, financement et maturation, SHS et impact, partenariats industrie, définitions.
+
+Transcription complète : [../transcriptions/valoriser-les-resultats-de-la-recherche-journees-scientifiqu.md](../transcriptions/valoriser-les-resultats-de-la-recherche-journees-scientifiqu.md)

@@ -1,0 +1,31 @@
+# Fiche : Trouver son « pourquoi » : l'importance et les incitations à commercialiser la recherche académique
+- Source : Fast Forward Medical Innovation (Faculté de médecine de l'université du Michigan), 19 juin 2020, https://www.youtube.com/watch?v=Ya6rGJ1ksIc, États-Unis (Michigan)
+- Intervenant(s) : Brad Martin, directeur général de Fast Forward Medical Innovation (FFMI), plus de 15 ans d'expérience en développement de médicaments, ancien mentor en résidence au bureau de transfert de l'université du Michigan ; John Servos, directeur de la formation à la commercialisation (animateur)
+- Pertinence : forte – un exposé complet qui explique pourquoi un chercheur a intérêt à commercialiser, avec les incitations de l'université et du chercheur, les étapes et les ressources.
+- Idées clés :
+  - Avant 1980, les résultats de la recherche financée par l'État fédéral appartenaient à celui-ci ; peu de brevets étaient licenciés. La loi Bayh-Dole (1980) a transféré la propriété aux universités.
+  - L'université, et non le chercheur, détient la propriété intellectuelle : certains chercheurs sont surpris de l'apprendre.
+  - La « vallée de la mort » désigne l'écart de financement entre la recherche académique et l'industrie, situé environ aux niveaux de maturité technologique 3 à 6.
+  - Le parcours d'un médicament est long et risqué ; celui d'un dispositif médical passe par des boucles de prototypage répétées ; une étude de marché précoce est cruciale pour les dispositifs.
+  - Intérêts de l'université : revenus de licences, financement de la recherche, attirance et rétention de talents entrepreneurs.
+  - Intérêts du chercheur : impact sur les patients, revenus personnels, prise en compte dans la promotion et la titularisation, prestige, réseau, financement du laboratoire par des contrats avec l'industrie.
+  - L'industrie pharmaceutique a réduit sa recherche interne et achète auprès des universités ; plus un actif est « dé-risqué », plus il est attractif.
+  - Le bon moment pour solliciter les ressources de transfert : lorsque le travail passe de la recherche à l'étape de développement de produit, que les subventions de recherche fondamentale ne financent plus.
+  - Première démarche : déposer une déclaration d'invention auprès du bureau de transfert, et ne pas publier avant d'avoir parlé à ce bureau.
+  - Pour les logiciels et applications, le brevet est difficile ; le secret commercial peut être préférable.
+- Chiffres et faits cités :
+  - [5:02] À la fin des années 1970, le gouvernement fédéral détenait près de 28 000 brevets, dont moins de 5 % étaient licenciés à l'industrie.
+  - [19:31] En 2019 à l'université du Michigan : près de 16,3 millions de dollars de revenus de licences, 232 licences et options (contre 218 l'année précédente), 22 start-up lancées et technologies licenciées à 86 entreprises sur cinq ans.
+  - [22:55] Les contrats avec l'industrie sont passés d'environ 35 millions de dollars en 2008 à près de 120 millions, soit de moins de 8 % à près de 20 % du budget de recherche de la faculté de médecine.
+  - [29:39] L'inventeur reçoit entre 50 % et 30 % des revenus d'une licence, selon la taille de l'affaire, à l'université du Michigan.
+  - [22:01] Le programme d'État MI-TECH, lancé en 2014, a financé 295 projets académiques ayant donné 47 entreprises.
+  - [21:13] Plus d'un milliard de dollars investis dans des start-up depuis 2012 et 2 000 emplois créés (chiffre à vérifier, la transcription est confuse).
+  - [15:12] Pour un médicament : de 5 000 à 10 000 composés testés pour environ un médicament approuvé (valeurs intermédiaires à vérifier) ; essais de phase 1, 2, 3 : quelques dizaines, quelques centaines, quelques milliers de patients [15:12 à 16:03].
+- Exemples et cas concrets : Robert Bartlett, professeur de chirurgie thoracique, a développé dans les années 1980 l'ECMO (circuit extracorporel d'oxygénation), qui a sauvé de nombreux nouveau-nés prématurés, avec très peu de moyens et sans effort organisé de l'université ; deals précoces sur les anticorps contre le cancer, acquis dès la phase préclinique.
+- Citations :
+  - [5:51] « C'est l'université qui détient la propriété intellectuelle, pas le chercheur. » (Brad Martin)
+  - [27:09] « Si vous voulez sauver des vies, quelqu'un doit commercialiser cette technologie et l'amener aux patients. » (Brad Martin)
+  - [41:37] « Ne publiez pas sur ce qui a une application commerciale avant d'avoir parlé à votre bureau de transfert. » (Brad Martin)
+- Réutilisation HSA : module « Pourquoi commercialiser ? Les incitations du chercheur » ; infographie sur la vallée de la mort ; checklist « Avant de publier : la déclaration d'invention ».
+
+Transcription complète : [../transcriptions/finding-your-why-the-significance-and-incentives-to-commerci.md](../transcriptions/finding-your-why-the-significance-and-incentives-to-commerci.md)

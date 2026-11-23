@@ -1,0 +1,54 @@
+# Fiche : Professor Scott Shane: "Academic Entrepreneurship: University Spin-offs and Wealth Creation"
+- Source : University Industry Innovation Network (UIIN), 3 déc. 2015, https://www.youtube.com/watch?v=rMFCKaTckgI, États-Unis (conférence internationale)
+- Intervenant(s) et fonction : Scott Shane, professeur d'études entrepreneuriales à la Case Western Reserve University, auteur de *The Illusions of Entrepreneurship* (2008), lauréat du principal prix mondial de recherche en entrepreneuriat. Questions de Bryan (Université du Maryland), Jeff (Université d'Utrecht) et d'autres participants.
+- Pertinence pour le sujet : forte. Synthèse issue de la recherche sur les conditions de réussite des spin-offs universitaires (université, technologie, PI, inventeur, stratégie), avec un échange explicite sur les universités sans recherche de premier rang, comme en Afrique.
+- Idées clés :
+  - Définition : une spin-off (« spin-out » au Royaume-Uni) est une entreprise créée pour exploiter une PI détenue par l'université. C'est un sous-ensemble de l'entrepreneuriat académique : pour une spin-off, deux universitaires créent une entreprise sans PI universitaire.
+  - Pourquoi les soutenir : elles exploitent des technologies que les grandes entreprises délaisseraient (division du travail). Elles rapportent plus à l'université via les participations au capital que les licences via les redevances. Elles créent des emplois qualifiés, structurent des pôles (« Silicon Valley », « Silicon Glen ») et attirent le capital-risque.
+  - Moteurs de la croissance aux États-Unis : Bayh-Dole (1980), l'extension de la brevetabilité (matériel génétique, logiciels, méthodes commerciales), la part croissante du biomédical et un « effet de contagion » d'un laboratoire à l'autre : les étudiants de laboratoires entrepreneurs créent à leur tour des entreprises.
+  - Ce qui fait qu'une université crée plus de spin-offs :
+    - une recherche de tout premier rang (relation non linéaire : la recherche de second rang se licencie, mais ne crée pas de spin-offs) ;
+    - des financements industriels ;
+    - l'autorisation de prendre des participations (equity contre paiement des frais de brevet) ;
+    - une part modérée des redevances pour l'inventeur (une part trop élevée dissuade de créer une entreprise) ;
+    - des licences exclusives ;
+    - une collecte proactive des déclarations d'invention.
+  - Seules environ 10 % des inventions universitaires brevetées se prêtent à une spin-off. Il faut réunir la bonne technologie, la bonne PI et le bon inventeur.
+  - La bonne technologie :
+    - un saut d'un ordre de grandeur, pas une amélioration de 2 % ;
+    - radicale ou disruptive (une innovation incrémentale est captée par les acteurs en place) ;
+    - précoce et risquée, avec un savoir tacite de l'inventeur ;
+    - une plateforme polyvalente qui permet de pivoter ;
+    - autonome (comme un médicament, contrairement à une pièce de moteur) ;
+    - un secteur jeune, segmenté et fragmenté, où les brevets sont efficaces (chimie, pharmacie) et où les actifs complémentaires (distribution, production) comptent peu.
+  - La bonne PI : des brevets, pas des secrets (l'université ne sait pas garder un secret, et le secret empêche de publier). Idéalement un brevet large de composition de matière, dans un espace peu encombré (pour éviter les procès en contrefaçon qui tuent une start-up) et avec un titre de propriété incontestable (attention aux cofondateurs venus de plusieurs universités).
+  - La bonne stratégie : viser un marché de plusieurs milliards (pas de 10 à 20 millions), se concentrer sur un seul marché, renforcer le portefeuille de PI, constituer une équipe complémentaire, garder l'inventeur impliqué, lever des fonds par le réseau (pas auprès d'inconnus) et utiliser les fonds publics non dilutifs, car les investisseurs fuient les horizons trop lointains.
+  - Le bon inventeur : une expérience préalable de création d'entreprise, de l'industrie ou du développement de produits, des relations avec l'industrie, des investisseurs et des dirigeants, un esprit d'équipe et une bonne communication (les responsables de licences écartent les inventeurs « difficiles »). Il doit vouloir créer un produit qui répond à un besoin, pas « faire plus de science », et accepter de céder du capital et du contrôle. Il est plutôt directeur technique que PDG.
+  - Effets pervers : la recherche s'oriente vers ce qui est commercialisable (inquiétude de la Fondation Gates pour les maladies des pays en développement), les départements rentables sont favorisés, la publication est retardée d'environ 6 mois, les chercheurs partagent moins leurs outils, et les conflits d'intérêts se multiplient (doctorants partagés entre laboratoire et start-up).
+  - Pour les universités sans recherche de premier rang (question explicite sur l'Afrique et l'Amérique latine) : identifier les niches où l'institution excelle et y investir, construire ce leadership sur le long terme (modèle de l'Université nationale de Singapour : former à l'étranger et faire revenir), ou admettre que les spin-offs ne sont pas la seule voie pour créer des entreprises à succès.
+- Chiffres et faits cités :
+  - Enquête auprès d'environ 12 000 universitaires américains : environ un tiers des créateurs d'entreprise s'appuient sur la PI de l'université [5:06].
+  - La capitalisation de Google n'est dépassée que par 14 entreprises (en 2015) [8:24].
+  - Création de spin-offs en croissance quasi linéaire depuis 1980, l'un des rares indicateurs entrepreneuriaux à n'avoir pas chuté pendant la Grande Récession [9:12].
+  - Environ 10 % des inventions universitaires brevetées se prêtent à une spin-off [15:53].
+  - Les entrepreneurs universitaires retardent leurs publications d'environ 6 mois [35:19].
+  - Quelques milliers de spin-offs par an aux États-Unis, contre 1 à 2 millions de créations d'entreprises, et environ 100 introductions en bourse par an [39:19]. Une bonne dizaine de pour cent des spin-offs entrent en bourse, soit un ordre de grandeur de plus que la moyenne [40:07].
+  - Un participant cite 10 % des redevances pour les inventeurs à Caltech et 60 % offerts par KAUST [40:57].
+  - La nouvelle entreprise américaine typique compte 1 salarié et réalise environ 7 000 $ de chiffre d'affaires par an, contre environ 80 000 $ pour une petite entreprise établie (données de la Réserve fédérale) [42:35].
+- Exemples et cas concrets :
+  - Spin-offs universitaires célèbres : Chiron, Genentech, Cirrus Logic, HP, Lycos, Google (Stanford).
+  - Impression 3D du MIT : Boeing et United Technologies avaient un droit de premier refus et ont décliné. Des spin-offs en ont tiré des filtres pour centrales à charbon, des microcapsules et des maquettes d'architectes [19:06].
+  - Bob Langer (MIT, une dizaine d'entreprises introduites en bourse) associé à l'investisseur Terry McGuire : une équipe complémentaire. Contre-exemple d'un directeur de département du MIT qui confiait la gestion de l'entreprise à un doctorant.
+  - Université nationale de Singapour : stratégie de montée en excellence.
+- Citations fortes :
+  - « Un article de plus dans Science ou Nature n'a jamais fait entrer une entreprise en bourse : ce qui compte, c'est un produit qui répond à un besoin. » [32:01]
+  - « On ne peut pas transférer une technologie universitaire sans impliquer l'inventeur : il détient un savoir tacite considérable. » [26:21]
+  - « Si votre objectif est d'occuper les gens, les spin-offs ne sont pas la solution. Si vous cherchez des entreprises à fort impact, leurs chances sont bien plus élevées que celles d'une start-up moyenne. » [40:07]
+- Utilisation possible par HSA :
+  - Module « Ma recherche peut-elle devenir une spin-off ? » : grille d'auto-évaluation technologie / PI / inventeur / marché tirée des critères de Shane.
+  - Argument de politique publique pour les universités africaines : autoriser les participations au capital, les licences exclusives et une collecte active des inventions, et calibrer le partage des redevances.
+  - Post sur les « effets pervers » à anticiper (orientation de la recherche, retard de publication).
+  - La réponse sur l'Afrique (miser sur les niches d'excellence comme la médecine traditionnelle, retour des diasporas formées) est un angle de livre blanc.
+- Mots-clés : spin-offs et start-ups, définitions, propriété intellectuelle et brevets, licences, financement et maturation, politique publique (Bayh-Dole, etc.), carrière du chercheur, Afrique, partenariats industrie
+
+Transcription complète : [../transcriptions/professor-scott-shane-academic-entrepreneurship-university-s.md](../transcriptions/professor-scott-shane-academic-entrepreneurship-university-s.md)

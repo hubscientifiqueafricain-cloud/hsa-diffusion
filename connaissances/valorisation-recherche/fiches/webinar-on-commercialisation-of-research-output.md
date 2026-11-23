@@ -1,0 +1,31 @@
+# Fiche : Webinaire sur la commercialisation des résultats de la recherche
+- Source : IIUM Postgraduate Students' Society, 18 juil. 2021, https://www.youtube.com/watch?v=XsQ_6UtIHx4, Asie (Malaisie)
+- Intervenant(s) : Dr Azlina (sous-secrétaire, division du transfert de technologie et de la commercialisation de la R&D, ministère malaisien des Sciences, de la Technologie et de l'Innovation) ; professeur associé Dr Zukiflee (ingénieur, directeur et cofondateur d'un centre sur les systèmes sans pilote, à l'université islamique internationale de Malaisie) ; Dr Naim et Dr Shahrunna (animation, centre des études supérieures). Noms à vérifier.
+- Pertinence : forte – Deux regards complémentaires, politique publique et expérience d'un chercheur-entrepreneur, pour des doctorants qui veulent commercialiser leurs résultats.
+- Idées clés :
+  - Après la recherche, la décision dépend du type de travail (fondamental, appliqué, développement expérimental) ; la recherche fondamentale n'a pas d'objectif commercial immédiat.
+  - La politique nationale de commercialisation (2009, en cours de révision) définit la commercialisation comme porter une idée sur le marché par licence, cession, spin-off ou coentreprise, et précise la propriété de la PI et le partage des revenus ; les enseignants-chercheurs doivent déclarer leur société à leur supérieur.
+  - Le pays vise une meilleure efficacité de l'innovation : l'investissement est élevé mais le rendement est jugé faible, d'où une recherche plus tirée par l'industrie.
+  - Le ministère propose des ateliers de « due diligence » où des experts évaluent le niveau de maturité technologique (échelle de 1 à 9) puis orientent vers des financements et des interventions.
+  - Une initiative annuelle de commercialisation, avec des prix, dépasse sa cible (360 produits sur 2016-2020, dont 102 venant d'universités).
+  - Un « bac à sable » technologique permet de tester un produit en allégeant certaines exigences réglementaires ; des sessions mensuelles de pitch de cinq minutes mettent chercheurs et investisseurs en contact.
+  - Le deuxième intervenant liste les formes de résultats de recherche (article, thèse, logiciel, brevet, œuvre) et insiste sur la « vallée de la mort » entre le laboratoire et le marché.
+  - Il propose dix règles : trouver un interlocuteur sur la même longueur d'onde, accepter qu'il n'y ait pas de chemin unique, connaître ses droits de PI, concilier partage et secret industriel ; le marché est sans sentiment et peut ne pas exister pour une recherche trop fondamentale.
+  - Il conseille de pitcher en langage simple, de trouver des partenaires industriels, de passer par des fournisseurs préférés des grandes entreprises et de viser des financements précis plutôt que de multiplier les candidatures.
+  - Un modèle de coentreprise avec l'université plutôt qu'une start-up détenue seul est proposé, ainsi que des accords de recherche avec l'industrie qui apportent plus que le financement public seul.
+  - L'exemple coréen : le gouvernement rassemble tous les acteurs sous un même projet ; en Malaisie, les partenariats avec l'industrie restent parfois ponctuels.
+  - Un participant rappelle que l'esprit universitaire est de partager le savoir au service de l'humanité.
+- Chiffres et faits cités :
+  - [14:14] La Malaisie est classée 25e sur 64 économies dans un classement de compétitivité (année du rapport à vérifier).
+  - [15:04] Objectif de porter la dépense intérieure de R&D de 1,04 % du PIB vers 3,5 % (à vérifier).
+  - [45:49] Cible de 360 produits dépassée en 2020 ; 102 produits venant d'universités entre 2016 et 2020.
+  - [47:27] Prix annuels d'un montant total d'un million (770 000 en 2019).
+  - [1:00:28] Huit participants sur 60 à des pitchs ont poursuivi des discussions avec des partenaires.
+  - [1:43:48] Environ 8,3 % des projets de recherche seraient commercialisés (chiffre à vérifier).
+- Exemples et cas concrets : fromage à la bromélaïne (prix d'innovateur émergent), désinfectant, robot médical de télé-diagnostic passant par le bac à sable et la certification ; livraison par drone testée dans un bac à sable ; costume de course abordable créé par un chercheur à partir d'une formule.
+- Citations :
+  - [1:34:13] « Si vous pouvez l'expliquer à vos parents, alors les gens d'affaires comprendront aussi. » (Dr Zukiflee, reformulé)
+  - [1:31:39] « Le marché n'a aucun sentiment : il veut voir le produit. » (Dr Zukiflee, reformulé)
+- Réutilisation HSA : module « niveaux de maturité technologique et due diligence » ; post sur les dix règles du chercheur-entrepreneur ; webinaire sur les bacs à sable réglementaires pour tester un produit.
+
+Transcription complète : [../transcriptions/webinar-on-commercialisation-of-research-output.md](../transcriptions/webinar-on-commercialisation-of-research-output.md)

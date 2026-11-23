@@ -1,0 +1,34 @@
+# Fiche : Webinaire sur les modèles de transfert de technologie
+- Source : EOSC-hub Project, 29 sept. 2020, https://www.youtube.com/watch?v=kHDLDgdG2uY, Portugal et Europe (texte original en anglais, traduction française non disponible : fiche rédigée depuis l'anglais)
+- Intervenant(s) : George (Jorge) Pimenta (orthographe à vérifier), chef de projet à l'IPN (Coimbra, Portugal), incubateur et association à but non lucratif fondée par l'Université de Coimbra, économiste de formation et ancien fondateur de deux start-ups ; participants : une chef de projet d'une infrastructure de recherche italienne, une fondatrice d'une plateforme reliant chercheurs et start-ups, un responsable innovation d'une spin-off espagnole, le coordinateur du hub EOSC
+- Pertinence : forte – atelier pratique pour mettre en place un bureau de transfert, choisir un mode d'exploitation (contrat, licence, spin-off) et protéger la propriété intellectuelle d'une start-up issue de la recherche.
+- Idées clés :
+  - Un bureau de transfert de technologie comble l'écart entre science et marché ; il est plus efficace quand il est rattaché directement à la direction de l'établissement, indépendant des autres services, et doté de personnel spécialisé.
+  - Sa mission clé est de sensibiliser et former chercheurs et entrepreneurs : le manque de connaissance fait perdre des opportunités ou commettre des erreurs.
+  - Outils de base : un règlement interne clair sur la relation entre personnel et institution, un formulaire de déclaration d'invention, des accords de confidentialité, des modèles de contrats (consortium de R&D, recherche sous contrat).
+  - Recommandation : documenter des études de cas et des réussites (brevets obtenus, spin-offs) pour montrer le professionnalisme et inspirer confiance.
+  - Trois voies d'exploitation : contractuelle (licence, cession, recherche sous contrat avec paiement initial et redevances, copropriété), directe, ou création de spin-off.
+  - Les redevances créent une relation de long terme qui peut être intéressante pour le concédant mais moins pour l'acquéreur ; il faut présenter plusieurs options lors de la négociation.
+  - Pour une spin-off, l'exploitation exclusive est risquée sans historique ; il faut fixer sa durée, prévoir des clauses de retour des droits en cas de rachat, et conserver le droit de l'université de poursuivre la recherche.
+  - Les clauses éthiques sont plus difficiles à rédiger que les clauses de retour et de suivi ; la confiance mutuelle compte beaucoup.
+  - Les droits de propriété intellectuelle sont variés : brevets et modèles d'utilité, marques, dessins et modèles, droit d'auteur (logiciels, bases de données).
+  - Faire une recherche d'antériorités (par exemple dans une base ouverte de brevets) dès le départ, et la répéter, évite le travail redondant et l'atteinte aux droits d'autrui.
+  - Ne pas divulguer avant le dépôt : une publication prématurée détruit la nouveauté ; utiliser des accords de confidentialité simples et systématiques.
+  - Un brevet est une décision d'affaires : il coûte à déposer et à maintenir ; choisir un bon conseil en brevets et faire une analyse de liberté d'exploitation.
+  - Désigner un responsable de la gestion de la propriété intellectuelle (et un budget) pour ne pas laisser des brevets expirer par oubli.
+  - Dans les logiciels, on ne brevette pas le code ; on peut combiner droit d'auteur, secret d'affaires, marque et brevet sur un effet technique précis.
+- Chiffres et faits cités :
+  - [8:41] L'IPN a aidé à créer plus de 300 entreprises depuis 1996, pour la plupart issues du milieu académique.
+  - [9:31] Incubation jusqu'à quatre ans, accélération jusqu'à six ans.
+  - [38:06] Brevet : 20 ans de protection.
+  - [38:58] Marque : 10 ans, renouvelable indéfiniment.
+  - [39:50] Dessin et modèle : jusqu'à 25 ans par périodes de cinq ans.
+  - [43:17] Plus d'un quart de la R&D serait redondant (affirmation de l'intervenant, sans source officielle citée).
+- Exemples et cas concrets : projets de l'IPN avec l'Agence spatiale européenne ; recherche sous contrat (« boîte noire ») pratiquée par certaines entreprises ; cas d'un contrat dont les lignes de code ont été jointes en annexe pour décrire précisément le droit cédé.
+- Citations :
+  - [12:54] « Le manque de connaissance mène à des erreurs ou à des opportunités perdues : former chercheurs et entrepreneurs est crucial. » (George Pimenta, reformulé)
+  - [58:50] « N'ayez pas peur de demander des accords de confidentialité : c'est une action préventive essentielle. » (George Pimenta, reformulé)
+  - [1:40:21] « C'était un webinaire de transfert de connaissances plus que de transfert de technologie. » (coordinateur EOSC, reformulé)
+- Réutilisation HSA : kit « Documents de base d'un bureau de transfert » ; webinaire HSA sur la recherche d'antériorités et la liberté d'exploitation ; fiche pratique sur les clauses d'une licence à une spin-off.
+
+Transcription complète : [../transcriptions/technology-transfer-models-webinar.md](../transcriptions/technology-transfer-models-webinar.md)

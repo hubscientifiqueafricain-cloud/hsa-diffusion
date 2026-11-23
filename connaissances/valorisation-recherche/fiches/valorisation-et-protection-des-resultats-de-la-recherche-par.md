@@ -1,0 +1,34 @@
+# Fiche : Valorisation et protection des résultats de la recherche par les brevets – Pr. Omar Tanane
+- Source : chaîne « tanane omar », 26 mars 2021, https://www.youtube.com/watch?v=LFnfP_DpWpk, Maghreb (Maroc) (conférence enregistrée, 39 min, transcription automatique très bruitée)
+- Intervenant(s) et fonction : Pr Omar Tanane, docteur en chimie et en gestion d'entreprise, Faculté des sciences Ben M'Sik (Casablanca) ; certifié par l'Office européen des brevets et par le BIT (facilitateur en entrepreneuriat) ; expert formateur auprès de l'OMPIC (Office marocain de la propriété industrielle et commerciale) ; coordinateur du TISC (centre d'appui à la technologie et à l'innovation) de sa faculté ; rédacteur en chef de la revue Revue RENOVA (nom approximatif).
+- Pertinence pour le sujet : forte – cours de base sur le brevet pour chercheurs africains francophones, dans un contexte proche de la Côte d'Ivoire.
+- Idées clés :
+  - Protéger d'abord, publier ensuite : publier un article avant le dépôt détruit la nouveauté ; un brevet suivi d'un article valorise davantage le dossier scientifique.
+  - Le brevet est un titre de propriété industrielle délivré par l'office national (OMPIC au Maroc), pour 20 ans et sur un territoire donné ; extension internationale via le traité PCT ; en contrepartie du droit exclusif, l'invention est divulguée.
+  - Trois critères de brevetabilité : nouveauté mondiale (par rapport à tout ce qui a été rendu public avant le dépôt), activité inventive (pas une évidence ni une simple juxtaposition – ex. crayon + gomme refusé), application industrielle.
+  - Exclusions : méthodes de traitement chirurgical, thérapeutique et de diagnostic ; découvertes (nouvelle espèce, planète) – mais l'instrument qui permet l'observation est brevetable ; créations esthétiques (dessins et modèles) ; logiciels seuls au Maroc et en Europe (sauf s'ils pilotent une machine) ; inventions contraires à l'ordre public ; obtentions végétales (protégées par un titre spécifique).
+  - Procédure marocaine : formulaire B1 téléchargeable sur le site de l'OMPIC ; dossier = description, revendications, abrégé, dessins.
+  - Structure d'un brevet : titre, domaine technique, état de l'art, problème non résolu, solution apportée, description détaillée, revendications.
+  - Les revendications définissent la portée de la protection : ni trop larges ni trop étroites ; chaque revendication est examinée séparément.
+  - La demande reste secrète 18 mois : fenêtre pour négocier discrètement avec des industriels ou retirer/modifier la demande.
+  - À éviter avant le dépôt : publication, conférence, congrès, vente de produits (rétro-ingénierie possible), passage dans les médias ; négocier seulement sous accord de confidentialité ; déposer vite.
+  - Le brevet donne un droit d'interdire, pas un droit d'exploiter (exemple de l'antenne générique vs antenne hélicoïdale : chacun a besoin de l'accord de l'autre).
+  - Utiliser l'information brevet dans la bibliographie : trouver des solutions gratuites (brevet non protégé dans son pays), éviter de réinventer la roue, « imiter pour innover », repérer les tendances technologiques.
+  - Exploitation possible : exploiter soi-même (spin-off, start-up), concéder une licence, céder le brevet ; action en contrefaçon en cas de copie.
+- Chiffres et faits cités :
+  - [2:43] Réseau marocain de plus de 53 points focaux TISC (universités, écoles d'ingénieurs, centres de recherche) ; la faculté est la seule faculté des sciences du réseau.
+  - [4:28] Selon l'OMPI, 80 % de l'information technologique se trouve dans les brevets et nulle part ailleurs.
+  - [6:11] Données OMPIC : contribution importante des universités aux dépôts d'origine marocaine ; [7:02] les entreprises marocaines ne représentent qu'environ 7 % (hors multinationales).
+  - [9:33] Durée de protection : 20 ans.
+  - [19:55] Secret de la demande pendant 18 mois.
+  - [21:40] Plus de 50 millions de brevets indexés et accessibles gratuitement (Espacenet, Patentscope) ; un nouveau document brevet environ toutes les 30 secondes.
+  - [1:52] L'intervenant a déposé 7 brevets avec des collègues.
+- Exemples et cas concrets : brevet d'un collègue de la faculté sur la valorisation d'un fruit local (séparation pulpe/graine, macération ; trois produits dont un sirop au miel et une colle aromatisée, utilisés par l'agroalimentaire marocain ; extension PCT) ; brevet du laboratoire de chimie des matériaux appliquée avec un consortium industriel financé par l'IRESEN : réfrigérateur mobile 100 % solaire (projet primé) ; formations certifiantes à distance de l'OMPI pour doctorants et enseignants ; ateliers « bibliographie brevet » pour masters.
+- Citations fortes :
+  - [7:51] « Beaucoup d'enseignants-chercheurs n'ont pas la culture du brevet : leur réflexe est l'article. Or si je publie ma nouvelle molécule, n'importe qui peut l'utiliser. Il faut d'abord protéger, ensuite publier – l'inverse n'est pas possible. »
+  - [29:27] « Le brevet vous donne un droit d'interdire, pas un droit d'exploiter. »
+  - [21:40] « Un chercheur qui limite sa bibliographie aux articles et aux thèses, dans un domaine technologique, passe à côté de 80 % de l'information. »
+- Utilisation possible par HSA : module « Le brevet en 10 règles pour le chercheur africain » (critères, exclusions, structure, revendications, erreurs à éviter) ; atelier pratique « recherche d'antériorités dans Espacenet/Patentscope » ; post « Protéger avant de publier » ; modèle du TISC à promouvoir dans les universités ivoiriennes (réseau OMPI/OAPI) ; insister sur l'OMPI Academy pour la formation des doctorants.
+- Mots-clés : propriété intellectuelle et brevets, définitions, détection d'inventions, licences, spin-offs et start-ups, Afrique, carrière du chercheur.
+
+Transcription complète : [../transcriptions/valorisation-et-protection-des-resultats-de-la-recherche-par.md](../transcriptions/valorisation-et-protection-des-resultats-de-la-recherche-par.md)

@@ -1,0 +1,31 @@
+# Fiche : Rencontre de novembre 2026 : l'open source et votre bureau de transfert de technologie
+- Source : UC OSPO Network (Université de Californie), 12 novembre 2026, https://www.youtube.com/watch?v=v4y9JrznWM8, États-Unis (Californie)
+- Intervenant(s) : Steven Tudor, directeur du bureau de transfert de l'Université de Californie à Davis ; Mike Alvarez Cohen, directeur du développement de l'écosystème d'innovation au bureau de la propriété intellectuelle de l'Université de Californie à Berkeley ; animation par des membres du réseau des bureaux de programmes open source (OSPO)
+- Pertinence : forte – Deux responsables de bureaux de transfert expliquent comment une université gère la publication de logiciels en open source, les licences, les spin-offs et les revenus.
+- Idées clés :
+  - Le bureau de transfert gère la propriété intellectuelle de l'université et aide les chercheurs à diffuser leurs résultats, y compris par licence à des start-ups ou à des entreprises.
+  - Pour un logiciel en open source, les premières questions portent sur la titularité (l'université ou le chercheur ?), l'origine des financements et les licences imposées par un financeur.
+  - Un dossier simple peut être réglé en moins d'une semaine ; un dossier compliqué par d'anciens financements ou de nombreux contributeurs peut prendre plus de temps.
+  - Le formulaire de divulgation de logiciel est la porte d'entrée : résumé, coauteurs, financements, logiciels open source utilisés, potentiel commercial.
+  - Il est conseillé de contacter le bureau tôt : un chercheur qui publie un code sous licence libre ne peut plus revenir en arrière de façon rétroactive.
+  - Le bureau n'est pas « la police » : il conseille, la politique est appliquée par la hiérarchie de la recherche.
+  - À Berkeley, un accord « de bonne réputation » pour les start-ups open source (OS3) donne à l'université environ 1 % du capital et des droits de participation aux levées de fonds ; un accord plus léger (IAA) ne prévoit que les droits de participation.
+  - L'accord OS3 n'est pas une licence ; une vraie licence de brevet ou de logiciel comporte des frais, des redevances et, pour les licences exclusives, des jalons de performance.
+  - Si une licence exclusive n'atteint pas ses jalons, elle est renégociée, rendue non exclusive ou reprise.
+  - Les conflits entre chercheur et bureau sont rares ; le débat porte plutôt sur la stratégie (exclusif ou non, champs d'application).
+  - Réponse à l'IA : le code généré peut introduire du code sous licence restrictive ; le conseil est de se doter d'une politique et d'en parler tôt.
+- Chiffres et faits cités :
+  - [3:30] Berkeley reçoit près de 200 divulgations d'invention par an, dont environ 10 % de logiciels.
+  - [6:53] Cas à Davis : un financement de 1998 dont les justificatifs étaient perdus dans un répertoire partagé.
+  - [19:25] Accord OS3 : environ 1 % du capital et participation aux financements futurs.
+  - [27:06] À Davis : des modules logiciels pour appareils scientifiques licenciés de façon non exclusive rapportent 20 000 à 30 000 dollars par an.
+  - [28:47] Le logiciel OpenSees (analyse parasismique), licencié à des dizaines d'entreprises dans le monde, gratuit pour la recherche, l'éducation et le non lucratif.
+  - [33:02] Trois types d'accords de droits de propriété intellectuelle, d'une lettre de quelques pages à une licence d'environ trente pages.
+- Exemples et cas concrets : OpenSees ; application MyShake (alerte séisme sur téléphone) ; deux spin-offs d'intelligence artificielle ; accord OS3 étendu aux poids de modèles et aux données.
+- Citations :
+  - [12:45] « Nous ne sommes pas là pour dire "je t'ai eu" : nous aidons à diffuser vos résultats comme vous le souhaitez. » (S. Tudor)
+  - [22:43] « Le formulaire de divulgation de logiciel, point final : il est devenu aussi efficace que possible. » (M. Alvarez Cohen)
+  - [42:21] « Nous sommes une organisation de service, très réactive. » (M. Alvarez Cohen)
+- Réutilisation HSA : (1) fiche pratique « que contient un formulaire de divulgation » ; (2) post sur la différence entre accord de bonne réputation et licence ; (3) webinaire sur les logiciels libres issus de la recherche, vus de l'Afrique.
+
+Transcription complète : [../transcriptions/november-2026-all-campus-meetup-open-source-and-your-tech-tr.md](../transcriptions/november-2026-all-campus-meetup-open-source-and-your-tech-tr.md)

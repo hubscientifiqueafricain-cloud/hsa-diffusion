@@ -1,0 +1,35 @@
+# Fiche : IPPCR, le transfert de technologie vu par le NIH
+- Source : NIH VideoCast, 22 mars 2016, https://www.youtube.com/watch?v=BcoOBdRCTGQ, États-Unis
+- Intervenant(s) : Bruce Goldstein, chef du bureau de transfert de technologie des National Institutes of Health (NIH)
+- Pertinence : forte – cours de 1 h 30 sur la PI, les accords (confidentialité, transfert de matériel, CRADA) et les résultats du transfert, donné à des chercheurs cliniciens.
+- Idées clés :
+  - Le transfert de technologie est l'échange autorisé d'idées, d'informations confidentielles, de matériel ou de droits de PI entre laboratoires, pour faciliter la recherche et le développement de produits.
+  - Avant 1980, la recherche publique américaine n'avait produit aucun produit de santé issu d'un laboratoire fédéral : personne n'investit des centaines de millions si un concurrent peut copier ensuite.
+  - Le Congrès a changé de logique en 1980 (loi Bayh-Dole) pour que les universités et les licenciés tirent un bénéfice économique des résultats.
+  - Brevet : droit d'exclure pour environ 20 ans ; il n'est pas un monopole commercial, le marché décide si le produit a de la valeur.
+  - Les brevets sont chers et propres à chaque pays ; depuis 2011, les États-Unis sont passés au « premier déposant ».
+  - Les conversations informelles hors de l'organisation peuvent compromettre un brevet ; le délai de grâce américain est d'un an.
+  - Les choses naturelles comme un génome ne se brevettent pas ; une version transformée par l'homme peut l'être.
+  - Au NIH, la publication reste le moyen préféré de diffusion ; on brevette surtout quand sans brevet personne n'investirait, et on partage les outils de recherche largement.
+  - Licences exclusives accordées quand l'exclusivité est la condition de l'investissement (thérapies, vaccins), avec jalons de développement, rapports annuels et droit de reprendre la technologie.
+  - Les accords clés : accord de confidentialité, accord de transfert de matériel, accord d'essai clinique, CRADA.
+  - Ne jamais signer un accord soi-même sans passer par le bureau de transfert : on s'engage personnellement.
+  - Un exemple historique (un essai clinique sur un médicament de thyroïde) montre les dangers d'une clause qui permet à l'entreprise de bloquer la publication.
+- Chiffres et faits cités :
+  - [4:12] Les universités gardent leurs droits d'invention sous conditions depuis 1980.
+  - [20:11] L'examen d'un brevet peut durer de 6 mois à 5 ans.
+  - [29:41] Les licences incluent des jalons : phases d'essais, dossier d'autorisation, première vente.
+  - [30:29] Obligation légale de fabriquer aux États-Unis pour vendre sur le marché américain (dérogation possible).
+  - [1:19:31] Négociation d'un CRADA : typiquement 3 à 8 mois.
+  - [1:21:53] Environ 80 CRADA par an, 200 actifs en moyenne.
+  - [1:22:42] Environ 400 déclarations d'invention par an au NIH, environ 100 nouveaux brevets américains par an.
+  - [1:23:30] Environ 100 millions de dollars de redevances (140 millions l'année précédente), pour environ 6 milliards de dollars de ventes de médicaments.
+  - [1:25:05] Impact économique estimé à plus de 200 milliards de dollars de PIB toutes sources confondues.
+  - [1:25:57] 32 brevets américains pour 100 millions de dollars investis, contre environ 2,5 en moyenne pour le secteur biomédical américain.
+- Exemples et cas concrets : cas d'une chercheuse bloquée par un fabricant de médicament après un essai clinique ; scénario d'indemnisation après un incident en essai ; cartographie des produits développés sous CRADA du NIH, dont un vaccin antigrippal.
+- Citations :
+  - [2:31] Avant 1980, on ne pouvait citer aucun produit de santé issu d'un laboratoire fédéral. (Bruce Goldstein)
+  - [1:03:45] Si vous signez un accord vous-même, vous vous engagez personnellement, pas votre employeur. (Bruce Goldstein)
+- Réutilisation HSA : module sur les accords (confidentialité, transfert de matériel, essai clinique) ; post « Ne signez jamais seul » ; webinaire sur les clauses de jalons et de reprise dans les licences.
+
+Transcription complète : [../transcriptions/ippcr-technology-transfer.md](../transcriptions/ippcr-technology-transfer.md)

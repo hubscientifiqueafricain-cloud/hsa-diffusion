@@ -1,0 +1,33 @@
+# Fiche : Propriété intellectuelle, brevets et commercialisation des technologies (séminaire d'ingénierie de VCU)
+- Source : VCUEngineering (Virginia Commonwealth University), 5 novembre 2026, https://www.youtube.com/watch?v=QmLJ7NE6grI, États-Unis (Virginie)
+- Intervenant(s) : Brandon (prénom transcrit « Brent », à vérifier), directeur adjoint du bureau d'innovation, de transfert de technologie et de création d'entreprises de VCU, plus de 25 ans d'expérience ; formation en microbiologie et en génie nucléaire
+- Pertinence : forte – Un praticien explique à des étudiants ce que fait un bureau de transfert : titularité, inventeurs, répartition des revenus, divulgation publique, exemples de réussites et d'échecs.
+- Idées clés :
+  - Aux États-Unis, toute université qui reçoit des fonds fédéraux doit avoir un bureau comme le sien, en vertu de la loi Bayh-Dole des années 1980 ; il gère, licencie et cherche à commercialiser la propriété intellectuelle.
+  - Commercialiser signifie utiliser dans un contexte professionnel ; cela peut se faire gratuitement (logiciel offert à des hôpitaux).
+  - Le bureau n'accompagne pas seul les start-ups : il oriente vers l'écosystème local, apporte des contacts, parfois de l'argent et des bases de formation.
+  - Un inventeur est celui qui contribue à l'idée de l'invention (ce qui figure dans les revendications) ; un technicien qui exécute n'est pas inventeur, alors que l'auteur d'un droit d'auteur est celui qui écrit.
+  - L'intelligence artificielle ne peut être ni inventeur ni auteur ; selon l'intervenant, une règle empirique américaine est qu'environ 95 % du contenu doit être écrit par l'humain (à vérifier).
+  - L'inventeur cède ses droits à l'université, qui gère le brevet en son nom ; les noms des inventeurs figurent toujours sur le brevet.
+  - On ne peut céder à l'avance ses droits sur des inventions futures : la cession se fait après l'invention.
+  - Pour les étudiants, la politique de VCU protège : sauf emploi ou projet financé, ce qu'on fait (thèse, projet personnel) reste à soi, et en cas de désaccord avec un enseignant, la décision penche en faveur de l'étudiant.
+  - Pour chaque dollar de revenu de licence : 40 % au bureau de recherche, 40 % aux chercheurs, 10 % au département, 10 % à la faculté.
+  - Si l'invention est licenciée à la start-up des chercheurs, la redevance est payée par l'entreprise et ne suit pas cette répartition.
+  - Le bureau finance des projets de maturation à deux niveaux (10 000 et 50 000 dollars).
+  - Un dépôt public sur GitHub avant un dépôt de brevet est une divulgation publique et peut faire perdre le brevet.
+  - Un résultat sans protection peut échouer sur le marché : pour un médicament, l'absence de brevet rend la mise sur le marché impossible, car le coût dépasse le milliard de dollars.
+- Chiffres et faits cités :
+  - [1:42] Bayh-Dole, années 1980, bureaux obligatoires pour les universités financées par l'État fédéral.
+  - [22:20] Répartition 40/40/10/10 et deux niveaux de financement de 10 000 et 50 000 dollars, ; le montant annuel dépensé est transcrit de façon floue (à vérifier).
+  - [24:01] Environ 12 à 14 start-ups par an.
+  - [24:50] Exemple de calcul : redevance de 5 % sur 100 millions de dollars, soit 5 millions pour l'université (exemple illustratif de l'intervenant).
+  - [43:27] Une dizaine à une vingtaine d'inventions seulement génèrent plus de 1 000 dollars par an sur la dernière décennie.
+  - [6:09] La propriété intellectuelle est le seul droit explicitement protégé par le texte constitutionnel américain (affirmation de l'intervenant).
+- Exemples et cas concrets : Google (Stanford n'a pas réussi à licencier le moteur, les fondateurs ont licencié et fondé l'entreprise) ; Photobit et le capteur d'image CMOS (quatre ans sans licencié, puis une start-up) ; SAS (logiciel cédé au chercheur par l'université) ; bleu LED et patch de nicotine (NC State) ; Gatorade ; signatures de fluorescence cellulaire pour le diagnostic (dystrophie musculaire, maladies du foie).
+- Citations :
+  - [5:11] « Toute la raison d'être de la propriété intellectuelle est la commercialisation. » (l'intervenant)
+  - [21:31] « Nous ne volons pas vos affaires : tous les bureaux de transfert manquent de personnel. » (l'intervenant)
+  - [41:01] « Ne faites aucune divulgation publique tant que vous n'avez pas déposé au moins un brevet provisoire. » (l'intervenant)
+- Réutilisation HSA : (1) fiche pratique « inventeur ou contributeur ? » à destination des doctorants ; (2) post sur la répartition des revenus de licence (exemple 40/40/10/10) ; (3) webinaire « Pourquoi des succès comme Google ont d'abord été refusés par les licenciés ».
+
+Transcription complète : [../transcriptions/intellectual-property-patents-technology-commercialization-v.md](../transcriptions/intellectual-property-patents-technology-commercialization-v.md)

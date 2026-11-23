@@ -1,0 +1,58 @@
+# Fiche : Focus + : Valorisation des résultats de recherche et de l'innovation
+- **Source** : FILINFOTV (télévision burkinabè), 17 déc. 2025, https://www.youtube.com/watch?v=MqzHa4PKEWc, Afrique francophone (Burkina Faso). Transcription automatique bruitée.
+- **Intervenant(s)** :
+  - Dr Ki (nom incertain dans la transcription), enseignant-chercheur en sciences et technologies des aliments à l'université (Burkina Faso).
+  - M. Zan (orthographe incertaine), spécialiste de la propriété intellectuelle, qui intervient au nom de l'ANVAR (Agence nationale de valorisation des résultats de la recherche et des innovations, Burkina Faso).
+  - Animateur de l'émission.
+- **Pertinence** : forte, en particulier pour le contexte africain. Le Burkina Faso a une agence nationale de valorisation, des plateformes multi-acteurs, des cas agroalimentaires, et l'OAPI y est présentée comme levier de confiance.
+- **Idées clés** :
+  - La valorisation a plusieurs dimensions : économique, sociale, technologique, académique et politique (aider les décideurs à décider, en contexte de « refondation »).
+  - Les tiroirs sont pleins. Les mémoires et les thèses dorment dans les bibliothèques. Il faut aller vers les acteurs (industriels, ONG, ministères) plutôt qu'attendre qu'ils viennent.
+  - Tout résultat n'est pas valorisable. Premier critère : le sujet doit partir d'un problème constaté sur le terrain. Deuxième critère : le résultat doit être accessible, c'est-à-dire reproductible industriellement et abordable pour la population (optimisation).
+  - Les outils de l'ANVAR et de l'écosystème : plateformes d'innovation multi-acteurs par filière (cinq plateformes, dont maïs et lait, pilotées par l'ANVAR et des partenaires), incubateurs technologiques pour le prototypage, forums comme le FINATEC (« Fite » dans la transcription, Forum national des innovations technologiques), journées portes ouvertes.
+  - Des rencontres B2B universités-entreprises pour présenter des résultats ciblés sur un secteur, afin de créer la connexion chercheurs-industriels voulue par le président du Faso.
+  - Le chercheur peut réduire le coût de revient de l'industriel : réglage du temps optimal des machines (coût de l'électricité), effectifs nécessaires, optimisation de la formule. Nos produits sont chers parce que la recherche est loin de l'industrie.
+  - Les exonérations publiques pour l'investissement industriel sont sous-exploitées.
+  - Valoriser coûte cher : équipements, laboratoires certifiés, normes (agence de normalisation ABNORM, représentante de l'ISO), communication, centres de multiplication. Il faut mutualiser les plateaux techniques à l'échelle régionale, selon les avantages comparatifs de chaque pays.
+  - Le policy brief (note de politique de 2 pages) est un outil clé pour valoriser les sciences sociales. Le chercheur doit s'entourer de spécialistes de la communication scientifique. Le CAMES encourage à résumer sa thèse en langue locale après la soutenance.
+  - La propriété intellectuelle est présentée comme le « cœur du sujet ». Brevet pour les procédés, certificat d'obtention végétale pour les variétés, via l'OAPI. Un résultat protégé est plus facilement transférable et crée la confiance : le chercheur craint d'être « doublé » par l'industriel. Le volet PI n'a souvent pas de budget et est méconnu.
+  - Publier sans protéger fait tomber le résultat dans le domaine public. Il reste le savoir-faire du chercheur.
+  - Il faut une politique nationale de PI claire. L'exemple américain des patent pools (portefeuilles de brevets regroupés par domaine) facilite l'accès des industriels.
+  - Les industries publiques nouvellement créées devraient avoir des cellules de recherche et protéger leurs formules, pour éviter des contentieux coûteux.
+  - L'interdisciplinarité est indispensable. Une sociologue de l'équipe a alerté sur le risque de rejet d'un produit alimentaire issu de déchets de mangue.
+- **Chiffres et faits cités** :
+  - [0:00–0:55] Étude de 2022 (attribuée à « Rollanva », nom incertain) : plus de 1 000 (« 11 000 » dans la transcription) résultats de recherche répertoriés, avec un fort potentiel en création variétale agricole, dont l'INERA est leader.
+  - [16:43] Cinq plateformes d'innovation multi-acteurs (dont maïs et lait) pilotées par l'ANVAR.
+  - [26:07] Projet régional (espace UEMOA, transcrit « Yomoa ») de valorisation de variétés de maïs à haut rendement, piloté par le Burkina et exécuté au Mali et au Niger. Les variétés burkinabè y ont été adoptées.
+  - [27:50] Une variété de kénaf (plante textile), mise au point par des chercheurs burkinabè à Farako-Bâ, a été adoptée au Mali.
+  - [29:29–32:02] Poulet bicyclette : l'élevage traditionnel prend 4 à 6 mois. L'aliment formulé à l'université permet une sortie en 75 à 90 jours, puis environ 2 mois et 10 jours après affinage, pour des poulets de 800 g à 1 kg. Essais dans deux fermes et passage à l'échelle en cours. Un concentré est disponible et une entreprise s'en approprie.
+  - [35:18] Des échantillons de déchets de mangue doivent être envoyés au Ghana pour analyse, faute d'équipement local.
+  - [48:52] Après publication ou soutenance, il existe un « délai de grâce de 12 mois » selon l'intervenant. Ensuite, tout acteur peut utiliser le procédé. Affirmation à vérifier : le régime OAPI est plus restrictif.
+  - [52:13] Allusion à un litige de la Brafaso (2008) autour d'un simple mot (marque « Top »), pour illustrer le risque de contentieux.
+- **Exemples et cas concrets** :
+  - Création variétale de l'INERA (blé, maïs, kénaf).
+  - Vaccins (cité de façon confuse).
+  - Équipements agricoles adaptés au contexte local.
+  - Foyers améliorés et nouveau foyer « Fomita », une innovation demandée par les transformatrices pour économiser le bois.
+  - Maïs sans toxines pour la nouvelle usine et la SN Brafaso.
+  - Farines infantiles contre la malnutrition.
+  - Valorisation des déchets de karité et de mangue (vinaigre, produits fermentés).
+  - Phosphates du Burkina, utilisables contre la malnutrition (calcium, phosphore) et pas seulement comme engrais.
+  - Huiles essentielles brevetées.
+  - INSS (sciences sociales, transcrit « INES ») : travaux sur la parenté à plaisanterie (rakiré), dont l'expérience intéresse d'autres pays.
+  - Constitution traduite en langues locales.
+  - Notes de politique à l'université Joseph Ki-Zerbo.
+  - Initiative « Faso Mêbo » (transcription confuse) pour la diaspora.
+- **Citations** :
+  - [14:11] « Tout résultat n'est pas valorisable. Le premier critère, c'est que le sujet donné à l'étudiant parte d'un problème constaté sur le terrain. Sinon, il finira dans les tiroirs. »
+  - [47:10] « Lorsqu'un résultat est protégé, il devient facilement transférable. Sans titre de propriété, on ne peut pas réellement transférer. »
+  - [23:33] « Nos produits sont généralement chers tout simplement parce que la recherche est éloignée de l'industrie. »
+- **Utilisation possible par HSA** :
+  - Étude de cas africaine francophone pour un module « Écosystème national de valorisation » (agence nationale, plateformes multi-acteurs, OAPI).
+  - Grille « mon résultat est-il valorisable ? » (problème de terrain, reproductibilité, accessibilité).
+  - Post sur le poulet bicyclette en 75 jours.
+  - Argument pour la mutualisation régionale des plateaux techniques.
+  - Atelier « écrire un policy brief ».
+- **Mots-clés** : définitions, Afrique, propriété intellectuelle et brevets, partenariats industrie, financement et maturation, politique publique, SHS et impact.
+
+Transcription complète : [../transcriptions/focus-valorisation-des-resultats-de-recherche-et-de-l-innova.md](../transcriptions/focus-valorisation-des-resultats-de-recherche-et-de-l-innova.md)

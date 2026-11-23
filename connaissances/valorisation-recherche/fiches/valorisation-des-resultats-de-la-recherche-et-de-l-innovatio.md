@@ -1,0 +1,32 @@
+# Fiche : valorisation des résultats de la recherche et de l'innovation en Afrique de l'ouest.
+- **Source** : Grand Spirituel Monde TV, 15 mars 2023, https://www.youtube.com/watch?v=KcH_g9v1dPo, Afrique francophone (Bénin et Togo). Reportage de 17 min, transcription très bruitée.
+- **Intervenant(s)** :
+  - Un professeur togolais en mission d'appui pour le projet (nom transcrit « Joseph Kofield » puis « professeur Dodi », incertain ; probablement le même porteur que dans le reportage sur le SAVARI-AO).
+  - Le point focal du projet au Bénin (non identifiable dans la transcription).
+  - Des opérateurs économiques béninois et un représentant de la CCI Bénin (mention du CAMeC, centre d'arbitrage, pour les litiges).
+- **Pertinence** : moyenne. C'est un reportage sur la mobilisation du secteur privé béninois pour le projet régional VaRIWA (financement OEACP), avec un modèle original de fonds d'investissement alimenté par le privé. Le contenu de fond est limité.
+- **Idées clés** :
+  - Séance de travail à la Chambre de commerce et d'industrie du Bénin (CCIB), le 15 mars 2023, pour renforcer le partenariat public-privé sur le financement et la valorisation des résultats de recherche.
+  - Le projet a deux volets. (1) Un cadre partenarial et un réseau international entre opérateurs économiques, chercheurs et innovateurs, pour que chacun connaisse les problèmes et les forces de l'autre. (2) Un fonds d'investissement au service de la valorisation, alimenté par le secteur privé.
+  - Constat : le secteur privé ignore presque tout de la recherche locale. Il importe donc une expertise étrangère plus coûteuse, alors que des solutions existent dans les laboratoires.
+  - Le fonds est présenté comme le « bras armé » du réseau. Il y aura un fonds par pays, avec un apport privé sous forme d'investissement (et non de sponsoring) qui attend un retour sur investissement. Participer au réseau n'oblige pas à investir dans le fonds.
+  - Cibles du secteur privé : PME et PMI, banques, patronat, investisseurs. Au Togo, la CCI pilote le projet. Elle a recommandé de passer par la chambre consulaire du Bénin, qui fait l'interface avec les opérateurs.
+  - La CCI s'engage à sensibiliser, suivre et accompagner, et à traiter les litiges via son centre d'arbitrage.
+  - Des opérateurs souhaitent un investissement « bien cadré » et suivi, et rêvent d'un Bénin qui deviendrait « une Chine » grâce à l'innovation.
+- **Chiffres et faits cités** :
+  - [11:59] Dans les quatre pays membres (Bénin, Burkina Faso, Sénégal, Togo), la dépense publique de recherche et d'innovation est en moyenne d'environ 0,2 % du PIB, alors que l'Union africaine recommande au moins 1 %.
+  - [13:44] Le Bénin doit envoyer 40 participants au forum de Lomé de septembre 2023 : 15 opérateurs économiques, 15 innovateurs, 10 enseignants-chercheurs.
+  - [2:47] Le salon international prévoit un concours avec jury international et un prix pour les 3 meilleurs innovateurs.
+  - [11:05] Projet financé par le Fonds d'innovation de l'OEACP (Organisation des États d'Afrique, des Caraïbes et du Pacifique).
+- **Exemples et cas concrets** : CCI Bénin et CCI Togo, forum ou salon de Lomé (SAVARI-AO, septembre 2023).
+- **Citations** :
+  - [12:49] « Comme le secteur privé ignore presque tout de la recherche, il est obligé d'importer de l'expertise, ce qui lui revient beaucoup plus cher. Nous voulons que les deux mondes se connaissent. »
+  - [16:21] « Les opérateurs économiques mettront de l'argent dans ce fonds non pas sous forme de sponsoring, mais comme un investissement, et qui dit investissement dit retour sur investissement. »
+- **Utilisation possible par HSA** :
+  - Complément au cas SAVARI-AO et VaRIWA.
+  - Modèle de fonds de valorisation co-financé par le privé, à présenter dans un livre blanc sur le financement.
+  - Argument « importer l'expertise coûte plus cher » pour convaincre les PME africaines de travailler avec les labos locaux.
+  - Rôle des chambres consulaires comme passerelle.
+- **Mots-clés** : Afrique, partenariats industrie, financement et maturation, politique publique.
+
+Transcription complète : [../transcriptions/valorisation-des-resultats-de-la-recherche-et-de-l-innovatio.md](../transcriptions/valorisation-des-resultats-de-la-recherche-et-de-l-innovatio.md)

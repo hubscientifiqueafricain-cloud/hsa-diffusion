@@ -1,0 +1,31 @@
+# Fiche : Un parcours de commercialisation : l'histoire de Hemaptics (journée Recherche et Innovation de University Hospitals)
+- Source : University Hospitals, 1 juil. 2024, https://www.youtube.com/watch?v=DIpdlD5upEg, États-Unis (Ohio)
+- Intervenant(s) : Matt Zanker (modérateur, senior portfolio manager, équipe Ventures) ; Neil Wyant (vice-président commercialisation et investissements, Ventures) ; Craig Schwabble (vice-président solutions numériques et analytique d'entreprise) ; Jen Dawson (ingénieure senior en opérations et infirmière diplômée) ; le Dr James Hill (anesthésiste, cofondateur) est cité mais absent. Orthographe des noms à vérifier.
+- Pertinence : forte – Un cas complet de spin-off issue d'un hôpital universitaire, de la détection du problème au premier client pilote, raconté par les inventeurs et par l'équipe de valorisation.
+- Idées clés :
+  - Tout part d'un problème clinique réel : l'hôpital utilisait trop de sang, et des études suggéraient qu'environ la moitié de l'usage pourrait être inutile.
+  - Avant de construire, l'équipe a cherché des produits existants (trois ou quatre examinés) et constaté qu'aucun ne répondait au besoin.
+  - Le potentiel commercial est apparu en se disant que le besoin de l'hôpital ne pouvait pas être unique ; une évaluation de marché externe, dès fin 2017, a confirmé que l'outil était unique.
+  - Un financement interne de validation technologique (non dilutif) a servi à approfondir l'étude de marché avant de choisir entre créer une société et concéder une licence.
+  - Une étude approuvée par un comité d'éthique, avant et après intervention, a été publiée : des données évaluées par les pairs ont beaucoup aidé à convaincre le marché.
+  - Les retours de clients potentiels ont fait évoluer le produit : d'un outil rétrospectif vers un outil d'aide à la décision au moment de la prescription (génération 3).
+  - Les inventeurs gardent leur emploi : un entrepreneur en résidence gère le projet, et une inventrice est devenue consultante de la société en dehors de son poste.
+  - Faire entrer un dirigeant externe n'est pas un « passage de relais » mais un renfort ; les inventeurs passent du rôle de moteurs à celui de soutien et de conseil.
+  - L'équipe de valorisation continue d'ouvrir son réseau (clients, investisseurs) et joue le rôle de conseil d'administration informel.
+  - Les services juridiques et conformité ont adopté une attitude du type « comment faire » plutôt que « pourquoi ne pas faire » pour gérer les conflits d'intérêts.
+  - Conseils aux inventeurs : déclarer l'invention, même petite ; protéger les idées nouvelles ; être agile, patient et persévérant.
+- Chiffres et faits cités :
+  - [4:23] Près de 50 % du sang utilisé pourrait ne pas être nécessaire selon les études évoquées.
+  - [10:22] 150 000 dollars de financement non dilutif de validation technologique pour lancer le projet.
+  - [15:29] Plus de 300 000 dollars de financements d'État non dilutifs et 75 000 dollars des NIH obtenus ensuite ; deuxième tranche de 150 000 dollars débloquée à condition de créer une société.
+  - [15:29] Première société détenue à 100 % par l'institution autour de sa propre propriété intellectuelle.
+  - [31:45] Le parcours a commencé en 2017 (environ cinq ans de travail à la date de l'événement).
+  - [35:16] Une intervenante du public cite environ 5 millions de transfusions de globules rouges par an aux États-Unis (chiffre à vérifier).
+- Exemples et cas concrets : Hemaptics, outil d'analyse de l'usage approprié des produits sanguins ; premier client pilote dans un environnement Epic ; recherche d'un dirigeant externe ayant déjà mené ce type de projet.
+- Citations :
+  - [29:09] « Déclarez : au pire, vous découvrez que vous n'avez rien de brevetable, mais vous apprenez comment nous évaluons une opportunité commerciale. » (Neil Wyant)
+  - [30:52] « Soyez agiles : le marché, la technologie et les besoins changent très vite. » (Craig Schwabble)
+  - [33:26] « Apportez votre détermination, et surtout de la patience. » (Jen Dawson)
+- Réutilisation HSA : étude de cas pour un module « de l'hôpital ou du laboratoire à la start-up » ; post sur « aucune innovation n'est trop petite pour être déclarée » ; webinaire sur les rôles respectifs des inventeurs et du dirigeant externe.
+
+Transcription complète : [../transcriptions/a-commercialization-journey-the-story-of-hempatics-uh-resear.md](../transcriptions/a-commercialization-journey-the-story-of-hempatics-uh-resear.md)

@@ -1,0 +1,55 @@
+# Fiche : IP Series #1 Understanding the Tech Transfer Process
+- Source : Center for Technology Licensing (CTL) at Cornell University, 2 oct. 2023, https://www.youtube.com/watch?v=-TOJRftW-rA, États-Unis
+- Intervenant(s) et fonction : les noms sont mal reconnus par la transcription automatique.
+  - Linda K. : directrice adjointe des initiatives technologiques et de la sensibilisation, CTL.
+  - Chris Valentine : spécialiste de la sensibilisation à l'innovation.
+  - Bill Peg : directeur de la propriété intellectuelle, avocat en brevets avec plus de 20 ans d'exercice, au CTL depuis plus de 4 ans.
+  - Martin Tel : directeur du développement commercial et des licences, sciences physiques.
+  - Lisa Panic(a) : directrice générale principale du CTL pour le campus médical, Weill Cornell Medicine.
+- Pertinence pour le sujet : forte. Présentation complète d'un bureau de transfert universitaire américain : mission, chiffres, chaîne de valeur, Bayh-Dole, bases de la PI, qualité d'inventeur, commercialisation et fonds d'amorçage (« gap funding »).
+- Idées clés :
+  - Mission double du CTL : catalyser la commercialisation des technologies universitaires au bénéfice de la société, et promouvoir les start-ups pour le développement économique.
+  - Quatre piliers : licences et PI, soutien aux start-ups (licence express « FastTrack », mise en relation avec des investisseurs), éducation et sensibilisation, et financement d'amorçage (programme Ignite, lancé en 2014).
+  - Cycle de commercialisation : recherche et idéation, déclaration d'invention, évaluation, protection, marketing et licence, puis produit ou service porté par une entreprise existante ou une start-up. Les revenus sont réinvestis dans la recherche et partagés avec les inventeurs.
+  - Pourquoi l'université possède la PI : elle est créée dans le cadre de l'emploi, avec des fonds et des équipements universitaires. Bayh-Dole (1980) a transféré aux universités la propriété des inventions financées sur fonds fédéraux. Les autres motivations sont d'attirer et retenir les talents, d'augmenter la recherche financée et de renforcer les liens avec l'industrie. Collaborer avec le CTL ne présente aucun risque financier pour le chercheur : l'université paie tout.
+  - Obligations Bayh-Dole : commercialisation diligente, préférence aux petites entreprises, fabrication substantielle aux États-Unis, partage des revenus avec les inventeurs, licence réservée au gouvernement américain et transactions à des conditions de marché (« arm's length »).
+  - Un brevet est un monopole légal accordé en échange de la divulgation publique. Il donne le droit d'interdire, pas le droit d'exploiter : on peut avoir besoin d'une licence croisée si l'on dépend d'un brevet antérieur.
+  - Brevetabilité aux États-Unis : quatre catégories (procédé, machine, produit manufacturé, composition de matière), plus les exclusions jurisprudentielles (lois de la nature, produits de la nature, idées abstraites). La frontière est devenue floue avec le logiciel et l'IA. S'y ajoutent la nouveauté, la non-évidence, la description écrite, la suffisance (facteurs « Wands ») et le meilleur mode de réalisation.
+  - Le CTL déconseille le dépôt provisoire bâclé. Cycle type : recherche d'antériorité, dépôt provisoire, PCT ou demande non provisoire à 12 mois, puis déclaration obligatoire de l'état de la technique connu (« IDS »), examen de 2 à 5 ans et taxes de maintien. Il faut lancer la rédaction au moins un mois avant l'échéance.
+  - La qualité d'inventeur est une détermination juridique, distincte de celle d'auteur d'un article. Il faut avoir contribué à la conception d'au moins une revendication. Superviser une équipe ou exécuter des tâches ne suffit pas. La liste des inventeurs peut changer si les revendications évoluent.
+  - Divulgation publique : un dépôt sur arXiv ou bioRxiv, une affiche, une soutenance de thèse ou une conférence sans accord de confidentialité ferme les dépôts à l'étranger (nouveauté absolue). Il faut contacter le bureau de transfert avant de publier.
+  - Évaluation commerciale : taille du marché et obstacles, en dialogue avec les inventeurs, des entreprises, des entrepreneurs et des investisseurs. Le brevet n'est pas fait pour exclure : il donne au partenaire une raison d'investir dans le développement.
+  - Marketing : des fiches d'une page (« teasers »), le réseautage, le web, les réseaux sociaux, l'e-mailing, des partenaires stratégiques, des doctorants stagiaires pour les études de marché, un comité trimestriel de conseillers venus de l'industrie (Cornell Innovation and Venture Advisors), les anciens élèves et les incubateurs.
+  - Le rôle de l'inventeur est central : la plupart des licences se font avec des start-ups fondées par les inventeurs ou avec des entreprises présentées par leurs réseaux. En conférence, le chercheur doit aussi « prospecter » pour son invention.
+- Chiffres et faits cités :
+  - Dépenses de recherche de Cornell : 1,8 milliard de dollars pour l'exercice 2022 [3:24].
+  - 400 à 500 déclarations d'invention par an. Exercice 2022 : 79 (vraisemblablement des brevets américains délivrés) [5:04]. 90 accords de licence et d'option, et 36 millions de dollars de revenus [5:52]. Le nombre de start-ups est mal transcrit (« une startup (formulaire 12) »), probablement 12.
+  - Programme Ignite lancé en 2014 [7:32]. 11 start-ups issues du financement d'amorçage, dont 8 dans l'État de New York [8:21].
+  - Les start-ups sous licence Cornell ont levé 500 millions de dollars (sur la période récente) [9:09]. Plus de 230 start-ups créées, dont plus de 100 actives, pour 3 milliards de dollars levés au total [9:09].
+  - Stage pratique : au moins 9 mois, jusqu'à 10 h par semaine [11:36]. Bourse d'innovation : un an à temps plein au CTL [12:24].
+  - Avant Bayh-Dole, moins de 5 % des plus de 30 000 brevets détenus par le gouvernement fédéral étaient concédés sous licence, et une douzaine d'institutions seulement avaient un bureau de transfert [19:37].
+  - Plus de 200 médicaments et vaccins développés depuis 1980 grâce aux partenariats public-privé, dont le vaccin contre le COVID-19 [20:25].
+  - Un tiers des revenus nets reversé aux inventeurs à titre personnel (politique de Cornell) [21:59].
+  - Brevet : 20 ans à compter du dépôt (contre 17 ans auparavant) [26:57]. Les demandes sont rejetées au premier examen « dans 99,99 % des cas », selon l'intervenant [31:58].
+  - Examen de 2 à 5 ans, environ 2 ans avant la première notification [39:32]. Taxes de maintien à 4, 8 et 12 ans [40:21].
+  - Dépôt provisoire puis non provisoire américain : environ 25 000 $ sur 3 à 5 ans [41:13].
+  - Environ 80 % des licences universitaires vont à des start-ups ou à des entreprises présentées par les chercheurs (estimation anecdotique) [53:51].
+  - Ignite : 10 à 12 subventions d'accélération par an. 5 à 7 bourses par an pour recruter de futurs PDG ou directeurs techniques. Jusqu'à 50 000 $ versés sous forme de SAFE (participation future) à la création de la start-up. Jusqu'à 10 stagiaires financés [57:53]-[58:42].
+- Exemples et cas concrets :
+  - Marques de Cornell : « Ruby Frost » (pomme) et « Snapdragon » [28:38].
+  - Amgen contre Sanofi (Cour suprême) : 26 anticorps anti-PCSK9 décrits ne suffisent pas pour revendiquer tout le genre, car il faudrait une expérimentation excessive [35:15].
+  - Politiques de PI de Cornell : 1.5 (inventions), 4.10 (marques et logos), 4.15 (droit d'auteur).
+  - Partenariat avec le Tri-Institutional Therapeutics Discovery Institute (Cornell, Rockefeller, Memorial Sloan Kettering). Cours crédité de pharmacologie où des doctorants travaillent sur de vraies déclarations d'invention.
+- Citations fortes :
+  - « Avant Bayh-Dole, 95 % de ce que produisait la recherche financée restait inexploité : l'argent du contribuable ne se transformait pas en produits utiles à la société. » [19:37]
+  - « Un brevet ne vous donne pas le droit d'exploiter votre invention, mais celui d'empêcher les autres de le faire. » [26:05]
+  - « Quand un inventeur va en conférence, il n'est pas seulement un scientifique qui parle à ses pairs : il peut aussi nous aider à créer des liens avec l'industrie. » [54:37]
+- Utilisation possible par HSA :
+  - Étude de cas « anatomie d'un bureau de transfert performant » pour les universités africaines : piliers, équipes et indicateurs (déclarations, licences, start-ups, revenus).
+  - Argumentaire politique : la logique Bayh-Dole (moins de 5 % de brevets exploités avant la loi) transposée aux États africains qui financent la recherche publique.
+  - Module « Qui est inventeur ? » pour éviter les conflits dans les équipes.
+  - Post : « Votre préprint peut tuer votre brevet ».
+  - Modèle à reproduire : stages de doctorants et bourses d'entrepreneurs.
+- Mots-clés : rôle du bureau de transfert, définitions, détection d'inventions, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation, politique publique (Bayh-Dole, etc.), mesure d'impact, carrière du chercheur
+
+Transcription complète : [../transcriptions/ip-series-1-understanding-the-tech-transfer-process.md](../transcriptions/ip-series-1-understanding-the-tech-transfer-process.md)
