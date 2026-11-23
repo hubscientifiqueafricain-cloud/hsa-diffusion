@@ -1,0 +1,2176 @@
+# Fiches de lecture par vidéo : valorisation des résultats de la recherche
+
+Une fiche par vidéo : source et lien, intervenants, pertinence, idées clés, chiffres horodatés, cas concrets et citations. Les horodatages [m:ss] renvoient à la vidéo. Transcriptions complètes : [index.md](index.md).
+
+
+## Innovation Deeptech : ce que la littérature nous apprend sur le transfert de technologie
+- Source : Bpifrance, 8 oct. 2026, https://www.youtube.com/watch?v=GOYEkXf0VC4, France
+- Intervenant(s) : David Marquez (Bpifrance, relations avec le monde académique, animateur) ; Solange Chavel (Siris Academy, cabinet de conseil en stratégie recherche-innovation, Barcelone/Varsovie, co-autrice du livre blanc) ; Xavier Polinarski (vice-président innovation, Université Paris-Saclay, ancien dirigeant de SATT pendant une dizaine d'années) ; Ivette Aguilar (ingénieure de recherche au Collège de France, porteuse du projet de start-up Zineva) ; Clément Barreau (cofondateur et directeur des opérations de Pionic Technologies, start-up issue du CNRS) ; Benjamin K. (directeur du transfert chez CNRS Innovation : business development, contractualisation)
+- Pertinence : forte – présentation d'un livre blanc fondé sur la littérature scientifique sur le transfert de technologie, suivie de retours de praticiens (TTO, start-ups) très concrets sur la négociation de licence.
+- Idées clés :
+  - Cinq convictions du livre blanc (Bpifrance / Siris / CNRS) : 1) les canaux de transfert (PI/brevets, recherche partenariale, start-ups) sont complémentaires : mêmes chercheurs, mêmes labos, mêmes institutions ; un projet ne sait pas au départ quel canal il prendra. Les politiques publiques ciblées sur un seul instrument biaisent le terrain : mieux vaut soutenir globalement la capacité des institutions et les laisser choisir le canal.
+  - 2) Une part majeure du transfert passe par la formation et les diplômés (stages, recrutement de docteurs) : non mesurée mais massive ; il faut une approche « 360° » et une culture institutionnelle tournée vers l'extérieur, pas seulement des indicateurs brevets/start-ups.
+  - 3) La relation recherche-innovation est circulaire : la recherche nourrit l'innovation, et l'interface avec l'industrie nourrit la pertinence de la recherche. Pas de « trade-off » avéré entre recherche et innovation (débattu entre innovation et enseignement). Les meilleurs dispositifs ne peuvent rien sans une base de recherche solide.
+  - 4) Le déficit d'innovation européen reflète autant un retard sur les thématiques de recherche clés qu'une défaillance des instruments de transfert : la stratégie d'innovation doit être couplée à la stratégie de recherche, pas seulement à des dispositifs.
+  - 5) À l'échelle d'une université, le transfert est un centre de coût justifié par ses externalités ; chercher à y capter la valeur est une erreur de raisonnement. Implication : patience et financement stable des TTO ; ne pas changer les dispositifs tous les 3 ans.
+  - Les étudiants et doctorants sont un moteur majeur de création de start-ups deeptech ; la sensibilisation et l'accompagnement des doctorants entrepreneurs donnent de meilleurs résultats que l'argent seul.
+  - Point douloureux : la négociation de licence. Le TTO, accompagnateur au départ (déclaration d'invention, dépôt de brevet), devient contrepartie au moment de la licence ; manque de transparence sur ce qui est négociable, les fourchettes, les délais ; la mise à disposition du chercheur dépend de l'obtention de la licence. Conseils : parler à l'écosystème, s'entourer d'avocats, venir négocier avec un ou plusieurs investisseurs.
+  - Les paiements « upfront » sont perçus par les investisseurs comme une taxe sur la levée de fonds ; difficile pour un chercheur seul de les payer.
+  - Réponses côté TTO : publier des grilles et fourchettes de conditions (CNRS Innovation annonce la diffusion de ses pratiques ; rapport de synthèse des SATT par domaine ; guide de bonnes pratiques de 35 pages diffusé par PSL aux chercheurs en prématuration) ; licence « pool » où toute la PI issue des collaborations ultérieures start-up/labo entre dans la même licence pour éviter l'empilement de redevances.
+  - Délais des dispositifs : entre la fin de thèse et le versement d'une prématuration, 10-11 mois ; angle mort des dispositifs d'émergence.
+  - Vision américaine du TTO : un service aux chercheurs et un outil d'attraction des meilleurs chercheurs ; « mieux vaut un deal moyen maintenant qu'un meilleur deal dans 4 mois ».
+  - Deux écueils majeurs des projets deeptech vus par Bpifrance : absence de marché/besoin (faute d'échanges préalables avec les entreprises) et équipe incomplète (que des chercheurs). D'où le modèle du « transfert 2.0 » (Jean-Michel Dalle) : boucles d'aller-retour avec le marché plutôt que transfert linéaire. Proximité campus business school / départements scientifiques (modèle anglo-saxon) à renforcer.
+- Chiffres et faits cités :
+  - [2:35] Bpifrance opère le programme SATT depuis 2018 et, avec l'ANR, le programme des Pôles universitaires d'innovation (PUI).
+  - [18:41] Les étudiants représentent 80 % du volume de start-ups deeptech produites à Paris-Saclay.
+  - [20:21] France : classement scientifique passé de la 6e place mondiale (2010) à environ la 12e (2025) ; Global Innovation Index : 22e (2010) → 13e (2025).
+  - [28:04] Environ 10-11 mois entre la fin de thèse (oct. 2022) et le versement effectif des fonds de prématuration.
+  - [24:42] Zineva : thèse démarrée en 2019, premier brevet en 2023, deux brevets supplémentaires 2023-2026, création visée en 2027.
+  - [59:06] Guide PSL : prise de participation entre 5 et 10 % post-levée ; universités britanniques : 20-30 %, moyenne de 17 % selon un rapport annuel ; moyenne française 5-10 %.
+  - [1:00:50] CNRS : jamais plus de 5 % de participation (selon CNRS Innovation).
+- Exemples et cas concrets : Pionic Technologies (batteries tout-solide sans matériaux critiques, issue du LPEM / ESPCI-CNRS, programmes RISE, Deeptech Founders, Hello Tomorrow, licence négociée avec PSL Valorisation) ; Zineva (batterie AA aqueuse rechargeable pour stockage des renouvelables, prématurations CNRS puis université) ; KU Leuven (citation de son ancien recteur : sans bureau de transfert, la recherche fondamentale dans certains domaines ne fonctionnerait plus) ; Berkeley et ETH Zurich (concentration des acteurs) ; Max Planck, Oxford ; industriels Saft, Verkor ; rapport de la Commission européenne « Science, Research and Innovation Performance » 2026.
+- Citations :
+  - [14:24] « À l'échelle d'une université, le transfert est un centre de coût ; chercher à y capter la valeur est une erreur de raisonnement. L'implication pour les politiques publiques est simple : la patience. » (S. Chavel)
+  - [38:53] « Ce qui me choque le plus, c'est qu'après avoir accompagné un chercheur, il doive prendre une batterie d'avocats pour discuter avec son ancien employeur : on perd de la valeur. » (Benjamin, CNRS Innovation)
+  - [43:54] « Nous préférons largement un deal pas très bon maintenant à un deal aux meilleures conditions dans quatre mois. » (un directeur de TTO américain, rapporté)
+- Utilisation possible par HSA : module « Pourquoi les canaux de transfert sont complémentaires » ; module « Négocier sa licence avec son université » (fourchettes, upfront, equity, pool de PI) ; argument pour les décideurs africains : financer les bureaux de valorisation dans la durée sans exiger de rentabilité ; post « Recherche et innovation ne s'opposent pas » ; post sur les doctorants entrepreneurs ; idée d'un guide HSA de bonnes pratiques de licence publié en amont.
+- Mots-clés : rôle du bureau de transfert, licences, spin-offs et start-ups, financement et maturation, partenariats industrie, politique publique, carrière du chercheur, mesure d'impact
+
+## Professor Mike Wright – « Academic Entrepreneurship & University Spin-Offs »
+- Source : University Industry Innovation Network (UIIN), 18 déc. 2017, https://www.youtube.com/watch?v=pU_1OJ2O4Lw, Europe (Royaume-Uni, réseau européen). Version française = traduction automatique.
+- Intervenant(s) : Pr Mike Wright (professeur, spécialiste de l'entrepreneuriat académique, dirige depuis 30 ans un centre de recherche sur les rachats d'entreprises par les cadres – MBO – à Imperial College) ; questions de la salle (dont un représentant de la Royal Society et une responsable de l'accompagnement des étudiants à l'Université du Kent).
+- Pertinence : forte – conférence de référence sur l'évolution de l'entrepreneuriat académique, du modèle « spin-off/licence » vers l'entrepreneuriat des étudiants et diplômés.
+- Idées clés :
+  - Modèle traditionnel : « troisième mission » centrée sur la recherche, les professeurs et post-docs, via le TTO, avec objectif de retours financiers (licences, brevets, conseil). Il est complété (pas remplacé) par un modèle reliant enseignement, anciens élèves et entrepreneuriat étudiant.
+  - Réalisme sur les spin-offs : peu entrent en bourse, la plupart échouent, les revenus de licence sont très concentrés, la levée de capital-risque est difficile. Tendance au Royaume-Uni : moins de spin-offs mais « fuite vers la qualité ».
+  - Les universités ne sont pas toutes égales : les universités du premier quartile ont le plus d'impact via les spin-offs ; les universités intermédiaires contribuent surtout par le transfert de connaissances, la recherche contractuelle et le conseil. Ne pas croire que toute université créera des spin-offs de rang mondial.
+  - Problème récurrent : décalage entre ambitions (gains via spin-offs) et ressources/compétences des TTO, qui conduit à des approches sous-optimales. Il faut une combinaison d'expertises adéquate dans les TTO.
+  - Entrepreneuriat académique indirect : les diplômés qui travaillent quelques années puis créent une entreprise. Selon une étude sur données suédoises, ces entreprises sont plus performantes que les spin-offs directes.
+  - Freins côté chercheurs : conflits d'intérêts entre université et investisseurs ; prise en compte de l'entrepreneuriat dans la titularisation et la promotion encore rare.
+  - Gouvernance : chaque département a sa propre culture ; les conseils d'université doivent avoir la composition et les compétences pour piloter l'entrepreneuriat.
+  - Penser un écosystème en continuum : communauté de pré-incubation/pré-accélération → accélérateur → incubateur connecté à l'extérieur (entrepreneurs, mécanismes de soutien, investisseurs variés). Pas de modèle unique : dépend du type d'université, de son héritage et du contexte régional.
+  - Université entrepreneuriale et université de recherche sont complémentaires : la recherche fondamentale reste indispensable (« rien de plus pratique qu'une bonne théorie », Kurt Lewin).
+  - Entrepreneuriat étudiant : risque de « bulle » d'attentes comme pour les spin-offs ; encourager les bons profils et décourager ceux qui ne sont pas faits pour cela ; passer « d'un optimisme béat à un pessimisme réaliste » avec de vrais mécanismes de soutien.
+  - Mesure : compter spin-offs et licences ne suffit pas ; mesurer les effets indirects (diplômés entrepreneurs) est la « question à 64 000 dollars ». Les services d'orientation des universités ne savent souvent pas combien d'étudiants deviennent entrepreneurs. Les indicateurs d'évaluation peuvent provoquer des créations « pour faire du chiffre » (explosion des spin-offs au début des années 2000).
+  - Parcs scientifiques : à mieux connecter au continuum pré-accélération/incubation ; question de leur stade d'intervention et de la sortie des entreprises.
+- Chiffres et faits cités :
+  - [2:34] 61 pays représentés à la conférence.
+  - [4:10] Données britanniques sur les spin-offs 2002-2014 : tendance à la baisse dans les universités du premier quartile.
+  - [14:52] Rapport de 20 contre 1 : nombre de start-ups créées chaque année par des diplômés par rapport à celles issues de la recherche universitaire (Royaume-Uni).
+  - [15:42] Au Royaume-Uni, environ 10 % des start-ups créées chaque année impliquent des diplômés récents ; pourcentage bien plus élevé dans les économies émergentes (données GEM ; Chine, Argentine).
+  - [18:10] Seule une quinzaine d'universités britanniques intègrent explicitement l'entrepreneuriat dans les décisions de promotion.
+  - [19:48] Le travail de M. Wright sur les MBO n'a été pris en compte dans l'évaluation de la recherche (REF) qu'à partir de 2013.
+  - [28:04] Début de ses travaux sur les MBO en 1981 ; « 35 ans et 4 millions de livres plus tard ».
+- Exemples et cas concrets : Imperial College (Imperial Innovations, Imperial Launchpad en fin d'année, laboratoire de création ouvert toute l'année aux étudiants et post-docs) ; « Million Dollar Homepage » (étudiant de l'Université de Nottingham ayant vendu 1 million de pixels à 1 dollar) ; UC Berkeley (programme de licences socialement responsables) ; Université du Kent (soutien aux étudiants et anciens depuis 2004 : formation + incubateur) ; deux universités des West et East Midlands aux trajectoires différentes ; parcs scientifiques en Espagne ; article de Ben Martin (Research Policy, 2012) sur le mythe de la tour d'ivoire.
+- Citations :
+  - [14:52] « Vingt contre un : c'est le rapport entre les start-ups créées chaque année par des diplômés et celles issues de la recherche universitaire. Ce n'est pas marginal, c'est une composante essentielle de l'entrepreneuriat universitaire. »
+  - [26:19] « L'université entrepreneuriale et l'université de recherche sont complémentaires, pas substituables. »
+  - [39:25] « Comme me l'a dit un investisseur, il faut passer d'un optimisme béat à un pessimisme réaliste, tout en mettant en place des mécanismes de soutien efficaces. »
+- Utilisation possible par HSA : module « Entrepreneuriat académique direct et indirect » ; argument pour les universités africaines intermédiaires : viser d'abord le transfert de connaissances et la recherche contractuelle plutôt que des spin-offs de rang mondial ; post « 20 contre 1 : les diplômés créent plus d'entreprises que les labos » ; argument sur le poids de l'entrepreneuriat des diplômés dans les économies émergentes ; plaidoyer pour intégrer la valorisation dans les promotions (CAMES) ; idée d'un suivi des diplômés entrepreneurs sur HSA.
+- Mots-clés : définitions, rôle du bureau de transfert, spin-offs et start-ups, carrière du chercheur, mesure d'impact, politique publique, partenariats industrie
+
+## La valorisation sans tabou – Ask me anything | Pôle PSL innovation
+- Source : Université PSL, 25 sept. 2025, https://www.youtube.com/watch?v=pIqZYcxEOqI, France
+- Intervenant(s) : Bruno R. (directeur innovation et entrepreneuriat de l'Université PSL, chef de file du Pôle PSL Innovation) ; Delphine M. (responsable partenariats et valorisation dans une délégation régionale du CNRS). Guillaume Lefèvre (porteur de projet) est annoncé mais son témoignage n'apparaît pas dans la transcription.
+- Pertinence : forte – webinaire de sensibilisation très pédagogique pour chercheurs débutants : définitions, déclaration d'invention, divulgation, statut du chercheur créateur (concours scientifique), fixation des redevances.
+- Idées clés :
+  - Définition : la valorisation est le processus qui augmente la maturité technique et socio-économique de résultats de recherche pour les transférer à des entreprises existantes ou les exploiter via une start-up ; objectif : innovation, développement économique, bénéfice pour la société.
+  - Acteurs : laboratoires (référents valorisation ou « ambassadeurs de l'innovation », ponts entre recherche et transfert), services partenariats-valorisation des tutelles, offices de transfert, incubateurs, financeurs et investisseurs. Message central : « ne restez pas seul, contactez-nous » ; le premier pas est le plus dur.
+  - Deux modes : « market pull » (recherche collaborative sur un problème posé par une entreprise, innovation co-construite) et « technology push » (résultat interne poussé vers le marché, maturation en interne ou en co-maturation avec un industriel). Maturité mesurée sur l'échelle TRL, avec des dispositifs de financement/accompagnement par niveau.
+  - Étape essentielle : la déclaration d'invention (ou de logiciel) auprès du service de valorisation de la tutelle : identifier le résultat, évaluer le potentiel, choisir le mode de protection (brevet, savoir-faire secret…), la voie (start-up ou entreprise existante), définir copropriétaires et inventeurs.
+  - Divulgation : tout ce qui est rendu accessible au public ; une seule personne suffit à constituer le public, à l'écrit comme à l'oral. Breveter n'empêche pas de publier, mais il faut déposer avant toute divulgation. Critères de brevetabilité : nouveauté, activité inventive, application industrielle. Le savoir-faire n'est protégé que par le secret : on peut publier des résultats sans divulguer le savoir-faire.
+  - Confidentialité : signer un accord de confidentialité (NDA) avant tout échange avec un tiers ; une discussion sous NDA (y compris un jury de thèse) n'est pas une divulgation ; c'est la tutelle (personne morale), pas le labo, qui signe ; garder des traces des échanges.
+  - Chaîne de valorisation : sensibilisation → détection/idéation → déclaration et évaluation → protection → formation → prématuration/maturation (preuve de concept technique : reproductibilité, fiabilité, vieillissement ; et preuve de concept marché auprès des utilisateurs) → négociation du transfert (licence ou start-up) → développement, commercialisation, emplois.
+  - Statut des chercheurs (France) : deux voies, créer l'entreprise ou apporter son concours scientifique à une entreprise qui valorise ses travaux via une licence ; ouvert aux titulaires et aux contractuels employés depuis au moins un an ; autorisation pour 3 ans renouvelable, 10 ans maximum ; contrat de valorisation obligatoire ; en concours scientifique, pas de fonction de dirigeant mais possible directeur technique ; avis déontologique de l'employeur (collège de déontologie au CNRS).
+  - Start-up ou licence ? Selon le domaine (numérique, biotech favorables aux start-ups ; industrie lourde à forts investissements plus difficile ; secteurs conservateurs et temps de développement longs en deeptech) et surtout selon la dynamique interne : chercheur prêt au concours scientifique + post-doc motivé + cofondateur possible → start-up ; industriel ayant déjà une relation avec le labo → licence.
+  - Fixation du prix d'une licence : rarement par étude économique détaillée sur des technologies amont, surtout par la négociation ; principalement des redevances (pourcentage du chiffre d'affaires lié à la technologie) : taux faible pour un produit de masse à faible marge, plus élevé sur un marché à forte valeur ajoutée ; règle empirique citée : environ un quart de la marge brute.
+  - Tester une idée tôt : idéation et discussions avec utilisateurs et industriels qui challengent ; une invention peut avoir de la valeur sous une autre forme que prévu. La maturation exige l'implication des inventeurs : l'idée qu'on confie un résultat au service de valorisation et que tout se fait sans le chercheur n'est pas réaliste.
+  - Héberger une start-up dans le labo est bénéfique (environnement scientifique, effet d'exemple sur les jeunes chercheurs) mais requiert l'accord du directeur et des tutelles.
+  - Science ouverte : compatible avec la valorisation (ex. logiciels open source valorisables) ; l'importance de la PI varie selon les domaines (cruciale en biomédical et chimie, mécanismes différents en numérique).
+- Chiffres et faits cités :
+  - [1:47] Financement « Pôle universitaire d'innovation » obtenu par PSL en 2024.
+  - [12:54] Quatre fondateurs du pôle : CNRS, Inria, Inserm et l'incubateur Agoranov ; [13:46] cinq instituts Carnot dans le périmètre ; [14:38] trois incubateurs d'établissements (ESPCI/PC'up, Chimie ParisTech, Dauphine) en plus d'Agoranov.
+  - [15:29] Le PUI comprend six actions couvrant sensibilisation, relations industrielles, transfert, création de start-up, plateformes/fablabs.
+  - [16:18] Financement de 11 millions d'euros sur 4 ans ; [17:12] une vingtaine de recrutements.
+  - [21:27] Autorisation de création/concours scientifique : 3 ans renouvelables, 10 ans maximum ; contractuels éligibles après au moins 1 an.
+  - [26:38] Pionic : début en 2016, premier brevet, prématuration, maturation PSL, CNRS Innovation RISE, incubation, financements Bpifrance, levée d'amorçage de 2 millions d'euros.
+  - [32:39] Règle indicative : taux de redevance ≈ un quart de la marge brute.
+  - [35:14] Concours scientifique : jusqu'à 50 % du temps de travail au total (toutes entreprises confondues).
+  - [36:56] La licence doit être signée dans l'année qui suit le début du concours scientifique.
+- Exemples et cas concrets : Pionic (Brigitte Léridon, chercheuse CNRS à l'ESPCI : matériaux à base d'oxyde de titane, électrolyte tout-solide, sans lithium ni cobalt, pour batteries et supercondensateurs) ; écosystème PSL : Institut Curie, Institut Pierre-Gilles de Gennes (microfluidique), Carnot Mines, PR[AI]RIE, PCQT (quantique), Paris Santé Campus, IHU cancers des femmes ; investisseur Elaia ; événement BIG de Bpifrance.
+- Citations :
+  - [9:25] « Une seule personne peut constituer le public : dès que vous avez parlé de votre résultat, à l'écrit ou à l'oral, il y a divulgation. Il faut déposer le brevet avant toute divulgation, sinon on tue la nouveauté. »
+  - [38:39] « L'idée qu'un chercheur confie son résultat au service de valorisation et que tout se passe ensuite sans lui n'est pas réaliste. »
+  - [34:22] « Rien n'incite davantage les jeunes chercheurs d'un labo que de voir un collègue qui a créé une start-up : cela a plus de poids que tout ce que nous pouvons dire. »
+- Utilisation possible par HSA : module d'introduction « La valorisation en 10 notions » ; fiche pratique « Divulgation et brevet : publier sans perdre ses droits » ; fiche « Comment se fixe une redevance » ; post « Market pull vs technology push » ; schéma de la chaîne de valorisation pour un livre blanc ; à transposer aux statuts des enseignants-chercheurs ivoiriens (vérifier le cadre local) ; format « Ask me anything » réutilisable pour des webinaires HSA.
+- Mots-clés : définitions, rôle du bureau de transfert, détection d'inventions, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation, carrière du chercheur
+
+## Comment les SATT accélèrent la deep tech en France ?
+- Source : Dynergie (podcast enregistré à Deeptech Connect, au 104, Paris), 14 déc. 2025, https://www.youtube.com/watch?v=0LwtiPO7kOs, France
+- Intervenant(s) : la présidente d'Aquitaine Science Transfert (SATT couvrant les campus de La Rochelle, Bordeaux et Pau) et présidente du Réseau SATT (prénom mal reconnu par la transcription) ; Philippe B. (président de la SATT Lutech, couvrant l'Alliance Sorbonne Université ; ancien directeur R&D/stratégie en entreprise).
+- Pertinence : forte – présentation claire du modèle SATT (mission, place dans la chaîne, financement, prises de participation, résultats chiffrés).
+- Idées clés :
+  - Les SATT (Sociétés d'accélération du transfert de technologies) ont été créées par l'État pour accélérer et « dérisquer » les résultats de la recherche publique afin qu'ils créent des barrières concurrentielles pour des entreprises existantes ou des start-ups. Ce sont des SAS externalisées ; il existe aussi des « SATT expérimentales » (consortiums sans structure juridique propre) qui font le même métier.
+  - Métier : détection, propriété intellectuelle, maturation technique et maturation marché, puis transfert (licence) ; elles apportent « la dernière brique » avant la sortie du campus. Elles mobilisent des expertises en PI, en feuilles de route technologiques, en proposition de valeur et en juridique.
+  - La proximité avec les laboratoires est une condition sine qua non : détecter, dialoguer, bien protéger, traverser ensemble les hauts et les bas d'un projet long ; la proximité crée la confiance.
+  - Le bon réflexe s'installe : le chercheur appelle la SATT avant de publier. Dialogue à trois très en amont (inventeur, service de valorisation de l'université, SATT), « synchronisé » plutôt que séquentiel, pour mobiliser les bonnes ressources au bon moment.
+  - Articulation avec les PUI (Pôles universitaires d'innovation) : chaque SATT intervient sur un à trois PUI ; le PUI est une politique d'autonomie accrue des universités en innovation ; la SATT y est un « must have ». Les SATT peuvent aussi sensibiliser à la PI ou faciliter la recherche partenariale.
+  - Spécialisations territoriales : chaque site choisit des thématiques liées à son histoire et à son écosystème ; la spécialisation crée de l'attractivité ; les équipes du réseau mobilisent leurs contacts nationaux et internationaux.
+  - Interdisciplinarité : les SHS apportent les facteurs d'acceptabilité et d'adoption, par exemple dans les projets d'IA.
+  - Modèle économique : mission de service public financée par le ministère de la Recherche et France 2030 (opéré par l'ANR) ; recettes de marché via les redevances de licences (start-ups et grands industriels) ; prises de participation dans les start-ups par conversion de créance (pas d'apport en numéraire) ; revenus exceptionnels lors des sorties (exits). Gouvernance : comité d'investissement indépendant qui valide maturations et prises de participation, puis conseil d'administration.
+  - Rôle d'influence : auditions par l'Assemblée nationale, le Sénat, la Cour des comptes ; dialogue avec France Universités, UDICE, le CNRS.
+  - Trois chantiers pour 5 ans : interaction avec les écosystèmes (PUI), mutualisation et économies d'échelle au sein du réseau, dimension européenne et internationale (brevets déposés presque toujours avec protection internationale, start-ups préparées pour l'international).
+- Chiffres et faits cités :
+  - [0:55] Le Réseau SATT coordonne 13 SATT.
+  - [4:25] Deeptech Connect (3e édition) : plus de 400 investisseurs et industriels, 1 600 rendez-vous organisés sur 6 000 demandes.
+  - [6:04] Environ 12 000 à 13 000 détections (inventions) depuis la création, en environ 12 ans d'existence.
+  - [6:56] Plus de 2 000 transferts ; près de 50 % sous forme de start-ups, soit environ 1 000 start-ups (900 fin 2024).
+  - [6:56]-[7:49] Environ 60 % des transferts se font sur les territoires ; une vingtaine de transferts à l'international.
+  - [7:49] Les start-ups issues des SATT ont levé environ 2 milliards d'euros (chiffre cité pour 2024) ; certaines rachetées par des grands groupes français ou européens.
+  - [25:49] SATT Lutech : une douzaine de prises de participation en une douzaine d'années.
+- Exemples et cas concrets : Alice & Bob (quantique, accompagné par une SATT) ; TreeFrog Therapeutics (Bordeaux, bioproduction de cellules, en lien avec la stratégie nationale d'accélération sur la bioproduction) ; Pasqal (quantique, Paris) ; thématiques de site : La Rochelle (ville côtière durable), Pau (énergie et environnement), ouest parisien (ville durable) ; Sorbonne Université (humanités, santé avec la Pitié-Salpêtrière, sciences et ingénierie, Muséum national d'histoire naturelle) ; délégation coréenne à l'événement.
+- Citations :
+  - [10:25] « La recherche est dans les territoires : être implanté à proximité des laboratoires est une grande force, c'est même une condition sine qua non. »
+  - [19:49] « Le réflexe est installé : un chercheur qui s'apprête à publier une idée appelle d'abord la SATT. »
+  - [21:35] « La SATT avec les PUI, ce n'est pas un "nice to have", c'est un "must have". »
+- Utilisation possible par HSA : étude de cas « le modèle SATT » pour inspirer des structures de maturation mutualisées en Afrique de l'Ouest ; module « Financer un bureau de transfert : public, redevances, participations » ; post chiffré « 13 000 inventions, 2 000 transferts, 1 000 start-ups en 12 ans » ; argument pour la proximité terrain et la spécialisation thématique des campus africains ; idée d'un événement de mise en relation start-ups / investisseurs / industriels sur le modèle de Deeptech Connect.
+- Mots-clés : rôle du bureau de transfert, détection d'inventions, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation, politique publique, SHS et impact
+
+## Une conversation sur les droits de propriété intellectuelle en Afrique
+- Source : UN Office of the Special Adviser on Africa (OSAA), 3 févr. 2023, https://www.youtube.com/watch?v=lHC65o_dhs0, Afrique francophone (version interprétée en français)
+- Intervenant(s) : séance placée sous l'égide de Cristina Duarte (Conseillère spéciale pour l'Afrique, ONU) ; membres de la plateforme consultative de l'OSAA sur la propriété intellectuelle (Réseau africain des connaissances) : un modérateur (nom transcrit « Bangui/Bongi »), un chercheur doctoral à l'Institut Max Planck pour l'innovation et la concurrence de Munich (nom transcrit « Toulou »), une chercheuse post-doctorale en bioéthique/droit de la santé (Université de Californie San Diego), une chercheuse associée à Open African Innovation Research (Open AIR) et consultante auprès de la Commission économique des Nations unies pour l'Afrique (CEA). Noms mal reconnus par la transcription.
+- Pertinence : moyenne – angle politique et juridique de la PI en Afrique (adaptation du système de brevets, savoirs traditionnels), utile pour le contexte, mais transcription très lacunaire (plusieurs minutes perdues pour cause d'interprétation interrompue) et peu centrée sur le transfert de technologie universitaire.
+- Idées clés :
+  - Le problème n'est pas l'absence d'innovation en Afrique, mais le fait que ce qui est reconnu comme « innovation » au niveau international ne reflète pas les dynamiques africaines d'innovation.
+  - Contraste idéologique entre la propriété privée (modèle occidental) et l'approche africaine orientée vers la propriété communautaire : l'écosystème mondial des brevets serait mal adapté au contexte africain (exemple : rapport différent au piratage, industrie du cinéma nigériane peu respectueuse du copyright).
+  - Les critères de l'Accord sur les ADPIC (TRIPS) de l'OMC (nouveauté, non-évidence, application industrielle) excluent les savoirs collectifs et progressifs (plantes, variétés végétales, ressources génétiques transmises de génération en génération). Les BRICS ont réussi à faire reconnaître certaines innovations progressives.
+  - Absence de protection des variétés végétales locales et des savoirs traditionnels ; les semences améliorées ne peuvent être replantées, ce qui bloque l'innovation paysanne.
+  - Obstacles pratiques : procédures longues, coûteuses, bureaucratiques ; absence de reconnaissance mutuelle entre pays (contrairement à l'Europe) ; application faible (un brevet peut être copié sans sanction), d'où la question « pourquoi breveter si je n'ai rien à gagner ? » ; faible accès ouvert aux connaissances et faible connectivité.
+  - Engagements multiples (organisations régionales et mondiales, accords de libre-échange) : pas de vision africaine unifiée d'un système de PI adapté.
+  - Solutions évoquées : utiliser les flexibilités existantes (article 27.3(b) et article 30 de l'Accord sur les ADPIC : exceptions pour la santé et la recherche) et les transposer en droit national ; droits des agriculteurs et dispositions sur la biodiversité ; consentement préalable et partage des avantages avec les communautés pour lutter contre la biopiraterie ; une procédure et une institution uniques dans le cadre de la ZLECAf pour enregistrer et reconnaître brevets et variétés végétales (moins de bureaucratie, d'incertitude et de coût).
+  - Partenariats public-privé : chambres de commerce et opérateurs privés peuvent investir dans le système de PI sans tout attendre de l'État.
+  - Manque de solidarité intra-africaine : trop de focalisation sur les intérêts nationaux, même au sein des communautés économiques régionales ; besoin d'harmonisation, sur le modèle de l'attractivité de l'UE.
+  - Faire connaître la PI au grand public (perçue comme technique) ; la Loi modèle africaine (de l'OUA/UA) est citée comme l'instrument le plus « afrocentré ».
+- Chiffres et faits cités :
+  - [1:48]-[2:41] Introduction : l'Afrique est très en retard en nombre de demandes de brevets (indicateur 2021) ; la part des demandes déposées par des résidents ne serait que de 22 %, la plupart des demandes émanant de non-résidents (chiffres partiellement inaudibles dans la transcription ; un ratio de « 67,6 % » est cité pour l'Asie et l'Amérique latine sans contexte clair).
+  - [37:49] L'Organisation panafricaine de la propriété intellectuelle (PAIPO) est citée comme un échec de mise en œuvre.
+- Exemples et cas concrets : industrie du cinéma au Nigéria ; Brésil, Russie, Inde, Chine, Afrique du Sud (reconnaissance d'innovations progressives) ; exemple du palmier à huile, ressource emportée puis brevetée par un autre pays devenu premier exportateur (pays mal transcrit, vraisemblablement la Malaisie) ; Afrique du Sud citée pour sa volonté politique dans certains domaines.
+- Citations :
+  - [7:07] « Le problème n'est pas qu'il n'y a pas d'innovation en Afrique ; c'est que ce qui est présenté comme innovation au niveau international ne tient pas compte des dynamiques africaines. »
+  - [23:52] « Même avec un brevet, quelqu'un peut produire un générique et en tirer profit sans que personne n'intervienne ; les gens se demandent alors pourquoi obtenir un brevet s'ils n'ont rien à y gagner. »
+  - [37:49] « Le plus facile pour les dirigeants africains, c'est de signer et de ratifier ; le problème est toujours la mise en œuvre. »
+- Utilisation possible par HSA : module « Brevets et savoirs traditionnels en Afrique » (ADPIC, flexibilités, consentement préalable, partage des avantages) ; post « L'Afrique innove, mais le système ne le voit pas » ; argument de plaidoyer pour un guichet PI unique dans la ZLECAf et pour un meilleur usage de l'OAPI/ARIPO ; contenu de vulgarisation de la PI pour le grand public, que la plateforme HSA peut porter. À recouper : la transcription est incomplète.
+- Mots-clés : propriété intellectuelle et brevets, politique publique, Afrique, définitions
+
+## Les Ernest / Jacques Lewiner : de l'innovation à la création de start-up
+- Source : Le Blob (conférence « Les Ernest », ENS), 5 févr. 2018, https://www.youtube.com/watch?v=k8jLicrebvw, France
+- Intervenant(s) : Jacques Lewiner – enseignant-chercheur, ancien directeur scientifique de l'ESPCI pendant 14 ans (à l'invitation de Pierre-Gilles de Gennes), inventeur et créateur d'entreprises (« quatre vies parallèles »).
+- Pertinence : forte – témoignage inspirant et concret d'un chercheur-inventeur-entrepreneur sur le passage de la découverte à l'innovation, le rôle du brevet et les règles de base de la création de start-up.
+- Idées clés :
+  - Recherche fondamentale et application ne sont pas contradictoires (contrairement à une vision répandue en France) : dans les grandes universités américaines (Stanford, MIT, Harvard), passer de l'une à l'autre ne pose aucun problème ; la recherche fondamentale mène aux innovations de rupture.
+  - Convergence actuelle de la physique, de la chimie, de la biologie, de l'informatique et de l'électronique : rythme de découvertes considérable, avec des retombées pratiques (santé, qualité de vie). Lutter contre l'idée que « c'était mieux avant ».
+  - Premier conseil d'inventeur : quand on observe quelque chose de bizarre, ne pas le rejeter comme une erreur ; approfondir jusqu'à avoir une quasi-certitude que c'est accidentel. Beaucoup d'inventions ont été manquées ainsi (un chimiste français aurait raté un prix Nobel).
+  - Une redécouverte peut redevenir une innovation : un phénomène décrit un siècle plus tôt (par le physicien Heaviside) est devenu exploitable grâce aux nouveaux matériaux et technologies.
+  - Le brevet est un outil, pas un but : ne pas breveter par orgueil institutionnel. Il sert 1) à se protéger contre la copie servile, 2) à convaincre des investisseurs : une start-up n'a ni immeuble, ni machines, ni clients ; la PI est la seule chose à montrer. La qualité des brevets est difficile à évaluer pour l'investisseur, mais en avoir vaut mieux que ne pas en avoir.
+  - Ne pas créer seul : plusieurs échecs de J. Lewiner viennent de la croyance qu'il pouvait tout faire ; les compétences scientifiques ne suffisent pas (commercial, management). Former une équipe est « pire qu'un mariage » : l'argent peut polluer la relation, les conflits entre fondateurs sont très gênants.
+  - Accepter l'échec : l'enseignement valorise trop le succès ; les chercheurs sont courageux par définition (ils naviguent entre connu et inconnu) ; une start-up est une aventure qui peut échouer sans que ce soit le drame d'une vie.
+  - Avantage des start-ups face aux géants : la réactivité et la capacité de décider vite, y compris reconnaître une erreur stratégique et pivoter.
+- Chiffres et faits cités :
+  - [0:00] 14 années comme directeur scientifique de l'ESPCI.
+  - [6:06] Le partenaire industriel des microphones à électret avait 50 % du marché mondial, environ 500 millions de microphones fabriqués il y a 5 à 7 ans ; technologie depuis remplacée dans les smartphones par les MEMS (microphones intégrés sur silicium).
+  - [13:49] La start-up télécoms comptait 22 personnes au moment du pivot vers le Wi-Fi.
+- Exemples et cas concrets : découverte faite avec une étudiante stagiaire en voulant réaliser un transducteur ultrasonore électrostatique, débouchant sur les microphones de téléphones ; start-up de « box » internet intégrée (routeur, pare-feu, base radio, modem) qui a misé sur Bluetooth, puis a pivoté vers le Wi-Fi (802.11) et est devenue numéro 1 des box en Europe, avec France Télécom comme client.
+- Citations :
+  - [3:28] « Si vous voyez quelque chose de bizarre, ne passez pas à côté : approfondissez. »
+  - [6:58] « Le brevet est un moyen, pas un but. »
+  - [8:43] « Combien vaut votre société ? Elle n'a rien, à part vous. La seule chose que vous pouvez montrer à un investisseur, ce sont vos brevets et votre propriété industrielle. »
+- Utilisation possible par HSA : vidéo d'inspiration pour une masterclass « Du labo à la start-up » ; post « Le brevet est un outil, pas un trophée » ; module sur la constitution de l'équipe fondatrice ; argument pour les chercheurs africains : la curiosité face à l'anomalie et l'acceptation de l'échec ; cas de pivot (Bluetooth → Wi-Fi) pour illustrer l'agilité des start-ups.
+- Mots-clés : propriété intellectuelle et brevets, spin-offs et start-ups, carrière du chercheur, détection d'inventions
+
+## Projet de Valorisation des résultats de recherche et innovations en Afrique de l'Ouest (VaRRIWA)
+- Source : Université du Sine Saloum El-Hâdj Ibrahima Niass (USSEIN), 1 avr. 2022, https://www.youtube.com/watch?v=7Su4XBPj8-M, Afrique francophone (Sénégal)
+- Intervenant(s) : un responsable du projet VaRRIWA côté Sénégal (fonction non précisée clairement) ; un responsable de l'USSEIN (vraisemblablement de la direction de l'université, non nommé). Un « M. Sidibé » est mentionné. Reportage d'un atelier de sensibilisation.
+- Pertinence : moyenne – présente un projet régional ouest-africain de valorisation très pertinent pour HSA, mais la transcription est de mauvaise qualité et le contenu reste général.
+- Idées clés :
+  - VaRRIWA est porté par un consortium réunissant un coordonnateur et des structures de valorisation de la recherche de quatre pays : Sénégal (agence de recherche scientifique appliquée), Burkina Faso (agence nationale de valorisation des résultats de la recherche), Bénin (agence de valorisation des résultats de la recherche) et Togo (Direction générale de la recherche). Les sigles sont mal reconnus par la transcription.
+  - Objectifs : créer un environnement incitatif pour la valorisation et l'innovation ; renforcer les capacités sur tous les aspects de la valorisation et du transfert de technologie ; créer des dispositifs d'accompagnement ; établir un référentiel des besoins et de l'offre en résultats de recherche et technologies.
+  - Particularité : la quasi-totalité des fonds va directement aux bénéficiaires, c'est-à-dire aux acteurs de la recherche.
+  - Atelier de sensibilisation sur les politiques de recherche et la protection des résultats, réunissant l'université, le secteur privé, l'État et des partenaires socio-économiques ; objectif de networking et d'identification des attentes du monde agricole.
+  - Vision de l'université : on est dans une « industrie de la recherche », qui demande des textes cadres, des équipes de recherche et des plateaux techniques ; les universités régionales ont une mission de « service à la communauté », c'est-à-dire répondre aux besoins exprimés par les populations.
+  - L'USSEIN, université thématique à vocation agricole implantée à Fatick, Kaolack et Kaffrine, couvre agriculture, élevage, pêche, aquaculture, sciences sociales et environnementales.
+  - Exemple de recherche à impact : la salinisation des terres (de Fatick vers le nord) rend les sols incultivables ; l'université peut, par ses programmes de recherche et en collaboration avec les communautés rurales et les communes, aider à récupérer les terres, ce qui offrirait aussi des terrains de pratique aux étudiants.
+- Chiffres et faits cités (transcription peu fiable, devise non précisée) :
+  - [1:46] Durée de 4 ans ; contribution sénégalaise mentionnée à hauteur de 72 millions ; 98 % des fonds vont directement aux acteurs de la recherche ; le Sénégal obtient au total 706 millions dans le cadre du projet. Le montant global est inaudible.
+  - [5:15] Une dizaine de participants issus du monde socio-économique, du secteur privé et de l'État à l'atelier.
+- Exemples et cas concrets : USSEIN (Sénégal) ; problématique de la salinisation des terres dans le bassin arachidier (Fatick, Kaolack).
+- Citations :
+  - [5:15] « Nous sommes aujourd'hui dans ce qu'on appelle l'industrie de la recherche ; et qui dit industrie dit moyens, textes de cadrage, équipes de recherche et plateaux techniques. »
+  - [3:28] « Parler de recherche et de service à la communauté, c'est parler de valorisation durable, c'est-à-dire de la résolution des besoins exprimés par les populations. »
+- Utilisation possible par HSA : référence d'un programme régional ouest-africain (Sénégal, Burkina, Bénin, Togo) à suivre et à présenter dans un panorama des dispositifs africains de valorisation ; partenariat potentiel avec les agences nationales de valorisation ; cas « salinisation des terres » pour illustrer la recherche orientée vers les besoins des communautés ; vérifier les montants et sigles exacts auprès de sources officielles avant publication.
+- Mots-clés : Afrique, politique publique, partenariats industrie, SHS et impact, financement et maturation
+
+## Pourquoi le transfert de technologies est indispensable au développement de l'Afrique
+- Source : Strategic Management, 6 sept. 2026, https://www.youtube.com/watch?v=0Hr7ylsj738, Afrique francophone
+- Intervenant(s) : Jeff, ingénieur en conception et étudiant en MBA en Chine, animateur de la chaîne.
+- Pertinence : moyenne – vidéo de vulgarisation sur le transfert de technologie au sens industriel et international (entre pays et entreprises), pas sur la valorisation de la recherche universitaire ; utile comme cadrage macro pour l'Afrique.
+- Idées clés :
+  - Paradoxe africain : ressources naturelles abondantes (pétrole, cuivre, cobalt, lithium, or, manganèse, gaz, terres agricoles) mais importation de la majorité des produits manufacturés, y compris des machines servant à extraire ces ressources.
+  - Une technologie n'est pas qu'une machine : c'est le savoir pour la concevoir, la fabriquer, l'utiliser, l'entretenir, l'améliorer et en créer la génération suivante. On transfère un savoir-faire (procédés, logiciels, brevets, méthodes de fabrication, gestion, ingénierie, contrôle qualité, méthodes de recherche).
+  - Plus un pays maîtrise la technologie, plus il contrôle la chaîne de valeur mondiale : « les ressources créent de la richesse, la technologie la multiplie ».
+  - Six canaux de transfert : investissements directs étrangers ; coentreprises (joint-ventures) ; licences technologiques ; formation d'ingénieurs à l'étranger puis retour ; partenariats universités-laboratoires-entreprises ; modèles industriels OEM/ODM permettant d'apprendre à produire puis à concevoir.
+  - Les technologies stratégiques (semi-conducteurs, moteurs d'avion, spatial, militaire, IA, nucléaire, cryptographie, supercalculateurs) sont protégées par brevets, secrets industriels ou restrictions étatiques : elles se vendent rarement, elles se développent.
+  - Erreur fréquente : croire qu'acheter une usine suffit. Sans compétences locales, la dépendance demeure ; acheter une technologie sans construire les compétences revient à « louer temporairement une capacité industrielle ».
+  - Feuille de route pour l'Afrique : former plus d'ingénieurs, renforcer les universités, créer des centres de recherche, développer les fournisseurs locaux, encourager les partenariats industriels, investir en R&D, protéger les industries naissantes, faire des entreprises africaines des conceptrices de technologies. Le transfert est une étape indispensable, jamais une finalité : passer du savoir importé au savoir maîtrisé, puis à l'innovation locale.
+- Chiffres et faits cités :
+  - [5:08] La Chine ouvre progressivement son économie aux investissements étrangers à partir de la fin des années 1970.
+- Exemples et cas concrets : la Chine (des usines étrangères à l'ingénierie propre, aux brevets et aux marques : Huawei, BYD, DJI, CATL) ; pays leaders technologiques : États-Unis, Allemagne, Japon, Corée du Sud, Chine.
+- Citations :
+  - [2:31] « Une machine peut être achetée ; la capacité de la produire et de l'améliorer doit être apprise. »
+  - [7:36] « Acheter une technologie sans construire les compétences qui l'accompagnent revient à louer temporairement une capacité industrielle. »
+  - [9:20] « Une mine peut s'épuiser, le prix d'une matière première peut s'effondrer ; mais plus on partage la connaissance, plus elle crée de valeur. »
+- Utilisation possible par HSA : introduction d'un livre blanc ou d'une masterclass sur l'enjeu de la valorisation pour l'Afrique ; post « Le vrai trésor de l'Afrique n'est pas sous son sol » ; schéma des six canaux de transfert ; argument pour relier les universités africaines aux politiques industrielles (fournisseurs locaux, partenariats). Préciser que c'est le transfert international, distinct du transfert université-entreprise.
+- Mots-clés : définitions, Afrique, politique publique, partenariats industrie, licences
+
+## Que fait Ouest Valorisation ? détection, évaluation, maturation, transfert, ingénierie contractuelle
+- Source : Ouest Valorisation SATT, 12 oct. 2020, https://www.youtube.com/watch?v=PemH30SCcu4, France
+- Intervenant(s) : non nommés : le dirigeant d'une start-up ayant la SATT à son capital ; une équipe de chercheurs travaillant sur un médicament contre le mélanome ; un représentant d'Ouest Valorisation (voix off).
+- Pertinence : moyenne – courte vidéo promotionnelle d'une SATT, qui illustre bien les étapes (brevet, maturation, recherche d'industriels) et la prise de participation par apport de PI, mais avec peu de détails.
+- Idées clés :
+  - Une SATT peut entrer au capital d'une start-up en apportant la propriété intellectuelle en capital (et non via une transaction de type dette) ; avantage souligné par l'entrepreneur, qui y voit aussi un investisseur motivé et expert, d'où un tour de table plus solide.
+  - Valeur d'une technologie maturée : grâce à deux programmes de maturation, la start-up a repris non pas « un simple concept de laboratoire » mais une technologie de rupture exploitable industriellement.
+  - Rôle de la SATT : passerelle entre recherche publique et entreprise ; accès aux expertises des laboratoires partenaires (Bretagne et Pays de la Loire) ; investissement dans des programmes de maturation (preuves de concept, prototypes de niveau industriel) en prenant le risque technologique et financier.
+  - Parcours type d'une invention accompagnée : 1) accompagnement jusqu'au dépôt de brevet ; 2) projet de maturation financé sur 18 mois ; 3) recherche d'industriels pour développer le produit (ici un médicament).
+  - Offre vers les chercheurs : montage de projets collaboratifs avec l'industrie ; vers les entrepreneurs : réponse sur mesure mobilisant les expertises académiques, jusqu'à la création de laboratoires communs.
+  - L'accompagnement donne confiance aux chercheurs : « ils ont cru en notre projet », « on peut déposer un brevet ».
+- Chiffres et faits cités :
+  - [0:57] La SATT compte 75 salariés.
+  - [1:44] Projet mélanome : maturation de 18 mois après le dépôt de brevet.
+- Exemples et cas concrets : start-up ayant la SATT au capital via un apport de PI (nom non audible) ; projet de médicament contre le mélanome issu d'un laboratoire partenaire.
+- Citations :
+  - [0:03] « La propriété intellectuelle apportée par la SATT est entrée au capital, et non à la suite d'une transaction comme une dette. »
+  - [0:57] « Nous n'avions pas un simple concept de laboratoire, mais quelque chose que nous pouvions reprendre d'un point de vue industriel. »
+- Utilisation possible par HSA : illustration simple des étapes « brevet → maturation → recherche de partenaire industriel » ; fiche sur l'apport de PI en capital comme alternative à la licence avec redevances ; post « Pourquoi la maturation change tout pour un investisseur ».
+- Mots-clés : rôle du bureau de transfert, financement et maturation, propriété intellectuelle et brevets, spin-offs et start-ups, partenariats industrie
+
+## DSTI: Africa Has an Innovation Capture Problem | WIPO-SA Summer School
+- Source : Department of Science, Technology and Innovation (DSTI) d'Afrique du Sud, 25 nov. 2025, https://www.youtube.com/watch?v=jggIxc5UNIk, Afrique anglophone (texte original anglais)
+- Intervenant(s) : un(e) représentant(e) du DSTI et du NIPMO (National Intellectual Property Management Office), non nommé(e), discours d'ouverture de l'école d'été OMPI-Afrique du Sud 2025, accueillie par la Mangosuthu University of Technology (MUT).
+- Pertinence : moyenne – discours d'ouverture court mais porteur d'un message fort (« problème de captation de l'innovation ») et décrivant le rôle de l'État sud-africain dans le soutien aux TTO.
+- Idées clés :
+  - Thèse centrale : l'Afrique n'a pas un problème d'innovation mais un problème de captation de l'innovation ; ses idées sont trop souvent détenues, commercialisées et exploitées par d'autres.
+  - L'école d'été OMPI forme la prochaine génération de praticiens de la PI, de professionnels du transfert de technologie, d'entrepreneurs et d'innovateurs, en reliant théorie et pratique : études de cas réelles, exercices de négociation, réseautage professionnel.
+  - Objectif : transformer la connaissance en valeur et les idées en impact ; comprendre comment la PI façonne économies et industries et comment le transfert de technologie fait passer l'innovation du laboratoire au marché.
+  - Afrique du Sud : l'innovation est au cœur du plan national de développement ; Livre blanc sur la science, la technologie et l'innovation et plan décennal ; via le NIPMO, l'État soutient les bureaux de transfert de technologie, développe les compétences en gestion de la PI et renforce les capacités institutionnelles.
+  - Les politiques, les institutions et même l'État ne suffisent pas : ce sont les personnes qui rendent l'innovation réelle.
+  - Écosystème de partenaires : OMPI (WIPO Academy), CIPC (Companies and Intellectual Property Commission), Office japonais des brevets (JPO), universités hôtes.
+- Chiffres et faits cités :
+  - [0:00] L'Afrique du Sud est l'un des premiers pays africains à accueillir l'école d'été de l'OMPI et l'un des rares pays sélectionnés pour l'accueillir chaque année.
+  - [4:25] L'école d'été dure deux semaines.
+- Exemples et cas concrets : Mangosuthu University of Technology (MUT, institution hôte) ; NIPMO ; WIPO Academy ; CIPC ; JPO.
+- Citations :
+  - [4:25] « L'Afrique n'a pas un problème d'innovation ; elle a un problème de captation de l'innovation. Nous produisons des idées brillantes, mais trop souvent elles sont détenues, commercialisées et exploitées par d'autres. »
+  - [7:06] « L'innovation commence par l'imagination ; la propriété intellectuelle donne de la valeur à cette imagination ; le transfert de technologie lui donne des ailes. »
+- Utilisation possible par HSA : accroche forte pour un post ou une masterclass (« innovation capture problem ») ; présenter le modèle sud-africain NIPMO (agence nationale qui finance et outille les TTO) comme référence pour la Côte d'Ivoire ; relayer les écoles d'été de l'OMPI comme opportunité de formation pour les membres HSA.
+- Mots-clés : Afrique, politique publique, propriété intellectuelle et brevets, rôle du bureau de transfert
+
+## Why Should African Universities Engage in Technology Transfer? Unlocking Innovation for Impact
+- Source : The Education Collaborative (initiative d'Ashesi University, soutenue par la Mastercard Foundation), 15 août 2025, https://www.youtube.com/watch?v=ufONaXrJmjc, Afrique anglophone (texte original anglais)
+- Intervenant(s) : modérateur (chargé de transfert de technologie à l'Université de Stellenbosch, nom transcrit « Mashid Dumalo ») ; Jatani (nom transcrit « Chley »), directrice du NIPMO (National Intellectual Property Management Office, Afrique du Sud), pharmacienne, juriste, conseil en brevets ; Anita (Pr, directrice du transfert de technologie de l'Université de Stellenbosch). Questions de participants, dont un membre d'un TTO nouvellement créé à l'University of Cape Coast (Ghana).
+- Pertinence : forte – webinaire très complet et transposable : loi sud-africaine sur la PI issue de la recherche publique (IPR Act), mécanismes de financement des TTO, modèle opérationnel de Stellenbosch (fonds, incubateur, outils), conseils pour un TTO africain naissant.
+- Idées clés :
+  - Le cadre légal sud-africain (IPR Act, Intellectual Property Rights from Publicly Financed R&D Act) répond au constat d'avant 2008 : beaucoup d'argent public investi, peu de commercialisation, opportunités manquées. La loi confie la propriété de la PI issue de la recherche publique à l'institution (université, conseil scientifique), qui a l'obligation de la protéger, l'exploiter et la commercialiser ; elle impose le partage des bénéfices avec les inventeurs, le reporting au NIPMO et la création d'un bureau de transfert (OTT/TTO) dans chaque université et chaque conseil scientifique. L'État fait la politique, il ne commercialise pas lui-même.
+  - Le NIPMO : approuve certaines transactions de PI (cessions locales et à l'étranger, licences exclusives à l'étranger, licences gratuites), tient une base confidentielle des déclarations d'invention, sensibilise et forme (certificats), gère deux fonds. Il ne finance ni la recherche ni les PME, n'enregistre pas les brevets (rôle du CIPC) et ne fait pas de commercialisation directe. Trois directions : conseil et appui, fonds et incitations, régulation et conformité.
+  - IP Fund : remboursement jusqu'à 50 % des frais de dépôt et de maintien de toute PI (brevets, marques, dessins) des universités et conseils scientifiques, versé un an après paiement.
+  - OTT Support Fund : finance surtout les salaires du personnel des TTO (universités « à court d'argent » et centrées sur l'enseignement), plus fonctionnement, formation, et depuis 2019 un financement de pré-amorçage (études de faisabilité, études de marché, rédaction de contrats).
+  - Gouvernance : déclarations d'invention transmises et mises à jour tous les 6 mois ; abandon d'une PI soumis à l'accord du NIPMO, avec publication préalable sur le portail Innovation Bridge ; politique de PI de chaque institution approuvée par le NIPMO ; calcul du coût complet de la recherche et d'un taux de récupération des coûts indirects par université ; enquête nationale périodique sur la PI et le transfert de technologie.
+  - Stellenbosch : le TTO est regroupé avec les activités commerciales de l'université et rend compte au directeur des opérations ; une société holding détenue à 100 % par l'université (« US Enterprises ») détient les participations dans les spin-offs, pour limiter le risque, décider plus vite et bénéficier d'un conseil d'administration majoritairement indépendant et commercial.
+  - Évolution du métier : jadis brevets et licences (modèle américain post-Bayh-Dole de 1980) ; aujourd'hui aussi incubateurs, spin-offs, levée et gestion de fonds, développement économique, relations entreprises, corporate venturing, entrepreneuriat étudiant et social. Le professionnel du transfert doit maîtriser quasi toutes les fonctions d'une entreprise ; les TTO sont en concurrence avec l'industrie pour ces talents. Certification internationale RTTP (Registered Technology Transfer Professional).
+  - Trois réalités difficiles : 1) deux mondes différents : l'industrie veut profit, rapidité, secret, voit l'université comme main-d'œuvre bon marché ; l'université fonctionne au rythme académique (projet de master 1-2 ans, thèse 3-5 ans), diffuse le savoir, cible des problèmes sociaux ; 2) les technologies universitaires sont à un stade très précoce, loin du produit fini (« les étagères pleines d'inventions n'existent pas ») ; passer d'un exemplaire qui marche à des milliers est sous-estimé ; 3) en Afrique du Sud l'industrie n'est pas assez mature pour absorber des technologies précoces (le « paradoxe européen » existe aussi).
+  - Réponse de Stellenbosch : continuer brevets et licences, mais isoler les projets adaptés avec un « champion » motivé et créer une spin-off, lever de l'argent d'investissement pour y développer la technologie, la garder proche du labo d'origine et apporter le meilleur soutien possible, faute d'écosystème entrepreneurial à l'américaine.
+  - Outils créés : University Technology Fund (UTF, premier fonds en Afrique investissant uniquement dans des technologies universitaires, plusieurs universités ; UTF2 élargi aux entreprises d'anciens élèves) ; incubateur LaunchLab (programmes Countdown pour valider l'idée, Liftoff pour créer l'entreprise, Cruise Control pour croître) ; outil en ligne « Instant Startup » (checklist, validation, plan, création, levée, pitch), licencié à d'autres ; guichet de support aux spin-offs (remises négociées auprès de prestataires, formalités de création, secrétariat juridique gratuit pour une bonne gouvernance, aide d'urgence aux dirigeants) ; bootcamps et hackathons pour étudiants.
+  - L'ouverture de l'incubateur sur le campus a fait bondir le nombre de spin-offs : un lieu visible où les chercheurs voient leurs collègues créer des entreprises. Les spin-offs sont suivies selon les ODD qu'elles servent.
+  - Réseau : en Western Cape, cinq TTO se réunissent chaque trimestre (forum régional) ; SARIMA (Southern African Research and Innovation Management Association) ; les TTO ne se font pas concurrence, ils s'entraident.
+  - Conseils pour un TTO naissant (année 1) : se faire connaître et gagner la confiance des chercheurs (« le transfert de technologie est un sport de contact », il se fait dans les couloirs et les labos, pas derrière un bureau) ; rédiger une politique de PI claire (propriété, procédure de déclaration, partage des revenus) ; obtenir l'appui de la direction ; ensuite se tourner vers l'industrie et les autres TTO, aller aux conférences et réseauter. Idées : « IP scouts » présents sur les campus éloignés et dans les réunions de départements, cafés avec le TTO, stands au centre étudiant, newsletter, site, vidéos.
+  - Marketing des technologies : fiches « ce que ça fait » rédigées pour un non-spécialiste, avec photos, sur le site du TTO et des plateformes (Innovation Bridge, IN-PART), licences en accès instantané ; mais surtout identifier et appeler directement les entreprises cibles.
+  - Partage des revenus : formule fixe pour les licences ; pour les spin-offs, au moins les conditions d'une licence et davantage par négociation, car les fondateurs prennent plus de risques. La loi impose de reverser aux inventeurs 20 % du premier million de rands et 30 % du revenu net au-delà.
+  - Science ouverte et commercialisation : le transfert n'est pas une question d'argent mais d'impact ; l'innovation ouverte peut être une bonne porte d'entrée vers l'industrie selon les disciplines.
+  - Le TTO coûte de l'argent à l'université dans la grande majorité des cas ; sa valeur est de rendre l'université pertinente pour la société.
+- Chiffres et faits cités :
+  - [1:50] The Education Collaborative : stratégie sur 10 ans jusqu'en 2030 ; hub Afrique de l'Est (environ 10 institutions) et hub Afrique de l'Ouest (près de 15).
+  - [7:13] IPR Act promulguée en 2008, entrée en vigueur en 2010, création du NIPMO.
+  - [12:24] Plus de 2 500 personnes formées par le NIPMO en 8 ans, dont 58 % de femmes, 51 pays dont 25 africains, dans les 9 provinces.
+  - [14:59] IP Fund sur 13 ans : près de 600 millions de rands de demandes, de 30 des 37 institutions publiques de recherche ; un peu plus de 260 millions de rands versés ; taux de remboursement moyen de 48 %.
+  - [16:47]-[17:42] OTT Support Fund : 80 % des fonds pour les salaires ; plus de 350 millions de rands attribués en 13 ans, près de 150 conventions avec 36 institutions, 243 postes financés en tout ou partie.
+  - [19:25] Plus de 3 200 déclarations d'invention reçues en 13 ans, de 91 % des institutions ; 14 % des déclarations actives licenciées ou commercialisées.
+  - [21:08]-[22:02] 70 % des transactions de PI approuvées ; 90 % des cessions locales approuvées, dont 51 % au profit de spin-offs universitaires et 74 % au profit de spin-offs, d'inventeurs ou de PME.
+  - [22:51] Le nombre moyen de transactions de PI générant des revenus est passé de 25,3 par an (2008-2014) à 47,6 par an (2014-2018).
+  - [26:26] La moitié de la population africaine a moins de 20 ans.
+  - [27:22]-[28:16] Stellenbosch : top 350 mondial, un peu plus de 35 000 étudiants dont un tiers en postgrade ; participations dans 35 spin-offs (ailleurs « 30 et plus »).
+  - [46:46] UTF1 : 24 projets issus de 5 ou 6 universités ; fonds épuisé l'an dernier ; décrit comme l'investisseur d'amorçage le plus actif du pays pendant la Covid.
+  - [52:05] Demandes PCT publiées 2009-2024 : le secteur public mène l'innovation en Afrique du Sud.
+  - [1:05:33] Financement du NIPMO limité à 26 universités et 11 conseils scientifiques.
+  - [1:09:09] Partage obligatoire avec les inventeurs : 20 % du premier million de rands, 30 % du net au-delà.
+  - [1:16:14] Bootcamps vendus aux facultés environ 75 000 rands chacun, 4 à 6 par an, complétés par des sponsors.
+- Exemples et cas concrets : patate douce à valeur nutritionnelle améliorée ; Wi-Fi à coût réduit pour communautés rurales (University of the Western Cape) ; chaussettes insecticides à libération prolongée contre tiques et moustiques ; barrières anti-requins (Stellenbosch, prix environnemental) ; le créateur de mode Laduma (Ngxokolo), dont la première machine à coudre a été achetée par le TTO de la Nelson Mandela University et que Michelle Obama a porté ; Bayh-Dole Act (1980) ; citation d'un chercheur du MIT sur le passage « d'un exemplaire à des millions ».
+- Citations :
+  - [30:00] « Au fond, notre métier, c'est d'embrasser des grenouilles en espérant que certaines se transforment en princes. »
+  - [1:21:38] « Le transfert de technologie est un sport de contact : on ne peut pas le faire depuis son bureau, il faut aller dans les couloirs et les laboratoires des chercheurs. »
+  - [1:27:01] « L'Afrique a ses propres problèmes et sait quelles en sont les solutions : nous comprenons nos problèmes mieux que quiconque. » ; « Nous voulons que nos publications prennent vie. »
+- Utilisation possible par HSA : module complet « Créer et faire vivre un bureau de transfert dans une université africaine » (année 1, politique de PI, IP scouts, marketing des technologies) ; étude de cas du modèle sud-africain (loi + agence NIPMO + fonds) comme base de plaidoyer pour la Côte d'Ivoire et l'espace OAPI ; post « 20 % / 30 % : la loi sud-africaine garantit une part aux inventeurs » ; post « Les étagères pleines d'inventions n'existent pas » ; idée pour HSA : un réseau ou forum des TTO ouest-africains sur le modèle Western Cape/SARIMA et une plateforme de mise en vitrine des technologies sur le modèle d'Innovation Bridge.
+- Mots-clés : rôle du bureau de transfert, détection d'inventions, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation, partenariats industrie, politique publique (Bayh-Dole, IPR Act), Afrique, carrière du chercheur, mesure d'impact
+
+## Technology Transfer: Industry and Academic Links | Kulu Haruna Abubakar | TEDxArkilla
+- Source : TEDx Talks, 19 sept. 2022, https://www.youtube.com/watch?v=149rN9hXtQ8, Afrique anglophone (Nigéria, Sokoto ; texte original anglais)
+- Intervenant(s) : Kulu Haruna Abubakar, du secteur de l'éducation (enseignement technique et polytechnique ; fonction exacte non précisée dans la vidéo).
+- Pertinence : faible – conférence de sensibilisation générale, centrée sur l'enseignement technique, les stages en entreprise et l'entrepreneuriat des jeunes ; vision très large du « transfert de technologie », sans aborder PI, licences ou bureaux de transfert.
+- Idées clés :
+  - Définition large : la technologie est « aussi vieille que l'argent », moderne ou locale ; c'est une manière scientifique de faire avancer les choses au bénéfice des personnes, organisations, États et de la communauté internationale.
+  - Deux types de transfert : interne (d'une entreprise ou d'une localité à une autre, par exemple un artisan qui fait affiner son produit par une autre industrie locale) et externe (vente vers d'autres villes ou à l'étranger, où le produit est raffiné et amélioré).
+  - Montée en gamme des technologies locales : passer d'un produit artisanal à un produit transformé, emballé, enregistré et exportable (exemple du kilishi).
+  - Liens école-industrie : ateliers de production et machines aux normes internationales dans les écoles techniques ; stages pratiques obligatoires des étudiants des polytechniques en entreprise ; les meilleurs sont embauchés, deviennent experts puis inventeurs. La plupart des experts en usine sont d'anciens étudiants des universités, polytechniques et collèges techniques.
+  - Résultats attendus du transfert : amélioration des standards, relations et liens établis, nouvelles idées, création d'emplois, nouveaux défis, idées fraîches issues des tests et améliorations successives.
+  - Appel aux jeunes : valoriser les technologies locales, innover, créer leurs propres industries artisanales, devenir créateurs d'emplois plutôt que d'attendre un emploi public.
+- Chiffres et faits cités :
+  - [6:12] Le kilishi transformé et emballé, avec numéro d'enregistrement NAFDAC, peut se conserver trois à quatre ans selon l'orateur.
+- Exemples et cas concrets : teinture artisanale (tie and dye) d'une zone industrielle locale de Sokoto, achetée puis retravaillée ailleurs, y compris à l'étranger ; kilishi (viande séchée épicée) passé de la production traditionnelle au produit industriel exporté ; ateliers des polytechniques nigérianes.
+- Citations :
+  - [9:50] « La plupart des experts que nous trouvons dans les industries et les usines sont d'anciens étudiants des universités, des polytechniques et des collèges techniques. »
+  - [13:25] « Ne comptez pas seulement sur un emploi public : demandez-vous comment créer des idées qui apportent le développement, pour vous, votre communauté et votre pays. »
+- Utilisation possible par HSA : illustration d'une acception populaire et élargie du transfert de technologie en Afrique (valorisation des savoir-faire locaux, rôle des stages) à distinguer du transfert de technologie universitaire ; exemple du kilishi pour un post sur la montée en gamme des produits locaux par la recherche (normes, emballage, conservation) ; argument en faveur de l'enseignement technique comme canal de transfert.
+- Mots-clés : définitions, Afrique, partenariats industrie, carrière du chercheur
+
+## Intellectual Property and Licensing
+- Source : World Intellectual Property Organization – WIPO (OMPI), podcast « PagePoints » du Centre de connaissances de l'OMPI, 17 déc. 2025, https://www.youtube.com/watch?v=9KLjH6MM4c4, International (OMPI) (texte original anglais)
+- Intervenant(s) : Pr Jacques de Werra (Université de Genève) et Pr Irene Calboli, co-éditeurs du « Research Handbook on Intellectual Property Licensing » (2e édition, Edward Elgar ; 1re édition en 2013) ; animatrice de l'OMPI (prénom « Lee »).
+- Pertinence : moyenne – éclairage juridique et international sur les licences de PI (FRAND, Medicines Patent Pool, marques, arbitrage, données), utile pour la culture générale des licences mais peu centré sur le transfert université-entreprise.
+- Idées clés :
+  - La licence est le principal moyen de diffuser un actif de PI au-delà de son titulaire : pour commercialiser et monétiser, mais aussi pour rendre la technologie et le savoir accessibles ; elle est plus importante que jamais dans une économie interconnectée.
+  - Licences FRAND (conditions équitables, raisonnables et non discriminatoires) pour les brevets essentiels à des normes techniques (téléphonie mobile) : aucun titulaire ne doit pouvoir bloquer l'usage d'une norme ; sujet de nombreux litiges.
+  - Licences à finalité sociale : l'exemple du Medicines Patent Pool (Genève) montre que la licence peut servir à partager des technologies pour des usages socialement bénéfiques.
+  - Licences de marques : convergence partielle entre pays, mais des exigences nationales persistent (contrôle de la qualité par le concédant dans les pays de common law) ; leur non-respect peut créer une présomption d'abandon de la marque. Les licences de marques universitaires (noms, logos sur des produits dérivés) en sont un exemple. Une licence est un contrat soumis au droit national des contrats, peu harmonisé : il faut des juristes nationaux.
+  - Arbitrage : mode privilégié de règlement des litiges de licences multi-territoriales : centralisation (évite des procès pays par pays coûteux et contradictoires), expertise des arbitres, confidentialité ; choisir de bonnes règles (Centre d'arbitrage et de médiation de l'OMPI) et prévoir le traitement des questions de validité.
+  - Merchandising de personnages : cumul de droits (droit d'auteur, marques, droit à l'image/de la personnalité) qui varient selon les pays ; contrats en « couches ».
+  - Licences de données : l'UE développe des règles sur le partage de données entre entreprises ; inspiration possible des licences de secrets d'affaires, de droit d'auteur et de bases de données ; possible « effet Bruxelles ».
+  - Droit international de l'investissement : une licence de PI peut être considérée comme un investissement protégé ; tension entre protection de l'investisseur et pouvoir réglementaire de l'État hôte ; l'essor des produits numériques (location d'usage plutôt que vente) multiplie les licences et les litiges, y compris en droit de la concurrence (refus de licence).
+  - Constat de politique publique : la licence est peut-être la transaction la plus courante de l'économie de l'immatériel, mais elle est sous-développée sur le plan des politiques : les spécialistes de PI la renvoient au droit des contrats, et inversement.
+  - Les pays du Sud doivent travailler davantage sur les licences pour commercialiser leur PI et leurs actifs autochtones ; la licence devrait être une composante centrale des cursus de PI. Le livre ajoute une perspective africaine (États membres de l'ARIPO).
+- Chiffres et faits cités :
+  - [0:53] 1re édition du manuel en 2013 ; 2e édition récente.
+  - [1:46] La pratique des licences s'est établie principalement au cours du dernier demi-siècle.
+- Exemples et cas concrets : brevets essentiels de la téléphonie mobile (FRAND) ; Medicines Patent Pool ; licences de marques universitaires (vêtements) ; Mickey Mouse, Raiponce (litige devant la Cour suprême des États-Unis), Fée Clochette, Tony le Tigre, Ronald McDonald, M&M's ; Centre d'arbitrage et de médiation de l'OMPI ; soutiens : Licensing Executives Society International (LESI), un sous-directeur général de l'OMPI, Pr Terry Fisher (Harvard), Sir Robin Jacob (juge).
+- Citations :
+  - [2:39] « La licence de propriété intellectuelle est absolument cruciale, plus que jamais, dans une économie interconnectée : c'est la manière de commercialiser la PI, mais aussi de la rendre accessible et de transférer technologies et connaissances. »
+  - [30:19] « Les spécialistes de la PI disent que c'est du droit des contrats, ceux des contrats disent que c'est de la PI : au final, personne ne regarde la licence sous l'angle des politiques publiques, alors que c'est peut-être la transaction la plus courante de l'économie de l'immatériel. »
+  - [32:08] « La licence est en quelque sorte la clé magique pour débloquer le progrès, la diffusion, la commercialisation et la monétisation ; il est important que les pays du Sud y travaillent davantage. »
+- Utilisation possible par HSA : module avancé « Les différents types de licences » (exclusive, FRAND, sociale, marques, données) ; post sur le Medicines Patent Pool comme modèle de licence à impact pour la santé en Afrique ; argument pour intégrer la négociation de licences dans les formations des chercheurs et juristes africains ; rappel pratique : prévoir le droit applicable et une clause d'arbitrage dans les licences internationales.
+- Mots-clés : licences, propriété intellectuelle et brevets, politique publique, Afrique, définitions
+
+
+Note générale : les transcriptions sont automatiques. Les noms propres incertains sont signalés par « (?) ». Les repères temporels renvoient aux blocs horodatés de la transcription (le passage cité se situe dans le bloc qui commence à ce repère).
+
+---
+
+## Licence, collaboration, start-up : le mode d'emploi du transfert tech avec le CNRS
+
+- **Source** : Dynergie (podcast), 19 nov. 2026, https://www.youtube.com/watch?v=aQMY3FGC-eg, France (1:01:48)
+- **Intervenant(s)** : Benjamin (nom non donné), directeur du transfert chez CNRS Innovation, docteur en micromécanique, entré comme chargé d'affaires environ 15 ans plus tôt, directeur depuis 2017-2018. Interviewée par l'animatrice du podcast Dynergie.
+- **Pertinence** : forte. C'est un exposé complet et concret du fonctionnement d'un bureau de transfert national : détection, comité, brevet, licence, collaboration, start-ups, souveraineté et clauses contractuelles.
+- **Idées clés** :
+  - Définition opérationnelle : le transfert, c'est « prendre une invention qui sort d'un laboratoire et trouver comment l'amener au monde socio-économique », surtout vers des entreprises qui l'exploiteront. Les deux vecteurs principaux sont la licence et la collaboration.
+  - Organisation d'un TTO en 4 pôles qui couvrent toute la chaîne de valeur : business développement (trouver le partenaire), chargés d'affaires et juristes en binôme (négocier la licence), juristes et contract managers (suivre les contrats après la signature). La signature n'est que « le début de la vie du contrat ».
+  - Processus de détection : le chercheur remplit une déclaration d'invention. Un comité stratégique l'examine sous deux angles : l'état de la PI (y a-t-il déjà beaucoup de brevets ?) et le marché (y en a-t-il un ? arrive-t-on « 10 ans après la bataille » ?). On ne décide qu'ensuite de faire un dépôt prioritaire.
+  - Famille de brevets : un dépôt prioritaire (France ou Europe) est étendu pendant l'année de priorité aux pays où se trouvent les marchés et les entreprises du secteur (Europe, États-Unis, Japon, Chine, Inde). Le choix des pays revient aux business développeurs.
+  - Le transfert va dans deux sens : la technologie « sur étagère » qu'on propose au marché (en prospectant les directeurs R&D et les DG des PME), ou le besoin industriel qui amène à chercher un laboratoire (programme InnoBridge : un appel à manifestation d'intérêt sur des besoins prospectifs à 10 ans).
+  - Les business développeurs sont des scientifiques (ingénieurs, docteurs) organisés par verticale thématique. Ils doivent comprendre la technologie sans pouvoir la refaire, sinon ils perdent en efficacité face à l'industriel. Ils savent aussi abandonner : si le passage à l'échelle est trop coûteux pour n'importe quel industriel, « on n'insiste pas ».
+  - Quatre « vecteurs » de transfert : brevet, logiciel, savoir-faire et matériel biologique. Une licence de brevet donne à l'entreprise un avantage compétitif : le droit d'interdire l'exploitation à ses concurrents.
+  - Valorisation d'une licence : elle dépend du marché (grand public ou machine à plusieurs millions d'euros) et de l'« effet de dilution », c'est-à-dire la part de l'invention dans le produit final (un composant minime ou 80 % du produit).
+  - Modèle « fair » : on s'associe à la création de valeur par des redevances, sans gros paiement initial (upfront) ni grosses étapes (milestones) tant que le produit n'est pas sur le marché. On préfère que l'entreprise investisse dans sa R&D.
+  - Couple licence + collaboration : les résultats communs d'une collaboration qui se poursuit avec le laboratoire sont intégrés à la licence existante sans surcoût et sans empiler les redevances, si l'on reste sur le même produit. L'État y gagne car la R&D et le lien financier restent dans le laboratoire.
+  - Start-ups : la pré-maturation CNRS (environ 10 ans d'existence) finance une preuve de concept au TRL 3 environ. Les SATT prennent ensuite le relais en maturation, ou des financements européens. Le programme RISE forme les chercheurs entrepreneurs (business plan, levée de fonds). La start-up naît souvent d'un doctorant ou d'un post-doc qui embarque son directeur de thèse comme concours scientifique.
+  - Souveraineté et sortie (exit) : les établissements gardent la propriété et ne cèdent les actifs que rarement. Les licences ne sont pas transférables : en cas de changement de contrôle, le CNRS a un droit de regard et peut retirer la licence. Conseil aux start-ups : prévenir en amont de tout rachat. Une licence exclusive est « tout aussi forte » que la propriété, contrairement à ce que croient beaucoup d'investisseurs.
+  - Points durs non négociables avec un établissement public : clauses de garantie, de contrefaçon et de transfert. Le CNRS Innovation va publier une trame contractuelle commentée clause par clause pour gagner en lisibilité.
+  - Thèse CIFRE : la peur des PME d'accueillir un doctorant « déconnecté » est « clairement un biais de pensée ». La thèse est cadrée sur 3 ans, elle sert de vivier de recrutement et elle est aidée par le crédit d'impôt recherche.
+- **Chiffres et faits cités** :
+  - [02:37] CNRS Innovation est détenue à 90 % par le CNRS et à 10 % par Bpifrance. C'est l'une des 13 filiales qui font du transfert pour le CNRS.
+  - [04:18] L'équipe transfert est passée d'une dizaine de personnes à environ 25.
+  - [05:56] Le CNRS compte 1 100 laboratoires.
+  - [07:39] Environ 16 000 chercheurs, 1 100 laboratoires et environ 9 000 familles de brevets. CNRS Innovation en gère 1 000 à 1 100 en portefeuille.
+  - [09:19] Le CNRS a 80 ans d'histoire.
+  - [15:06] Plus de 200 LabCom (laboratoires communs CNRS-entreprises).
+  - [17:32] Répartition des transferts : environ 40 % vers les PME, environ 40 % vers les start-ups deeptech et 10 à 15 % vers les grands groupes.
+  - [42:31]-[43:22] La pré-maturation sort au TRL 3, avec des tickets de l'ordre de 100 à 130 k€.
+  - [45:05] CNRS Innovation participe à une vingtaine de PUI et y place une dizaine d'ingénieurs innovation.
+  - [50:08] La réflexion sur la souveraineté est en cours depuis 12 à 18 mois.
+- **Exemples et cas concrets** : les start-ups Alice & Bob, C12 et Kobli (probablement Quobly), toutes issues de laboratoires CNRS et passées par la pré-maturation et RISE [37:32]. Sublime Énergie, citée par l'animatrice [40:03]. Comparaison des politiques de transfert avec le Max Planck allemand et avec des structures britanniques [58:28]. Exemple fictif d'une molécule chimique abandonnée parce que son passage à l'échelle serait trop coûteux [28:24].
+- **Citations fortes** :
+  - « Déposer un brevet, c'est d'abord obtenir le droit d'interdire à ses concurrents d'exploiter la technologie : c'est un avantage compétitif. » [32:33]
+  - « Une licence exclusive est tout aussi forte que la propriété de l'actif : croire le contraire est une méconnaissance totale. » [51:46]
+  - « Le couple licence-collaboration est un vrai avantage, et nous devons capitaliser dessus. » [53:26]
+- **Utilisation possible par HSA** :
+  - Module « Anatomie d'un bureau de transfert » (les 4 pôles, le comité, le cycle de vie du contrat), à transposer pour les universités africaines.
+  - Fiche pratique « Comment se calcule une redevance » (marché, effet de dilution, modèle fair).
+  - Post : « Licence exclusive ou propriété, le faux débat des investisseurs. »
+  - Argument pour les décideurs africains : garder la propriété publique de la PI et conserver un droit de regard sur les changements de contrôle, pour éviter la captation de technologies.
+  - Argument pour les PME : la thèse en convention industrielle (équivalent CIFRE) n'est pas un risque.
+- **Mots-clés** : rôle du bureau de transfert, détection d'inventions, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation, partenariats industrie, politique publique.
+
+---
+
+## From PhD Research to Multi-Billion-Dollar Biotech Startup: Chris Gibson on Recursion's Origin
+
+- **Source** : University of Utah Technology Licensing Office, 1er juin 2026, https://www.youtube.com/watch?v=MU9RNU61-Lw, États-Unis (32:48). Attention : la version française est une traduction automatique très dégradée.
+- **Intervenant(s)** : Chris Gibson, cofondateur et ancien PDG de Recursion (il a quitté ce poste en janvier), docteur en bio-ingénierie de l'Université d'Utah. Interviewé par Jenna (nom non donné), ancienne stagiaire de Recursion devenue directrice de BioHive.
+- **Pertinence** : moyenne. C'est un récit inspirant de spin-off universitaire (passage de la thèse à la start-up, financement public de départ, culture d'équipe), mais il dit peu de choses sur le processus de licence lui-même.
+- **Idées clés** :
+  - L'idée fondatrice est née d'un « petit » besoin du laboratoire : quantifier les fibres de stress d'actine sur des milliers d'images. L'automatisation a révélé des centaines de caractéristiques invisibles à l'œil nu. L'image biologique est devenue une nouvelle source de données pour la découverte de médicaments, grâce à l'apprentissage automatique.
+  - Il faut réutiliser l'existant : il a utilisé le logiciel libre CellProfiler (Anne Carpenter, Broad Institute) au lieu de tout recoder.
+  - Un laboratoire interdisciplinaire (biologistes, généticiens, médecins, ingénieurs) favorise ce type d'idée de rupture.
+  - Décision de carrière par « calcul d'impact » : chirurgien (environ 10 000 patients aidés) ou start-up avec 1 % de chances de succès mais 100 à 500 millions de personnes touchées. Il faut aussi penser au risque de ne pas essayer, pas seulement au risque d'essayer.
+  - Premier geste : aller voir l'université pour créer l'entreprise. La décision était difficile pour elle à l'époque, car peu de start-ups étaient dirigées par un étudiant devenu PDG, et la négociation a pris du temps.
+  - Financement de départ : dès le premier jour, ils ont rédigé une demande de subvention SBIR (directement en phase 2, auprès des NIH). Les données de la thèse ont servi de données préliminaires. Le savoir-faire de rédaction de subventions acquis au laboratoire a été décisif.
+  - Une évaluation favorable par un comité d'environ 28 scientifiques sert de caution auprès des investisseurs privés : « vous ne comprenez pas ce que nous faisons, mais ces experts le comprennent ».
+  - Les investisseurs étaient cloisonnés : les investisseurs tech ne comprenaient pas la biologie, les investisseurs bio ne comprenaient pas le logiciel. Il a essuyé « des centaines de non ». Les meilleurs investisseurs donnent leurs raisons de refus, qu'on peut ensuite réfuter avec des données.
+  - Il faut penser au modèle d'affaires dès le départ (programme Stanford Ignite, une sorte de mini-MBA pour scientifiques), avant même la création de l'entreprise.
+  - Les 5 à 10 premières recrues façonnent la culture pour 10 ans, car chacune recrutera les suivantes. Il faut leur consacrer plus de temps qu'à toutes les autres embauches.
+  - Son regret : une culture qui valorisait une présence « à 2 h du matin » et négligeait l'équilibre de vie, la famille et les amis.
+- **Chiffres et faits cités** :
+  - [01:40] Recursion a été fondée environ 13 ans avant la vidéo, dans un laboratoire de l'Université d'Utah. Elle mène plusieurs programmes cliniques et des partenariats avec de grands groupes pharmaceutiques (dont Roche, probablement « RO » dans la transcription).
+  - [07:10] ImageNet, vers 2011-2012, a été un déclencheur de la révolution de l'apprentissage automatique sur les images.
+  - [11:08] Calcul d'impact : environ 10 000 patients dans une carrière de chirurgien, contre 1 % de chances de succès pour 100 à 500 millions de personnes touchées.
+  - [16:40] Subvention SBIR de phase 2 d'environ 1,5 million de dollars demandée aux NIH, avec une note quasi parfaite. L'argent est arrivé environ un an plus tard.
+  - [17:27] Trois ans avec environ 4 personnes. En 2016 : trois projets pilotes avec des entreprises pharmaceutiques et une série A bouclée.
+  - [20:35] Série B de plus de 60 millions de dollars, avec Mubadala (fonds souverain d'Abu Dhabi). Un expert de Mubadala a rédigé une liste de 4 pages d'objections, que l'équipe a réfutées par 6 mois de travail en laboratoire.
+  - [22:58] Le cofondateur Blake est parti au-delà de 80 employés.
+  - [30:50] L'entreprise a compté 500 à 600 employés.
+- **Exemples et cas concrets** :
+  - Recursion (Salt Lake City).
+  - Le laboratoire de Dean Li (« Dean Lee » dans la transcription), médecin-chercheur et vice-doyen à la recherche.
+  - CellProfiler (Broad Institute).
+  - Stanford Ignite.
+  - Mubadala.
+  - Essaimage d'anciens employés de Recursion : Invea (Colorado, devenue licorne), Noetic (San Francisco) et Leash (Altitude Lab).
+- **Citations fortes** :
+  - « Beaucoup de gens mesurent le risque de faire quelque chose, mais oublient le risque de ne pas le faire : comment je me sentirais si je n'avais jamais tenté ce pari ? » [12:43]
+  - « Les meilleurs investisseurs vous disent franchement pourquoi ils ne vous croient pas. Alors, soit ils ont raison, soit vous allez générer les données qui leur prouvent qu'ils ont tort. » [19:48]
+  - « Votre première embauche est probablement la décision la plus importante pour votre entreprise, car cette personne recrutera la suivante. » [22:58]
+- **Utilisation possible par HSA** :
+  - Étude de cas « De la thèse à la spin-off » pour une masterclass destinée aux doctorants.
+  - Argument pour les chercheurs africains : les données de thèse peuvent servir de base à une demande de financement d'amorçage public. À rapprocher des fonds d'innovation nationaux.
+  - Post sur le calcul d'impact et le coût d'opportunité dans une carrière de chercheur.
+  - Module sur la culture d'équipe des premières recrues d'une spin-off.
+- **Mots-clés** : spin-offs et start-ups, financement et maturation, carrière du chercheur, partenariats industrie.
+
+---
+
+## Lab to Launch: How to Turn University Research Into a Startup Venture, by Steve Guengerich
+
+- **Source** : UT Dallas Research and Innovation, 10 juin 2020, https://www.youtube.com/watch?v=jmi_2RZ1n7E, États-Unis (46:01)
+- **Intervenant(s)** :
+  - Steve Guengerich, vice-président associé et responsable de l'innovation et de la commercialisation au bureau de la recherche de UT Dallas. Entrepreneur et investisseur, auteur de 12 livres.
+  - Animatrice : Sarah Jane Murdock, coordinatrice à l'Institute for Innovation and Entrepreneurship de UT Dallas.
+- **Pertinence** : moyenne à forte. Le séminaire relie le cycle déclaration d'invention puis protection de la PI à la méthode Lean Startup, avec des ressources américaines (I-Corps, SBIR/STTR, conflits d'intérêts).
+- **Idées clés** :
+  - Le chercheur et l'entrepreneur se ressemblent (obsession pour le sujet, hypothèses réfutables, expérimentation, rupture des règles). Ils diffèrent par le langage : celui des affaires est un domaine à part entière, et il faut s'entourer de ceux qui le maîtrisent.
+  - Le cycle recherche et PI comporte une étape d'examen clé entre la déclaration d'invention et la protection. Quatre questions y accélèrent l'investissement de l'université dans le brevet :
+    1. Avez-vous déjà des partenaires industriels ou des investisseurs ?
+    2. Existe-t-il un besoin du marché important ?
+    3. Ce besoin est-il validé (études, concurrents existants) ?
+    4. L'absence de conflit d'intérêts est-elle garantie ?
+  - Il faut gérer les conflits d'intérêts dès la création de la start-up. Un responsable dédié à UT Dallas a rédigé un guide d'une page et demie pour professeurs, doctorants et post-docs.
+  - La présentation de l'invention à l'industrie doit commencer tôt dans le processus.
+  - Le but n'est pas de perfectionner le plan initial mais d'itérer vers un plan qui fonctionne, avant d'épuiser ses ressources (temps, argent, personnes).
+  - Il faut distinguer le modèle économique (problème, client, comment gagner de l'argent) du plan d'affaires. Le Business Model Canvas ou le Lean Canvas tient sur une page, au lieu de 25 à 50 pages. Pour un chercheur, l'avantage concurrentiel peut être un brevet ou un portefeuille de brevets.
+  - La méthode suit trois phases :
+    1. Adéquation problème-solution : le problème « mérite-t-il » d'être résolu, et les gens paieraient-ils ? Il faut d'abord choisir précisément le client, comme à la pêche où l'on choisit d'abord le poisson qu'on veut attraper.
+    2. Adéquation produit-marché : ai-je créé quelque chose que les gens veulent ? Il faut des itérations courtes et des retours clients rapides.
+    3. Passage à l'échelle : optimiser, surtout le coût d'acquisition client (CAC).
+  - Il faut formuler des hypothèses réfutables et mesurables (par exemple « un billet de blog générera plus de 100 inscriptions »), pas des hypothèses vagues (« en tant qu'expert, j'attirerai des clients »). On suit les résultats dans un tableau de bord d'hypothèses.
+  - Le rapport au conseil d'administration suit quatre temps : ce que nous pensions, ce que les clients ont dit, ce que nous avons appris, les prochaines étapes. Les conseillers informent, mais le fondateur décide.
+  - L'autofinancement, en gardant si possible son emploi, permet de garder le contrôle. Les investisseurs extérieurs apportent de l'expertise mais entraînent une perte progressive de contrôle.
+  - Avoir suivi le programme I-Corps de la NSF (validation du problème adaptée aux chercheurs, avec des fonds disponibles) est un atout pour obtenir une subvention SBIR ou STTR.
+  - En biotech, il faut une stratégie réglementaire FDA précoce. Plus l'industrie s'engage tôt (lettres de soutien), mieux c'est.
+  - Une précommande sur Kickstarter est un bon test d'adéquation produit-marché, à condition d'avoir des préventes prêtes avant le lancement et de prévoir des coûts d'expédition souvent sous-estimés.
+  - Si le problème est validé mais que les clients ne paient pas, voir les travaux d'Ash Maurya (« Customer Factory »).
+- **Chiffres et faits cités** :
+  - [00:01] Steve Guengerich est cofondateur ou membre fondateur de start-ups qui ont levé plus de 200 millions de dollars en 20 ans.
+  - [00:50] Il a écrit ou publié 12 livres.
+  - [09:41] Il faut 58 idées de nouveaux produits pour obtenir un succès (au sens de toujours en activité au bout de 2 ans). Dans un tiers des cas seulement, le plan initial des fondateurs correspond à ce qu'ils mettent réellement en œuvre.
+  - [12:56] Exemples de modèles économiques : Starbucks a transformé un produit de base à 25 cents en une expérience à environ 2 dollars, et Amazon a fait disparaître le magasin physique.
+  - [22:39] Exemple fictif d'une offre à 49 dollars par mois.
+- **Exemples et cas concrets** :
+  - Starbucks, Amazon, Gmail (resté longtemps en version bêta).
+  - Don Tapscott et son Blockchain Research Institute.
+  - Ressources américaines : programme I-Corps Southwest de la NSF, Health Wildcatters (accompagnement en santé), Capital Factory, Startup Digest (Techstars), Lean Startup Machine, Venture Mentoring Service du système UT, Eric Ries (« The Lean Startup »).
+- **Citations fortes** :
+  - « L'objectif d'une start-up n'est pas d'améliorer son plan initial, mais de progresser vers un plan qui fonctionne. » [10:33]
+  - « La décision la plus importante à la pêche, c'est le poisson que vous voulez attraper. Tout le reste en découle, et il en va de même pour votre client. » [16:09]
+  - « Quel meilleur moment et quel meilleur endroit pour échouer que là où l'on dispose d'une infrastructure de soutien comme celle de l'université ? » [43:34]
+- **Utilisation possible par HSA** :
+  - Module « Du brevet au modèle économique : le Lean Canvas pour chercheurs ».
+  - Grille des 4 questions d'examen d'une déclaration d'invention, réutilisable par un bureau de valorisation africain.
+  - Atelier sur les hypothèses réfutables et le tableau de bord d'hypothèses.
+  - Plaidoyer pour un « I-Corps africain », un programme de validation du marché adapté aux chercheurs.
+  - Post : « 58 idées pour un succès. »
+- **Mots-clés** : spin-offs et start-ups, rôle du bureau de transfert, détection d'inventions, financement et maturation, partenariats industrie, carrière du chercheur.
+
+---
+
+## Le brevet : Un levier stratégique pour valoriser la recherche en biologie
+
+- **Source** : chaîne « tanane omar », 1er déc. 2023, https://www.youtube.com/watch?v=UrAFnimykfU, Maghreb (Maroc) (32:57)
+- **Intervenant(s)** : professeur à l'Université Hassan II de Casablanca, Faculté des sciences Ben M'Sick (nom non prononcé, vraisemblablement Omar Tanane, le titulaire de la chaîne). Il a une double formation : doctorat en sciences et cycle doctoral en gestion à l'ISCAE. Il est certifié par l'Office européen des brevets, formateur « entrepreneurship facilitator » auprès de l'OIT, expert formateur et expert bénévole (pro bono) de l'OMPIC. Il coordonne le TISC (centre d'appui à la technologie et à l'innovation) de sa faculté et dirige la revue Renova.
+- **Pertinence** : forte. C'est une conférence pédagogique sur le brevet (critères, rédaction, recherche d'information brevet), dans un contexte africain, à l'intention des doctorants.
+- **Idées clés** :
+  - Le réflexe à changer : beaucoup de chercheurs publient d'abord un article, qui n'offre aucune protection (n'importe qui peut exploiter le résultat). Il faut d'abord déposer le brevet, puis publier : on obtient ainsi les deux.
+  - Un brevet est un titre de propriété industrielle limité dans le temps (20 ans) et dans l'espace (territorial). On dépose d'abord au niveau national, puis on étend à l'international (PCT).
+  - Les trois critères de brevetabilité :
+    - Nouveauté mondiale, même pour un dépôt uniquement au Maroc.
+    - Activité inventive, appréciée par l'approche problème-solution des examinateurs. Exemple : un rétroviseur de vélo transposé à la voiture a été refusé, car il résout le même problème.
+    - Application industrielle.
+  - Ce qui est protégeable : procédés, protocoles, machines, produits, compositions (y compris microbiologiques), améliorations, nouvelles applications d'un médicament connu.
+  - Ce qui n'est pas protégeable : découvertes (une planète, une nouvelle espèce de grenouille), créations esthétiques, méthodes intellectuelles, logiciels seuls au Maroc (sauf s'ils sont intégrés à une machine), inventions contraires à l'ordre public, obtentions végétales (qui relèvent d'un autre titre).
+  - Le dossier de dépôt à l'OMPIC comprend le formulaire, un abrégé, une description (domaine, art antérieur fondé surtout sur les brevets, exposé critique, description détaillée, applicabilité industrielle), des dessins facultatifs et les revendications. Les revendications sont la partie la plus importante, la première que lit l'examinateur.
+  - L'information brevet est sous-exploitée. Elle est gratuite, contrairement à beaucoup d'articles, et accessible sur PATENTSCOPE (OMPI) et Espacenet (OEB), pas sur Google.
+  - Un brevet n'est protégé que dans les pays où il a été déposé. Un industriel marocain peut donc utiliser librement une solution brevetée seulement en Allemagne.
+  - Il faut faire une recherche d'antériorité avant et pendant la thèse, pour éviter de perdre 5 à 6 ans sur un résultat déjà breveté il y a 15 ou 20 ans. On ne réinvente pas la roue, on s'inspire et on suit les tendances technologiques.
+  - Le délai de grâce au Maroc est de 12 mois entre une divulgation par l'inventeur et le dépôt, selon l'orateur. Il déconseille néanmoins toute communication avant le dépôt.
+  - Levier institutionnel : grâce au plaidoyer de l'orateur et à la réforme de l'enseignement supérieur, un brevet accompagné d'un article peut désormais remplacer l'exigence de deux articles indexés Scopus pour la soutenance de thèse à l'Université Hassan II.
+  - Grâce à la convention entre les universités et l'OMPIC, les chercheurs ont accès gratuitement aux formations à distance de l'OMPI (rédaction, bases de données), ce qui enrichit le CV.
+- **Chiffres et faits cités** :
+  - [03:26] Le réseau TISC au Maroc compte 18 universités, plus des centres de recherche (MAScIR, CNRST) et des écoles d'ingénieurs. La faculté de l'orateur est la seule faculté membre.
+  - [04:16] « 80 % de l'information technologique se trouve dans les brevets », et ni dans les thèses ni dans les articles.
+  - [05:58] Au Maroc, environ 50 % des dépôts de brevets viennent des universités, contrairement à la Corée ou au Japon, où ce sont surtout les entreprises qui déposent.
+  - [08:38]-[09:31] La protection dure 20 ans et elle est territoriale.
+  - [25:06] Délai de grâce de 12 mois au Maroc, selon l'orateur.
+  - [26:49] En biologie, l'Office européen des brevets arrive en tête des dépôts PCT, suivi du Canada puis de la France (selon ses recherches).
+  - [27:39]-[29:27] Les trois classes CIB les plus actives en biologie : C12N (micro-organismes, enzymes, génie génétique), A61K (préparations médicales et dentaires) et G01N (analyses en immunologie impliquant enzymes et micro-organismes). Elles représentent environ la moitié des dépôts en biotechnologie. Les dépôts augmentent à partir de 2021 (Covid-19).
+- **Exemples et cas concrets** :
+  - Brevet international du CNRST et de l'Université Cadi Ayyad de Marrakech : composition de souches d'actinobactéries pour protéger les plantes contre des microbes nuisibles [29:27].
+  - Brevet européen d'Aix-Marseille Université : biomarqueurs prédictifs de l'échec ou de la réussite de l'implantation en fécondation in vitro [30:17].
+  - Exemple pédagogique du rétroviseur [10:26].
+  - La brebis Dolly, citée à propos de l'éthique (le clonage humain est interdit) [25:06].
+- **Citations fortes** :
+  - « Si vous publiez dans un article, n'importe qui dans le monde peut exploiter votre travail industriellement. Si vous déposez d'abord un brevet, personne ne pourra l'utiliser sans votre accord. » [06:52]
+  - « Un doctorant qui ne cite aucun brevet dans sa bibliographie passe à côté de 80 % de l'information utile à son travail. » [04:16]
+  - « Ayez le réflexe : d'abord le brevet, ensuite l'article. » [08:38]
+- **Utilisation possible par HSA** :
+  - Module « Le brevet pour les doctorants » (critères, protégeable ou non, structure d'une demande, rôle des revendications).
+  - Tutoriel PATENTSCOPE et Espacenet.
+  - Argument politique : l'équivalence « brevet + article » pour la soutenance, un modèle marocain à proposer en Côte d'Ivoire.
+  - Le réseau TISC de l'OMPI comme levier pour l'Afrique subsaharienne.
+  - Post : « La liberté d'exploitation, ou comment utiliser légalement un brevet étranger non déposé chez vous. »
+- **Mots-clés** : propriété intellectuelle et brevets, définitions, Afrique, carrière du chercheur, politique publique.
+
+---
+
+## UNLOCK Tech transfer #1 : Détecter les applications de la recherche fondamentale
+
+- **Source** : Université Paris Cité, 11 déc. 2025, https://www.youtube.com/watch?v=0ukLDrVq1pY, France (18:53)
+- **Intervenant(s)** : Nicolas (nom non donné), directeur des applications de la recherche et des relations industrielles à l'Institut Pasteur. Il pilote le service des brevets et inventions et compte 30 ans de carrière, dont une partie comme conseil en cabinet de PI. Interviewé par Fabien (Valocité).
+- **Pertinence** : forte. L'épisode porte précisément sur l'étape amont, la détection des applications (scouting), avec une démarche en étapes et un cas d'école.
+- **Idées clés** :
+  - Le frein culturel (en France) : le mot « valorisation » évoque l'argent. Or l'objectif est de transformer la recherche fondamentale en produits, biens et services au bénéfice de la société, comme un retour de la recherche publique vers la société.
+  - Étape 1, l'ouverture d'esprit (open mindset) : il faut briser la peur de se faire « piquer » ses idées. Les chargés d'affaires des TTO sont tenus à la confidentialité, il n'y a donc pas de divulgation. Une ou deux heures de dialogue avec un interlocuteur « naïf » mais expert fait émerger des questions que le chercheur ne se pose pas.
+  - Les TTO ont des équipes de scouting (détection) composées d'experts par domaine technique qui vont à la rencontre des laboratoires, « encore faut-il que les portes soient ouvertes ».
+  - Étape 2, la protection : est-ce protégeable ? Si oui, déclaration d'invention avant toute divulgation. On planifie ensuite des work packages pour générer les résultats nécessaires à une protection suffisante et pour faire monter le TRL (dérisquer, preuves de concept), ce qu'attendent les industriels.
+  - Étape 3, le développement : on vérifie l'adéquation au marché (y a-t-il une demande ?), les difficultés et le coût de développement (faible en diagnostic, très élevé en thérapie).
+  - Les TTO ont recruté des experts venus de l'industrie (clinique, préclinique, diagnostic, vaccins). Pour les décisions d'investissement (prématuration, maturation, parfois plusieurs centaines de milliers d'euros), ils sollicitent sous accord de confidentialité des leaders d'opinion extérieurs, voire des capital-risqueurs.
+  - Contre la culture de l'échec en France et en Europe : le risque du chercheur doit être maîtrisé en passant toutes les étapes du continuum de l'innovation, sans en sauter aucune.
+  - Le meilleur détecteur d'applications reste le chercheur lui-même, qui connaît l'état de l'art. Les outils sont accessibles : Google Patents, Patent Lens (cité comme lié à l'OMPI), recherche par mots-clés simples, moteurs de recherche IA. La littérature brevet complète la littérature scientifique.
+  - Détecter les applications, c'est anticiper : se projeter dans le futur (de la médecine), regarder les concurrents, ce qu'on a et ce qui leur manque, prévoir sa stratégie de protection, se mettre en mode projet et s'entourer.
+- **Chiffres et faits cités** :
+  - [00:04] L'Institut Pasteur détient « 2 150 brevets et 211 familles de brevets » (chiffres tels que transcrits). Nicolas a vu « des milliers d'inventions » en 30 ans.
+  - [00:53] Valocité est le pôle universitaire d'innovation (PUI, France 2030) d'Université Paris Cité, avec le CNRS, l'Inserm, Pasteur, l'AP-HP, Inria et Paris Biotech Santé.
+  - [09:25] Le TTO peut engager plusieurs centaines de milliers d'euros pour accélérer un projet.
+  - [12:46] Pasteur a créé le Biotop, l'un des premiers incubateurs de start-ups, vers 1998.
+  - [12:46] Pasteur a été le premier à produire l'EPO recombinante (« LEPO » dans la transcription), un médicament qui génère 3 à 4 milliards de dollars par an, mais sans protection ni développement par Pasteur (fin des années 1980, début des années 1990, avant l'existence de vrais TTO).
+  - [14:26] La mutation JAK2 V617F est retrouvée chez 95 % des patients atteints de polyglobulie (érythrocytose).
+- **Exemples et cas concrets** :
+  - Occasion manquée de l'EPO recombinante (Pasteur), faute de bureau de transfert [12:46].
+  - Cas JAK2 V617F : une déclaration d'invention de l'IGR (Gustave Roussy) que le comité interne doutait de soutenir a été envoyée pour un second avis au cabinet de conseil où travaillait Nicolas. Elle a donné lieu à une demande de brevet solide, délivrée aux États-Unis, licenciée rapidement à Ipsogen, et l'Organisation mondiale de la santé l'a qualifiée de « percée clé » trois ans plus tard [13:37]-[15:16].
+- **Citations fortes** :
+  - « À force de voir des milliers d'inventions, on finit par croiser les domaines et par devenir créatif : on emprunte à un champ technique pour suggérer à un chercheur une application de sa recherche. » [00:53]
+  - « La meilleure personne pour détecter les applications de la recherche, c'est le chercheur lui-même. » [16:07]
+  - « Une heure ou deux de discussion sur ses recherches n'est jamais perdue : en parlant, on fait naître plein d'idées. » [05:13]
+- **Utilisation possible par HSA** :
+  - Module « Détection des inventions en 3 étapes » (ouverture, protection, développement), avec une fiche d'autodiagnostic pour le chercheur.
+  - Tutoriel de recherche brevet (Google Patents, Lens, IA).
+  - Post « L'EPO, le milliard perdu faute de bureau de transfert » pour convaincre les universités africaines de se doter d'un TTO.
+  - Format « dialogue chercheur-chargé de valorisation naïf » à reproduire dans des ateliers HSA.
+- **Mots-clés** : détection d'inventions, rôle du bureau de transfert, propriété intellectuelle et brevets, financement et maturation, licences, carrière du chercheur.
+
+---
+
+## Point de fusion #1 - Les brevets et le transfert de technologie
+
+- **Source** : Université de Rennes, 17 oct. 2025, https://www.youtube.com/watch?v=vHl5DBtPddk, France (13:37)
+- **Intervenant(s)** : Olivier Guillou, professeur des universités à l'INSA Rennes, en chimie des matériaux. Il a fait « deux ou trois transferts ». Animateur du podcast du campus innovation de l'Université de Rennes (nom non donné).
+- **Pertinence** : forte. C'est le témoignage concret d'un chercheur inventeur sur le parcours du brevet au transfert : déclaration d'invention, cabinet, baisse temporaire de publications, négociation par la SATT, erreurs à éviter.
+- **Idées clés** :
+  - Rappels : la PI se divise en propriété littéraire et artistique (droit d'auteur, logiciels) et propriété industrielle (brevets, marques, dessins et modèles). Les trois critères de brevetabilité sont la nouveauté (attention aux divulgations, recherche d'antériorité), l'activité inventive et l'application industrielle.
+  - Il faut avoir le réflexe de se demander si un résultat est brevetable (sert-il à quelque chose, quelle application ?), puis contacter le chargé de valorisation de l'établissement, la SATT (Ouest Valorisation) ou le campus innovation.
+  - On ne dépose un brevet que si l'on croit au transfert : « déposer un brevet pour déposer un brevet n'a aucun sens, ça coûte de l'argent et ça ne sert à rien ».
+  - Le chercheur gagne à travailler avec les industriels : leurs questions ouvrent des voies de recherche originales, et le transfert donne du sens (développement durable, climat).
+  - Procédure : premier contact, puis déclaration d'invention rapide. Elle doit traiter la divulgation éventuelle, la preuve de date (cahier de laboratoire), l'antériorité, la nouveauté et le caractère inventif. Elle est obligatoire auprès de l'employeur et indique les inventeurs et leur contribution en pourcentage. Dans le public, c'est l'établissement qui est propriétaire de l'invention.
+  - C'est un cabinet de brevets qui rédige, mais le chercheur fournit la matière et corrige. Ce dialogue prend beaucoup de temps.
+  - Coût caché : environ un an de baisse de production scientifique (pas de publication avant le dépôt), alors que les chercheurs sont évalués sur leurs publications. Selon Olivier Guillou, chaque brevet a ensuite été suivi d'une forte hausse qui compense.
+  - Thèse et confidentialité : accord de confidentialité signé par le jury, embargo sur la publication de la thèse, voire soutenance à huis clos. C'est « de la routine » dans les établissements.
+  - La négociation avec le partenaire (start-up issue du laboratoire, grand groupe, PME ou ETI) est menée par la SATT ou par CNRS Innovation. Le vécu du chercheur dépend du chargé de transfert : un sentiment de « dépossession » peut apparaître, et il faut en parler.
+  - Erreur n°1 : la divulgation, par exemple un doctorant qui publie sur les réseaux sociaux une photo devant son poster.
+  - Erreur n°2 : s'immiscer dans la négociation commerciale (effet de « billard à trois bandes »), ce qui affaiblit les négociateurs et allonge les délais. Il faut « lâcher et laisser les négociateurs faire ». Les négociations menées par la SATT sont nettement plus avantageuses qu'à l'époque où chacun négociait pour soi.
+- **Chiffres et faits cités** :
+  - [06:45] Le dépôt d'un brevet entraîne environ un an de baisse de la production scientifique.
+  - [10:09] L'intervenant a réalisé deux ou trois transferts.
+- **Exemples et cas concrets** : la SATT Ouest Valorisation, CNRS Innovation, le campus innovation de l'Université de Rennes. L'exemple du doctorant qui publie sur les réseaux sociaux [10:59].
+- **Citations fortes** :
+  - « Déposer un brevet pour déposer un brevet n'a aucun sens : ça coûte de l'argent et ça ne sert à rien. Ce qui doit motiver, c'est la perspective d'un transfert. » [02:32]
+  - « Mon conseil : fonce. Ça ne marche pas toujours, mais quand ça marche, c'est vraiment gratifiant et très riche. » [10:09]
+  - « À un moment donné, il faut lâcher et laisser les négociateurs faire. » [12:46]
+- **Utilisation possible par HSA** :
+  - Module « Le parcours de l'inventeur : de la déclaration d'invention à la licence ».
+  - Checklist « 5 erreurs à éviter » (divulgation, réseaux sociaux, ingérence dans la négociation, brevet sans perspective de transfert).
+  - Fiche sur la confidentialité des thèses (embargo, huis clos), à proposer aux écoles doctorales africaines.
+  - Argument aux évaluateurs : intégrer le brevet dans l'évaluation des carrières pour compenser la baisse temporaire des publications.
+- **Mots-clés** : propriété intellectuelle et brevets, détection d'inventions, rôle du bureau de transfert, licences, carrière du chercheur, définitions.
+
+---
+
+## Valorisation des Résultats de Recherche (VRR) / Pr DOSSOU-YOVO Pierre
+
+- **Source** : Anrsi, 14 déc. 2022, https://www.youtube.com/watch?v=M_pFfjVXpT0, Afrique francophone (Bénin, conférence tenue manifestement en Mauritanie) (20:35)
+- **Intervenant(s)** : Pr Pierre Dossou-Yovo, directeur de l'agence béninoise de valorisation des résultats de la recherche et de l'innovation technologique (ABeVRIT, créée par décret en 2012).
+- **Pertinence** : forte pour le contexte africain. C'est un retour d'expérience national (Bénin) avec définitions, historique, chiffres d'incubation et perspectives, même si le contenu reste institutionnel.
+- **Idées clés** :
+  - La valorisation est « une branche nécessaire, incontournable » pour lancer le développement par la recherche et l'innovation. La recherche n'est plus un choix mais une nécessité, à condition de la mettre en valeur et de lui donner de la visibilité.
+  - Définition reprise d'un organisme d'évaluation français : rendre utilisables et commercialisables les résultats, les connaissances et les compétences de la recherche.
+  - Deux types de valorisation :
+    - Économique (commerciale) : commercialisation et transfert.
+    - Sociale (non marchande) : des solutions à un problème social défini, où les retombées économiques sont possibles mais ne sont pas la finalité.
+    - Elle concerne tous les domaines, technologiques ou non.
+  - Le secteur privé devrait davantage s'intéresser à la recherche et à l'innovation en exprimant ses besoins.
+  - Processus présenté : résultats (produits, prototypes, maquettes), puis diffusion et publication, propriété intellectuelle et soumission à une structure agréée de valorisation pour accompagnement. Remarque : l'orateur place la diffusion avant la PI, en contradiction avec les recommandations des autres vidéos.
+  - Historique béninois : l'IRHO (palmier à huile) du Dahomey, des années 1940 à 1984. En 1965, l'Institut d'enseignement supérieur du Bénin (Togo et Dahomey). Les résultats ont longtemps été peu exploités car l'enseignement était plus théorique que pratique. L'essor date de 2005 à 2013.
+  - Instruments : foires et carrefours de l'innovation avec prix, répertoire des innovations (2017, réédition en 2022), appels à candidatures sur le web et les réseaux sociaux, dotation en matériel pour transformer les start-ups en PME. La Covid-19 a ralenti l'activité.
+  - Perspectives et canaux :
+    - La recherche partenariale, un « canal extrêmement puissant » qui demande de décloisonner les chercheurs.
+    - Les échanges directs et informels entre chercheurs, entreprises, pouvoirs publics et société civile.
+    - Le renforcement des capacités des acteurs.
+    - La cartographie des résultats, des acteurs et des besoins de la recherche et de l'innovation (projet régional avec le Sénégal, le Togo et le Burkina Faso).
+    - Des mesures incitatives dans le programme d'action du gouvernement 2021-2026.
+  - Il faut cultiver chez les chercheurs une curiosité et une motivation intrinsèque pour la valorisation.
+- **Chiffres et faits cités** :
+  - [09:12] L'IRHO a été présent au Dahomey des années 1940 à 1984.
+  - [09:12] L'Institut d'enseignement supérieur du Bénin a été créé le 14 juillet 1965.
+  - [11:04] Carrefour international de l'innovation à Cotonou, en 2010 et 2013, au stade de l'Amitié.
+  - [12:55] L'université d'Abomey-Calavi (UAC) compte environ 20 000 diplômés par an. L'incubateur UAC Startup Valley a été lancé en 2014.
+  - [12:55]-[13:51] L'ABeVRIT a été créée en 2012. De 2014 à 2021, elle a accompagné « 31 02 » (chiffre peu lisible, peut-être 302) promoteurs ou projets, dont 17 % de femmes, pour plus de 224 millions de FCFA.
+  - [13:51] UAC Startup Valley, en 5 ans : 1 059 bénéficiaires formés (30 % de femmes), 99 entreprises créées (agrobusiness, TIC, services), 1 000 emplois directs et environ 1 milliard de FCFA de chiffre d'affaires annuel cumulé.
+  - [14:43] Répertoire des innovations publié en 2017, réédité en 2022.
+- **Exemples et cas concrets** : l'IRHO et le palmier à huile, l'UAC Startup Valley, le carrefour de l'innovation de Cotonou, un innovateur qui a conçu un « foyer solaire » pour les ménages ruraux [15:38], la remise de matériel à des start-ups en décembre 2021.
+- **Citations fortes** :
+  - « La recherche scientifique et l'innovation technologique ne sont plus un choix mais une nécessité absolue pour tout développement qui se veut durable, à condition de savoir les mettre en valeur. » [02:46]
+  - « La recherche partenariale est un canal de valorisation extrêmement puissant : les chercheurs doivent travailler ensemble, car le cloisonnement ne fait que disperser les efforts. » [16:33]
+  - (Citation attribuée à un auteur canadien) « Les innovateurs sont presque toujours des persécutés : en religion, des hérétiques ; en philosophie, des fous ; en science, des gens qui parlent au diable ; en politique, généralement des idoles. » [19:26]
+- **Utilisation possible par HSA** :
+  - Étude de cas « Le modèle béninois », pour comparer avec la Côte d'Ivoire.
+  - Distinction valorisation économique / valorisation sociale, à utiliser dans un module SHS.
+  - Chiffres d'UAC Startup Valley pour un livre blanc sur l'entrepreneuriat académique en Afrique de l'Ouest.
+  - Mise en garde pédagogique : « publier avant de protéger » est une erreur à corriger.
+  - Projet de cartographie régionale des résultats et des besoins : HSA peut se positionner comme plateforme numérique de cette cartographie.
+- **Mots-clés** : Afrique, définitions, politique publique, spin-offs et start-ups, SHS et impact, partenariats industrie.
+
+---
+
+## Innov Tv : MESRS AUF : La valorisation des résultats des recherches en Afrique de l'ouest
+
+- **Source** : INNOV TV, 30 mars 2022, https://www.youtube.com/watch?v=vR_Ek3yK5iw, Afrique francophone (Bénin) (7:20)
+- **Intervenant(s)** (noms très déformés par la transcription) :
+  - La ministre béninoise de l'Enseignement supérieur et de la Recherche scientifique (Éléonore Yayi Ladékan, probablement).
+  - Ouidad Tebbaa, directrice régionale de l'AUF.
+  - Le coordinateur régional du projet.
+  - Un représentant de l'Université de Parakou.
+- **Pertinence** : moyenne. C'est un reportage institutionnel sur le projet régional de valorisation (projet « VALOR » (?), AUF et Union européenne), avec des objectifs chiffrés mais peu de contenu méthodologique.
+- **Idées clés** :
+  - Le projet vise à créer un environnement incitatif pour le transfert de technologie et l'innovation durable dans 4 pays : Bénin, Togo, Burkina Faso et Sénégal.
+  - Ses trois axes :
+    1. Mettre en place des dispositifs d'accompagnement de la valorisation dans les universités, ouverts aussi aux entrepreneurs locaux.
+    2. Développer des programmes de formation pour les chercheurs, innovateurs, inventeurs et entrepreneurs.
+    3. Mettre en réseau les acteurs pour systématiser le transfert à l'échelle de la sous-région.
+  - Les dispositifs doivent permettre de « labelliser, breveter et commercialiser » les découvertes.
+  - L'Université de Parakou porte un projet sur l'employabilité et l'insertion des jeunes diplômés par la valorisation de la recherche et de l'innovation.
+  - Conviction affichée : « nos chercheurs sont utiles au développement de leur société ». La recherche et l'innovation sont de puissants leviers de développement, ce qui demande la coopération de tous les acteurs et l'appui des partenaires techniques et financiers.
+- **Chiffres et faits cités** :
+  - [00:03] Le projet couvre 4 pays (Bénin, Togo, Burkina Faso, Sénégal).
+  - [02:40] Il a démarré le 14 décembre (année non précisée) à l'hôtel Azalaï.
+  - [04:38] Le projet dure 4 ans.
+  - [04:38] Objectifs à l'horizon 2025 : 40 initiatives multipartenaires, des brevets et produits innovants issus de partenariats public-privé (chiffre peu clair) et 10 initiatives de transfert de technologie.
+  - [05:36] 14 projets ont été retenus dans les 4 pays, pour un coût global de 3 milliards de FCFA, avec un financement de l'Union européenne.
+- **Exemples et cas concrets** : le projet de l'Université de Parakou (Bénin).
+- **Citations fortes** :
+  - « Nos chercheurs sont utiles : ils sont utiles au développement de leur société. C'est notre conviction profonde. » [00:58] (Ouidad Tebbaa, AUF)
+  - « La recherche et l'innovation sont de puissants leviers de développement économique dans le contexte de la mondialisation. » [06:29] (la ministre)
+- **Utilisation possible par HSA** :
+  - Veille et cartographie des programmes régionaux (AUF et Union européenne).
+  - Argument de partenariat : HSA comme outil de « mise en réseau des acteurs » (le troisième axe du projet).
+  - Post sur les objectifs 2025 et un bilan à suivre.
+- **Mots-clés** : Afrique, politique publique, partenariats industrie, financement et maturation.
+
+---
+
+## Un bureau de valorisation et de validité de recherches aux solutions de l'emploi jeune
+
+- **Source** : RTI Officiel, 4 juil. 2015, https://www.youtube.com/watch?v=sUk0dADe_3w, Côte d'Ivoire (1:31)
+- **Intervenant(s)** : voix off de la RTI, et un responsable de l'Université Félix Houphouët-Boigny (non nommé).
+- **Pertinence** : moyenne. Le reportage est très court mais directement ivoirien : il annonce un bureau national de valorisation et mentionne un cas réel (biopesticides).
+- **Idées clés** :
+  - Création annoncée d'un « bureau de valorisation et de validité des résultats de recherche » des enseignants-chercheurs ivoiriens.
+  - Ses objectifs : l'employabilité des jeunes, la visibilité des acquis de recherche et développement des universités et des centres, l'impact sur le développement économique.
+  - Il vise à ce que les entreprises, en particulier les PME, utilisent les résultats de recherche pour lancer des idées innovantes, créer des emplois et « nourrir le tissu industriel ».
+  - L'Université Félix Houphouët-Boigny disposait déjà de sa propre structure de valorisation, « avec ses moyens ».
+  - Le bureau doit aussi rendre les étudiants « plus opérationnels » à la sortie de l'université.
+- **Chiffres et faits cités** :
+  - [00:00] Projet financé à hauteur de 14 milliards de FCFA.
+- **Exemples et cas concrets** : un projet de biopesticides porté par une équipe dirigée par le Pr Koné Daouda (Université Félix Houphouët-Boigny) [00:52].
+- **Citations fortes** :
+  - « Nous n'avons pas attendu cet atelier pour mettre en place une structure de valorisation, avec nos moyens bien sûr. » [00:52]
+- **Utilisation possible par HSA** :
+  - Repère historique pour un livre blanc ivoirien (2015, 14 milliards de FCFA) : que sont devenus ce bureau et le projet de biopesticides ? C'est un angle d'enquête ou de post.
+  - Cas local à documenter avec le Pr Koné Daouda pour un témoignage HSA.
+- **Mots-clés** : Afrique, rôle du bureau de transfert, politique publique, partenariats industrie.
+
+---
+
+## What is Tech Transfer?
+
+- **Source** : AUTM, 18 juin 2019, https://www.youtube.com/watch?v=TRY_p-59_bY, États-Unis (1:37)
+- **Intervenant(s)** : voix off (AUTM, association des professionnels du transfert de technologie).
+- **Pertinence** : moyenne. C'est une définition grand public très synthétique, utile en introduction, sans contenu technique.
+- **Idées clés** :
+  - Les universités, les hôpitaux et les laboratoires gouvernementaux produisent des découvertes. Les professionnels du transfert les relient aux entreprises capables d'en faire des produits.
+  - Le financement public et privé soutient la recherche en amont.
+  - Le transfert de technologie protège et fait progresser les découvertes par le droit d'auteur et les brevets, et par la création de partenariats et de start-ups. Le but est de transformer les idées en produits et de stimuler l'économie.
+  - C'est un processus en de nombreuses étapes, avec des défis : certaines idées aboutissent, d'autres non.
+  - Il y a deux voies : le transfert à une entreprise existante, ou la création d'une nouvelle entreprise.
+  - L'impact recherché : améliorer des vies, créer des emplois et financer la génération suivante de découvertes.
+- **Chiffres et faits cités** : aucun.
+- **Exemples et cas concrets** : aucun.
+- **Citations fortes** :
+  - « Cela paraît simple, mais transformer une idée en produit implique de nombreuses étapes et de nombreux défis. Certaines idées aboutissent, d'autres non. » [00:00]-[00:54]
+- **Utilisation possible par HSA** :
+  - Accroche ou définition d'ouverture d'un module d'introduction.
+  - Script de vidéo courte (format « 90 secondes pour comprendre le transfert de technologie »).
+- **Mots-clés** : définitions, rôle du bureau de transfert, spin-offs et start-ups, mesure d'impact.
+
+---
+
+## Jared Friedman - Advice for Hard-tech and Biotech Founders
+
+- **Source** : Y Combinator, 20 sept. 2019, https://www.youtube.com/watch?v=C1DlZWfI6rk, États-Unis (24:33). Fiche établie à partir du texte original anglais, car aucune traduction n'était disponible.
+- **Intervenant(s)** : Jared Friedman, associé (partner) chez Y Combinator (conférence Startup School).
+- **Pertinence** : moyenne. Ce n'est pas du transfert de technologie au sens strict, mais des conseils très concrets pour les spin-offs deeptech et biotech : produit minimum viable (MVP) coûteux, preuve de la demande, levée de fonds par paliers.
+- **Idées clés** :
+  - Définition d'une entreprise hard tech : il faut beaucoup de temps et d'argent pour construire le premier produit, et rien ne garantit qu'on pourra le construire. Le risque est technique plus que commercial (contrairement à une application mobile).
+  - Le paradoxe de Sam Altman : il est plus facile de démarrer une entreprise difficile qu'une entreprise facile. Le produit est dur à construire, mais le reste est facile (presse, talents, investisseurs attirés par l'ambition).
+  - Problème n°1, le MVP lourd : il faut trouver des moyens de progresser sans les millions nécessaires :
+    - conseillers prestigieux, simulations, maquette ;
+    - preuve de concept à petite échelle ;
+    - détour par un dispositif déjà approuvé ;
+    - vente de services qui génèrent revenus et données ;
+    - satellite de test bon marché ;
+    - contrats signés avant d'avoir le produit (« vendre avant de fabriquer »).
+  - Problème n°2, prouver la demande avant d'avoir le produit : idéalement par des préventes. En santé, la prévente d'un dispositif soumis à l'approbation de la FDA est illégale. On utilise alors une lettre d'intention (LOI) non contraignante mais prise au sérieux par les clients. Plus elle est précise, plus elle a de valeur, et elle donne une feuille de route du produit.
+  - Une LOI est difficile à obtenir, et c'est justement ce qui fait sa valeur : c'est le signe qu'on résout un « point de douleur critique ». Elle oblige aussi à une répétition du processus de vente et révèle les différentes parties prenantes chez le client.
+  - Levée de fonds : il ne faut pas viser 50 millions de dollars d'un coup (le « mur »). On découpe en paliers successifs (quelques centaines de milliers de dollars, puis 1 million, 4 millions, etc.), chacun lié à des jalons précis. Il faut « pousser maniaquement » vers des paliers les plus petits possibles.
+  - Principe général : prouver le plus possible, le plus tôt possible, pour réduire le risque perçu.
+  - Recrutement : les projets très ambitieux attirent plus facilement les talents.
+- **Chiffres et faits cités** :
+  - [02:36] Boom : avion supersonique à Mach 2,2, San Francisco-Tokyo en 5 heures.
+  - [05:12] Y Combinator a financé plus de 250 entreprises bio et environ deux cents entreprises hard tech. C'est le premier investisseur d'amorçage au monde dans ces deux catégories.
+  - [00:00] Plus de 1 000 entreprises de Startup School travaillent sur du hard tech ou de la biotech.
+  - [06:02] Les candidatures hard tech à Y Combinator ont un taux d'acceptation environ 10 fois plus élevé.
+  - [10:18] Un satellite de télécommunication utile coûte au moins 10 millions de dollars. Le satellite de test d'Astranis a été construit en moins de 3 mois pour moins de 50 000 dollars.
+  - [09:26] Airx a été mis en service en moins de 3 mois sans approbation FDA, grâce à un dispositif existant.
+  - [14:37] Exemple de plan de levée de 50 millions de dollars découpé en 5 tours, dont une série A à 15 millions.
+  - [17:15] Cruise a été rachetée par GM pour environ un milliard de dollars (chiffre partiellement inaudible). Sa première voiture a été construite en 3 mois.
+- **Exemples et cas concrets** :
+  - Boom (maquette en plastique et intérêt des compagnies aériennes).
+  - Solugen (« solute » dans la transcription) : du bécher produisant une tasse de peroxyde d'hydrogène à l'usine.
+  - Airx (dispositif médical existant plus logiciel).
+  - Notable Labs (services de criblage de tumeurs pour les laboratoires pharmaceutiques, puis développement de ses propres médicaments).
+  - Astranis (satellite de test).
+  - Ginkgo Bioworks (contrats signés avant de créer les organismes).
+  - Jetpack Aviation (préventes de motos volantes).
+  - Cruise.
+- **Citations fortes** :
+  - « À bien des égards, il est plus facile de lancer une entreprise difficile qu'une entreprise facile. » (Sam Altman, cité) [01:42]
+  - « Les lettres d'intention sont difficiles à obtenir, et c'est précisément ce qui leur donne de la valeur. » [19:08]
+  - « Pour une entreprise deeptech, l'essentiel est de prouver le plus possible, le plus tôt possible, pour réduire le risque perçu. » [20:57]
+- **Utilisation possible par HSA** :
+  - Module « Financer une spin-off deeptech par paliers ».
+  - Fiche « La lettre d'intention, mode d'emploi », directement utile aux chercheurs africains qui démarchent des industriels sans prototype.
+  - Post : « Vendre avant de fabriquer, l'exemple de Ginkgo Bioworks. »
+  - Argument : un projet de recherche ambitieux est un atout pour recruter et pour attirer l'attention.
+- **Mots-clés** : spin-offs et start-ups, financement et maturation, partenariats industrie.
+
+
+## Intellectual Property Basics and Technology Transfer with Leah Haman at WARF
+- Source : Wisconsin Ventures, 12 nov. 2026, https://www.youtube.com/watch?v=gX3ah0rW6vI, États-Unis
+- Intervenant(s) et fonction : Leah Haman (orthographiée Hamon dans la transcription), responsable principale de la propriété intellectuelle à la Wisconsin Alumni Research Foundation (WARF), chargée des sciences physiques (ingénierie, informatique) ; ancienne d'Epic (logiciels de santé), à WARF depuis 2009. Session du Wisconsin Venture Innovation Challenge (avec la Wisconsin School of Business).
+- Pertinence pour le sujet : forte. Cours complet de base sur la PI (brevet, droit d'auteur, marque, secret commercial) vu depuis un bureau de transfert, avec des conseils pratiques sur la divulgation, l'IA et le logiciel libre.
+- Idées clés :
+  - La PI est une « création de l'esprit » protégée par des lois nationales. WARF travaille surtout sur les brevets, plus marginalement sur les droits d'auteur et les marques. Le secret commercial est rare en milieu universitaire.
+  - Le brevet est un compromis : un droit d'exclure les autres pendant 20 ans à compter du dépôt, puis l'invention tombe dans le domaine public. C'est pendant cette exclusivité qu'on crée une entreprise ou qu'on investit (ex. médicament).
+  - Un brevet comporte trois parties : la description (contexte, détails techniques, variantes), des dessins et les revendications. Les revendications sont la partie décisive : elles fixent les limites du droit d'exclusion. Il faut les faire rédiger par un conseil en brevets.
+  - Critères de brevetabilité : un objet éligible et utile (ni lois de la nature, ni phénomènes naturels, ni idées abstraites ou mathématiques pures), la nouveauté, la non-évidence (l'office peut combiner plusieurs antériorités), une description écrite suffisante, la reproductibilité par un tiers (« enablement ») et l'indication du meilleur mode de réalisation.
+  - L'examen se fait par allers-retours avec un examinateur. Les revendications sont souvent restreintes, et on ne peut plus ajouter d'éléments nouveaux après le dépôt : il faut tout mettre dans la description initiale.
+  - Divulgation : les États-Unis accordent un an de grâce après une divulgation publique. La plupart des autres pays appliquent la « nouveauté absolue » : votre propre publication détruit la brevetabilité. Il n'existe pas de brevet mondial : il faut payer et déposer pays par pays.
+  - Le brevet provisoire américain dure un an, avec peu de formalités (slides, manuscrit ou document Word possibles) et fixe une date d'antériorité. Mais tout élément ajouté ensuite ne bénéficie pas de cette date.
+  - Le droit d'auteur protège l'expression fixée d'une idée (vie de l'auteur + 70 ans). Il naît automatiquement et coûte peu, mais sa portée est plus étroite qu'un brevet. Il est utile pour le code, les bases de données et les compilations non brevetables. Le dessin ou modèle (« design patent ») protège l'aspect non fonctionnel pendant 15 ans après la délivrance. La marque désigne l'origine d'un produit (nom, image, son ; ex. noms de variétés végétales). Le secret commercial exige une valeur économique et des mesures de protection actives, et il est perdu dès qu'il est divulgué.
+  - Conseils pour les concours de pitch : ne divulguer que le nécessaire (bénéfices, résultats) et pas l'algorithme exact. Adapter le type de dépôt au stade de maturité : provisoire si l'idée va encore évoluer, non provisoire si les bases sont solides.
+  - IA et brevets : une invention qui utilise l'IA reste brevetable si on revendique un système ou un procédé (prétraitement, étapes spécifiques) qui est nouveau et non évident. Il faut aussi vérifier qu'on pourra détecter une contrefaçon : si le produit d'un concurrent est une « boîte noire », un brevet est peu utile.
+  - IA et confidentialité : utiliser des outils d'IA « entreprise » validés par l'université et vérifier les paramètres d'entraînement, car « ce qu'on entre peut ressortir ». Une IA ne peut être ni inventeur ni auteur, et poser seulement le problème ne fait pas de vous l'inventeur.
+  - Processus WARF : un formulaire de divulgation d'environ 10 minutes (idée, contributeurs, financements), confidentiel, puis une rencontre avec les inventeurs et une décision lors d'une réunion mensuelle. L'inventeur cède ses droits, WARF paie tous les frais de brevet, et la start-up de l'inventeur doit ensuite prendre une licence. Le processus de divulgation sert aussi à vérifier les obligations liées aux financements : une subvention fédérale (NIH) donne des droits au gouvernement.
+  - Logiciel libre : les licences « copyleft » ou virales (GPL) obligent à redistribuer sous la même licence et peuvent contenir des clauses de brevet. Les licences permissives (MIT, BSD) imposent peu d'obligations. Il faut éviter la GPL pour un produit propriétaire. Publier sur GitHub du code qui révèle l'algorithme constitue une divulgation publique.
+- Chiffres et faits cités :
+  - WARF soutient l'Université du Wisconsin-Madison depuis près de 100 ans [0:01]. Fondée en 1925 par Steenbock et neuf autres anciens élèves [3:13] [4:50].
+  - Licence du brevet vitamine D à Quaker Oats pour plus d'un million de dollars [4:50].
+  - Brevet : 20 ans à compter du dépôt aux États-Unis [7:15]. Publication à 18 mois [10:31].
+  - Obtention d'un brevet : entre 1,5 et 5 ans ou plus [11:18]. Brevet d'Apple déposé en 2012, délivré en 2017 [18:35].
+  - Coût : 5 000 à 10 000 $ pour déposer avec un conseil, puis environ 20 000 $ ou plus jusqu'à la délivrance, plus des frais de maintien [12:06].
+  - Délai de grâce d'un an aux États-Unis après une divulgation publique [14:32] [59:40]. Brevet provisoire valable un an [19:22].
+  - Droit d'auteur : vie de l'auteur + 70 ans [27:30]. Dessin ou modèle : 15 ans après la délivrance [31:33].
+  - Formulaire de divulgation d'environ 10 minutes, décision lors d'une réunion mensuelle [49:59] [54:51].
+- Exemples et cas concrets :
+  - Harry Steenbock : l'irradiation UV des aliments augmente leur teneur en vitamine D (lutte contre le rachitisme). L'université refuse de breveter, d'où la création de WARF [2:26]-[4:50].
+  - WARF a refusé des licences aux fabricants de margarine et aux compagnies de tabac : le brevet sert aussi à contrôler l'usage de l'invention.
+  - Contre-exemple de Babcock : son test du lait, non breveté, a été mal fabriqué par des industriels et sa réputation en a souffert.
+  - Revendication d'Apple sur un capteur d'empreintes, restreinte pendant l'examen. Litige Apple contre Samsung sur des dessins et modèles (bords du téléphone, interface).
+  - Recette de Coca-Cola (secret commercial). Poids des modèles d'IA générative protégés par le secret plutôt que par le brevet.
+  - Des mathématiciens auraient vu un problème résolu par un tiers après avoir soumis leur manuscrit à une IA publique (anecdote rapportée).
+  - Programmes WARF : un accélérateur (financement de laboratoires) et une branche de capital-risque qui investit dans les start-ups de l'UW-Madison.
+- Citations fortes :
+  - « Le meilleur moment pour venir nous voir, c'est avant que ce soit public. Le pire que nous puissions vous dire, c'est qu'il est trop tôt. » [48:22]
+  - « L'IA est un outil : ne lui cédez pas votre propriété intellectuelle. » [43:36]
+  - « La propriété intellectuelle vous aide à exploiter votre invention et vous donne aussi la possibilité d'en contrôler l'usage. » [4:50]-[5:38]
+- Utilisation possible par HSA :
+  - Module de cours « PI 101 pour chercheurs » : les quatre formes de PI, les critères de brevetabilité et l'anatomie d'un brevet.
+  - Post : « Publier ou breveter ? En Afrique comme en Europe (OAPI), la nouveauté absolue s'applique : il n'y a pas de délai de grâce comme aux États-Unis. » Ce point reste à vérifier pour l'OAPI avant publication.
+  - Fiche pratique « IA générative et confidentialité des résultats de recherche ».
+  - Le récit Steenbock-WARF est un bon récit fondateur pour expliquer la création d'une structure de valorisation autonome.
+- Mots-clés : définitions, propriété intellectuelle et brevets, rôle du bureau de transfert, détection d'inventions, licences, spin-offs et start-ups, financement et maturation, politique publique (Bayh-Dole, etc.)
+
+## IP Series #1 Understanding the Tech Transfer Process
+- Source : Center for Technology Licensing (CTL) at Cornell University, 2 oct. 2023, https://www.youtube.com/watch?v=-TOJRftW-rA, États-Unis
+- Intervenant(s) et fonction : les noms sont mal reconnus par la transcription automatique.
+  - Linda K. : directrice adjointe des initiatives technologiques et de la sensibilisation, CTL.
+  - Chris Valentine : spécialiste de la sensibilisation à l'innovation.
+  - Bill Peg : directeur de la propriété intellectuelle, avocat en brevets avec plus de 20 ans d'exercice, au CTL depuis plus de 4 ans.
+  - Martin Tel : directeur du développement commercial et des licences, sciences physiques.
+  - Lisa Panic(a) : directrice générale principale du CTL pour le campus médical, Weill Cornell Medicine.
+- Pertinence pour le sujet : forte. Présentation complète d'un bureau de transfert universitaire américain : mission, chiffres, chaîne de valeur, Bayh-Dole, bases de la PI, qualité d'inventeur, commercialisation et fonds d'amorçage (« gap funding »).
+- Idées clés :
+  - Mission double du CTL : catalyser la commercialisation des technologies universitaires au bénéfice de la société, et promouvoir les start-ups pour le développement économique.
+  - Quatre piliers : licences et PI, soutien aux start-ups (licence express « FastTrack », mise en relation avec des investisseurs), éducation et sensibilisation, et financement d'amorçage (programme Ignite, lancé en 2014).
+  - Cycle de commercialisation : recherche et idéation, déclaration d'invention, évaluation, protection, marketing et licence, puis produit ou service porté par une entreprise existante ou une start-up. Les revenus sont réinvestis dans la recherche et partagés avec les inventeurs.
+  - Pourquoi l'université possède la PI : elle est créée dans le cadre de l'emploi, avec des fonds et des équipements universitaires. Bayh-Dole (1980) a transféré aux universités la propriété des inventions financées sur fonds fédéraux. Les autres motivations sont d'attirer et retenir les talents, d'augmenter la recherche financée et de renforcer les liens avec l'industrie. Collaborer avec le CTL ne présente aucun risque financier pour le chercheur : l'université paie tout.
+  - Obligations Bayh-Dole : commercialisation diligente, préférence aux petites entreprises, fabrication substantielle aux États-Unis, partage des revenus avec les inventeurs, licence réservée au gouvernement américain et transactions à des conditions de marché (« arm's length »).
+  - Un brevet est un monopole légal accordé en échange de la divulgation publique. Il donne le droit d'interdire, pas le droit d'exploiter : on peut avoir besoin d'une licence croisée si l'on dépend d'un brevet antérieur.
+  - Brevetabilité aux États-Unis : quatre catégories (procédé, machine, produit manufacturé, composition de matière), plus les exclusions jurisprudentielles (lois de la nature, produits de la nature, idées abstraites). La frontière est devenue floue avec le logiciel et l'IA. S'y ajoutent la nouveauté, la non-évidence, la description écrite, la suffisance (facteurs « Wands ») et le meilleur mode de réalisation.
+  - Le CTL déconseille le dépôt provisoire bâclé. Cycle type : recherche d'antériorité, dépôt provisoire, PCT ou demande non provisoire à 12 mois, puis déclaration obligatoire de l'état de la technique connu (« IDS »), examen de 2 à 5 ans et taxes de maintien. Il faut lancer la rédaction au moins un mois avant l'échéance.
+  - La qualité d'inventeur est une détermination juridique, distincte de celle d'auteur d'un article. Il faut avoir contribué à la conception d'au moins une revendication. Superviser une équipe ou exécuter des tâches ne suffit pas. La liste des inventeurs peut changer si les revendications évoluent.
+  - Divulgation publique : un dépôt sur arXiv ou bioRxiv, une affiche, une soutenance de thèse ou une conférence sans accord de confidentialité ferme les dépôts à l'étranger (nouveauté absolue). Il faut contacter le bureau de transfert avant de publier.
+  - Évaluation commerciale : taille du marché et obstacles, en dialogue avec les inventeurs, des entreprises, des entrepreneurs et des investisseurs. Le brevet n'est pas fait pour exclure : il donne au partenaire une raison d'investir dans le développement.
+  - Marketing : des fiches d'une page (« teasers »), le réseautage, le web, les réseaux sociaux, l'e-mailing, des partenaires stratégiques, des doctorants stagiaires pour les études de marché, un comité trimestriel de conseillers venus de l'industrie (Cornell Innovation and Venture Advisors), les anciens élèves et les incubateurs.
+  - Le rôle de l'inventeur est central : la plupart des licences se font avec des start-ups fondées par les inventeurs ou avec des entreprises présentées par leurs réseaux. En conférence, le chercheur doit aussi « prospecter » pour son invention.
+- Chiffres et faits cités :
+  - Dépenses de recherche de Cornell : 1,8 milliard de dollars pour l'exercice 2022 [3:24].
+  - 400 à 500 déclarations d'invention par an. Exercice 2022 : 79 (vraisemblablement des brevets américains délivrés) [5:04]. 90 accords de licence et d'option, et 36 millions de dollars de revenus [5:52]. Le nombre de start-ups est mal transcrit (« une startup (formulaire 12) »), probablement 12.
+  - Programme Ignite lancé en 2014 [7:32]. 11 start-ups issues du financement d'amorçage, dont 8 dans l'État de New York [8:21].
+  - Les start-ups sous licence Cornell ont levé 500 millions de dollars (sur la période récente) [9:09]. Plus de 230 start-ups créées, dont plus de 100 actives, pour 3 milliards de dollars levés au total [9:09].
+  - Stage pratique : au moins 9 mois, jusqu'à 10 h par semaine [11:36]. Bourse d'innovation : un an à temps plein au CTL [12:24].
+  - Avant Bayh-Dole, moins de 5 % des plus de 30 000 brevets détenus par le gouvernement fédéral étaient concédés sous licence, et une douzaine d'institutions seulement avaient un bureau de transfert [19:37].
+  - Plus de 200 médicaments et vaccins développés depuis 1980 grâce aux partenariats public-privé, dont le vaccin contre le COVID-19 [20:25].
+  - Un tiers des revenus nets reversé aux inventeurs à titre personnel (politique de Cornell) [21:59].
+  - Brevet : 20 ans à compter du dépôt (contre 17 ans auparavant) [26:57]. Les demandes sont rejetées au premier examen « dans 99,99 % des cas », selon l'intervenant [31:58].
+  - Examen de 2 à 5 ans, environ 2 ans avant la première notification [39:32]. Taxes de maintien à 4, 8 et 12 ans [40:21].
+  - Dépôt provisoire puis non provisoire américain : environ 25 000 $ sur 3 à 5 ans [41:13].
+  - Environ 80 % des licences universitaires vont à des start-ups ou à des entreprises présentées par les chercheurs (estimation anecdotique) [53:51].
+  - Ignite : 10 à 12 subventions d'accélération par an. 5 à 7 bourses par an pour recruter de futurs PDG ou directeurs techniques. Jusqu'à 50 000 $ versés sous forme de SAFE (participation future) à la création de la start-up. Jusqu'à 10 stagiaires financés [57:53]-[58:42].
+- Exemples et cas concrets :
+  - Marques de Cornell : « Ruby Frost » (pomme) et « Snapdragon » [28:38].
+  - Amgen contre Sanofi (Cour suprême) : 26 anticorps anti-PCSK9 décrits ne suffisent pas pour revendiquer tout le genre, car il faudrait une expérimentation excessive [35:15].
+  - Politiques de PI de Cornell : 1.5 (inventions), 4.10 (marques et logos), 4.15 (droit d'auteur).
+  - Partenariat avec le Tri-Institutional Therapeutics Discovery Institute (Cornell, Rockefeller, Memorial Sloan Kettering). Cours crédité de pharmacologie où des doctorants travaillent sur de vraies déclarations d'invention.
+- Citations fortes :
+  - « Avant Bayh-Dole, 95 % de ce que produisait la recherche financée restait inexploité : l'argent du contribuable ne se transformait pas en produits utiles à la société. » [19:37]
+  - « Un brevet ne vous donne pas le droit d'exploiter votre invention, mais celui d'empêcher les autres de le faire. » [26:05]
+  - « Quand un inventeur va en conférence, il n'est pas seulement un scientifique qui parle à ses pairs : il peut aussi nous aider à créer des liens avec l'industrie. » [54:37]
+- Utilisation possible par HSA :
+  - Étude de cas « anatomie d'un bureau de transfert performant » pour les universités africaines : piliers, équipes et indicateurs (déclarations, licences, start-ups, revenus).
+  - Argumentaire politique : la logique Bayh-Dole (moins de 5 % de brevets exploités avant la loi) transposée aux États africains qui financent la recherche publique.
+  - Module « Qui est inventeur ? » pour éviter les conflits dans les équipes.
+  - Post : « Votre préprint peut tuer votre brevet ».
+  - Modèle à reproduire : stages de doctorants et bourses d'entrepreneurs.
+- Mots-clés : rôle du bureau de transfert, définitions, détection d'inventions, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation, politique publique (Bayh-Dole, etc.), mesure d'impact, carrière du chercheur
+
+## Professor Scott Shane: "Academic Entrepreneurship: University Spin-offs and Wealth Creation"
+- Source : University Industry Innovation Network (UIIN), 3 déc. 2015, https://www.youtube.com/watch?v=rMFCKaTckgI, États-Unis (conférence internationale)
+- Intervenant(s) et fonction : Scott Shane, professeur d'études entrepreneuriales à la Case Western Reserve University, auteur de *The Illusions of Entrepreneurship* (2008), lauréat du principal prix mondial de recherche en entrepreneuriat. Questions de Bryan (Université du Maryland), Jeff (Université d'Utrecht) et d'autres participants.
+- Pertinence pour le sujet : forte. Synthèse issue de la recherche sur les conditions de réussite des spin-offs universitaires (université, technologie, PI, inventeur, stratégie), avec un échange explicite sur les universités sans recherche de premier rang, comme en Afrique.
+- Idées clés :
+  - Définition : une spin-off (« spin-out » au Royaume-Uni) est une entreprise créée pour exploiter une PI détenue par l'université. C'est un sous-ensemble de l'entrepreneuriat académique : pour une spin-off, deux universitaires créent une entreprise sans PI universitaire.
+  - Pourquoi les soutenir : elles exploitent des technologies que les grandes entreprises délaisseraient (division du travail). Elles rapportent plus à l'université via les participations au capital que les licences via les redevances. Elles créent des emplois qualifiés, structurent des pôles (« Silicon Valley », « Silicon Glen ») et attirent le capital-risque.
+  - Moteurs de la croissance aux États-Unis : Bayh-Dole (1980), l'extension de la brevetabilité (matériel génétique, logiciels, méthodes commerciales), la part croissante du biomédical et un « effet de contagion » d'un laboratoire à l'autre : les étudiants de laboratoires entrepreneurs créent à leur tour des entreprises.
+  - Ce qui fait qu'une université crée plus de spin-offs :
+    - une recherche de tout premier rang (relation non linéaire : la recherche de second rang se licencie, mais ne crée pas de spin-offs) ;
+    - des financements industriels ;
+    - l'autorisation de prendre des participations (equity contre paiement des frais de brevet) ;
+    - une part modérée des redevances pour l'inventeur (une part trop élevée dissuade de créer une entreprise) ;
+    - des licences exclusives ;
+    - une collecte proactive des déclarations d'invention.
+  - Seules environ 10 % des inventions universitaires brevetées se prêtent à une spin-off. Il faut réunir la bonne technologie, la bonne PI et le bon inventeur.
+  - La bonne technologie :
+    - un saut d'un ordre de grandeur, pas une amélioration de 2 % ;
+    - radicale ou disruptive (une innovation incrémentale est captée par les acteurs en place) ;
+    - précoce et risquée, avec un savoir tacite de l'inventeur ;
+    - une plateforme polyvalente qui permet de pivoter ;
+    - autonome (comme un médicament, contrairement à une pièce de moteur) ;
+    - un secteur jeune, segmenté et fragmenté, où les brevets sont efficaces (chimie, pharmacie) et où les actifs complémentaires (distribution, production) comptent peu.
+  - La bonne PI : des brevets, pas des secrets (l'université ne sait pas garder un secret, et le secret empêche de publier). Idéalement un brevet large de composition de matière, dans un espace peu encombré (pour éviter les procès en contrefaçon qui tuent une start-up) et avec un titre de propriété incontestable (attention aux cofondateurs venus de plusieurs universités).
+  - La bonne stratégie : viser un marché de plusieurs milliards (pas de 10 à 20 millions), se concentrer sur un seul marché, renforcer le portefeuille de PI, constituer une équipe complémentaire, garder l'inventeur impliqué, lever des fonds par le réseau (pas auprès d'inconnus) et utiliser les fonds publics non dilutifs, car les investisseurs fuient les horizons trop lointains.
+  - Le bon inventeur : une expérience préalable de création d'entreprise, de l'industrie ou du développement de produits, des relations avec l'industrie, des investisseurs et des dirigeants, un esprit d'équipe et une bonne communication (les responsables de licences écartent les inventeurs « difficiles »). Il doit vouloir créer un produit qui répond à un besoin, pas « faire plus de science », et accepter de céder du capital et du contrôle. Il est plutôt directeur technique que PDG.
+  - Effets pervers : la recherche s'oriente vers ce qui est commercialisable (inquiétude de la Fondation Gates pour les maladies des pays en développement), les départements rentables sont favorisés, la publication est retardée d'environ 6 mois, les chercheurs partagent moins leurs outils, et les conflits d'intérêts se multiplient (doctorants partagés entre laboratoire et start-up).
+  - Pour les universités sans recherche de premier rang (question explicite sur l'Afrique et l'Amérique latine) : identifier les niches où l'institution excelle et y investir, construire ce leadership sur le long terme (modèle de l'Université nationale de Singapour : former à l'étranger et faire revenir), ou admettre que les spin-offs ne sont pas la seule voie pour créer des entreprises à succès.
+- Chiffres et faits cités :
+  - Enquête auprès d'environ 12 000 universitaires américains : environ un tiers des créateurs d'entreprise s'appuient sur la PI de l'université [5:06].
+  - La capitalisation de Google n'est dépassée que par 14 entreprises (en 2015) [8:24].
+  - Création de spin-offs en croissance quasi linéaire depuis 1980, l'un des rares indicateurs entrepreneuriaux à n'avoir pas chuté pendant la Grande Récession [9:12].
+  - Environ 10 % des inventions universitaires brevetées se prêtent à une spin-off [15:53].
+  - Les entrepreneurs universitaires retardent leurs publications d'environ 6 mois [35:19].
+  - Quelques milliers de spin-offs par an aux États-Unis, contre 1 à 2 millions de créations d'entreprises, et environ 100 introductions en bourse par an [39:19]. Une bonne dizaine de pour cent des spin-offs entrent en bourse, soit un ordre de grandeur de plus que la moyenne [40:07].
+  - Un participant cite 10 % des redevances pour les inventeurs à Caltech et 60 % offerts par KAUST [40:57].
+  - La nouvelle entreprise américaine typique compte 1 salarié et réalise environ 7 000 $ de chiffre d'affaires par an, contre environ 80 000 $ pour une petite entreprise établie (données de la Réserve fédérale) [42:35].
+- Exemples et cas concrets :
+  - Spin-offs universitaires célèbres : Chiron, Genentech, Cirrus Logic, HP, Lycos, Google (Stanford).
+  - Impression 3D du MIT : Boeing et United Technologies avaient un droit de premier refus et ont décliné. Des spin-offs en ont tiré des filtres pour centrales à charbon, des microcapsules et des maquettes d'architectes [19:06].
+  - Bob Langer (MIT, une dizaine d'entreprises introduites en bourse) associé à l'investisseur Terry McGuire : une équipe complémentaire. Contre-exemple d'un directeur de département du MIT qui confiait la gestion de l'entreprise à un doctorant.
+  - Université nationale de Singapour : stratégie de montée en excellence.
+- Citations fortes :
+  - « Un article de plus dans Science ou Nature n'a jamais fait entrer une entreprise en bourse : ce qui compte, c'est un produit qui répond à un besoin. » [32:01]
+  - « On ne peut pas transférer une technologie universitaire sans impliquer l'inventeur : il détient un savoir tacite considérable. » [26:21]
+  - « Si votre objectif est d'occuper les gens, les spin-offs ne sont pas la solution. Si vous cherchez des entreprises à fort impact, leurs chances sont bien plus élevées que celles d'une start-up moyenne. » [40:07]
+- Utilisation possible par HSA :
+  - Module « Ma recherche peut-elle devenir une spin-off ? » : grille d'auto-évaluation technologie / PI / inventeur / marché tirée des critères de Shane.
+  - Argument de politique publique pour les universités africaines : autoriser les participations au capital, les licences exclusives et une collecte active des inventions, et calibrer le partage des redevances.
+  - Post sur les « effets pervers » à anticiper (orientation de la recherche, retard de publication).
+  - La réponse sur l'Afrique (miser sur les niches d'excellence comme la médecine traditionnelle, retour des diasporas formées) est un angle de livre blanc.
+- Mots-clés : spin-offs et start-ups, définitions, propriété intellectuelle et brevets, licences, financement et maturation, politique publique (Bayh-Dole, etc.), carrière du chercheur, Afrique, partenariats industrie
+
+## #ScienceÀlOreille Recherche, innovation et propriété intellectuelle en Afrique
+- Source : African Science Communication Agency (ASCA), 26 avr. 2026 (Journée mondiale de la propriété intellectuelle), https://www.youtube.com/watch?v=RHa_JVWwAxA, Afrique francophone (Côte d'Ivoire)
+- Intervenant(s) et fonction :
+  - Jean-Philippe Za (orthographe incertaine : Za, Zya ou Ze) : consultant expert en propriété intellectuelle, innovation, transfert de technologie et documentation scientifique. Consultant pour un programme de l'OMPI en faveur des pays en développement, il appuie l'Office ivoirien de la propriété intellectuelle (OIPI) sur des projets avec les universités et les lycées techniques. Secrétaire du jury du salon Abidjan Innova (Fondation Africa Innova). Enseignant vacataire dans deux universités ivoiriennes.
+  - Animateur : Emmanuel Dabo.
+- Pertinence pour le sujet : forte. C'est un entretien de vulgarisation sur la PI en contexte ivoirien et africain (OAPI, OIPI, BURIDA, points valorisation des universités). Il est directement transposable au public de HSA.
+- Idées clés :
+  - La PI désigne l'ensemble des œuvres de l'esprit matérialisées et les droits qui s'y attachent. Elle est mentionnée à l'article 27 de la Déclaration universelle des droits de l'homme. Tout ce qui nous entoure au quotidien en est le fruit.
+  - En Afrique, les plaintes du type « on m'a volé mon idée » viennent d'abord d'un manque de connaissances : la PI n'est pas ancrée dans les mœurs. Les organisations régionales et nationales multiplient toutefois les initiatives.
+  - La PI a deux branches.
+    - La propriété industrielle (brevets, marques de produits et de services, dessins et modèles, circuits intégrés, indications géographiques) exige un dépôt et le respect de conditions. Le titre est territorial : un brevet obtenu en Côte d'Ivoire vaut dans tout l'espace OAPI, mais il faut déposer ailleurs pour les autres pays.
+    - La propriété littéraire et artistique (droit d'auteur) est automatique, sans formalité, et mondiale. Pour percevoir ses droits, l'artiste s'enregistre auprès d'un organisme de gestion collective (le BURIDA en Côte d'Ivoire).
+  - Le système est coordonné au niveau mondial par l'OMPI à travers des traités, puis décliné par les organisations régionales (OAPI) et les lois nationales (en Côte d'Ivoire, une loi de 2016 a remplacé celle de 1996 en droit d'auteur).
+  - Protéger ne suffit pas : un titre non valorisé (création d'entreprise, mise sur le marché) est un investissement perdu, car la propriété industrielle a un coût. Il faut tout un écosystème.
+  - Les écosystèmes des pays industrialisés (États-Unis, Europe, Chine) sont structurés depuis des siècles. En Afrique, « le minimum existe » mais beaucoup reste à faire.
+  - L'OIPI, qui représente l'OAPI en Côte d'Ivoire, est décrit comme proactif : il sensibilise et forme avec l'appui de l'OMPI et de partenaires, accompagne les dépôts et relaie les opportunités des programmes internationaux.
+  - Les « points valorisation » des universités et centres de recherche sont les interlocuteurs de l'OIPI. Formés par l'office, ils font l'intermédiation avec les chercheurs. C'est aussi une source d'emplois pour les jeunes.
+  - Intérêt pour le chercheur : la publication permet la valorisation scientifique et l'avancement (CAMES). La valorisation économique (produits, start-ups) peut rapporter davantage, sans abandonner la carrière.
+  - Conseil aux institutions : examiner le potentiel innovant des thèses et mémoires avant les soutenances publiques. Beaucoup de résultats ont été divulgués sans analyse préalable.
+  - Les indications géographiques valorisent les produits du terroir ivoirien.
+- Chiffres et faits cités :
+  - Technologie ougandaise de conservation de la banane plantain pendant 6 mois [23:00].
+  - Journée mondiale de la PI instituée en 2000 par les États membres de l'OMPI, célébrée le 26 avril. Thème de l'année : la PI et le sport [27:10]-[28:03].
+  - Loi ivoirienne sur le droit d'auteur de 2016, qui remplace celle de 1996 [11:06].
+- Exemples et cas concrets :
+  - Un professeur ougandais (nom mal transcrit, « George Biarou Gaba »), formé en biotechnologie en Afrique du Sud et présenté comme président du conseil national de la recherche scientifique de l'Ouganda. Il a isolé les enzymes responsables du pourrissement de la banane, ce qui permet de la conserver 6 mois. Il valorise tout le bananier : vin, sirop, biogaz à partir des peaux, sacs, charbon écologique. Il a créé une fondation qui forme des start-ups et de nombreux emplois [22:08]-[24:37].
+  - Salon Abidjan Innova (créé par la Fédération des inventeurs, aujourd'hui porté par la Fondation Africa Innova).
+  - Indications géographiques ivoiriennes : l'attiéké est cité (un autre produit est mal transcrit) [18:39].
+  - BURIDA (Bureau ivoirien du droit d'auteur).
+- Citations fortes :
+  - « Aucun pays développé n'a réussi son développement en négligeant les questions de propriété intellectuelle. » [28:56]
+  - « Avoir un titre de propriété intellectuelle et s'arrêter là sans le valoriser, c'est un investissement perdu, car ce n'est pas gratuit. » [16:08]
+  - « Faites attention à toutes les thèses et à tous les mémoires soutenus dans nos universités : il y a énormément de potentiel derrière, souvent divulgué en soutenance publique sans analyse. » [25:27]
+- Utilisation possible par HSA :
+  - Module d'introduction « La PI en Côte d'Ivoire : OAPI, OIPI, BURIDA, qui fait quoi ? ».
+  - Post du 26 avril.
+  - Fiche « Avant votre soutenance de thèse : vérifiez le potentiel brevetable ».
+  - Le cas ougandais de la banane est un récit inspirant d'un chercheur entrepreneur africain.
+  - Un plaidoyer pour des « points valorisation » formés dans chaque université. HSA peut se positionner comme relais des opportunités de l'OMPI.
+  - Intervenant potentiel pour un webinaire HSA.
+- Mots-clés : définitions, propriété intellectuelle et brevets, Afrique, politique publique (Bayh-Dole, etc.), rôle du bureau de transfert, détection d'inventions, spin-offs et start-ups, carrière du chercheur
+
+## Research Valorisation | Supporting valorisation and commercialisation in the university
+- Source : University Industry Innovation Network (UIIN), 1 juil. 2024, https://www.youtube.com/watch?v=3vPfPRd0h50, Europe (Royaume-Uni, réseau européen), avec un regard néerlandais et australien
+- Intervenant(s) et fonction : noms approximatifs, tels que la transcription les rend.
+  - Sarah Jabber : responsable du développement commercial à l'UIIN, animatrice.
+  - « Yeti Van… » : fondatrice de « Care for Impact » (Pays-Bas). Ancienne scientifique, inventrice, responsable du transfert de technologie et entrepreneure, aujourd'hui coach. Travaille pour le partenariat public-privé NeuroControl.
+  - Marguerite Evans-Galea (transcrit « Margaret Evans Gallia ») : directrice générale de l'Industry Mentoring Network in STEM (IMNIS, rattaché à l'ATSE) et cofondatrice de Women in STEM Australia.
+  - Chris Fellingham : responsable des sciences sociales et humaines à Oxford University Innovation et directeur fondateur de l'accélérateur ARC.
+- Pertinence pour le sujet : forte. Table ronde sur la culture de valorisation, les processus de spin-off, les entreprises sociales issues des SHS, le mentorat avec l'industrie et la carrière des jeunes chercheurs.
+- Idées clés :
+  - La « valorisation » met l'accent sur la création de valeur et d'impact à partir de la recherche, pas forcément sur la valeur commerciale directe.
+  - Le blocage principal aux Pays-Bas : les débats sur les conflits d'intérêts, les aides d'État et la « cupidité » des universités dans leurs licences aux start-ups ralentissent ou tuent des projets. Solution proposée : réunir université, chercheur, entrepreneur et investisseur dans une démarche de co-création autour de l'invention, avec des objectifs communs, au lieu du réflexe « détecter, protéger, licencier ». Il faut aussi de la flexibilité, sans se retrancher derrière les règles.
+  - La culture entrepreneuriale fait le gros du travail : elle sélectionne les candidats et rend l'entrepreneuriat désirable. Des modèles de pairs, la « saine envie » et l'émulation (« si mon collègue a levé des fonds, moi aussi ») sont plus efficaces que le démarchage généraliste.
+  - En SHS, l'absence d'exemples de pairs bloque (« tous ceux qui l'ont fait sont des scientifiques, ce n'est pas pour moi »). Les SHS doivent cesser de voir la commercialisation comme un « gros mot ».
+  - Un processus de spin-off formel, transparent et publié en ligne est décisif. Les comités opaques qui prennent 2 à 3 ans démotivent, surtout en SHS où la PI tangible manque et où il faut d'autant plus chercher son marché.
+  - Oxford autorise officiellement depuis environ 5 ans les entreprises sociales (finalité sociale ou environnementale avant le profit). Plus de 60 % des porteurs de projets en SHS ont choisi cette forme. Sans cet outil, ces projets n'auraient pas existé.
+  - La première motivation des chercheurs qui collaborent avec l'extérieur est presque toujours d'avoir un impact positif.
+  - Mentorat entre l'industrie et les jeunes chercheurs (IMNIS) : un an de mentorat, de développement professionnel et de réseautage entre doctorants ou jeunes chercheurs et des dirigeants de l'industrie. Cela crée confiance et respect, réduit l'intimidation à contacter un PDG, et apprend à présenter un calendrier et un budget. Les mentors découvrent aussi les contraintes universitaires.
+  - Les stages en entreprise pour les doctorants et les étudiants de master (programme Ignite, 3 mois) sont orientés vers la stratégie et l'innovation, alors que les entreprises ciblent d'ordinaire les étudiants de licence.
+  - Les accords de PI et les accords de transfert de matériel (MTA) bloqués sont l'une des principales critiques de l'industrie et du monde académique. Les universités manquent de stratégie d'engagement avec l'industrie.
+  - Bonne pratique peu coûteuse : un stage interne dans l'équipe de valorisation de l'établissement, où les jeunes chercheurs consacrent 20 % de leur temps à leur propre projet (préparation du pitch, formations par des experts en brevets, accès aux bases de brevets).
+  - Les universités ont un « devoir de diligence » envers les postdoctorants : c'est « l'entonnoir percé », car la majorité ne fera pas carrière dans l'académie. L'entrepreneuriat développe des compétences transférables, même sans créer d'entreprise.
+  - Freins de carrière : l'évaluation par les publications, les subventions et le facteur d'impact décourage la valorisation. Aux Pays-Bas, la valorisation est devenue une mission principale des universités, au même titre que l'enseignement et la recherche. Les compétences entrepreneuriales (prise de risque, gestion de projet, action) rendent aussi meilleur scientifique.
+- Chiffres et faits cités :
+  - Oxford a créé sa première entreprise dans les années 1950 [5:41].
+  - Certaines universités britanniques mettent 2 à 3 ans à décider d'une spin-off [9:41].
+  - Entreprises sociales autorisées à Oxford depuis environ 5 ans, et plus de 60 % des chercheurs en SHS veulent en créer une [10:29].
+  - Plus de 70 % des binômes de mentorat IMNIS restent en contact plus de 5 ans [13:40].
+  - Plus de 800 dirigeants d'entreprise engagés et 1 300 anciens participants [15:19].
+  - Stage Ignite de 3 mois [14:30]. 20 % du temps dédié au projet dans le stage interne de valorisation [19:34].
+  - Programme britannique ICURe (transcrit « IQ » ou « IURE »), financé par les conseils de la recherche, qui « rachète » le temps du chercheur : environ 20 000 £ pour 5 mois à temps plein, exclusivement consacrés à la start-up [23:42].
+- Exemples et cas concrets :
+  - Division des sciences médicales d'Oxford : culture entrepreneuriale forte et émulation.
+  - Accélérateur ARC (SHS, Oxford).
+  - IMNIS et Ignite (Australie, Académie des technologies et de l'ingénierie, ATSE).
+  - Financements fédéraux australiens transitant par un centre de croissance industrielle, créant un guichet unique national (bourses de recherche intégrées à l'industrie, mentorat, formation à la commercialisation, canal Slack commun).
+  - Partenariat public-privé NeuroControl (Pays-Bas).
+  - Vecteurs lentiviraux pour la thérapie génique : un exemple de technologie qui exige de nombreuses licences.
+- Citations fortes :
+  - « Le plus efficace n'est pas de convaincre les chercheurs un par un, mais d'utiliser la saine émulation entre pairs : s'il l'a fait, pourquoi pas moi ? » [7:16]-[8:06]
+  - « Ce sont toujours les personnes qui font la recherche et l'innovation : elles ont besoin d'être connectées et d'avoir les compétences et le savoir-faire. » [12:52]
+  - « Je suis devenue une meilleure scientifique en travaillant aussi sur le côté entrepreneurial de mon projet. » [25:18]
+- Utilisation possible par HSA :
+  - Argument central pour le réseau social HSA : la culture et les modèles de pairs. Mettre en avant des chercheurs africains, y compris en SHS, qui ont créé une start-up ou une entreprise sociale.
+  - Module « Valoriser les SHS : l'entreprise sociale comme véhicule ».
+  - Plaidoyer pour des processus de spin-off publiés et rapides dans les universités africaines.
+  - Programme HSA de mentorat entre chercheurs et industriels inspiré d'IMNIS.
+  - Post « L'entonnoir percé : 9 doctorants sur 10 ne seront pas professeurs, préparez-les ». Ce ratio est un cadrage HSA, pas un chiffre de la vidéo.
+- Mots-clés : SHS et impact, spin-offs et start-ups, rôle du bureau de transfert, partenariats industrie, carrière du chercheur, définitions, politique publique (Bayh-Dole, etc.), financement et maturation
+
+## Les FABLABS de l'INP-HB : moteur de l'innovation en Côte d'Ivoire
+- Source : Agence Ecofin, 12 nov. 2025, https://www.youtube.com/watch?v=psQ8eig9lms, Côte d'Ivoire
+- Intervenant(s) et fonction : les intervenants ne sont pas nommés dans la transcription. Il s'agit de responsables des fablabs et de l'incubateur central de l'Institut national polytechnique Félix Houphouët-Boigny (INP-HB, Yamoussoukro).
+- Pertinence pour le sujet : moyenne. C'est un reportage sur l'infrastructure d'incubation et de prototypage d'une grande école ivoirienne, avec ses partenaires de financement et de PI. Il traite plus d'entrepreneuriat que de transfert de résultats de recherche au sens strict, mais il annonce une technopole de transfert vers l'industrie.
+- Idées clés :
+  - Objectif de l'INP-HB : former des diplômés qui créent des entreprises et des emplois. Les fablabs assurent l'accompagnement technique, et l'incubateur central gère tous les autres aspects de la start-up (formation, hébergement, levée de fonds).
+  - L'accompagnement va de l'idéation jusqu'à la maturité. La progression du projet est mesurée sur l'échelle TRL (Technology Readiness Level). Le projet « sort » du fablab une fois mûr.
+  - Les fablabs thématiques sont ouverts aux étudiants et à toute personne extérieure qui a une idée : numérique et TIC (imprimantes 3D, graveurs laser, gravure sur bois), chimie (fabrication de produits, valorisation des déchets), bâtiment et travaux publics (logiciels de dessin technique et de dimensionnement), agro-industrie et agritech (technologies de récolte et outils numériques).
+  - L'incubateur fournit des experts encadrants, des espaces de coworking (ordinateurs, internet) et des bureaux privatifs avec domiciliation. Les projets sont sélectionnés sur leur fort impact économique et social, ce qui sert ensuite d'argument pour lever des fonds.
+  - Partenaires nationaux :
+    - l'Office ivoirien de la propriété intellectuelle (OIPI), pour la PI ;
+    - des fonds de financement de projets (transcrits « FONI » et « FIRK », probablement le FONSTI et le FIRCA, à vérifier) ;
+    - une banque partenaire (transcrite « BCC ») ;
+    - le ministère de la Promotion de la jeunesse et de l'insertion professionnelle (financements via des concours).
+  - Partenaire international : la GIZ (coopération allemande).
+  - Les fablabs renforcent aussi l'enseignement (cours, travaux pratiques) et sont ouverts 24 h/24. Les étudiants participent à leur gestion.
+  - L'entrepreneuriat est enseigné dans quasiment toutes les écoles de l'INP-HB, qui propose aussi un master spécialisé en innovation et entrepreneuriat. Des concours internes et sous-régionaux (valorisation des déchets) et des hackathons sont organisés régulièrement.
+  - Prochaine étape, la technopole : passer du laboratoire à l'échelle industrielle, avec de grands champs expérimentaux, des mini-industries pour les start-ups et l'accueil de centres de R&D de grandes entreprises. L'ambition est de faire des incubés des « champions nationaux », voire sous-régionaux.
+- Chiffres et faits cités : aucun chiffre précis, à part l'ouverture des fablabs 24 h/24 [7:52].
+- Exemples et cas concrets :
+  - Marcelin : développe une voiture « made in Côte d'Ivoire » avec un moteur de sa conception. Le prototype est amélioré grâce aux financements des partenaires [6:59].
+  - M. Atta : système de purification de l'eau en cours d'affinage pour une commercialisation en zones rurales [7:52].
+- Citations fortes :
+  - « L'idée, c'est de pouvoir transférer les technologies qu'on développe dans les laboratoires au niveau industriel, donc à l'échelle. » [0:00] / [10:31]
+  - « Il n'y a de limite que l'imagination du startuper. » [3:32]
+- Utilisation possible par HSA :
+  - Cartographie de l'écosystème ivoirien de valorisation : l'INP-HB comme acteur, ses partenaires (OIPI, fonds publics, GIZ).
+  - Exemple local pour un module « Du labo au marché : TRL et maturation ».
+  - Post sur les fablabs comme outil de preuve de concept.
+  - Partenariat potentiel entre HSA et l'incubateur de l'INP-HB, par exemple pour mettre en avant ses incubés sur la plateforme.
+- Mots-clés : Afrique, spin-offs et start-ups, financement et maturation, partenariats industrie, propriété intellectuelle et brevets
+
+## Valorisation des Résultats de Recherche (VRR) / Pr Louis Sawadogo
+- Source : ANRSI (chaîne « Anrsi »), 14 déc. 2022, https://www.youtube.com/watch?v=-ShpuabPOJo, Afrique francophone (Burkina Faso)
+- Intervenant(s) et fonction : Pr Louis Sawadogo, responsable depuis 2018 de l'Agence nationale de valorisation des résultats de la recherche et des innovations (ANVAR) du Burkina Faso, rattachée au ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation. Il s'exprime oralement, sans support, lors d'une conférence régionale.
+- Pertinence pour le sujet : forte. Il décrit le dispositif institutionnel national de valorisation d'un pays d'Afrique de l'Ouest (loi, stratégie, agence, outils).
+- Idées clés :
+  - Constat de départ : au Burkina Faso (CNRST et universités), la plupart des chercheurs font de la recherche « pour se valoriser eux-mêmes », c'est-à-dire pour l'avancement au CAMES et donc le salaire, tandis que les résultats « dorment dans les tiroirs ».
+  - Le cadre politique est fixé par la loi d'orientation de la recherche scientifique et de l'innovation (LORSI). Elle crée un Haut Conseil de la recherche scientifique et de l'innovation, qui donne les orientations, et une agence de valorisation, courroie de transmission entre la recherche et la valorisation.
+  - La stratégie nationale de valorisation des technologies, inventions et innovations (SNVTII) encadre toute la valorisation, publique comme privée (universités, instituts, innovateurs privés), pour fédérer les acteurs. Elle couvre la commercialisation et l'utilisation sociale des résultats.
+  - Un comité interministériel de pilotage de la stratégie, où chaque ministère inscrit ses activités de valorisation, se réunit deux fois par an (programme et rapport d'activité). L'ANVAR coordonne.
+  - Outil de visibilité : le Forum national de la recherche scientifique et des innovations technologiques (FRSIT), tous les deux ans, de niveau national et sous-régional. Il est placé sous le haut patronage du président du Faso et organisé avec les ministères de la Recherche et du Commerce, pour faire le lien avec la commercialisation.
+  - Les parcs d'innovation servent de lieux d'exposition et d'expérimentation des résultats, notamment agricoles. Les étudiants en fin de cycle y sont formés à une filière (orange, papaye, produits halieutiques…) pour s'installer à leur compte en environ 3 ans. C'est une forme d'incubation, qui évite que les diplômés agricoles deviennent professeurs de sciences faute de débouchés.
+  - Les plateformes d'innovation multi-acteurs se placent au-dessus de la chaîne de valeur. Elles réunissent chercheurs, innovateurs, grossistes, transporteurs et tous ceux qui ont un intérêt dans une filière, pour transformer des intérêts parfois conflictuels en force commune. L'ANVAR les coordonne, par exemple pour que les variétés de semences améliorées atteignent les producteurs.
+- Chiffres et faits cités :
+  - Le Pr Sawadogo est responsable de l'ANVAR depuis 2018 [0:50].
+  - FRSIT tous les deux ans : 13e édition, depuis 1998 selon l'intervenant (« depuis 98 je pense ») [4:14].
+  - Comité interministériel réuni deux fois par an [4:14].
+  - Une plateforme d'innovation sur le maïs a augmenté la production d'environ 50 % dans cinq régions [7:45].
+  - Installation d'un jeune à son compte en trois ans via les parcs d'innovation [6:53].
+- Exemples et cas concrets :
+  - Plateforme maïs (financeur mal transcrit).
+  - Un innovateur qui s'est appuyé sur les résultats de la recherche agricole a créé une entreprise « multimilliardaire » (en FCFA, non nommée) [9:31].
+  - Évocation du projet régional de valorisation conduit avec les agences de plusieurs pays (VaRRIWA, voir fiche suivante).
+- Citations fortes :
+  - « Les résultats de recherche dorment dans les tiroirs : il faut les sortir des tiroirs. » [1:41]
+  - « Dans toute chose il faut un cadrage : la stratégie nationale encadre tout ce qui se fait en recherche et innovation, public comme privé. » [2:33]
+- Utilisation possible par HSA :
+  - Étude de cas « Le modèle burkinabè : loi, stratégie, agence et comité interministériel ». C'est un benchmark pour un livre blanc sur les politiques nationales de valorisation en Afrique de l'Ouest, à comparer avec la Côte d'Ivoire.
+  - Le concept de « plateforme d'innovation multi-acteurs » est un bon angle de post pour les SHS et l'agriculture.
+  - Argument sur la nécessité de faire reconnaître la valorisation dans la carrière (CAMES).
+- Mots-clés : Afrique, politique publique (Bayh-Dole, etc.), rôle du bureau de transfert, carrière du chercheur, partenariats industrie, SHS et impact, financement et maturation
+
+## Comprendre VRAIMENT la valorisation de la recherche [Nathalie Popiolek]
+- Source : Xerfi (Xerfi Canal), 4 févr. 2022, https://www.youtube.com/watch?v=cp5TJDu2bgU, France
+- Intervenant(s) et fonction :
+  - Nathalie Popiolek : économiste, ancienne experte senior au CEA (Commissariat à l'énergie atomique et aux énergies alternatives), présidente d'Adéquat Consulting. Coautrice avec Jean-Alain Héraud de *L'organisation et la valorisation de la recherche : le grand angle mort des politiques publiques ? Problématiques européennes et étude comparée de la France et de l'Allemagne* (Peter Lang).
+  - Interviewer : Jean-Philippe Denis.
+- Pertinence pour le sujet : moyenne. Cadrage conceptuel et historique de la valorisation (fondamental contre appliqué, modèles allemand et américain). L'entretien est court, sans éléments opérationnels.
+- Idées clés :
+  - La recherche est un flux qui alimente un stock de connaissances, et ce stock fructifie à mesure qu'on l'utilise.
+  - Il faut distinguer la recherche fondamentale (motivée par la curiosité et la beauté de la science) de la recherche appliquée (orientée vers les inventions, puis les innovations).
+  - La valorisation est ce qui donne de la valeur à la recherche. On peut la concevoir de façon utilitariste (échange, commerce), sociétale, ou purement scientifique (publications, accroissement des connaissances).
+  - Le modèle humboldtien (1809) marque une rupture : liberté d'enseigner et de chercher sans tutelle. L'Allemagne l'a inscrit dans sa Constitution fédérale (citée comme « article 4 ») et sépare nettement les tâches entre recherche fondamentale, recherche appliquée et valorisation.
+  - La rupture américaine d'après-guerre : la science mobilisée pour l'effort de guerre, puis Roosevelt qui veut guérir les maladies. Le rapport Bush (1945) fonde une politique de la science comme fin en soi, qui a influencé la France et le Japon.
+  - Thèse du livre : pour comprendre vraiment la valorisation, il ne faut pas penser seulement à la recherche appliquée. La science fondamentale a une valeur propre. Les synergies avec l'industrie stimulent la créativité si chaque chercheur garde sa propre motivation tout en étant questionné par des chercheurs industriels.
+  - En Allemagne, les fonds publics misent sur la recherche fondamentale et les entreprises font elles-mêmes beaucoup de recherche appliquée. On valorise des personnes porteuses d'idées plutôt que des thématiques : « l'humain au cœur ».
+  - Le livre traite aussi du rôle de la science face aux grandes transitions.
+- Chiffres et faits cités :
+  - Modèle de Humboldt en 1809 [2:37].
+  - Rapport Bush (*Science, the Endless Frontier*) en 1945 [4:25].
+  - La société Max Planck a récemment reçu 4 prix Nobel, dont deux en physique et chimie « l'année dernière » [6:08].
+  - Un rapport antérieur sur la valorisation de la recherche aurait eu Emmanuel Macron parmi ses rapporteurs, selon l'interviewer qui le dit avec réserve [0:50].
+- Exemples et cas concrets : la société Max Planck (Allemagne), le CEA (France) et le rapport Bush (États-Unis).
+- Citations fortes :
+  - « La valorisation, c'est ce qui va donner de la valeur à la recherche, que ce soit par le commerce, à des fins sociétales ou pour la science elle-même. » [1:45]
+  - « Ce n'est pas en ayant un but appliqué que les chercheurs feront des découvertes, c'est en poursuivant leur curiosité tout en étant questionnés par l'industrie. » [5:17]-[6:08]
+- Utilisation possible par HSA :
+  - Leçon d'introduction « Qu'est-ce que valoriser ? Les trois formes de valeur » : utile pour rassurer les chercheurs en recherche fondamentale et en SHS, car la valorisation ne se limite pas au brevet.
+  - Encadré historique (Humboldt, rapport Bush) dans un livre blanc.
+  - Référence bibliographique francophone à citer.
+- Mots-clés : définitions, politique publique (Bayh-Dole, etc.), partenariats industrie, SHS et impact
+
+## Lancement du Projet « Valorisation des résultats de Recherche et Innovation en Afrique de l'Ouest »
+- Source : Morid TV (MORID Prod), 17 déc. 2021, https://www.youtube.com/watch?v=ayCngxajIgY, Afrique francophone (Bénin)
+- Intervenant(s) et fonction : les intervenants ne sont pas nommés. On entend un reportage avec voix off, le directeur de la programmation et de la prospective (DPP), qui représente la ministre béninoise de l'Enseignement supérieur et de la Recherche scientifique et a fait le lancement officiel, et un responsable (vraisemblablement de l'agence béninoise de valorisation) qui présente les activités.
+- Pertinence pour le sujet : moyenne. C'est un reportage institutionnel sur le lancement d'un projet régional de valorisation financé par l'Union européenne : utile pour le contexte, peu de contenu méthodologique.
+- Idées clés :
+  - Le projet VaRRIWA (« Valorising Research Results and Innovation in West Africa », nom mal transcrit) a été lancé le 14 décembre 2021 à l'hôtel Azalaï de Cotonou. Il est piloté par l'Agence universitaire de la Francophonie (AUF), chef de file des quatre structures nationales de valorisation retenues.
+  - Le consortium réunit quatre pays (Bénin, Burkina Faso, Sénégal, Togo), avec l'AUF et Sorbonne Université comme entités affiliées.
+  - Le financement vient du Fonds ACP pour l'innovation de l'Organisation des États d'Afrique, des Caraïbes et du Pacifique (OEACP), alimenté par l'Union européenne, dans le cadre d'un appel « translationnel ».
+  - Objectif : contribuer durablement au financement de la recherche et créer un environnement incitatif au transfert de technologie, en finançant directement des laboratoires et des innovateurs après un appel à projets dans les quatre pays.
+  - La « diplomatie scientifique » et les réformes béninoises de la qualité de la recherche sont présentées comme le premier axe de la programmation. Le projet est aligné sur la vision du président Patrice Talon, qui fait de la recherche un socle prioritaire du développement.
+  - Activités prévues : diffusion de la recherche et de l'innovation, car les chercheurs « savent créer mais ne savent pas se vendre », information sur les lois, cartographie des besoins des acteurs de l'innovation, et réseautage national, sous-régional et mondial (via l'AUF).
+- Chiffres et faits cités :
+  - Subvention d'environ 4,94 millions d'euros (montant mal transcrit : « 4 millions 4 942 1249 euros »), présentée comme « près de 4 milliards de francs CFA » [1:40]-[2:33].
+  - 14 initiatives de valorisation financées, dont au moins trois au Bénin [2:33].
+  - Projet sur quatre ans [6:07]. Programmation triennale de l'organisme béninois [0:52].
+- Exemples et cas concrets : à l'Université d'Abomey-Calavi, une fondation (nom mal transcrit) a obtenu un projet de valorisation et d'accompagnement des innovateurs, et la Faculté des sciences agronomiques un projet de formation des innovateurs [4:24].
+- Citations fortes :
+  - « L'une des lacunes des chercheurs et des innovateurs, c'est qu'ils savent créer mais ne savent pas se vendre. » [4:24]-[5:16]
+- Utilisation possible par HSA :
+  - Veille sur les financements de la valorisation en Afrique de l'Ouest (Fonds ACP pour l'innovation, AUF, Union européenne).
+  - Argument pour HSA comme outil de diffusion et de réseautage, puisque le projet identifie exactement ce besoin (« se vendre », cartographie des besoins, mise en réseau).
+  - Partenaires institutionnels potentiels (AUF, agences nationales de valorisation).
+- Mots-clés : Afrique, politique publique (Bayh-Dole, etc.), financement et maturation, rôle du bureau de transfert, partenariats industrie
+
+
+## University Technology Transfer – What It Is and How to Do It : Tom Hockaday – Panel discussion
+- Source : SA SME Fund, 6 mai 2021, https://www.youtube.com/watch?v=GtmcncrEXms, Royaume-Uni / Afrique du Sud (1h22, traduction automatique de l'anglais)
+- Intervenant(s) et fonction : Tom Hockaday (auteur du livre « University Technology Transfer: What It Is and How to Do It », ancien directeur du bureau de transfert d'Oxford créé en 1987, président du comité d'investissement de l'University Technology Fund – UTF) ; Cebisa / « Cecil » (ancien du CSIR, comité d'investissement UTF, modérateur) ; Danny Kohn et Keto Gordon (SA SME Fund) ; Dr Mmboneni Muofhe (DG adjoint, ministère sud-africain Science et Innovation – DSI) ; Andrew Bailey (bureau de transfert, University of Cape Town – UCT) ; Daniel Strauss et Wayne Stocks (gestionnaires de l'UTF).
+- Pertinence pour le sujet : forte – panorama complet (rôle du TTO, gouvernement, fonds d'amorçage, impact vs revenus) appliqué à un pays africain, l'Afrique du Sud.
+- Idées clés :
+  - La voie commerciale n'est que « parfois » la meilleure façon de faire bénéficier la société de la recherche ; l'université a d'autres canaux (enseignement, publications, expertise).
+  - Le bureau de transfert (TTO) n'est pas la pièce maîtresse : ce sont les chercheurs-inventeurs ; le TTO les aide à faire passer les résultats vers l'industrie (brevets, marketing, licences, spin-offs).
+  - Tout part d'une recherche fondamentale bien financée par l'État : c'est elle qui alimente l'« entonnoir » de projets.
+  - Leviers publics : financement de la recherche, fiscalité incitative (ex. EIS britannique pour les investisseurs particuliers dans les start-ups), subventions ciblées pour bâtir les capacités des TTO, subventions non dilutives aux jeunes entreprises.
+  - La durée est un facteur clé : programme britannique de financement récurrent sur 20 ans ; « on ne déracine pas un arbre pour vérifier ses racines ».
+  - Penser « communauté d'innovation » (les personnes qui se connaissent) plutôt qu'« écosystème » ; soutenir tout le monde, car on ne sait pas à l'avance qui réussira ; organiser en continu événements et réseautage.
+  - Viser l'impact plutôt que le revenu : « bien faire en faisant le bien » ; la maximisation du profit est inappropriée pour une université ; si l'impact est là, l'argent suit et peut être réinvesti.
+  - Raconter des histoires de réussite pour que le public comprenne la valeur de la recherche (le Royaume-Uni a tardé à le faire).
+  - Les idées peuvent venir de toute l'université, pas seulement de l'ingénierie (à Oxford, plusieurs succès venaient de la zoologie) ; les SHS comptent aussi (impact sur les politiques publiques, même sans brevet).
+  - Ne pas transformer les chercheurs en entrepreneurs : bâtir des équipes mixtes chercheurs + entrepreneurs expérimentés.
+  - Motivation des chercheurs : voir leurs résultats utilisés plus que l'argent ; à Oxford, beaucoup réinvestissaient leurs gains dans leur recherche.
+  - Lenteur des financeurs : la vérification préalable puis le contrat peuvent prendre jusqu'à 2 ans en Afrique du Sud ; l'élan se perd et la technologie peut tomber dans le domaine public (A. Bailey).
+  - Les universités ont « les œufs, le lait et la farine », pas le gâteau : le TTO fait monter les résultats en maturité technologique (TRL) jusqu'à intéresser investisseurs et industriels.
+  - Faire reconnaître la PI universitaire comme une « classe d'actifs » pour attirer capitaux et compétences ; coût et défense des brevets : un brevet non défendu attire les contrefacteurs.
+- Chiffres et faits cités :
+  - [12:56] Le transfert de technologie moderne prend son essor aux États-Unis puis au Royaume-Uni dans les années 1980 ; [13:44] le TTO d'Oxford est créé en 1987.
+  - [20:22] Le Higher Education Innovation Fund britannique finance chaque année les capacités de transfert des universités depuis environ 2000 (21 ans).
+  - [41:31] Afrique du Sud : création il y a une dizaine d'années de l'Office national de gestion de la PI (NIPMO), qui a fait créer des TTO dans tous les établissements d'enseignement supérieur et les conseils scientifiques ; création de la Technology Innovation Agency (TIA).
+  - [43:56] Partenariats public-privé avec co-investissement de plus de 100 millions (« livres sterling » dans la traduction, probablement rands).
+  - [47:06] UCT : fonds interne d'amorçage d'environ 80 millions (dollars selon la traduction), 50 % investis dans six entreprises.
+  - [47:56] 26 universités en Afrique du Sud ; délai de décision des financeurs jusqu'à 2 ans.
+  - [49:34] UCT : vaccins candidats contre le VIH (souche africaine) dont deux en essais cliniques, et premier centre accrédité OCDE en Afrique pour produire des lots cliniques, avant 2010 ; expertise ensuite perdue faute de financement.
+  - [51:10] Spin-off Cape Bio Pharms : près d'1 milliard de rands d'investissements étrangers ; proposition d'appeler « quagga » une start-up valorisée 1 milliard de rands.
+  - [51:58] Strait Access Technologies (valves cardiaques en polymère) : 65 employés.
+  - [56:47] UTF, 1re année : 7 investissements, environ 28,5 millions de rands.
+  - [1:10:34] Capital-risque sud-africain : 3 à 4 milliards de rands investis en 2-3 ans, surtout par des entreprises moyennes et grandes (Standard Bank, Imperial : 20 à 30 millions).
+  - [1:19:39] Oxford, 2015 : 300 millions de livres levées pour un fonds dédié aux spin-offs d'Oxford (Oxford Sciences Innovation), aujourd'hui 600 millions.
+  - [1:21:15] SA SME Fund lève un nouveau fonds de 750 millions (devise incertaine dans la traduction).
+- Exemples et cas concrets : vaccin Oxford-AstraZeneca (spin-off Vaccitech, fonds Oxford Sciences Innovation, Oxford University Innovation, approche sans but lucratif pendant la pandémie) ; consortium Oxford-Emergent contre la tuberculose (2008-2009, double canal payant / non lucratif) ; pénicilline ; Lumkani (détecteur d'incendie pour quartiers informels, UCT : une spécialiste SHS a imposé l'adhésion des leaders communautaires et un prix de vente) ; Cape Bio Pharms (protéines Spike par plants de tabac) ; Strait Access Technologies ; spin-off de Stellenbosch devenue rentable en 12 mois ; programme Wine Tech (vin sud-africain) ; programme Deep Mine (mines profondes, CSIR) ; batterie lithium-ion issue du CSIR ; brevets Wi-Fi du CSIRO australien gagnés en justice aux États-Unis ; « l'homme à la Jaguar rouge » à Oxford comme catalyseur.
+- Citations fortes :
+  - [9:39] « Le bureau de transfert n'est pas la pièce maîtresse du puzzle : ce sont les chercheurs eux-mêmes, les inventeurs. »
+  - [34:55] « Si vous réussissez à créer de l'impact, vous gagnerez probablement aussi de l'argent : c'est bien faire en faisant le bien. Si vous concluez que tout se résume aux revenus, vous vous trompez probablement. »
+  - [46:18] « Les universités ne possèdent pas le gâteau de mariage, mais les œufs, le lait et la farine. Le transfert de technologie sert à tester la recette jusqu'au gâteau. »
+- Utilisation possible par HSA : module « Pourquoi et comment créer un écosystème de valorisation dans un pays africain » (cas sud-africain : NIPMO, TIA, UTF) ; post sur la métaphore « œufs, lait, farine » ; argument pour décideurs ivoiriens : financement durable des TTO et rapidité des décisions de financement ; angle « communauté d'innovation » qui colle à la mission réseau social d'HSA ; exemple Lumkani pour montrer l'apport des SHS.
+- Mots-clés : rôle du bureau de transfert, financement et maturation, spin-offs et start-ups, politique publique, Afrique, SHS et impact, carrière du chercheur, propriété intellectuelle et brevets.
+
+## De la recherche SHS à l'impact – Valorisation et niveaux SRL | Pôle PSL Innovation
+- Source : Université PSL, 26 juin 2025, https://www.youtube.com/watch?v=l69LCI5vyVs, France (webinaire, 1h02)
+- Intervenant(s) et fonction : Delphine Machi (responsable du service partenariat et valorisation, délégation Paris-Centre du CNRS, animatrice) ; Maria Teresa Pontois (responsable du pôle innovation, valorisation et partenariat industriel, CNRS Sciences humaines et sociales) ; Elias Ganivet (postdoctorant, laboratoires Géosciences Rennes et Espaces et Sociétés) ; Véronique Van Tilbeurgh (professeure de sociologie, Université Rennes 2).
+- Pertinence pour le sujet : forte – rare présentation opérationnelle de la valorisation des SHS hors brevet, avec un outil (échelle SRL) et un cas réel.
+- Idées clés :
+  - Le pôle universitaire d'innovation PSL (CNRS, Inria, Inserm, Agoranov, PSL) a trois objectifs : faire émerger des projets (sensibilisation, détection, idéation), multiplier les interactions avec le monde socio-économique, stimuler création d'entreprises et partenariats ; il cible aussi les actifs non brevetables (logiciels, SHS).
+  - Chaîne d'action CNRS SHS : détection (réseau de correspondants valorisation dans les unités), structuration des projets pour les programmes de financement, moyens pour le transfert (laboratoires communs, chaires), promotion (rencontres Innov'SHS, salons, lettres d'information).
+  - La déclaration d'invention / de logiciel est l'étape d'entrée du processus ; la faire dès qu'un résultat nouveau et potentiellement exploitable apparaît.
+  - Pour les SHS, le CNRS a créé une « déclaration d'innovation SHS », validée par les services juridiques : elle couvre savoir-faire (à garder confidentiel), méthodes, logiciels, bases de données, et aide à dater l'antériorité.
+  - Distinguer innovation (résultat valorisable économiquement ou ayant un impact social, sans forcément de protection) et invention (protégeable par brevet).
+  - Adapter les programmes existants plutôt que d'en créer de nouveaux : la prématuration CNRS parle désormais de verrous « scientifiques, méthodologiques et technologiques » et d'impacts sociaux et environnementaux, avec des bénéficiaires non marchands (parties prenantes).
+  - Outils CNRS : prématuration (TRL 1-2 vers 3-4, 12 à 18 mois, finance surtout du personnel et des prestations) ; OPEN (logiciels libres) ; accompagnement start-up ouvert aux SCIC ; RISE (expertise, conseil, savoir-faire) ; PISE (impact social et environnemental, appel à manifestation d'intérêt thématique, cofinancé avec des acteurs socio-économiques, seul programme fondé sur l'échelle SRL).
+  - Échelle SRL (Societal Readiness Level) : 9 niveaux comme le TRL, mais non linéaire – on peut revenir en arrière pour associer toutes les parties prenantes ; la preuve de concept se fait « dans la vraie vie », hors laboratoire.
+  - Double usage de la SRL : positionner la maturité d'une innovation sociale, et calibrer accompagnement et financement à chaque étape ; elle n'évalue pas l'impact lui-même.
+  - Chantier ouvert : construire des indicateurs d'impact complémentaires à partir des projets évalués par la SRL.
+  - Dans le cas présenté, les SHS ont joué quatre rôles : diagnostic du contexte et des tensions, indicateurs socio-économiques dans les modèles, enquête paysagère, réflexion sur la démarche participative.
+  - Pour mobiliser au-delà des convaincus : tirage au sort et rémunération des participants (modèle des conventions citoyennes) ; partir du point de vue des gens plutôt que leur demander de comprendre les chercheurs.
+  - Le soutien d'un acteur institutionnel qui prend le premier risque facilite l'arrivée d'autres cofinanceurs (fondations, collectivités, Banque des territoires, Bpifrance).
+- Chiffres et faits cités :
+  - [10:20] Arrivée de M. T. Pontois au CNRS SHS en octobre 2016.
+  - [13:55] Programme de prématuration CNRS depuis 2014, conçu au départ pour physique, biologie, ingénierie, chimie.
+  - [14:49] Taux de réussite des dossiers SHS en prématuration « presque 100 % » grâce à la coconstruction.
+  - [15:41] En 2023, plus de 50 % des logiciels libres issus des laboratoires CNRS venaient de chercheurs et ingénieurs SHS ; lancement du programme OPEN.
+  - [16:34] Programme PISE lancé en 2024 ; [18:20] thématique 2025 annoncée autour de « One Health ».
+  - [20:04] L'échelle SRL a été élaborée par l'Innovation Fund Denmark dans les années 2010, puis retravaillée par le laboratoire commun ANR DESTINS (MSHS de Poitiers, CNRS-Université de Poitiers, et une coopérative reconnue centre de compétences en innovation sociale).
+  - [28:57] « Territoires zéro chômeur de longue durée » : d'une dizaine à une cinquantaine de territoires ; positionné à SRL 7-8 ; a fait évoluer la loi.
+  - [39:20] Jeu sérieux « Trajectoire eau et territoire » : plus de 15 territoires, près de 1 000 participants ; ateliers de 2 à 3 h.
+- Exemples et cas concrets : projet « Trajectoire eau et territoire » (lauréat PISE 2024, thème risques de l'Anthropocène) issu d'une thèse financée par le CNRS (2020-2023) puis d'un projet ANR SAPS ; trois outils : jeu sérieux territorialisé (cartes, plateau, cubes) déployé avec l'association Water Family, modélisation hydrologique couplée à des trajectoires socio-économiques (au-delà du projet Explore 2), médiation paysagère (« cartes postales du futur » avec l'Institut supérieur de design de Saint-Malo) ; partenariats avec la Banque des territoires (Aquagir, Aqua-Repère) ; ateliers réunissant un syndicaliste agricole conventionnel et des militants d'Eau et Rivières de Bretagne ; Territoires zéro chômeur (ATD Quart Monde).
+- Citations fortes :
+  - [11:11] « Une innovation en SHS englobe des résultats de recherche qui peuvent être protégés autrement que par le brevet, ou pas du tout, mais qui peuvent être valorisés économiquement ou avoir un impact sur la société, sur les usages, sur la construction du bien commun. »
+  - [29:50] « L'innovation sociale consiste à changer la norme – non pas ce qui est normé, mais ce qui est jugé normal – et cela finit par avoir un impact sur la loi. »
+  - [56:40] « Ce n'est pas aux gens de faire l'effort de comprendre ce que nous avons à dire : en partant de leur point de vue, on peut les emmener très loin. »
+- Utilisation possible par HSA : module « Valoriser les SHS : au-delà du brevet » (déclaration d'innovation SHS, échelle SRL vs TRL) ; modèle de fiche de déclaration d'innovation adaptée aux universités ivoiriennes ; argument fort pour les chercheurs africains en SHS, majoritaires dans beaucoup d'universités ; post comparatif TRL/SRL ; cas d'école sur les jeux sérieux et la science participative (eau, climat).
+- Mots-clés : SHS et impact, détection d'inventions, rôle du bureau de transfert, financement et maturation, mesure d'impact, définitions, partenariats industrie.
+
+## Lesley Millar-Nicholson : The Role of Technology Transfer
+- Source : Technology Licensing Office (TLO, MIT), 29 mars 2024, https://www.youtube.com/watch?v=BtnDins-U4g, États-Unis (conférence, 43 min, traduction automatique de l'anglais)
+- Intervenant(s) et fonction : Lesley Millar-Nicholson, directrice exécutive du Technology Licensing Office du MIT depuis environ 7 ans et demi (auparavant University of Illinois Urbana-Champaign) ; extrait vidéo du professeur Vladimir Bulović (MIT.nano).
+- Pertinence pour le sujet : forte – vue d'ensemble pédagogique du rôle d'un TTO, chiffres AUTM sur 30 ans et réalisme sur les revenus et les délais.
+- Idées clés :
+  - Le transfert de technologie est un processus non linéaire : entrée = une invention issue de la recherche ; sortie = une licence ou autre mécanisme vers un tiers, avec vérification (diligence) que ce tiers tiendra ses engagements.
+  - Le TTO veille au respect des obligations de PI liées aux financements : sponsors privés (informer de toute invention, négocier une licence s'ils le souhaitent) et fédéraux (Bayh-Dole).
+  - Obligations Bayh-Dole citées : protéger la PI, commercialiser, rendre compte, privilégier les petites entreprises, exiger une fabrication substantielle aux États-Unis, partager les revenus avec les inventeurs.
+  - Remettre la commercialisation dans son contexte : l'université enseigne, fait de la recherche, conseille ; la licence n'est qu'un canal.
+  - Types d'actifs gérés : brevets, logiciels, open source, droits d'auteur, matériel biologique (lignées, souris), réactifs, variétés végétales ; peu de secrets d'affaires, car l'université publie.
+  - Chaque type de PI exige une stratégie différente : un logiciel s'intègre vite ; un dispositif médical ou une thérapie exige essais et autorisations réglementaires.
+  - Le transfert est avant tout un « réseau de relations » : profil recherché chez les chargés de valorisation = curiosité, connaissances scientifiques, sens des affaires, capacité à raconter des histoires et à créer des liens, envie d'impact ; comprendre le « pourquoi » des inventeurs.
+  - Les inventeurs sont souvent motivés par une expérience personnelle (maladie, handicap) plus que par l'argent.
+  - Le transfert de technologie n'est pas une activité rentable pour l'université : sa valeur est l'effet catalyseur (entreprises, emplois, impôts, infrastructures).
+  - « Vallée de la mort » : une série de vallées imprévisibles, coûteuses et longues (2 à 3 ans de l'invention au brevet, autant pour créer et financer l'entreprise) ; plus profondes pour la santé et les technologies climatiques.
+  - Fenêtre de licence courte : au-delà de 5-6 ans après la déclaration, la probabilité de licencier devient quasi nulle.
+  - Licences non exclusives multiples quand la technologie vaut par son adoption large (norme TV haute définition).
+  - Revenus partagés entre départements, laboratoires, centres et inventeurs.
+- Chiffres et faits cités :
+  - [4:03] Modèle MIT décrit par V. Bulović : le TLO dépose et avance les frais de brevet ; le porteur peut démarcher les investisseurs pendant 9 mois puis rembourse les frais après la levée de fonds.
+  - [5:39] Selon V. Bulović (chiffre « au hasard ») : le MIT génère environ 60 M$ par an de licences, réinvestis dans de nouveaux brevets ; le MIT récupère 13 cents de frais de scolarité par dollar dépensé pour un étudiant de premier cycle.
+  - [8:04] Recherche sur le campus MIT : environ 800 M$ par an (selon la traduction), dont environ 65 % du gouvernement fédéral.
+  - [12:54] 600 à 800 nouvelles déclarations d'invention par an au MIT (campus + Lincoln Laboratory) ; [13:44] plus de 200 inventions présentées sur le site web.
+  - [23:34] Enquêtes AUTM 1991-2022 (150 à 200 universités) : 1 461 milliards de $ de financement de recherche (« 1,461 milliard » dans la traduction, ordre de grandeur cohérent avec les ratios suivants) ; 548 000 déclarations d'invention ; une invention déclarée pour 2,6 M$ de recherche.
+  - [24:21] Près de 310 000 demandes de brevet ; environ 56 % des inventions ont donné lieu à un dépôt ; [25:11] 46 % délivrées ; 167 000 licences et options ; « 177 000 » nouvelles entreprises (chiffre probablement déformé par la traduction) ; plus de 200 médicaments issus de la recherche universitaire sur le marché.
+  - [25:57] 58 milliards $ de revenus pour les universités en 30 ans, soit 4 cents par dollar de recherche.
+  - [26:46] Avec une redevance hypothétique de 2 %, les ventes des licenciés représentent un retour d'environ 2 fois le financement de recherche initial (chiffre de ventes cité « 22,9 », mal rendu par la traduction).
+  - [29:10] Données Brookings : les revenus de licence représentent 3,5 à 4 % du financement total de la recherche ; seulement 14 % des TTO américains couvrent leurs frais de fonctionnement.
+  - [32:25] Données TLO MIT 2002-2024 : environ 40 % des brevets licenciés ; 89 % des licences signées dans les 5 ans suivant la déclaration, 8 % entre 5 et 10 ans, 2 % après 10 ans.
+  - [33:16] Durée du brevet : 20 ans à compter du dépôt ; délivrance environ 3 ans après la déclaration.
+  - [35:42] Cas TV HD (prof. Jae Lim) : déclaration 1989, premier dépôt un an plus tard, délivrance 4 ans après, dernier dépôt 1995, norme en 1996 ; premier brevet expiré en 2009 ; revenus tombés à zéro vers 2020, 31 ans après la déclaration.
+- Exemples et cas concrets : Stephen Boppart (otoscope à tomographie par cohérence optique, ancien patient d'un cancer) ; Canan Dağdeviren, MIT Media Lab (patch mammaire à ultrasons pour le dépistage du cancer du sein) ; Hugh Herr, MIT Media Lab (prothèses bioniques, double amputé) ; norme de télévision numérique HD (Jae Lim, licences non exclusives à plusieurs industriels, responsable licences Jack Turner) ; écosystème MIT (Martin Trust Center, sandbox, Venture Mentoring Service) ; produits issus de la recherche universitaire : LED bleues, DVD, OLED, Blu-ray, batteries.
+- Citations fortes :
+  - [16:10] « Nous ne sommes pas que des bureaucrates : la commercialisation de la technologie est avant tout un réseau de relations. »
+  - [25:57] « Pour chaque dollar investi dans la recherche, les universités ont gagné 4 cents : ce n'est pas une proposition commerciale très intéressante. La valeur est dans ce que nous créons – entreprises, emplois, recettes fiscales. »
+  - [22:43] « Si vous êtes là pour gagner de l'argent rapidement, vous risquez d'être déçu. »
+- Utilisation possible par HSA : module « Le cycle de vie d'une invention universitaire » (de la déclaration à la licence, avec le cas TV HD comme frise chronologique) ; post chiffré « 4 cents par dollar : pourquoi la valorisation n'est pas une machine à cash » ; argument pour les présidents d'université africains : financer un TTO pour l'impact, pas pour l'autofinancement ; fiche métier « chargé de valorisation : profil et compétences » ; message aux chercheurs : déclarer tôt, car la fenêtre de licence se ferme en 5 ans.
+- Mots-clés : rôle du bureau de transfert, licences, propriété intellectuelle et brevets, politique publique (Bayh-Dole), mesure d'impact, définitions, carrière du chercheur, spin-offs et start-ups.
+
+## Valorisation et protection des résultats de la recherche par les brevets – Pr. Omar Tanane
+- Source : chaîne « tanane omar », 26 mars 2021, https://www.youtube.com/watch?v=LFnfP_DpWpk, Maghreb (Maroc) (conférence enregistrée, 39 min, transcription automatique très bruitée)
+- Intervenant(s) et fonction : Pr Omar Tanane, docteur en chimie et en gestion d'entreprise, Faculté des sciences Ben M'Sik (Casablanca) ; certifié par l'Office européen des brevets et par le BIT (facilitateur en entrepreneuriat) ; expert formateur auprès de l'OMPIC (Office marocain de la propriété industrielle et commerciale) ; coordinateur du TISC (centre d'appui à la technologie et à l'innovation) de sa faculté ; rédacteur en chef de la revue Revue RENOVA (nom approximatif).
+- Pertinence pour le sujet : forte – cours de base sur le brevet pour chercheurs africains francophones, dans un contexte proche de la Côte d'Ivoire.
+- Idées clés :
+  - Protéger d'abord, publier ensuite : publier un article avant le dépôt détruit la nouveauté ; un brevet suivi d'un article valorise davantage le dossier scientifique.
+  - Le brevet est un titre de propriété industrielle délivré par l'office national (OMPIC au Maroc), pour 20 ans et sur un territoire donné ; extension internationale via le traité PCT ; en contrepartie du droit exclusif, l'invention est divulguée.
+  - Trois critères de brevetabilité : nouveauté mondiale (par rapport à tout ce qui a été rendu public avant le dépôt), activité inventive (pas une évidence ni une simple juxtaposition – ex. crayon + gomme refusé), application industrielle.
+  - Exclusions : méthodes de traitement chirurgical, thérapeutique et de diagnostic ; découvertes (nouvelle espèce, planète) – mais l'instrument qui permet l'observation est brevetable ; créations esthétiques (dessins et modèles) ; logiciels seuls au Maroc et en Europe (sauf s'ils pilotent une machine) ; inventions contraires à l'ordre public ; obtentions végétales (protégées par un titre spécifique).
+  - Procédure marocaine : formulaire B1 téléchargeable sur le site de l'OMPIC ; dossier = description, revendications, abrégé, dessins.
+  - Structure d'un brevet : titre, domaine technique, état de l'art, problème non résolu, solution apportée, description détaillée, revendications.
+  - Les revendications définissent la portée de la protection : ni trop larges ni trop étroites ; chaque revendication est examinée séparément.
+  - La demande reste secrète 18 mois : fenêtre pour négocier discrètement avec des industriels ou retirer/modifier la demande.
+  - À éviter avant le dépôt : publication, conférence, congrès, vente de produits (rétro-ingénierie possible), passage dans les médias ; négocier seulement sous accord de confidentialité ; déposer vite.
+  - Le brevet donne un droit d'interdire, pas un droit d'exploiter (exemple de l'antenne générique vs antenne hélicoïdale : chacun a besoin de l'accord de l'autre).
+  - Utiliser l'information brevet dans la bibliographie : trouver des solutions gratuites (brevet non protégé dans son pays), éviter de réinventer la roue, « imiter pour innover », repérer les tendances technologiques.
+  - Exploitation possible : exploiter soi-même (spin-off, start-up), concéder une licence, céder le brevet ; action en contrefaçon en cas de copie.
+- Chiffres et faits cités :
+  - [2:43] Réseau marocain de plus de 53 points focaux TISC (universités, écoles d'ingénieurs, centres de recherche) ; la faculté est la seule faculté des sciences du réseau.
+  - [4:28] Selon l'OMPI, 80 % de l'information technologique se trouve dans les brevets et nulle part ailleurs.
+  - [6:11] Données OMPIC : contribution importante des universités aux dépôts d'origine marocaine ; [7:02] les entreprises marocaines ne représentent qu'environ 7 % (hors multinationales).
+  - [9:33] Durée de protection : 20 ans.
+  - [19:55] Secret de la demande pendant 18 mois.
+  - [21:40] Plus de 50 millions de brevets indexés et accessibles gratuitement (Espacenet, Patentscope) ; un nouveau document brevet environ toutes les 30 secondes.
+  - [1:52] L'intervenant a déposé 7 brevets avec des collègues.
+- Exemples et cas concrets : brevet d'un collègue de la faculté sur la valorisation d'un fruit local (séparation pulpe/graine, macération ; trois produits dont un sirop au miel et une colle aromatisée, utilisés par l'agroalimentaire marocain ; extension PCT) ; brevet du laboratoire de chimie des matériaux appliquée avec un consortium industriel financé par l'IRESEN : réfrigérateur mobile 100 % solaire (projet primé) ; formations certifiantes à distance de l'OMPI pour doctorants et enseignants ; ateliers « bibliographie brevet » pour masters.
+- Citations fortes :
+  - [7:51] « Beaucoup d'enseignants-chercheurs n'ont pas la culture du brevet : leur réflexe est l'article. Or si je publie ma nouvelle molécule, n'importe qui peut l'utiliser. Il faut d'abord protéger, ensuite publier – l'inverse n'est pas possible. »
+  - [29:27] « Le brevet vous donne un droit d'interdire, pas un droit d'exploiter. »
+  - [21:40] « Un chercheur qui limite sa bibliographie aux articles et aux thèses, dans un domaine technologique, passe à côté de 80 % de l'information. »
+- Utilisation possible par HSA : module « Le brevet en 10 règles pour le chercheur africain » (critères, exclusions, structure, revendications, erreurs à éviter) ; atelier pratique « recherche d'antériorités dans Espacenet/Patentscope » ; post « Protéger avant de publier » ; modèle du TISC à promouvoir dans les universités ivoiriennes (réseau OMPI/OAPI) ; insister sur l'OMPI Academy pour la formation des doctorants.
+- Mots-clés : propriété intellectuelle et brevets, définitions, détection d'inventions, licences, spin-offs et start-ups, Afrique, carrière du chercheur.
+
+## UNLOCK Tech Transfer Épisode 2 : Protéger les inventions de la recherche académique
+- Source : Université Paris Cité, 21 janvier 2026, https://www.youtube.com/watch?v=Tggv7GHpY1o, France (podcast vidéo, 16 min)
+- Intervenant(s) et fonction : Nicolas (nom de famille non donné), professionnel du transfert de technologie (propriété intellectuelle) au sein de l'écosystème Université Paris Cité / CNRS / Institut Pasteur / Inria / AP-HP ; Fabien, animateur.
+- Pertinence pour le sujet : forte – explication concrète et rassurante du parcours déclaration d'invention → brevet, centrée sur les craintes des chercheurs.
+- Idées clés :
+  - Premier réflexe après avoir identifié une application : faire une déclaration d'invention auprès de son office de transfert (CNRS Innovation, Pasteur, Université Paris Cité, Inria, AP-HP).
+  - La déclaration est simple : formulaire (inventeurs, invention, applications envisagées) + note technique, qui peut être simplement un projet de publication.
+  - Suivent des réunions avec le TTO : discussion scientifique, puis critères de brevetabilité (nouveauté, activité inventive), veille et recherche d'antériorités (PubMed, publications, brevets).
+  - Envisager d'autres formes de protection que le brevet : dépôt de matériel biologique (lignée cellulaire, souche probiotique, levure), dépôt de logiciel à l'Agence pour la protection des programmes, secret.
+  - En domaine compétitif, le premier qui dépose prend la position forte : on peut déposer tôt, même sans toute la preuve de concept, et consolider la demande pendant la première année (année de priorité).
+  - Les inventions de rupture permettent des brevets dominants à revendications très larges, couvrant toutes les applications ultérieures et poussant les industriels à prendre des licences.
+  - Breveter ne retarde pas la publication : déclarer au moment où l'article est quasi final ; le TTO dépose en environ 3 semaines, le temps d'une relecture par les pairs.
+  - Le brevet est un contrat avec la société : 20 ans de protection contre la publication complète de l'invention (après 18 mois) ; brevet et open innovation ne sont pas antinomiques.
+  - Le dépôt est un point de départ : environ 5 ans pour obtenir le brevet ; une licence peut être signée sur une simple demande ; le TTO gère la procédure et ne sollicite l'inventeur que ponctuellement.
+  - Stratégie territoriale à définir (Europe, États-Unis, de plus en plus Chine ; pays à faible revenu si la technologie est adaptée), car les dépôts coûtent cher.
+  - Plus un brevet rapporte, plus il sera attaqué : constituer un « panier » de brevets (nouvelles applications, perfectionnements) pour peser en négociation.
+  - Motivations du chercheur : d'abord apporter des innovations au plus grand nombre, ensuite intéressement financier et notoriété.
+- Chiffres et faits cités :
+  - [5:51] Délai de dépôt d'une demande de brevet par le TTO : environ 3 semaines.
+  - [6:44] Publication de la demande à 18 mois ; protection de 20 ans.
+  - [8:21] Environ 5 ans pour obtenir la délivrance du brevet.
+  - [12:25] Calcul de l'industriel : continuer à payer une licence de 100 millions par an ou tenter d'invalider le brevet pour 1 million.
+  - [13:14] Rémunération des inventeurs : de l'ordre de 20 à 25 % des revenus, après déduction des frais.
+- Exemples et cas concrets : ciseaux moléculaires CRISPR-Cas9 (Emmanuelle Charpentier, prix Nobel, passée par des institutions françaises) comme brevet dominant ; ARN messager (litiges en cours) ; séquençage à haut débit (premiers brevets Illumina d'origine académique, attaqués sans succès par des acteurs chinois) ; brevets sur le VIH et les kits de dépistage (Françoise Barré-Sinoussi, Luc Montagnier, Institut Pasteur, CNRS, AP-HP) ; souche de levure donnant un goût particulier à la bière (exemple de dépôt de matériel biologique).
+- Citations fortes :
+  - [5:02] « Est-ce que nous freinons parfois les publications ? Jamais. C'est une simple question de timing : nous allons aussi vite que les relecteurs. »
+  - [6:44] « Le brevet, c'est un contrat avec la société : on vous donne 20 ans de protection, en échange votre innovation est publiée et accessible à tout le monde. »
+  - [8:21] « Déposer un brevet est un point de départ, pas un point d'arrivée. »
+- Utilisation possible par HSA : post « 5 idées reçues sur le brevet » (retard de publication, complexité de la déclaration, etc.) ; fiche pratique « Que mettre dans une déclaration d'invention » ; module sur les protections alternatives (matériel biologique, logiciel, secret) très utile pour les laboratoires africains en biotechnologie et agronomie ; argument sur la stratégie de dépôt adaptée aux pays à faible revenu.
+- Mots-clés : détection d'inventions, propriété intellectuelle et brevets, rôle du bureau de transfert, licences, carrière du chercheur, définitions.
+
+## Valoriser les résultats de la recherche – Journées scientifiques du CAMES 2019 (02/12/2019)
+- Source : Afrique Universités TV, 4 décembre 2019, https://www.youtube.com/watch?v=2DpKYwB-_Qs, Afrique francophone (reportage, 22 min, transcription automatique bruitée)
+- Intervenant(s) et fonction : Pr Jacques François Mavoungou (directeur général de l'Institut de recherche agronomique et forestière, Libreville, Gabon ; responsable du programme thématique de recherche Santé du CAMES) ; Dr Andreas Strecker (directeur du programme microbiologie, immunologie et virologie, Fondation allemande pour la recherche – DFG) et un collègue chargé de l'Afrique et du Moyen-Orient à la DFG ; une professeure de l'Université de Bonn (programme Erasmus) ; un professeur de l'École polytechnique de l'Université de Lille (big data) ; Dr Georges de Noni (délégué régional de l'IRD en Île-de-France) ; Pr Eléonore Yayi Ladekan (ministre béninoise de l'Enseignement supérieur, présidente du Conseil des ministres du CAMES) ; Pr Maxime da Cruz (recteur de l'Université d'Abomey-Calavi) ; Pr Bertrand Mbatchi (secrétaire général du CAMES).
+- Pertinence pour le sujet : moyenne – diagnostic utile sur la recherche en Afrique francophone (espace CAMES) et sur la valorisation sociétale, mais reportage de synthèse peu opérationnel.
+- Idées clés :
+  - Thème des 4es Journées scientifiques du CAMES : « valorisation des résultats de la recherche et leur modèle économique », pour relier recherche et secteur productif et réduire la dépendance aux importations.
+  - Diagnostic Mavoungou : déséquilibre entre enseignement et recherche, universités devenues de « grands lycées » ; certains pays sans structures de recherche ; recherche orientée vers les thèses, les articles et l'avancement de grade ; chercheurs isolés ; production peu utile à la société.
+  - Cause historique avancée : fin de l'assistance technique française à la fin des années 1980, laissant des cadres peu préparés à définir des politiques de recherche ; absence de politique attractive pour retenir la diaspora scientifique.
+  - Réponse du CAMES : la recherche en réseau multi-pays via 12 programmes thématiques de recherche (PTR), avec mobilité des doctorants financée par des bailleurs.
+  - Critique exprimée dans les échanges : ces programmes doivent encore avoir un impact sur la vie des populations.
+  - DFG : finance seulement des projets portés par des institutions de recherche (pas d'individus isolés), rédigés en anglais ; il faut une idée pertinente, un partenaire allemand, une description de l'impact en Allemagne et en Afrique.
+  - Message de la DFG : sortir du « complexe d'infériorité » perceptible dans certains dossiers africains ; se présenter en partenaire égal.
+  - Big data : Afrique riche en données (téléphonie mobile) mais pauvre en équipements ; besoin d'une politique et d'investissements technologiques ; exemple d'usage : prédire les naissances prématurées pour planifier les soins néonatals (Bénin, Côte d'Ivoire).
+  - Modèle IRD de « valorisation sociétale » : coconstruire les problématiques avec les bénéficiaires, sortir de la logique « brevet à tout prix », protéger seulement pour mieux partager, s'appuyer sur l'open source ; ouvrir les projets (ex. paludisme) aux populations, collectivités et décideurs.
+  - Chaîne recherche → fab lab (prototype) → incubateur (maturation économique) → industrie, illustrée par le campus de l'innovation de Bondy.
+  - Le CAMES ne sera pas bailleur de fonds : aux chercheurs de se mettre en réseau et de présenter des projets solides aux bailleurs.
+- Chiffres et faits cités :
+  - [0:00] 4es Journées scientifiques du CAMES, Institut régional de santé publique de Ouidah (Bénin), à partir du 2 décembre 2019, pendant quatre jours.
+  - [1:41] L'espace CAMES couvre 19 pays.
+  - [3:23] 12 programmes thématiques de recherche ; [4:13] PTR Santé : bilan après 6 ans de fonctionnement.
+  - [7:13] DFG : plus de 33 projets financés en Afrique (chiffre peu clair dans la transcription), notamment sur le paludisme, les hépatites virales et le VIH/sida (Afrique du Sud, Burkina Faso, Bénin, Gabon, Zambie, Cameroun).
+  - [13:35] Chaque Africain possède en moyenne 2 à 3 téléphones portables (affirmation de l'orateur).
+  - [20:27] La recherche visible de l'espace CAMES ne représente que 2 % de l'économie mondiale du savoir (Pr Mbatchi).
+  - [18:45] 12 regroupements thématiques d'ateliers (biodiversité, changement climatique, énergie, pharmacopée et médecine traditionnelle africaine, sécurité alimentaire, TIC…).
+- Exemples et cas concrets : PTR Santé du CAMES ; financements DFG en Afrique ; campus de l'innovation de Bondy (IRD : laboratoires, fab lab, incubateur) ; démarche IRD sur le paludisme au Bénin ; délégation ivoirienne nombreuse saluée par la ministre.
+- Citations fortes :
+  - [2:34] « Là où le métier d'enseignant-chercheur est codifié, la recherche vise juste à faire des thèses, publier des articles et changer de grade. » (Pr Mavoungou, propos rapportés)
+  - [16:11] « Il faut sortir de la logique du brevet à tout prix : on protège quand c'est nécessaire, mais pour mieux partager. » (G. de Noni, reformulé)
+  - [21:16] « Le CAMES ne deviendra pas un bailleur de fonds : c'est aux chercheurs de se mettre en réseau multi-pays et d'aller frapper aux portes des bailleurs avec des projets solides. » (Pr Mbatchi, reformulé)
+- Utilisation possible par HSA : introduction d'un livre blanc « État de la valorisation dans l'espace CAMES » (diagnostic, 2 % de visibilité) ; argument pour la mise en réseau multi-pays, cœur de la proposition d'HSA ; module « Monter un dossier pour un bailleur international (DFG, Erasmus) » ; post sur la valorisation sociétale et l'open source comme alternative au brevet ; lien avec les critères CAMES d'avancement de carrière.
+- Mots-clés : Afrique, politique publique, carrière du chercheur, financement et maturation, SHS et impact, partenariats industrie, définitions.
+
+## The Potential of Technology Transfer | David Allen | TEDxTucsonSalon
+- Source : TEDx Talks, 23 février 2018, https://www.youtube.com/watch?v=KGHFcsCVAyE, États-Unis (conférence TEDx, 16 min, traduction automatique de l'anglais)
+- Intervenant(s) et fonction : David Allen, professionnel du transfert de technologie depuis environ 25 ans (Ohio University puis University of Arizona, d'après les exemples cités ; fonction exacte non précisée dans la vidéo).
+- Pertinence pour le sujet : forte – plaidoyer clair, avec chiffres, pour mieux financer les bureaux de transfert ; bon support de vulgarisation.
+- Idées clés :
+  - Le transfert de technologie fait passer la recherche du laboratoire au marché : protection, puis intégration dans une entreprise (licence à une entreprise existante ou start-up).
+  - Ce que le contribuable obtient de la recherche financée : publications, diplômés (travailleurs du savoir), propriété intellectuelle, licences et start-ups.
+  - Depuis la loi fédérale de 1980 (Bayh-Dole), les inventions issues de la recherche financée par l'État fédéral appartiennent à l'université ; toutes les universités ont un TTO.
+  - Une déclaration d'invention est souvent une ébauche d'idée avec quelques données : le TTO doit « prendre des jumelles » pour l'évaluer.
+  - Évaluation en deux volets : brevetabilité (peut-on obtenir des revendications commercialement valables ?) et marché futur – anticiper le marché à 5-10 ans, durée du développement après la licence ; s'il y a adéquation, on a un actif commercial ; sinon, la science rejoint le corpus de connaissances.
+  - Accord de licence : l'université accorde le droit de fabriquer des produits fondés sur les brevets ; l'entreprise s'engage à développer et verse des redevances (faible pourcentage des ventes).
+  - Partage des redevances : la plus grosse part à l'inventeur ou à l'équipe d'inventeurs (y compris assistants de recherche), une part pour la recherche (laboratoire, université), parfois département, et 15 à 25 % au TTO.
+  - Problème central : cette part ne suffit pas à faire fonctionner un TTO ; les gros succès (médicament vedette) sont extrêmement rares ; les universités subventionnent la fonction.
+  - Le budget des TTO représente moins de 1 % des dépenses de recherche : c'est insuffisant ; un investissement supplémentaire dans le transfert aurait plus d'impact social que la même somme en recherche (« hérésie » assumée).
+  - Changer le débat : parler des conditions nécessaires au transfert avant de parler d'efficacité et de bonnes pratiques ; la recherche pour elle-même ne suffit pas.
+- Chiffres et faits cités :
+  - [0:51] Fin des années 1980 : souris transgéniques modifiées pour l'hormone de croissance (laboratoires de John Kopchick et Wen Chen, Ohio University).
+  - [1:45] Création d'une entreprise en 1992 ; rachat par un laboratoire pharmaceutique ; médicament contre l'acromégalie approuvé par la FDA en 2003.
+  - [4:10] Logiciel de gestion des interactions médicamenteuses (faculté de pharmacie, University of Arizona) licencié à une entreprise créée en 2013 ; au rachat par une société cotée, 250 employés et 50 millions de personnes suivies.
+  - [4:10] Le gouvernement fédéral soutient la recherche universitaire à hauteur de 30 milliards $ par an ; [5:02] environ 10 % des propositions sont financées.
+  - [5:50] 1 million d'articles publiés par les professeurs américains.
+  - [6:39] En 2015 : 25 000 déclarations d'invention transmises aux TTO ; [7:30] un millier de start-ups créées issues de la recherche universitaire.
+  - [7:30], [9:15] Développement de 5 à 10 ans après la licence.
+  - [10:57] Part des redevances revenant au TTO : généralement 15 à 25 %.
+  - [12:38] Budget des TTO : moins de 1 % du budget de recherche.
+- Exemples et cas concrets : médicament contre l'acromégalie issu des souris transgéniques d'Ohio University (André le Géant cité pour illustrer la maladie) ; logiciel d'interactions médicamenteuses de l'University of Arizona (scénario de la grand-mère prévenue par le pharmacien) ; université de l'orateur où le budget du transfert dépasse 1 %, avec le soutien de deux présidents successifs.
+- Citations fortes :
+  - [14:16] « Je vous affirme que 1 % n'est pas suffisant, et qu'un pourcentage investi dans le transfert de technologie aura un impact social bien plus important que la même somme consacrée à la recherche. »
+  - [15:05] « La recherche pour elle-même ne suffit pas : il faut aussi la transférer au bénéfice de la communauté. »
+  - [8:22] « Les inventions nous arrivent à un stade embryonnaire, comme une forme lointaine sur l'océan : il faut prendre des jumelles pour savoir s'il s'agit d'une plateforme pétrolière ou d'un paquebot. »
+- Utilisation possible par HSA : post « Le chiffre qui explique pourquoi la valorisation stagne : moins de 1 % » ; argument budgétaire pour les présidents d'université et ministères ivoiriens ; module « Évaluer une déclaration d'invention : brevetabilité + marché à 10 ans » ; schéma de partage des redevances à adapter dans une politique de PI universitaire ; vidéo à recommander en ouverture d'une masterclass.
+- Mots-clés : rôle du bureau de transfert, licences, détection d'inventions, politique publique (Bayh-Dole), financement et maturation, spin-offs et start-ups, mesure d'impact.
+
+## Entretien sur la valorisation de la recherche au Burkina
+- Source : AFRIQA NORMES, 13 août 2019, https://www.youtube.com/watch?v=4L3VSWwBtLQ, Afrique francophone (Burkina Faso) (entretien, 5 min)
+- Intervenant(s) et fonction : Mme Hélène Guénin (orthographe incertaine), chargée d'innovation à l'Institut de recherche pour le développement (IRD) au Burkina Faso.
+- Pertinence pour le sujet : forte (malgré la brièveté) – décrit un dispositif ouest-africain concret et les freins culturels entre chercheurs et entrepreneurs.
+- Idées clés :
+  - La recherche scientifique et l'innovation sont des secteurs stratégiques de la loi d'orientation et du Plan national de développement économique et social (PNDES) du Burkina Faso : servir le mieux-être des populations, comprendre les enjeux environnementaux et sociétaux (climat), former le capital humain.
+  - Le « Campus de l'innovation » de l'IRD (lancé environ deux ans plus tôt) fédère les acteurs de la valorisation : ANVAR (Agence nationale de valorisation des résultats de la recherche et des innovations), qui identifie les résultats exploitables dans les instituts ; FONRID (Fonds national pour la recherche et l'innovation pour le développement), qui finance ; La Fabrique, incubateur d'entreprises sociales qui aide à créer des entreprises.
+  - Accompagnement de chercheurs, doctorants et étudiants de master pour construire un projet faisable, désirable (répondant aux enjeux socio-économiques du territoire) et viable.
+  - Valorisation dans les deux sens : appels à candidatures séparés pour chercheurs (accès au terrain, à la société civile) et pour entrepreneurs (expertise scientifique, par exemple pour certifier un produit).
+  - Freins principaux, au-delà de l'argent : deux mondes qui ne se comprennent pas – langage différent, rapport au temps différent (l'entrepreneur teste et itère vite ; le chercheur prend le temps de la méthode), méfiance réciproque.
+  - Trois conditions de réussite : instaurer la confiance et réunir les bons acteurs autour d'idées répondant aux enjeux du pays ; de vrais accompagnateurs (incubateur, chargés de valorisation) ; des financements adaptés.
+- Chiffres et faits cités :
+  - [0:59] Projet Campus de l'innovation lancé depuis deux ans (en 2019).
+  - [2:39] Appel à candidatures avec le FONRID sur l'intensification agricole durable : 3 porteurs de projet accompagnés depuis un an ; prix de l'innovation du FONRID décerné dans les semaines suivantes.
+- Exemples et cas concrets : écosystème burkinabè ANVAR – FONRID – La Fabrique – IRD ; appel à projets sur l'intensification agricole durable.
+- Citations fortes :
+  - [3:28] « Valoriser la recherche, c'est faire communiquer deux mondes qui ont du mal à se comprendre, qui n'ont pas les mêmes intérêts et ne fonctionnent pas de la même façon. »
+  - [3:28] « L'entrepreneur doit tester, améliorer son produit en permanence, alors que le chercheur prend le temps d'analyser ses résultats selon sa méthodologie : la notion de temps n'est pas la même. »
+- Utilisation possible par HSA : cas d'école « écosystème national de valorisation en Afrique de l'Ouest » (agence + fonds + incubateur) à comparer avec la Côte d'Ivoire ; post sur le choc des cultures chercheur/entrepreneur ; argument pour la mission d'HSA comme traducteur et espace de confiance entre les deux mondes ; grille « faisable, désirable, viable » pour évaluer un projet.
+- Mots-clés : Afrique, politique publique, rôle du bureau de transfert, spin-offs et start-ups, financement et maturation, partenariats industrie.
+
+## Que sont les SATT
+- Source : Toulouse Tech Transfer, 16 juin 2017, https://www.youtube.com/watch?v=l4aemzAfA-w, France (vidéo institutionnelle, 2 min 38)
+- Intervenant(s) et fonction : voix off (aucun intervenant nommé).
+- Pertinence pour le sujet : moyenne – définition courte et claire du modèle français des SATT, sans profondeur.
+- Idées clés :
+  - Origine : en 2009, la commission Juppé-Rocard recommande des investissements pour la compétitivité ; l'État lance le Programme d'investissements d'avenir (PIA), piloté par le Commissariat général à l'investissement.
+  - Les SATT (Sociétés d'accélération du transfert de technologies) ont pour actionnaires les établissements de recherche et l'État ; mission : simplifier, accélérer et faciliter le transfert de technologies et de connaissances de la recherche publique vers l'entreprise.
+  - Processus en étapes : identifier les opportunités de valorisation économique → analyser en profondeur leur potentiel → construire un projet autour de la meilleure voie de valorisation → protéger la PI → investir dans la preuve de concept (maturation) → transférer une « brique technologique » à une entreprise par licence.
+  - Cercle vertueux : la licence apporte un avantage concurrentiel à l'entreprise, crée des emplois sur le territoire et génère des revenus qui financent les recherches futures des laboratoires.
+  - Équipes pluridisciplinaires et réseau de partenaires ; offre d'innovation sur mesure aux entreprises du territoire.
+- Chiffres et faits cités :
+  - [0:00] Commission Juppé-Rocard en 2009.
+  - [0:52] Depuis 2012, la SATT (Toulouse Tech Transfer) fédère plus de 150 000 chercheurs (chiffre tel qu'énoncé dans la vidéo).
+  - [1:46] En 2014, les SATT se fédèrent en réseau pour gagner en lisibilité et visibilité.
+- Exemples et cas concrets : Toulouse Tech Transfer (SATT de Toulouse) ; réseau national des SATT.
+- Citations fortes :
+  - [0:52] « Ainsi naît une brique technologique qui pourra être transférée à une entreprise, lui apportant un avantage concurrentiel tout en participant à la création d'emplois sur le territoire. »
+- Utilisation possible par HSA : encadré « modèle SATT » dans un module comparatif des modèles institutionnels (TTO universitaire, SATT, agence nationale) ; inspiration pour une structure mutualisée de maturation à l'échelle d'un pays ou d'une région africaine ; schéma simple des 6 étapes pour un post.
+- Mots-clés : définitions, rôle du bureau de transfert, financement et maturation, politique publique, licences, propriété intellectuelle et brevets.
+
+## AAU Talks : Dual Conversation on the Challenge of Research Commercialization in African Universities
+- Source : Association of African Universities (AAU), 14 septembre 2022, https://www.youtube.com/watch?v=QoAhSLUA9BI, Afrique anglophone (Ghana) (émission, 33 min, texte original anglais seulement, transcription bruitée)
+- Intervenant(s) et fonction : Dr Kojo (nom de famille mal transcrit, « Atisho/Articho »), bibliothécaire et chercheur à la Cape Coast Technical University (CCTU, Ghana) ; Dr Tibiru Maurice Apaliya, chercheur à la CCTU ; animateur d'AAU TV.
+- Pertinence pour le sujet : moyenne – témoigne des freins concrets dans une université africaine (lien industrie, accès aux données, promotion par la publication, mentorat), mais reste général et peu opérationnel sur la commercialisation elle-même.
+- Idées clés :
+  - Problème n° 1 selon Dr Kojo : la déconnexion entre industrie et université ; l'agenda de recherche devrait être coconstruit avec les besoins de l'industrie.
+  - Les universitaires doivent se blâmer eux-mêmes avant l'État et l'industrie : manque de plaidoyer ; il faut aller vers « le client » et lui montrer le bénéfice de la recherche, sinon elle se périme.
+  - Chaque université technique ghanéenne a reçu un domaine de niche (pour la CCTU : énergies renouvelables) ; à elle d'identifier les industries du secteur et de les démarcher.
+  - Les revues sur abonnement profitent surtout à l'extérieur du continent : plaidoyer pour l'accès ouvert et pour des dépôts institutionnels qui rendent la recherche visible aux entreprises.
+  - Image : une recherche enfermée dans un placard, c'est « être assis sur de l'or » sans le montrer.
+  - Numérisation des savoirs traditionnels sur les plantes médicinales (avec le CSIR ghanéen), rendus disponibles pour que des entreprises puissent les exploiter.
+  - Freins cités par Dr Apaliya : infrastructures et équipements insuffisants, manque de temps des chercheurs, absence d'encadrement des jeunes enseignants, promotion fondée sur le nombre de publications (qui pousse à publier vite, parfois au détriment de l'éthique).
+  - Proposition : pondérer les publications par la qualité (un article dans Nature ou Cell = 2 ou 3 articles) ; développer des revues africaines de haut niveau et les citer.
+  - Financement : en Afrique, la recherche dépend des subventions publiques et des ressources propres (IGF) ; l'industrie finance peu la recherche universitaire, contrairement à l'Europe ; plaider pour que l'industrie réserve chaque année un budget aux universitaires.
+  - Mentorat : commencer dès le master/doctorat (publication obligatoire avant soutenance), associer les jeunes collègues aux articles et projets ; rendre le mentorat obligatoire pour la promotion au rang de professeur.
+  - Chaque institution devrait réserver chaque année un budget pour la recherche et améliorer les laboratoires.
+- Chiffres et faits cités :
+  - [0:01] Ratio dépenses de recherche/PIB : 1,0 % pour l'ensemble du continent africain, 0,5 % pour l'Afrique subsaharienne ; moins de 1 % de commercialisation (affirmations de l'animateur).
+  - [11:15] Consortium des bibliothèques académiques et de recherche du Ghana (CARLIGH) : dépôt commun des recherches des universités, logiciel Koha (probable) ; projet de la CCTU achevé à environ 90 %.
+  - [17:56] Une seule école de bibliothéconomie au Ghana (Legon) ; proposition de la CCTU approuvée par GTEC pour un cursus de licence.
+- Exemples et cas concrets : programme de numérisation des plantes médicinales africaines avec le CSIR (Ghana) pendant le COVID ; laveur automatique de véhicules (« auto wash ») développé par le département d'ingénierie de la CCTU ; projet de bus équipé ; agenda de recherche de la CCTU dévoilé en 2022.
+- Citations fortes :
+  - [4:24] « On blâme souvent l'industrie et l'État pour le manque d'argent, mais je place d'abord la responsabilité à notre porte : nous n'avons pas fait assez de plaidoyer. »
+  - [12:06] « Si vos travaux sont enfermés dans votre placard, vous êtes assis sur de l'or : il faut le sortir pour que les gens voient que c'est de l'or. »
+  - [21:31] « Si la promotion dépend seulement du nombre de publications, les chercheurs feront tout pour l'atteindre ; or la recherche doit avoir un impact sur la société et pouvoir déboucher sur un produit ou un brevet. »
+- Utilisation possible par HSA : argument central pour la plateforme HSA comme « vitrine » de la recherche africaine face à l'industrie ; post sur la réforme des critères de promotion (CAMES/universités) pour intégrer brevets et impact ; module « Plaidoyer et démarchage industriel pour chercheurs » ; thème mentorat pour jeunes enseignants-chercheurs ; chiffres sur l'investissement en recherche en Afrique (à vérifier avant publication).
+- Mots-clés : Afrique, partenariats industrie, carrière du chercheur, politique publique, financement et maturation, mesure d'impact.
+
+## University Spinouts and Deep Tech Investing | Marc Singer | Osage University Partners (OUP)
+- Source : Lab to Market Leadership (podcast Deep Tech Leaders), 21 novembre 2024, https://www.youtube.com/watch?v=He83ki5TlP4, États-Unis (entretien, 52 min, texte original anglais)
+- Intervenant(s) et fonction : Marc Singer, managing partner d'Osage University Partners (OUP), fonds de capital-risque spécialisé dans les spin-offs universitaires, plus de 30 ans dans le capital-risque ; Chris Reichhelm, fondateur et PDG de Deep Tech Leaders (animateur).
+- Pertinence pour le sujet : forte – regard d'investisseur sur ce qui fait réussir ou échouer une spin-off universitaire ; très utile pour le module création d'entreprise.
+- Idées clés :
+  - Origine d'OUP : les universités détenaient 30 à 60 participations au capital de leurs spin-offs, avec des droits de réinvestissement (follow-on) qu'elles n'exerçaient pas ; OUP s'associe aux universités pour exercer ces droits (modèle gagnant-gagnant).
+  - Sélection des universités comme on évalue un fonds de capital-risque : budget de recherche, nombre de start-ups, levées de fonds, qualité des investisseurs, sorties (exits).
+  - Les universités investissent aujourd'hui bien au-delà du transfert de technologie classique : entrepreneuriat, accélérateurs.
+  - Entrer en relation très tôt (au moment où l'on pense créer l'entreprise) pour suivre les équipes dans la durée, avant d'investir ; aider aussi en connectant à d'autres investisseurs, clients, partenaires.
+  - Facteur n° 1 de réussite : l'équipe (actuelle et future), car presque toutes les start-ups pivotent et la qualité du pivot dépend de l'équipe.
+  - Santé : le succès dépend d'abord de la faisabilité scientifique (le médicament fonctionne-t-il, toxicité ?) et du choix du candidat principal issu d'une plateforme.
+  - Technologies physiques : les spin-offs universitaires font le chemin « à l'envers » (technologie d'abord, problème ensuite) ; la difficulté majeure est de traduire la technologie en produit pour un vrai problème de marché, souvent avec des entrepreneurs extérieurs.
+  - Erreur classique : vouloir exploiter toutes les applications d'une plateforme à la fois – ces entreprises ont « presque toujours échoué » ; il faut choisir tôt une seule application.
+  - Critères d'évaluation des dirigeants : performance passée dans leur domaine, jugement stratégique (produit, marché), capacité à recruter une équipe et des conseillers meilleurs qu'eux, humilité et écoute.
+  - Les professeurs installés depuis 20 ans font en moyenne de mauvais PDG (vitesse de décision, culture académique) ; mieux vaut qu'ils soient conseillers ou CTO ; les doctorants et postdoctorants bien choisis peuvent être d'excellents PDG.
+  - Profil gagnant : « profondément humble et profondément intense » – s'entoure bien, travaille à vitesse entrepreneuriale, privilégie le succès du produit sur l'argent.
+  - Chercher des signaux de validation précoces pour les technologies lourdes en capital (climat) ; un ou deux « champions » dans une grande entreprise sont nécessaires mais pas suffisants.
+  - Cycles du marché : les ignorer pour construire produit et équipe, mais profiter des bonnes périodes pour lever des fonds ou vendre ; on peut créer une entreprise en période difficile.
+- Chiffres et faits cités :
+  - [3:17] En 1993, le capital-risque américain levait 4 milliards $ ; environ 7 ans plus tard, 100 milliards $.
+  - [5:42] Travaux préparatoires d'OUP dès fin 2007 ; [6:30] test avec 5 universités (Penn, University of Florida, Duke, Caltech, Yale) en 2009-2010 sur fonds propres ; [7:23] premier fonds bouclé en 2011.
+  - [10:47] Plus de 100 universités partenaires (États-Unis, Canada, Royaume-Uni, Israël, Singapour) ; 29 des 30 premières universités américaines par dépenses de recherche ; 4 fonds ; plus de 150 entreprises en portefeuille ; plus de 30 sorties (introductions en bourse et rachats) ; 40 à 50 entreprises par fonds.
+  - [12:22] Dans 20 % des cas, l'entreprise n'est pas encore immatriculée au premier contact ; [14:03] investissements : environ 20 % en amorçage, 40 % en série A, 40 % en séries B, C, D.
+  - [14:53] Objectif : tripler l'argent des investisseurs (LP), avec quelques succès à 10 fois ou plus (loi de puissance).
+  - [18:06] Biotech : sorties possibles après un essai de phase IIb ; 6 ou 7 entreprises du portefeuille ont obtenu l'autorisation d'un médicament.
+  - [19:47] Plus de la moitié des biotechs américaines ayant levé des fonds significatifs sont des spin-offs universitaires (analyse OUP).
+  - [37:25] Dans le portefeuille sciences physiques, les PDG issus du doctorat ou du postdoctorat ont surperformé les entrepreneurs en série et les dirigeants venus de l'industrie (avec un biais de sélection reconnu).
+- Exemples et cas concrets : IonQ (informatique quantique, cotée) ; Menlo Security et Corelight (cybersécurité) ; vague des cleantech des années 2000 dont presque toutes ont échoué ; universités partenaires (Penn, Duke, Caltech, Yale, University of Florida).
+- Citations fortes :
+  - [23:08] « Même si nous investissons dans des entreprises deep tech fondées sur une recherche exceptionnelle, l'équipe reste le facteur numéro un. »
+  - [27:19] « Les spin-offs universitaires font le chemin à l'envers : elles développent une technologie de rupture, puis cherchent quel problème résoudre. Traduire la technologie en produit est le défi le plus difficile. »
+  - [29:51] « Vous ne pouvez pas tout faire : mieux vaut choisir une seule chose et réunir toute l'expertise pour la réussir. »
+- Utilisation possible par HSA : module « Créer une spin-off : ce que regardent les investisseurs » ; post « Professeur ou doctorant : qui doit être PDG de la spin-off ? » ; conseil aux universités africaines : prendre des parts au capital de leurs spin-offs et prévoir des droits de suivi, et mettre en place des outils de suivi des start-ups ; atelier « de la technologie au problème de marché » ; argument pour valoriser les doctorants comme futurs entrepreneurs.
+- Mots-clés : spin-offs et start-ups, financement et maturation, carrière du chercheur, partenariats industrie, mesure d'impact.
+
+## African IP diaries with UCT's Prof Caroline Ncube and Thomson Reuters' Saidah Nash Carter
+- Source : African Tech Roundup, 10 octobre 2025 (mise en ligne ; l'animateur situe l'échange en 2018), https://www.youtube.com/watch?v=VpCtsFwF9Js, Afrique anglophone (Afrique du Sud) (podcast, 1 h, texte original anglais)
+- Intervenant(s) et fonction : Pr Caroline Ncube, professeure de propriété intellectuelle à l'University of Cape Town (UCT), coéditrice du South African Intellectual Property Law Journal, autrice de « Intellectual Property Policy, Law and Administration in Africa », coéditrice de « Indigenous Knowledge and Intellectual Property », co-responsable de l'Open African Innovation Research Partnership ; Saidah Nash Carter, responsable de l'innovation pour l'Afrique subsaharienne chez Thomson Reuters, directrice du laboratoire d'innovation du Cap (devenu Refinitiv Labs Cape Town) ; Andile Masuku, animateur.
+- Pertinence pour le sujet : faible à moyenne – centré sur la PI et les actifs numériques en Afrique plus que sur la valorisation universitaire ; quelques idées fortes sur l'inadéquation du brevet aux innovations africaines et le lien université-société.
+- Idées clés :
+  - Distinction actifs tangibles / intangibles : la PI est un actif intangible créé par la loi ; le droit de la PI définit l'actif mais ne dit rien de sa valeur – la valorisation financière se fait ailleurs.
+  - Les petits agriculteurs détiennent probablement des actifs de PI (techniques de plantation, semences résistantes) qu'ils ne peuvent pas évaluer ni utiliser comme garantie bancaire.
+  - Le système de PI n'a pas été conçu avec ni pour l'Afrique : les innovations africaines sont souvent incrémentales et ne remplissent pas les critères de nouveauté et d'activité inventive du brevet ; il faut « ajuster sur mesure » le droit de la PI pour reconnaître ces actifs.
+  - Partir des objectifs de l'innovateur (nourrir sa famille, générer un revenu) et expliquer ce qu'un droit de PI lui apporterait : rôle de l'éducation et d'un « champion ».
+  - Déconnexion entre universitaires et monde réel : les chercheurs travaillent en silos et se parlent entre eux.
+  - Pour une universitaire, l'objectif de ses écrits est de partager ses idées (accès ouvert) plus que de les commercialiser ; l'auteur d'un manuel gagne peu, l'éditeur beaucoup.
+  - Les grands défis (climat, pauvreté, eau) produiront de la PI conjointe : il faut des cadres juridiques et des mentalités qui permettent de collaborer et de partager les bénéfices entre tous les co-créateurs.
+  - « Faire le bien et gagner de l'argent ne s'excluent pas » : innovation à mission, en concert avec universités et gouvernements.
+  - Les lois doivent être technologiquement neutres (réguler les effets, pas une technologie précise) et éviter la surrégulation, qui étouffe l'innovation.
+  - Atouts africains : téléphonie mobile quasi exclusive, mobile money, jeunesse, terres arables ; notion d'environnement « innopositif » (ouvert à l'innovation).
+  - Pour avancer à l'échelle continentale : mettre les bonnes personnes (collaboratives, diverses, dont des femmes) autour de la table et différencier les solutions selon les 54 pays.
+- Chiffres et faits cités :
+  - [4:17] Thomson Reuters existe depuis 150 ans.
+  - [1:44] Le laboratoire du Cap est l'un des 7 laboratoires d'innovation de Thomson Reuters dans le monde, le seul dans un marché émergent ; pays prioritaires : Ghana, Nigeria, Kenya, Rwanda, Afrique du Sud [6:01].
+  - [18:59] Thomson Reuters a cédé 55 % de son activité services financiers, devenue Refinitiv (« start-up à 6 milliards $ »).
+  - [50:13] Envoyer 1 $ vers le Zimbabwe voisin peut coûter 30 cents (affirmation de l'animateur).
+- Exemples et cas concrets : projet Bankable Farmer (crédit aux petits agriculteurs à partir de données alternatives) ; Thomson Reuters Africa Startup Challenge ; scandale Facebook / Cambridge Analytica ; African Digital Asset Framework (ADAF) ; citation du commissaire de l'UA Amani Abou-Zeid sur l'harmonisation des règles pour un marché numérique unique africain.
+- Citations fortes :
+  - [6:52] « Les universitaires pourraient changer le monde s'ils arrêtaient de se parler entre eux et commençaient à parler aux autres. » (C. Ncube, citant un article)
+  - [23:21] « Le système de propriété intellectuelle n'a pas été conçu avec l'Afrique ni pour elle : les petites innovations incrémentales de nos agriculteurs ne rentrent pas dans le moule du brevet. »
+  - [18:08] « La PI qui résoudra le changement climatique, la pauvreté ou l'accès à l'eau sera une PI conjointe, car aucune organisation ne pourra y arriver seule. » (S. Nash Carter)
+- Utilisation possible par HSA : module « PI et savoirs locaux en Afrique : limites du brevet et alternatives » (secrets, indications géographiques, savoirs traditionnels) ; post « Le brevet est-il fait pour l'Afrique ? » ; argument pour la copropriété et le partage des bénéfices dans les partenariats Nord-Sud et université-communautés ; plaidoyer pour un droit technologiquement neutre auprès des décideurs.
+- Mots-clés : propriété intellectuelle et brevets, Afrique, politique publique, SHS et impact, partenariats industrie, définitions.
+
+## Forty Years of Technology Transfer Under the Bayh-Dole Act and What May Come Next
+- Source : Venable LLP, 8 avril 2020, https://www.youtube.com/watch?v=qjWa5iVfsSE, États-Unis (webinaire juridique, 58 min, texte original anglais, audio dégradé par moments)
+- Intervenant(s) et fonction : avocats du cabinet Venable LLP (pôle marchés publics et subventions) : Liz (nom mal transcrit), modératrice ; Spencer Williams (historique et débats actuels) ; Chris Griesedieck (mécanique de la loi et obligations).
+- Pertinence pour le sujet : forte – exposé détaillé des mécanismes de la loi Bayh-Dole, référence mondiale des politiques de PI sur la recherche publique ; utile pour concevoir une politique nationale ou universitaire.
+- Idées clés :
+  - Contexte des années 1970 : les agences fédérales détenaient environ 28 000 brevets, dont moins de 5 % licenciés, avec 26 politiques différentes ; Bayh-Dole (Patent and Trademark Law Amendments Act, 1980) permet aux bénéficiaires (universités, organismes, puis toute entité financée) de conserver la propriété des inventions issues de la recherche fédérale.
+  - Bilan avancé : plus de 1 000 milliards $ de production économique, de nombreux emplois, des industries entières (biotechnologie) ; essor des TTO dans les universités.
+  - Mise en œuvre par une clause standard insérée dans chaque accord de financement (37 CFR 401) : lire l'accord, car la clause peut être modifiée.
+  - « Subject invention » : invention conçue ou réduite à la pratique pour la première fois dans le cadre du travail financé ; un équipement acheté sur fonds fédéraux mais utilisé hors projet ne rend pas l'invention « fédérale ».
+  - Droits partagés : le bénéficiaire détient la propriété mondiale ; l'État obtient une licence non exclusive, irrévocable et gratuite pour ses propres besoins.
+  - Obligations : déclarer chaque invention à l'agence dans les 2 mois suivant la déclaration interne écrite ; contrats imposant aux employés de déclarer et céder leurs inventions ; prévenir 60 jours avant tout abandon de demande de brevet ; mentionner les droits de l'État dans le brevet (obligation souvent oubliée) ; répercuter la clause aux sous-traitants ; rapports annuels d'exploitation.
+  - On peut perdre la propriété par simple inaction : non-déclaration dans les délais, absence d'élection du titre, dépôt tardif ; l'État peut alors demander le titre (sans y être obligé).
+  - Délais : élire le titre dans les 2 ans suivant la déclaration (raccourcissable par l'agence) ; déposer dans l'année suivant l'élection ; demande non provisoire dans les 10 mois après une demande provisoire.
+  - « March-in rights » : l'État peut imposer des licences à des tiers en cas d'absence d'application pratique, de besoins de santé ou de sécurité, d'usage public ou de non-respect de la préférence industrielle américaine ; jamais utilisés à ce jour pour faire baisser le prix des médicaments (le NIH a rejeté toutes les pétitions).
+  - Règles spécifiques aux organismes sans but lucratif : cession seulement à une structure de gestion des inventions (ex. fondation universitaire) ; préférence aux petites entreprises ; partage obligatoire des redevances avec les inventeurs ; revenus nets affectés à la recherche et à l'enseignement.
+  - Préférence de fabrication aux États-Unis pour les licences exclusives (dérogation possible).
+  - Recommandations : mettre en place un système de conformité, marquer comme confidentielles les informations transmises, connaître les voies de recours (contestations et appels prévus par les règlements).
+  - Critiques : universités accusées de s'allier à des « patent trolls » (réponse : document « Nine Points to Consider » sur les licences, plus de 100 signataires) ; débat sur l'usage des march-in rights pour le prix des médicaments, relancé par la pandémie de COVID-19.
+- Chiffres et faits cités :
+  - [0:53] 40e anniversaire de la loi en 2020 ; sénateurs Birch Bayh et Bob Dole.
+  - [1:51] Années 1970 : environ 28 000 brevets fédéraux, moins de 5 % licenciés, 26 politiques d'agences différentes.
+  - [2:45] Plus de 1 000 milliards $ de production économique attribués à la loi (selon diverses sources).
+  - [8:50] Déclaration à l'agence dans les 2 mois ; [10:35] avis 60 jours avant abandon ; [31:35] élection du titre dans les 2 ans ; [34:09] délai de 60 jours avant la fin de la période d'un an (auparavant 30 jours) ; [35:00] 10 mois entre dépôt provisoire et non provisoire.
+  - [42:03] « Nine Points to Consider » : 11 rédacteurs initiaux, plus de 100 signataires.
+  - [43:48] Lettre de membres du Congrès en 2016 au NIH demandant l'usage des march-in rights ; [45:32] réponse du NIH de 2004 rejetant cet usage pour les prix.
+- Exemples et cas concrets : Google (algorithme de recherche développé à Stanford et licencié) ; biotechnologie comme industrie née de Bayh-Dole ; rapport du Congressional Research Service sur le COVID-19 évoquant les march-in rights pour raisons de santé.
+- Citations fortes :
+  - [18:29] « Vous pouvez perdre la propriété d'une invention par simple inaction, si vous ne respectez pas les délais de déclaration, d'élection et de dépôt. »
+  - [3:40] « Des industries entières, comme la biotechnologie, n'existeraient pas sans la loi Bayh-Dole. »
+  - [51:54] « La question est de savoir si le balancier n'est pas allé trop loin, avec une industrie privée qui développe pour son usage une PI financée par le contribuable : il faut trouver un point d'équilibre. »
+- Utilisation possible par HSA : module « Bayh-Dole : le modèle qui a inspiré le monde » avec transposition aux pays africains (propriété des inventions financées sur fonds publics, partage des revenus, obligation de déclaration) ; fiche « obligations et délais » comme modèle de politique de PI universitaire ; post « Pourquoi 95 % des brevets publics dormaient avant 1980 » ; argument pour des lois nationales en Côte d'Ivoire et dans l'espace OAPI ; débat éthique (prix des médicaments, march-in) pour une masterclass.
+- Mots-clés : politique publique (Bayh-Dole, etc.), propriété intellectuelle et brevets, licences, rôle du bureau de transfert, définitions.
+
+## Commercialising university research : experience from Cambridge academics
+- Source : Frank Stajano Explains, 12 mars 2021 (conférence plus ancienne, vers 2014-2015, donnée à une conférence ACE-CSR), https://www.youtube.com/watch?v=f1SP7ifppFY, Europe (Royaume-Uni) (31 min, texte original anglais)
+- Intervenant(s) et fonction : Frank Stajano, reader en sécurité et vie privée au Computer Laboratory de l'Université de Cambridge, directeur du Centre d'excellence académique en cybersécurité de Cambridge, ancien salarié d'Oracle, AT&T, Google, Toshiba ; il rapporte de façon anonymisée les conseils de cinq collègues entrepreneurs : Pr Ted Briscoe (cofondateur d'iLexIR en 2003), Dr David Greaves (cofondateur de Virata en 1999, Tenison Technology EDA), Pr Andy Hopper (directeur du Computer Lab, cofondateur d'une douzaine d'entreprises), Jack Lang (entrepreneur en série, business angel, cofondateur et président de Raspberry Pi), Steven Murdoch (architecte sécurité de Cronto).
+- Pertinence pour le sujet : forte – retours d'expérience directs de chercheurs-entrepreneurs, avec des points de vue critiques sur les TTO et les brevets ; très utile pour la carrière du chercheur.
+- Idées clés :
+  - Le TTO de Cambridge (Cambridge Enterprise) a trois missions : transfert de technologie, consultance (gestion des contrats), fonds d'amorçage ; sa particularité : les chercheurs peuvent l'utiliser sans y être obligés (flexibilité).
+  - Facteurs de succès cités : pas de restriction sur la consultance tant que les obligations d'enseignement, de recherche et d'administration sont remplies ; contrats autorisant le travail commercial à côté ; barrières minimales à la création d'entreprise ; conseils internes par des collègues entrepreneurs, ouverts aussi aux anciens.
+  - La plupart des entreprises sont créées par des diplômés qui quittent l'université (« walk-outs »), peu par des universitaires en poste.
+  - Concilier entreprise et carrière académique est difficile : environ un jour par semaine en moyenne pour l'un ; publications sacrifiées pour d'autres ; proposition de congés pour création d'entreprise de 2-3 ans avec poste conservé, temps partiels, années sabbatiques.
+  - Les systèmes d'évaluation (REF britannique) pénalisent les départements dont les chercheurs partent fonder une entreprise : perte de talents, doctorants qui abandonnent ; il faut corriger les indicateurs si l'on valorise l'innovation.
+  - Critiques du TTO par certains : « bureaucrates » qui veulent contrôler la propriété et prélever des redevances sans savoir exploiter ce qui sort des schémas connus ; un TTO qui prend une grosse part initiale réduit la générosité future des anciens devenus riches envers l'université.
+  - Position radicale d'un répondant (logiciel) : les brevets freinent l'innovation et aucune université ne peut les défendre contre une grande entreprise ; la biotech est différente.
+  - Synthèse de Stajano sur le brevet : il gêne quand on veut une adoption la plus large possible d'une technologie nouvelle (« agrandir le gâteau d'abord ») ; il aide face à des concurrents établis, pour convaincre un gros client qu'on est seul à pouvoir fournir.
+  - Choisir le bon modèle économique : une équipe a perdu un an avant de comprendre que son invention relevait du transfert/consultance et non de la vente de produits ; « pas de modèle unique ».
+  - Comprendre le marché et savoir expliquer son projet à des non-spécialistes (« à sa belle-mère »).
+  - Pour un environnement entrepreneurial : l'échec doit être acceptable (environ 1 entreprise sur 10 réussit) ; si l'université prend une trop grosse part, l'incitation à créer diminue.
+  - Conseils : trouver un client et travailler avec lui sur un vrai problème ; s'associer à quelqu'un formé en gestion ; déposer tôt un brevet pour le matériel (attire les investisseurs) ; bien choisir ses associés ; décider si l'on vise l'argent ou le CV – on ne peut pas être PDG et mener une carrière académique complète.
+- Chiffres et faits cités :
+  - [1:46] Cluster de Cambridge : plus de 1 500 entreprises technologiques, plus de 50 000 emplois, plus de 10 milliards £ de chiffre d'affaires annuel, capitalisation cumulée de plus de 50 milliards £ ; [2:42] plus de 12 entreprises valorisées plus d'1 milliard £ en 15 ans.
+  - [2:42] ARM : plus de 95 % de part de marché des processeurs de téléphones mobiles ; plus de 50 milliards de puces à cœur ARM produites en 2014 ; 10 milliards en 2013.
+  - [3:35] XenSource vendue à Citrix en 2007 pour 500 M$ ; RealVNC : plus d'un milliard de copies déployées, trois Queen's Awards for Enterprise consécutifs.
+  - [4:27] Raspberry Pi : ordinateur à 20 $, 3,8 millions de cartes vendues en octobre 2014.
+  - [5:18] Environ 225 entreprises créées par des diplômés et personnels du Computer Laboratory.
+  - [7:53] SwiftKey : 1 million de téléchargements le premier jour sur l'App Store.
+  - [8:46] Virata : introduction record au NASDAQ en 1999, plus de 600 M$ levés en sept tours, jusqu'à 40 % des puces DSL mondiales.
+  - [12:07] Cronto vendue à Vasco pour 17 M€.
+  - [24:49] Environ 1 nouvelle entreprise sur 10 réussit.
+- Exemples et cas concrets : ARM (issue d'Acorn, licence de cœurs de processeur sans fabrication), XenSource (hyperviseur derrière Amazon EC2), RealVNC, Raspberry Pi (but éducatif), SwiftKey (issue d'iLexIR), Virata, Cronto (sécurité bancaire), « Hall of Fame » en bois du Computer Lab.
+- Citations fortes :
+  - [20:39] « Si l'on veut que les universités produisent ce type d'innovation, le système d'évaluation ne doit pas les pénaliser quand elles le font. »
+  - [24:49] « Il faut que l'échec soit acceptable, sans conséquences désastreuses pour vous et votre famille, si l'on veut que les gens prennent des risques. »
+  - [27:26] « Ne vous racontez pas d'histoires : vous ne pouvez pas mener une carrière académique complète et en même temps diriger votre spin-off comme PDG. Il faut choisir. »
+- Utilisation possible par HSA : module « Chercheur et entrepreneur : comment concilier ? » (congés de création, temps partiel, consultance) ; post « Breveter ou non ? Ça dépend » ; argument pour réformer les statuts des enseignants-chercheurs africains (autoriser consultance et création d'entreprise, ne pas pénaliser dans l'évaluation) ; témoignages pour masterclass ; message aux TTO africains : être facilitateurs plutôt que gardiens.
+- Mots-clés : spin-offs et start-ups, carrière du chercheur, rôle du bureau de transfert, propriété intellectuelle et brevets, politique publique, financement et maturation.
+
+## The Bayh-Dole Act Explained
+- Source : Bayh-Dole Coalition, 18 janvier 2024, https://www.youtube.com/watch?v=eqg7BIkB0HM, États-Unis (vidéo de plaidoyer animée, 2 min, texte original anglais)
+- Intervenant(s) et fonction : voix off de la Bayh-Dole Coalition (organisation de défense de la loi).
+- Pertinence pour le sujet : moyenne – résumé très court et partisan de la loi Bayh-Dole ; utile comme accroche, pas comme source détaillée.
+- Idées clés :
+  - Avant 1980, les découvertes des universités et laboratoires fédéraux américains restaient « sur les étagères » : l'État prenait les droits de brevet et les licenciait rarement à des entreprises capables d'en faire des produits.
+  - La loi Bayh-Dole (1980, sénateurs Birch Bayh et Bob Dole) a permis aux universités et aux petites entreprises de posséder les brevets issus de la recherche financée par l'État, et aux laboratoires fédéraux de licencier les leurs.
+  - Hypothèse validée selon la vidéo : les propriétaires de brevets trouvent des partenaires pour mettre les technologies sur le marché.
+  - Prise de position contre l'usage des « march-in rights » envisagé par l'administration Biden (contrôle des prix) : selon la coalition, cela découragerait les entreprises d'exploiter la recherche publique, nuirait aux petites entreprises et profiterait à la Chine.
+  - Aucune administration, républicaine ou démocrate, n'a jamais utilisé la loi de cette façon.
+- Chiffres et faits cités : [0:00] loi adoptée en 1980 ; aucun chiffre quantitatif.
+- Exemples et cas concrets : [0:00] écrans plats, pomme Honeycrisp (University of Minnesota), moteur de recherche Google ; [0:55] technologies Wi-Fi, médicaments vitaux.
+- Citations fortes :
+  - [0:00] « Les scientifiques faisaient des découvertes révolutionnaires, mais leur travail n'atteignait jamais le monde réel : il prenait la poussière sur les étagères, et les contribuables en tiraient très peu. »
+  - [1:47] « La loi Bayh-Dole a été conçue pour stimuler l'innovation. Elle a fonctionné. »
+- Utilisation possible par HSA : accroche de post ou d'introduction de module (« Qu'ont en commun une pomme, un écran plat et Google ? ») ; illustrer le problème des résultats « qui dorment sur les étagères » dans les universités africaines ; montrer qu'il s'agit d'un sujet politique débattu (à présenter comme point de vue d'un groupe de plaidoyer).
+- Mots-clés : politique publique (Bayh-Dole, etc.), propriété intellectuelle et brevets, licences, définitions.
+
+
+## Patenting & Licensing of Early-Stage University Technology
+- **Source** : Columbia TechVentures, 6 nov. 2014, https://www.youtube.com/watch?v=ZzczaFujs3A, États-Unis (conférence de 1 h 07, en anglais, traduction automatique).
+- **Intervenant(s)** : Orin Herskowitz (transcrit « Oren Herschwitz »), directeur exécutif de Columbia Technology Ventures (le bureau de transfert de technologie de Columbia) et vice-président Propriété intellectuelle et transfert de technologie de l'université Columbia. Ancien consultant au Boston Consulting Group pendant 7 ans, diplômé en littérature anglaise et MBA, « sans formation technique ». Il cite des collègues (Liz, Margie pour le marketing, Richard pour les licences, Laura, juriste contrats, Jeff Sears pour le cours sur les brevets).
+- **Pertinence** : forte. C'est un cours complet, vu de l'intérieur d'un bureau de transfert de technologie (TTO) parmi les plus performants, sur tout le parcours : déclaration d'invention, brevet provisoire, marketing, lettre d'intention, licence, termes économiques.
+- **Idées clés** :
+  - Le parcours type : déclaration d'invention par le chercheur, puis analyse de la brevetabilité et du potentiel commercial (avec l'aide de doctorants stagiaires), puis dépôt d'un brevet provisoire (environ 2/3 des inventions), puis conversion d'environ 2/3 de ceux-ci en demande complète à 12 mois, puis marketing et licence.
+  - Le brevet provisoire américain coûte peu et se dépose vite. On peut joindre un article scientifique avec une page de garde. Il donne un an pour consolider. Le TTO en dépose parfois en quelques heures, quand un chercheur l'appelle de l'aéroport avant une conférence. Règle : le TTO ne doit jamais empêcher un chercheur de publier ou de présenter ses travaux.
+  - Raisons de ne pas convertir un brevet provisoire : la science ne marche pas, l'étude ne trouve pas de marché, le chercheur n'achève pas ses travaux, le doctorant part.
+  - La « vallée de la mort » : les subventions publiques et des fondations financent la recherche fondamentale. L'industrie et le capital-risque ne financent que le lancement. Entre les deux (faisabilité, prototype, premiers essais), personne ne paie.
+  - Le délai est long. Il faut en moyenne environ 3 ans entre la déclaration et la licence, même pour les inventions qui finissent licenciées. Le profil est le même en sciences de la vie et en sciences physiques, en licence exclusive ou non exclusive, avec ou sans redevances. Le National Cancer Institute, l'université de Californie et Cornell obtiennent la même courbe.
+  - Un brevet est un droit « négatif » et national. Il permet seulement d'empêcher autrui d'exploiter l'invention. Il n'autorise pas à l'exploiter soi-même (exemple : un brevet d'usage sur une échelle déjà brevetée). Il n'existe pas de brevet mondial. Après le premier dépôt américain, on a environ 30 mois pour choisir les pays.
+  - Critères de brevetabilité : utilité (l'invention doit marcher pour l'usage prévu), nouveauté (absence d'antériorité), non-évidence. Ce sont les revendications qui définissent l'invention, « comme le plan d'un géomètre ». Plus elles sont larges, plus le brevet a de valeur, mais plus le risque d'antériorité est grand. Un brevet délivré peut être invalidé plus tard en justice.
+  - Les licences offrent une flexibilité presque infinie : exclusive ou non exclusive, par territoire, par domaine d'usage (thérapeutique ou diagnostic), par durée, exclusivité convertible, droit de fabriquer, d'utiliser ou de vendre, sous-licence.
+  - Columbia privilégie la licence non exclusive dès que possible, pour diffuser largement la technologie. Trois de ses quatre brevets les plus rentables sont licenciés de façon non exclusive. L'exclusivité est réservée à un domaine précis quand l'industriel doit investir lourdement, par exemple en pharmacie.
+  - Le montage économique s'adapte au partenaire. Une grande entreprise préfère tout payer d'entrée. Une start-up préfère limiter les frais initiaux et payer en actions (equity) et en redevances. Les redevances peuvent être dégressives ou progressives, calculées sur les ventes brutes ou nettes, différentes selon l'usage, avec plancher et plafond, ou rachetables (par exemple « 15 M$ pour éteindre la redevance »).
+  - La négociation part des besoins de droits de l'industriel et s'appuie sur des bases de données d'accords comparables. Elle aboutit à une lettre d'intention (term sheet : paiement initial, part du capital, paiements d'étape, taux de redevance), puis au contrat rédigé par les juristes. Le modèle de licence de Columbia fait 18 pages et est en ligne. La plupart des licences sont amendées par la suite.
+  - Les licences sont des « jeux répétés ». On retrouve les mêmes partenaires, donc un comportement avide ou contraire à l'éthique se paie vite.
+  - Les places de marché centralisées de brevets (comme iBridge, financée par la Fondation Kauffman) n'ont jamais décollé. Les licenciés préfèrent le contact direct, le site du TTO, les salons et la lecture des publications des professeurs.
+  - Le brevet n'est pas toujours la bonne réponse. Les coûts arrivent surtout au début. Un dépôt mondial peut atteindre 500 000 $ sur 7 à 8 ans. Le secret d'affaires est une autre option (exemple : la formule du Coca-Cola), mais il ne vaut que tant que le secret tient.
+- **Chiffres et faits cités** :
+  - [3:20] Apple contre Samsung : Samsung condamné à 930 M$, montant réduit en appel.
+  - [3:58–4:08] Google a racheté Motorola Mobility pour 12 Md$, a récupéré environ 8 Md$ en cédant les activités et a gardé 17 000 brevets, soit environ 4 Md$ pour les brevets.
+  - [4:56–5:45] Enchères Nortel : 4 000 brevets, enchère d'ouverture à 900 M$, offre de Google à environ 4,4 Md$ (dont 3,14159 Md$), victoire d'Apple, Microsoft et d'autres à 4,5 Md$, création de l'entité Rockstar.
+  - [5:45] Carnegie Mellon a obtenu 1,1 Md$ de dommages et intérêts contre Marvell (« Marvel » dans la transcription) pour un brevet.
+  - [6:37–7:29] Universités américaines sur 20 ans : environ 700 Md$ de recherche, environ 300 000 inventions déclarées, soit environ 2,4 M$ de recherche par invention (1,8 à 1,9 M$ dans les grandes universités, 2,5 à 2,8 M$ dans les petites). Environ un tiers des demandes de brevet aboutissent. Environ 50 000 licences actives, près de 7 500 start-ups, 150 nouveaux médicaments et dispositifs médicaux.
+  - [13:09] En pharmacie, 1 composé sur 100 entré en développement atteint le marché.
+  - [13:09] 84 universités américaines perdent de l'argent chaque année sur le transfert de technologie (dépenses supérieures aux recettes).
+  - [14:02] Columbia figure parmi les 2 ou 3 premières universités américaines en revenus de licences depuis 20 ans. Emory et Wake Forest, plus petites, ont aussi figuré dans le top 10.
+  - [17:17–18:05] Pour les inventions finalement licenciées, il faut environ 3 ans en moyenne après la déclaration. Au bout de 6 à 7 ans, des licences sont encore signées.
+  - [18:53] Brevet déposé pour environ 67 % des inventions.
+  - [20:31] Sur environ 400 inventions par an, les droits sont proposés aux chercheurs dans environ 130 cas d'abandon par le TTO, et seulement 4 environ sont repris. Columbia ne demande que le remboursement des frais de brevet, sans pourcentage.
+  - [23:40] Environ 75 % des inventions converties sont publiées sur le site du TTO.
+  - [26:07] Parmi les licences actives sur une année : 40 % ont généré au moins 1 $ et moins de 1 % plus de 1 M$.
+  - [30:15] Environ 20 000 à 30 000 $ par brevet après 3 ans, plus 100 000 à 150 000 $ par pays (Europe, Asie) sur 5 à 7 ans, jusqu'à environ 500 000 $ sur 7 à 8 ans.
+  - [32:39] Columbia, chaque année : environ 400 inventions, environ 100 licences et options, environ 18 start-ups.
+  - [33:28] Plus de 150 start-ups issues de Columbia en 20 ans : plus de 40 financées par capital-risque, 9 introduites en bourse, 18 rachetées.
+  - [48:04] La plupart des brevets mettent 5 ans à être délivrés aux États-Unis. On licencie donc souvent des demandes qui ne sont pas encore délivrées.
+  - [49:37] Sur environ 100 licences par an, 18 vont à des start-ups.
+  - [58:24] Le TTO emploie 35 stagiaires doctorants et mène environ 200 campagnes marketing par an.
+  - [1:03:32] Environ 1 200 brevets disponibles en licence sur le site de Columbia. Environ 75 % des inventions sont liées aux sciences de la vie.
+- **Exemples et cas concrets** :
+  - Un mur lumineux qui repousse les moustiques, mis au point au département de physique, avec une application possible contre le paludisme.
+  - Les algorithmes de modélisation de fibres et de tiges élastiques d'Eitan Grinspun (informatique), utilisés pour les cheveux du film Raiponce (Disney) et licenciés à une start-up de mode new-yorkaise.
+  - Un robot chirurgical (œil et oreille) licencié à une start-up.
+  - Les brevets d'algorithmes de compression de données (MPEG) du professeur Dimitris Anastassiou, qui comptent parmi les quatre plus rentables de Columbia. Il s'est ensuite reconverti en biologie computationnelle du cancer.
+  - Le brevet américain d'un piège à souris en forme de chat, cité comme exemple pédagogique de revendications.
+  - Les affaires Myriad (brevets sur les gènes) et Amazon One-Click (méthodes commerciales).
+  - La plateforme iBridge (Fondation Kauffman).
+- **Citations** :
+  - [35:04] « Un brevet ne vous autorise pas à faire quoi que ce soit. Il vous permet seulement d'empêcher quelqu'un d'autre de le faire. »
+  - [22:05] « Notre mission est de ne jamais entraver la mission première de l'université, la recherche et l'enseignement. Nous ne voulons pas qu'un professeur renonce à publier pour protéger un secret. »
+  - [31:05] « Les brevets sont un excellent outil si vous en avez besoin, mais ils ne conviennent pas à toutes les entreprises. »
+- **Utilisation possible par HSA** :
+  - Matière principale d'un module « Du labo à la licence » : schéma déclaration → brevet provisoire → marketing → lettre d'intention → contrat.
+  - Fiche pratique « anatomie d'une licence » : variables à négocier.
+  - Post « 84 universités américaines perdent de l'argent » pour casser le mythe du jackpot.
+  - Argument pour les chercheurs africains : protéger n'empêche pas de publier si l'on dépose avant (l'équivalent ARIPO/OAPI du brevet provisoire reste à vérifier).
+  - Infographie sur la vallée de la mort.
+- **Mots-clés** : rôle du bureau de transfert, détection d'inventions, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation, mesure d'impact.
+
+## Focus + : Valorisation des résultats de recherche et de l'innovation
+- **Source** : FILINFOTV (télévision burkinabè), 17 déc. 2025, https://www.youtube.com/watch?v=MqzHa4PKEWc, Afrique francophone (Burkina Faso). Transcription automatique bruitée.
+- **Intervenant(s)** :
+  - Dr Ki (nom incertain dans la transcription), enseignant-chercheur en sciences et technologies des aliments à l'université (Burkina Faso).
+  - M. Zan (orthographe incertaine), spécialiste de la propriété intellectuelle, qui intervient au nom de l'ANVAR (Agence nationale de valorisation des résultats de la recherche et des innovations, Burkina Faso).
+  - Animateur de l'émission.
+- **Pertinence** : forte, en particulier pour le contexte africain. Le Burkina Faso a une agence nationale de valorisation, des plateformes multi-acteurs, des cas agroalimentaires, et l'OAPI y est présentée comme levier de confiance.
+- **Idées clés** :
+  - La valorisation a plusieurs dimensions : économique, sociale, technologique, académique et politique (aider les décideurs à décider, en contexte de « refondation »).
+  - Les tiroirs sont pleins. Les mémoires et les thèses dorment dans les bibliothèques. Il faut aller vers les acteurs (industriels, ONG, ministères) plutôt qu'attendre qu'ils viennent.
+  - Tout résultat n'est pas valorisable. Premier critère : le sujet doit partir d'un problème constaté sur le terrain. Deuxième critère : le résultat doit être accessible, c'est-à-dire reproductible industriellement et abordable pour la population (optimisation).
+  - Les outils de l'ANVAR et de l'écosystème : plateformes d'innovation multi-acteurs par filière (cinq plateformes, dont maïs et lait, pilotées par l'ANVAR et des partenaires), incubateurs technologiques pour le prototypage, forums comme le FINATEC (« Fite » dans la transcription, Forum national des innovations technologiques), journées portes ouvertes.
+  - Des rencontres B2B universités-entreprises pour présenter des résultats ciblés sur un secteur, afin de créer la connexion chercheurs-industriels voulue par le président du Faso.
+  - Le chercheur peut réduire le coût de revient de l'industriel : réglage du temps optimal des machines (coût de l'électricité), effectifs nécessaires, optimisation de la formule. Nos produits sont chers parce que la recherche est loin de l'industrie.
+  - Les exonérations publiques pour l'investissement industriel sont sous-exploitées.
+  - Valoriser coûte cher : équipements, laboratoires certifiés, normes (agence de normalisation ABNORM, représentante de l'ISO), communication, centres de multiplication. Il faut mutualiser les plateaux techniques à l'échelle régionale, selon les avantages comparatifs de chaque pays.
+  - Le policy brief (note de politique de 2 pages) est un outil clé pour valoriser les sciences sociales. Le chercheur doit s'entourer de spécialistes de la communication scientifique. Le CAMES encourage à résumer sa thèse en langue locale après la soutenance.
+  - La propriété intellectuelle est présentée comme le « cœur du sujet ». Brevet pour les procédés, certificat d'obtention végétale pour les variétés, via l'OAPI. Un résultat protégé est plus facilement transférable et crée la confiance : le chercheur craint d'être « doublé » par l'industriel. Le volet PI n'a souvent pas de budget et est méconnu.
+  - Publier sans protéger fait tomber le résultat dans le domaine public. Il reste le savoir-faire du chercheur.
+  - Il faut une politique nationale de PI claire. L'exemple américain des patent pools (portefeuilles de brevets regroupés par domaine) facilite l'accès des industriels.
+  - Les industries publiques nouvellement créées devraient avoir des cellules de recherche et protéger leurs formules, pour éviter des contentieux coûteux.
+  - L'interdisciplinarité est indispensable. Une sociologue de l'équipe a alerté sur le risque de rejet d'un produit alimentaire issu de déchets de mangue.
+- **Chiffres et faits cités** :
+  - [0:00–0:55] Étude de 2022 (attribuée à « Rollanva », nom incertain) : plus de 1 000 (« 11 000 » dans la transcription) résultats de recherche répertoriés, avec un fort potentiel en création variétale agricole, dont l'INERA est leader.
+  - [16:43] Cinq plateformes d'innovation multi-acteurs (dont maïs et lait) pilotées par l'ANVAR.
+  - [26:07] Projet régional (espace UEMOA, transcrit « Yomoa ») de valorisation de variétés de maïs à haut rendement, piloté par le Burkina et exécuté au Mali et au Niger. Les variétés burkinabè y ont été adoptées.
+  - [27:50] Une variété de kénaf (plante textile), mise au point par des chercheurs burkinabè à Farako-Bâ, a été adoptée au Mali.
+  - [29:29–32:02] Poulet bicyclette : l'élevage traditionnel prend 4 à 6 mois. L'aliment formulé à l'université permet une sortie en 75 à 90 jours, puis environ 2 mois et 10 jours après affinage, pour des poulets de 800 g à 1 kg. Essais dans deux fermes et passage à l'échelle en cours. Un concentré est disponible et une entreprise s'en approprie.
+  - [35:18] Des échantillons de déchets de mangue doivent être envoyés au Ghana pour analyse, faute d'équipement local.
+  - [48:52] Après publication ou soutenance, il existe un « délai de grâce de 12 mois » selon l'intervenant. Ensuite, tout acteur peut utiliser le procédé. Affirmation à vérifier : le régime OAPI est plus restrictif.
+  - [52:13] Allusion à un litige de la Brafaso (2008) autour d'un simple mot (marque « Top »), pour illustrer le risque de contentieux.
+- **Exemples et cas concrets** :
+  - Création variétale de l'INERA (blé, maïs, kénaf).
+  - Vaccins (cité de façon confuse).
+  - Équipements agricoles adaptés au contexte local.
+  - Foyers améliorés et nouveau foyer « Fomita », une innovation demandée par les transformatrices pour économiser le bois.
+  - Maïs sans toxines pour la nouvelle usine et la SN Brafaso.
+  - Farines infantiles contre la malnutrition.
+  - Valorisation des déchets de karité et de mangue (vinaigre, produits fermentés).
+  - Phosphates du Burkina, utilisables contre la malnutrition (calcium, phosphore) et pas seulement comme engrais.
+  - Huiles essentielles brevetées.
+  - INSS (sciences sociales, transcrit « INES ») : travaux sur la parenté à plaisanterie (rakiré), dont l'expérience intéresse d'autres pays.
+  - Constitution traduite en langues locales.
+  - Notes de politique à l'université Joseph Ki-Zerbo.
+  - Initiative « Faso Mêbo » (transcription confuse) pour la diaspora.
+- **Citations** :
+  - [14:11] « Tout résultat n'est pas valorisable. Le premier critère, c'est que le sujet donné à l'étudiant parte d'un problème constaté sur le terrain. Sinon, il finira dans les tiroirs. »
+  - [47:10] « Lorsqu'un résultat est protégé, il devient facilement transférable. Sans titre de propriété, on ne peut pas réellement transférer. »
+  - [23:33] « Nos produits sont généralement chers tout simplement parce que la recherche est éloignée de l'industrie. »
+- **Utilisation possible par HSA** :
+  - Étude de cas africaine francophone pour un module « Écosystème national de valorisation » (agence nationale, plateformes multi-acteurs, OAPI).
+  - Grille « mon résultat est-il valorisable ? » (problème de terrain, reproductibilité, accessibilité).
+  - Post sur le poulet bicyclette en 75 jours.
+  - Argument pour la mutualisation régionale des plateaux techniques.
+  - Atelier « écrire un policy brief ».
+- **Mots-clés** : définitions, Afrique, propriété intellectuelle et brevets, partenariats industrie, financement et maturation, politique publique, SHS et impact.
+
+## From Researcher to Founder: Commercializing University Research
+- **Source** : University of Utah Technology Licensing Office, 1 juin 2026, https://www.youtube.com/watch?v=ocm5Fv2LL34, États-Unis (panel de 36 min, en anglais, traduction automatique).
+- **Intervenant(s)** (noms tels que transcrits, orthographe incertaine) :
+  - Ainsley Lloyd, directrice adjointe de l'Energy Accelerator de l'université de l'Utah, conseillère et partenaire du Dolmen Innovation Studio (incubateur de la David Eccles School of Business). Elle a un parcours en entrepreneuriat et en capital-risque. Modératrice du panel.
+  - Rachel Deweiler, postdoctorante en génie biomédicale, qui crée la spin-off Lantra Bio avec sa directrice Jessica Kramer.
+  - Daniel Gryer, cofondateur et président de Kissia Bioscience.
+- **Pertinence** : moyenne à forte. C'est un témoignage concret sur la transition chercheur → fondateur et sur l'écosystème de soutien d'une université (TLO, incubateur, subventions non dilutives). Il y a peu de données chiffrées.
+- **Idées clés** :
+  - La première étape est toujours de parler aux gens : TLO (avec qui les brevets étaient déjà déposés), incubateur, événements, réseaux. Chaque structure de l'université connaît les autres et oriente vers la suivante.
+  - Il faut financer la transition. Le TLO fournit un financement-pont. La bourse Ascender est une subvention de commercialisation non dilutive du TLO qui permet à une postdoctorante de consacrer 90 % de son temps à la start-up. Une fois le statut d'étudiant terminé, il n'existe plus de financement pour commercialiser : c'est une « vérité universelle ».
+  - Il faut sortir de sa zone de confort. Les scientifiques sont souvent introvertis, mais le réseautage et l'art de raconter une histoire (storytelling) sont indispensables. Cela s'améliore par itération.
+  - Il faut apprendre le « langage des affaires » : finances, taille du marché, nombre de personnes touchées. Les investisseurs veulent savoir comment la technologie changera le monde, et pas seulement qu'elle le pourrait.
+  - Métacognition : savoir ce qu'on ne sait pas et accepter de ne plus être l'expert.
+  - La méthode scientifique s'applique à l'entreprise : hypothèses sur l'adéquation produit-marché, entretiens clients, retour au labo pour vérifier que la technologie répond au besoin réel. Avant, on « devinait » l'application dans les articles.
+  - La transition est progressive. Il faut des soirées et des week-ends, puis déléguer et recruter après la levée de fonds. Cumuler les rôles de PDG, directeur de la stratégie et directeur financier n'est pas tenable : il faudra recruter un PDG ou un directeur de la stratégie.
+  - Comprendre l'accord de licence avec le TLO a été le plus difficile. L'incubateur a aidé à décoder la terminologie, ce qui a facilité la négociation (« nous voulions tous la même chose »).
+  - Le fondateur doit trancher. Il recevra des conseils excellents et d'autres désastreux. C'est à lui de décider quels brevets et quelles revendications garder et quel marché viser. Il faut combattre le syndrome de l'imposteur : « je suis la personne la mieux placée pour faire avancer cette technologie ».
+  - Le bon moment compte. Le portefeuille de brevets expire, donc il faut viser la bonne indication au bon moment. La fabrication en labo diffère de la fabrication pour l'humain (thérapie cellulaire).
+  - Le mythe de l'industriel qui vient choisir une technologie dans un catalogue est faux. Sans un chercheur entrepreneur pour franchir le fossé, beaucoup de technologies restent lettre morte.
+  - Recommandation à l'université : cartographier et consolider les ressources. Un fondateur a découvert l'accélérateur thérapeutique trop tard.
+  - Pour valider un besoin, il n'existe pas de base de données unique. La méthode NSF I-Corps (entretiens de découverte client) permet de collecter ces données soi-même.
+- **Chiffres et faits cités** :
+  - [11:17] Avec la bourse Ascender, la postdoctorante consacre 90 % de sa semaine à la start-up.
+  - [4:54] Opportunité de commercialisation identifiée environ 2 ans après son arrivée au labo.
+  - [5:42] La technologie de Kissia est apparue en 5e année de doctorat.
+  - [7:19] Mentorat de l'incubateur : 2 heures toutes les deux semaines depuis un an et demi, comme un « thérapeute d'entreprise ».
+  - [26:37] Réunion préliminaire (pre-IND) avec la FDA prévue dans les 8 mois. La voie 510(k) ne s'applique pas à une thérapie.
+- **Exemples et cas concrets** :
+  - Lantra Bio : un polypeptide synthétique qui imite les protéines antigel des poissons arctiques, pour congeler sans dommage des bioréactifs, des médicaments biologiques et des aliments, et à terme des cellules et des organes.
+  - Kissia Bioscience : des macrophages modifiés qui « nettoient » les résidus après l'ablation d'une tumeur cérébrale. Financement par des groupes locaux, University of Utah Ventures et l'accélérateur Altitude Lab.
+  - Ressources réglementaires sur le campus : centre de coordination des données, Center for Medical Innovation avec un spécialiste de la réglementation.
+- **Citations** :
+  - [16:59] « Les meilleurs fondateurs se disent : je suis l'expert de cette technologie, je vais utiliser ce que j'ai appris en doctorat pour apprendre le langage des affaires, parce que je suis la personne la mieux placée pour la faire avancer. »
+  - [29:51] « Il y a un fossé entre l'université et l'industrie. À moins qu'un chercheur un peu entrepreneur ne fasse avancer la technologie, beaucoup resteront lettre morte. »
+  - [34:39] « Votre expertise vous a rendu très doué pour apprendre. L'information est disponible : avancez étape par étape. Mais si vous n'êtes pas passionné, ne le faites pas, cela demande énormément de travail. »
+- **Utilisation possible par HSA** :
+  - Module « Devenir chercheur-entrepreneur » : état d'esprit, compétences à acquérir, méthode I-Corps.
+  - Série de posts « 5 leçons de chercheurs devenus fondateurs ».
+  - Plaidoyer auprès des universités africaines pour des bourses de transition non dilutives de type Ascender et une carte unique des ressources.
+  - Argument contre le syndrome de l'imposteur chez les doctorants.
+- **Mots-clés** : spin-offs et start-ups, carrière du chercheur, financement et maturation, rôle du bureau de transfert, licences.
+
+## Le Salon de la Valorisation des Résultats de Recherche et de l'Innovation en Afrique de l'Ouest
+- **Source** : Norbert DOUHADJI (débat sur la radio Nana FM, Lomé), 13 sept. 2023, https://www.youtube.com/watch?v=ys3EST5KOLU, Afrique francophone (Togo). Transcription automatique très bruitée, notamment pendant les appels d'auditeurs.
+- **Intervenant(s)** :
+  - Dr Kossi Dodji (prénom et nom incertains dans la transcription), chef de la division recherche à l'Institut national de la recherche scientifique (INRS, Togo) et membre du comité d'organisation du SAVARI-AO.
+  - Animateur : Norbert Douhadji, avec des auditeurs au téléphone.
+- **Pertinence** : moyenne. L'émission présente un dispositif régional ouest-africain (projet VaRIWA, salon, fonds) avec des chiffres utiles sur le financement de la recherche. La partie technique sur la propriété intellectuelle reste superficielle et contient une approximation.
+- **Idées clés** :
+  - Le projet VaRIWA (Valorisation des résultats de la recherche et de l'innovation en Afrique de l'Ouest) est porté par un consortium d'agences de recherche et d'innovation de quatre pays : Bénin, Burkina Faso, Sénégal, Togo. Il est financé par le Fonds OEACP pour la recherche et l'innovation et l'Union européenne, et coordonné par l'Agence universitaire de la Francophonie (AUF). Objectif : créer un environnement favorable au transfert de technologie.
+  - Il comporte trois volets : (1) former les chercheurs à la protection et à la valorisation, (2) mettre en place des dispositifs d'accompagnement (incubateurs), (3) créer des réseaux public-privé. Le salon est issu du volet 3.
+  - Constat : les chercheurs de la sous-région produisent beaucoup mais s'arrêtent au stade du « résultat primaire ». Une recherche financée doit avoir un impact sur la vie des citoyens.
+  - Programme du salon : un panel présidentiel (« Investir dans l'innovation et la recherche pour un développement durable et inclusif »), un panel ministériel sur les politiques et stratégies de recherche, une masterclass pour jeunes innovateurs (propriété intellectuelle, démarches, coûts, avantages), des expositions organisées en « villages » par pays, des rencontres B2B et B2C avec des investisseurs, un concours avec jury et huissier.
+  - Beaucoup d'innovateurs ignorent qu'il existe des institutions pour les accompagner dans la protection. Au Togo, l'INPIT (Institut national de la propriété industrielle et de la technologie) reçoit les demandes et les transmet à l'OAPI.
+  - Breveter n'est pas une fin en soi. Il faut ensuite trouver des investisseurs et signer des conventions d'exploitation.
+  - Les États ne peuvent pas financer seuls la recherche. Dans les pays qui ont réussi, ce sont les partenariats public-privé qui ont porté la R&D. Le salon doit servir au plaidoyer auprès des chefs d'État.
+  - Un fonds ne sert à rien s'il n'est pas alimenté. Il faut des mécanismes innovants pour l'abonder.
+  - Les innovations sont évaluées selon les priorités des feuilles de route nationales (au Togo, l'agriculture).
+  - Le suivi des lauréats après le salon et la mise en œuvre des recommandations sont des enjeux reconnus : « on en a vu finir dans les tiroirs ».
+- **Chiffres et faits cités** :
+  - [9:31] Environ 1,7 % du PIB consacré à la recherche et l'innovation dans le monde, contre à peine 0,4 % en Afrique de l'Ouest.
+  - [10:24] Plan d'action de Lagos (1980) : les chefs d'État africains s'étaient engagés à consacrer au moins 1 % du PIB à la R&D. Le Togo y consacre environ 0,22 % (cité « 22 % » par erreur à [25:17]).
+  - [10:24–11:18] Lancement d'une étude de faisabilité d'un Fonds de soutien à la recherche et à l'innovation au Togo, avec l'appui de l'OEACP et de l'UE et des experts mandatés.
+  - [8:40] Environ 75 exposants attendus : 15 du Burkina, 15 du Bénin, 15 du Sénégal, 30 du Togo.
+  - [12:52] Prix du concours : 5 millions, 2 millions et 1 million (FCFA).
+  - [0:00] Salon du 18 au 20 septembre 2023 au Centre togolais des expositions et foires (CETEF) de Lomé. Première édition, qui pourrait devenir annuelle.
+  - [22:46] Affirmation de l'intervenant : une protection OAPI vaudrait « ici, en Afrique et dans le monde entier » grâce aux bases de l'OMPI. C'est **inexact** : un brevet OAPI couvre les États membres de l'OAPI. À corriger dans tout contenu HSA.
+- **Exemples et cas concrets** :
+  - Pendant la crise du Covid, des jeunes Togolais ont produit des masques et du gel hydroalcoolique.
+  - Un auditeur demande si des chercheurs travaillent sur la valorisation des plantes envahissantes en ville. Réponse : des laboratoires universitaires s'y intéressent.
+  - Allusion à la phrase prêtée au général de Gaulle sur le CNRS : « Des chercheurs qui cherchent, on en trouve ; des chercheurs qui trouvent, on en cherche. »
+- **Citations** :
+  - [4:22] « Les chercheurs de notre sous-région produisent beaucoup, mais la plupart du temps ils s'arrêtent à la phase de résultats primaires. Or la recherche a pour vocation de contribuer au développement. »
+  - [23:37] « Breveter n'est pas une fin en soi. Il faut ensuite trouver des investisseurs avec qui signer des conventions d'exploitation économique. »
+  - [27:55] « Nos États ne peuvent pas financer seuls la recherche. Dans les pays qui en ont fait un outil de développement, ce sont des partenariats public-privé qui l'ont portée. »
+- **Utilisation possible par HSA** :
+  - Données de plaidoyer sur le financement de la R&D (1,7 % dans le monde, 0,4 % en Afrique de l'Ouest, 0,22 % au Togo, objectif de Lagos à 1 %) pour un post ou un livre blanc.
+  - Cartographie des dispositifs régionaux (VaRIWA, AUF, OEACP, SAVARI-AO) dans un module « Écosystème ouest-africain ».
+  - Contenu correctif sur la territorialité du brevet OAPI.
+  - HSA peut se positionner comme plateforme de suivi des innovateurs après les salons.
+- **Mots-clés** : Afrique, politique publique, financement et maturation, partenariats industrie, propriété intellectuelle et brevets, spin-offs et start-ups.
+
+## UNLOCK Tech Transfer #4 : Transfert de technologie aux partenaires industriels
+- **Source** : Université Paris Cité, 5 mars 2026, https://www.youtube.com/watch?v=f1QRAMqPhh4, France (podcast vidéo de 23 min, 4e épisode de la série « Unlock Tech Transfer » du PUI Vallocité).
+- **Intervenant(s)** :
+  - Fabien, animateur.
+  - Nicolas, professionnel du transfert de technologie qui anime la série. Sa fonction exacte n'est pas précisée dans l'épisode.
+  - Miranda Delmot (orthographe incertaine), coordinatrice du Hub innovation de l'AP-HP (transcrit « PHP »). Elle se décrit comme « porte d'entrée simplifiée de l'innovation » et coordinatrice interne.
+- **Pertinence** : forte. L'épisode est très pratique sur la relation avec les industriels : quand contacter le TTO, accords de confidentialité, risques de captation, durée des négociations, accords-cadres, accords de transfert de matériel, négociation interculturelle.
+- **Idées clés** :
+  - Rappel du « continuum de l'innovation » vu dans la série : détection des applications, protection (déclaration d'invention, brevets), prématuration et maturation (montée en TRL, financements), puis partenariat industriel.
+  - Il faut contacter le transfert de technologie le plus tôt possible. Un échange informel (appel, mail) suffit, sans données complètes. Le TTO aide à dérisquer, techniquement et commercialement, par exemple avec un « target product profile » ou une petite étude de marché.
+  - Ce n'est pas au chercheur de chercher seul une entreprise. Il est accompagné par des professionnels qui ont l'habitude de travailler avec l'industrie.
+  - L'accord de confidentialité (CDA/NDA) est le cadre de base. Le TTO dispose de modèles prêts à l'emploi. Il ne faut pas rester naïf face à la concurrence et à l'espionnage industriel, ni se laisser flatter quand une entreprise appelle après un poster ou une publication.
+  - Réflexe simple et rarement appliqué : marquer « confidentiel » sur toute présentation ou tout mail contenant des résultats non publiés, même envoyés à un collègue étranger. Les Américains le font systématiquement.
+  - Risque concret : un industriel dépose un brevet sur ce que le chercheur lui a confié. Les procédures juridiques pour le récupérer sont très lourdes. Mieux vaut prévenir que guérir. Ce type de cas arrive souvent.
+  - La durée de négociation dépend du sujet, de l'implication du chercheur, de la taille du partenaire, de la complexité de la licence (tout domaine ou domaine restreint) et de la connaissance qu'a le partenaire des règles publiques. Les industriels croient parfois pouvoir « se servir » dans les organismes publics.
+  - Il faut un momentum, une partie de ping-pong. Si le partenaire met 6 mois à revenir, c'est mauvais signe. En cas de blocage, il faut revenir à la table sans attendre la prochaine réunion : c'est un jeu gagnant-gagnant.
+  - Plusieurs modalités existent au-delà de la licence : collaboration de recherche, accès d'un labo à des brevets industriels, accords-cadres avec des partenaires stratégiques. Avec un accord-cadre, on ne renégocie que l'accord spécifique (lots de travail, financement, expertises).
+  - Le MTA (Material Transfer Agreement) de pré-collaboration ou pré-licence : on prête le matériel biologique pour une expérience donnée pendant un temps donné. Si les résultats sont positifs, on passe à la licence ou à la collaboration. Cela raccourcit la contractualisation.
+  - Transferts public-public : en cas de cotutelle, l'établissement le plus expert reçoit le mandat de gestion et de valorisation. Des transferts vers des institutions étrangères sont possibles quand on n'a pas les moyens d'aller plus loin.
+  - En négociation interculturelle, rester humble et s'adapter. La Corée du Sud, la Chine et le Japon ont chacun leurs codes. Ne pas imposer de modalités françaises.
+  - Il faut penser Europe, puis international, dès le départ. Le financement du déploiement industriel reste insuffisant malgré Bpifrance.
+- **Chiffres et faits cités** :
+  - [12:47] Pendant le Covid, pour un anticorps monoclonal thérapeutique anti-SARS-CoV-2 destiné aux patients non vaccinables : création d'une start-up ad hoc avec un investisseur, dépôt de brevet et accord de licence menés en parallèle, le tout en 1 mois.
+  - [11:55] Un partenaire qui met 6 mois à revenir est un mauvais signe.
+  - [19:28–20:19] Une négociation au Japon peut prendre 18 mois, mais toutes les étapes sont alors bien faites.
+  - [17:47] Un anticorps monoclonal contre la dengue a été transféré à Oxford, qui mènera l'essai de phase 1 faute de moyens côté français.
+- **Exemples et cas concrets** :
+  - Anticorps anti-SARS-CoV-2 (start-up créée en 1 mois).
+  - Anticorps anti-dengue transféré à Oxford.
+  - Transferts vers des institutions anglaises, américaines et brésiliennes.
+  - PUI Vallocité, qui réunit des équipes pour produire des déclarations d'invention et des brevets communs.
+  - Hub innovation de l'AP-HP.
+- **Citations** :
+  - [6:47] « Tant que vos travaux ne sont pas publiés, mettez "confidentiel" sur vos présentations et vos mails. C'est très simple, mais personne ne le fait. »
+  - [8:30] « Le risque, c'est que le partenaire industriel dépose une demande de brevet sur ce que le chercheur lui a dit, sans rien nous dire. Mieux vaut prévenir que guérir. »
+  - [11:55] « Quand l'intention de collaborer est réelle, il faut un momentum. Si le partenaire met six mois à revenir vers nous, ce n'est pas bon signe. »
+- **Utilisation possible par HSA** :
+  - Fiche réflexe « Avant de parler à un industriel » : CDA, mention confidentiel, appel au TTO.
+  - Post « Votre poster a attiré un industriel ? Attention ».
+  - Module « Contrats de la valorisation » : CDA, MTA, accord-cadre, accord de collaboration, licence.
+  - Argument pour les chercheurs africains souvent sollicités par des partenaires du Nord : signer un CDA ou un MTA avant tout échange de matériel ou de données.
+- **Mots-clés** : rôle du bureau de transfert, partenariats industrie, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation.
+
+## valorisation des résultats de la recherche et de l'innovation en Afrique de l'ouest.
+- **Source** : Grand Spirituel Monde TV, 15 mars 2023, https://www.youtube.com/watch?v=KcH_g9v1dPo, Afrique francophone (Bénin et Togo). Reportage de 17 min, transcription très bruitée.
+- **Intervenant(s)** :
+  - Un professeur togolais en mission d'appui pour le projet (nom transcrit « Joseph Kofield » puis « professeur Dodi », incertain ; probablement le même porteur que dans le reportage sur le SAVARI-AO).
+  - Le point focal du projet au Bénin (non identifiable dans la transcription).
+  - Des opérateurs économiques béninois et un représentant de la CCI Bénin (mention du CAMeC, centre d'arbitrage, pour les litiges).
+- **Pertinence** : moyenne. C'est un reportage sur la mobilisation du secteur privé béninois pour le projet régional VaRIWA (financement OEACP), avec un modèle original de fonds d'investissement alimenté par le privé. Le contenu de fond est limité.
+- **Idées clés** :
+  - Séance de travail à la Chambre de commerce et d'industrie du Bénin (CCIB), le 15 mars 2023, pour renforcer le partenariat public-privé sur le financement et la valorisation des résultats de recherche.
+  - Le projet a deux volets. (1) Un cadre partenarial et un réseau international entre opérateurs économiques, chercheurs et innovateurs, pour que chacun connaisse les problèmes et les forces de l'autre. (2) Un fonds d'investissement au service de la valorisation, alimenté par le secteur privé.
+  - Constat : le secteur privé ignore presque tout de la recherche locale. Il importe donc une expertise étrangère plus coûteuse, alors que des solutions existent dans les laboratoires.
+  - Le fonds est présenté comme le « bras armé » du réseau. Il y aura un fonds par pays, avec un apport privé sous forme d'investissement (et non de sponsoring) qui attend un retour sur investissement. Participer au réseau n'oblige pas à investir dans le fonds.
+  - Cibles du secteur privé : PME et PMI, banques, patronat, investisseurs. Au Togo, la CCI pilote le projet. Elle a recommandé de passer par la chambre consulaire du Bénin, qui fait l'interface avec les opérateurs.
+  - La CCI s'engage à sensibiliser, suivre et accompagner, et à traiter les litiges via son centre d'arbitrage.
+  - Des opérateurs souhaitent un investissement « bien cadré » et suivi, et rêvent d'un Bénin qui deviendrait « une Chine » grâce à l'innovation.
+- **Chiffres et faits cités** :
+  - [11:59] Dans les quatre pays membres (Bénin, Burkina Faso, Sénégal, Togo), la dépense publique de recherche et d'innovation est en moyenne d'environ 0,2 % du PIB, alors que l'Union africaine recommande au moins 1 %.
+  - [13:44] Le Bénin doit envoyer 40 participants au forum de Lomé de septembre 2023 : 15 opérateurs économiques, 15 innovateurs, 10 enseignants-chercheurs.
+  - [2:47] Le salon international prévoit un concours avec jury international et un prix pour les 3 meilleurs innovateurs.
+  - [11:05] Projet financé par le Fonds d'innovation de l'OEACP (Organisation des États d'Afrique, des Caraïbes et du Pacifique).
+- **Exemples et cas concrets** : CCI Bénin et CCI Togo, forum ou salon de Lomé (SAVARI-AO, septembre 2023).
+- **Citations** :
+  - [12:49] « Comme le secteur privé ignore presque tout de la recherche, il est obligé d'importer de l'expertise, ce qui lui revient beaucoup plus cher. Nous voulons que les deux mondes se connaissent. »
+  - [16:21] « Les opérateurs économiques mettront de l'argent dans ce fonds non pas sous forme de sponsoring, mais comme un investissement, et qui dit investissement dit retour sur investissement. »
+- **Utilisation possible par HSA** :
+  - Complément au cas SAVARI-AO et VaRIWA.
+  - Modèle de fonds de valorisation co-financé par le privé, à présenter dans un livre blanc sur le financement.
+  - Argument « importer l'expertise coûte plus cher » pour convaincre les PME africaines de travailler avec les labos locaux.
+  - Rôle des chambres consulaires comme passerelle.
+- **Mots-clés** : Afrique, partenariats industrie, financement et maturation, politique publique.
+
+## Out of the Box Thinking for Technology Transfer | Kirsten Leute | TEDxTucsonSalon
+- **Source** : TEDx Talks, 23 févr. 2018, https://www.youtube.com/watch?v=vipILRd8IEw, États-Unis (12 min, en anglais, traduction automatique).
+- **Intervenant(s)** : Kirsten Leute. Plus de 20 ans dans le transfert de technologie, dont près de 20 ans au Stanford Office of Technology Licensing.
+- **Pertinence** : moyenne. Le talk inspire sur la manière de franchir le « gouffre » entre recherche et industrie, avec deux récits contrastés. Il y a peu de données.
+- **Idées clés** :
+  - Le « vide », ou « triangle des Bermudes », de l'innovation académique : la recherche s'arrête à un stade précoce, l'industrie attend que la technologie mûrisse, et beaucoup d'innovations meurent entre les deux, faute de ressources.
+  - L'entonnoir : des milliers d'innovations, une fraction déclarée au TTO, 15 à 25 % de celles-ci licenciées, et très peu deviennent des produits.
+  - Même à Stanford, il n'y a pas de « meute d'investisseurs sous la fenêtre ». Beaucoup de technologies ont du mal à sortir.
+  - Deux récits composites. La « professeure Close » (fermée) veut garder le secret, refuse de parler de ses travaux, exige des accords de confidentialité que les investisseurs refusent de signer, et le projet meurt. La « professeure Possibility » partage, s'appuie sur un étudiant qui a déjà fondé une start-up, rencontre les conseillers du campus et trouve des financeurs.
+  - Facteur 1 : mettre de côté sa paranoïa. Un certain partage est nécessaire, surtout après le dépôt d'un brevet.
+  - Facteur 2 : admettre qu'on a besoin d'aide. Un bon chercheur n'est pas forcément doué pour lever des fonds ou diriger une start-up.
+  - Facteur 3 : construire un réseau et des relations à toutes les étapes.
+  - Facteur 4 : une équipe solide. Selon une enquête auprès de centaines de capital-risqueurs, l'équipe est le premier facteur de succès et la première cause d'échec.
+  - Facteur 5 : les programmes de financement et d'accompagnement. Il y en a des centaines aux États-Unis.
+  - Chacun peut aider en faisant des mises en relation, en rassurant et en partageant des réussites de start-ups pour inspirer.
+- **Chiffres et faits cités** :
+  - [1:38] Environ 15 à 25 % des inventions déclarées sont licenciées à l'industrie.
+  - [2:27] Près de 20 ans à l'Office of Technology Licensing de Stanford.
+  - [9:38] Enquête auprès de centaines de capital-risqueurs : l'équipe est le premier facteur de succès et le premier facteur d'échec.
+- **Exemples et cas concrets** : les deux récits composites (professeure Close et professeure Possibility), un traitement contre le cancer, l'article de presse sur la « meute d'investisseurs » qui attendrait sous les fenêtres de Stanford.
+- **Citations** :
+  - [7:15–8:01] « Pour traverser la vallée de la mort, il faut d'abord mettre de côté sa paranoïa. Un certain partage est nécessaire, surtout une fois la demande de brevet déposée. »
+  - [8:01] « Les chercheurs excellent dans la recherche, ce qui ne veut pas dire qu'ils sont doués pour lever des fonds ou diriger une start-up. Il faut admettre qu'on a besoin d'aide. »
+- **Utilisation possible par HSA** :
+  - Storytelling pour un post ou une masterclass sur le thème « chercheur fermé ou chercheur ouvert ».
+  - Contrepoint utile à la vidéo UNLOCK #4 : équilibre entre confidentialité (CDA, mention confidentiel) et ouverture (réseau).
+  - Argument pour le réseau social HSA : mettre en relation chercheurs, mentors et investisseurs.
+- **Mots-clés** : spin-offs et start-ups, carrière du chercheur, rôle du bureau de transfert, financement et maturation.
+
+## Comment protéger et monétiser vos innovations IA ? | Dr Maffiner Dosso
+- **Source** : Ministère de la Transition numérique (Côte d'Ivoire), 17 sept. 2026, https://www.youtube.com/watch?v=r-gk0BwEgu8, Côte d'Ivoire. Interview de 5 min aux Assises nationales de l'intelligence artificielle.
+- **Intervenant(s)** : Dr Mafiné Dosso (orthographe variable dans la transcription), cofondatrice du cabinet Gaea Intelligence Africa, conseil en propriété industrielle agréé OAPI. Elle a coanimé la masterclass « De la recherche au marché : comment transférer les technologies IA en Côte d'Ivoire » avec Lanciné Touré, l'autre cofondateur du cabinet.
+- **Pertinence** : forte pour HSA, car c'est le contexte ivoirien. Le contenu est court mais propose un cadre clair en trois piliers et décrit l'écosystème local (OAPI, OIPI, conseils agréés).
+- **Idées clés** :
+  - Trois piliers de la valorisation des inventions issues des labos, incubateurs et fablabs. (1) Protection : l'invention est-elle protégeable ? (2) Valorisation : transformation en activité économique par une licence à un industriel, une start-up deeptech ou une preuve de concept avec un industriel. (3) Transfert : mise effective entre les mains de l'utilisateur.
+  - En Côte d'Ivoire, on protège par brevet auprès de l'OAPI (Organisation africaine de la propriété intellectuelle, appelée « Office africain » dans la vidéo), via sa structure nationale de liaison, l'OIPI (Office ivoirien de la propriété intellectuelle).
+  - Des inventions ivoiriennes issues de labos ou de travaux d'étudiants ont déjà été brevetées en agroalimentaire, pharmacie, cosmétique, etc. Mais il y a « un certain retard ». La part valorisée reste trop faible par rapport au volume de recherche.
+  - Premier obstacle : les ressources financières. Un dépôt de brevet coûte de l'argent (recherche de nouveauté par rapport à l'état de l'art), tout comme le marketing et la création d'entreprise.
+  - Les besoins varient selon le stade (idée, prototype, prêt pour le marché) : ressources financières, matérielles et d'infrastructure, apportées par l'État et par des structures privées d'accompagnement.
+  - Les événements de l'écosystème (comme les Assises de l'IA) servent au réseautage. On y trouve des professionnels pour protéger, valoriser et transférer.
+- **Chiffres et faits cités** :
+  - [2:33] Un prix d'excellence récent a été décerné à un couple de chercheurs en agronomie qui a mené le parcours protection, valorisation et transfert jusqu'à créer une entreprise. Les noms sont inaudibles (« Lia Bissa » dans la transcription), à vérifier.
+  - Aucun chiffre quantitatif n'est donné.
+- **Exemples et cas concrets** : brevets ivoiriens en agroalimentaire, pharmacie et cosmétique ; le couple d'agronomes primé ; le cabinet Gaea Intelligence Africa ; les Assises nationales de l'IA.
+- **Citations** :
+  - [0:02] « À quoi sert une solution lorsqu'elle reste dans les recherches et les publications et n'est pas mise en œuvre ? » (question de l'animateur)
+  - [3:23] « Quand on regarde la masse de recherches et de solutions développées dans nos laboratoires et nos incubateurs, la proportion valorisée est encore trop faible. »
+- **Utilisation possible par HSA** :
+  - Cadre pédagogique simple « Protéger, valoriser, transférer » pour une première séance de cours.
+  - Experte ivoirienne potentielle pour une masterclass ou un live HSA.
+  - Post sur le thème « Brevet OAPI : par où commencer en Côte d'Ivoire (OIPI) ».
+  - Angle IA et deeptech pour les jeunes chercheurs ivoiriens.
+- **Mots-clés** : Afrique, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation, définitions.
+
+## Explained: What is Technology Transfer?
+- **Source** : World Intellectual Property Organization (WIPO, l'OMPI en français), 11 mai 2022, https://www.youtube.com/watch?v=4cxIUrPH6B8, international (clip institutionnel de 2 min).
+- **Intervenant(s)** : voix off institutionnelle de l'OMPI.
+- **Pertinence** : moyenne. Le clip apporte une définition officielle et concise du transfert de technologie, utile en introduction de cours. Il n'y a pas de contenu pratique.
+- **Idées clés** :
+  - Définition : le transfert de technologie est un processus collaboratif qui permet à la propriété intellectuelle de circuler des créateurs (institutions de recherche, universités) vers les utilisateurs publics et privés.
+  - Il couvre le transfert de connaissances, de compétences, de données, de procédures et d'expérience, pas seulement de brevets.
+  - Un transfert réussi repose sur un écosystème : réseau d'institutions gouvernementales, industrielles et de recherche, et société civile. Il faut aussi des facteurs facilitateurs : politiques de PI, capital humain, structures de transfert de technologie, entreprises et marchés.
+  - La PI est un instrument appliqué sur tout le cycle de vie de l'innovation. Elle assure la propriété des créations et le contrôle de leur usage socialement responsable, montre la liberté d'exploitation (freedom to operate) et attire les partenaires industriels.
+  - Le rôle de l'OMPI est d'aider ses États membres à bâtir les piliers de leur écosystème aux niveaux national, régional et institutionnel (« innovation par tous, pour tous »).
+- **Chiffres et faits cités** : aucun.
+- **Exemples et cas concrets** : aucun.
+- **Citations** :
+  - [0:00] « Le transfert de technologie est un processus collaboratif qui permet à la propriété intellectuelle de circuler des créateurs, comme les universités et les institutions de recherche, vers les utilisateurs publics et privés. »
+  - [0:47] « La PI montre la liberté d'exploitation et attire les partenaires industriels. »
+- **Utilisation possible par HSA** :
+  - Définition de référence (source OMPI) pour la séance 1 d'un cours.
+  - Schéma de l'« écosystème » avec ses acteurs et ses facteurs facilitateurs, pour un post pédagogique.
+  - Vidéo courte à intégrer telle quelle dans un module.
+- **Mots-clés** : définitions, propriété intellectuelle et brevets, politique publique.
+
+## WIPO: Africa Needs Mechanisms to Leverage Talent | WIPO-SA Summer School
+- **Source** : Department of Science, Technology and Innovation (Afrique du Sud), 25 nov. 2025, https://www.youtube.com/watch?v=1jgMF_WEwHM, Afrique anglophone (Durban). Pas de version française : notes tirées du texte original anglais.
+- **Intervenant(s)** : un ou une représentant(e) de l'OMPI, non nommé(e) dans la transcription, qui prononce le discours d'ouverture de l'école d'été OMPI-Afrique du Sud sur la PI et le transfert de technologie. Il ou elle remercie le vice-chancelier de la Mangosuthu University of Technology (hôte), le responsable du NIPMO (National Intellectual Property Management Office, au Department of Science and Innovation), le commissaire de la CIPC (Companies and Intellectual Property Commission) et le Japan Patent Office (JPO), qui finance le programme.
+- **Pertinence** : moyenne. Le discours apporte des chiffres récents sur les brevets dans le monde et en Afrique, ainsi qu'un message de plaidoyer. Il présente un dispositif de formation (WIPO Academy, cours DL-450).
+- **Idées clés** :
+  - Le programme est une école d'été avancée de deux semaines. Prérequis : avoir réussi le cours en ligne DL-450 de la WIPO Academy, le cours de base sur la gestion de la PI, qualifié de rigoureux.
+  - Partenariat durable entre l'OMPI, le NIPMO, la CIPC et le JPO, fondé sur l'idée que les pays en développement, et l'Afrique en particulier, doivent accéder à une formation de niveau mondial en PI et en transfert de technologie.
+  - Le transfert de technologie « n'est plus optionnel ». C'est « la monnaie du développement moderne », le pont entre découverte et impact sociétal, et le moyen de transformer des solutions africaines en produits compétitifs à l'échelle mondiale.
+  - L'Afrique ne manque pas de talents. Elle manque de mécanismes pour en tirer parti : des systèmes de transfert plus solides, une meilleure gestion de la PI, plus de professionnels capables de transformer les résultats de recherche en solutions.
+  - Le plan stratégique à moyen terme de l'OMPI fait du transfert de connaissances et de l'adaptation des technologies une priorité pour les pays en développement et les moins avancés.
+  - Le réseautage « n'est pas une activité annexe, c'est une ressource stratégique ». Les relations nouées pendant la formation durent.
+  - Le transfert de technologie et l'éducation à la PI sont deux outils. Les professionnels formés en sont le troisième, la « couche de mise en œuvre ».
+- **Chiffres et faits cités** :
+  - [3:42] 3,7 millions de demandes de brevet dans le monde en 2024, en hausse de près de 5 %.
+  - [3:42] Environ 19,7 millions de brevets en vigueur, dont 5,7 millions détenus par la Chine.
+  - [3:42] En 2023, l'Afrique ne représentait que 0,6 % des demandes de brevet mondiales.
+  - [3:42] En 2025, environ 89 % des pays africains ont adhéré au PCT (Traité de coopération en matière de brevets).
+- **Exemples et cas concrets** : école d'été OMPI-Afrique du Sud à Durban, cours DL-450 de la WIPO Academy, financement du JPO.
+- **Citations** :
+  - [4:36] « Soyons honnêtes : l'Afrique ne manque pas de talents. Elle manque de mécanismes pour tirer pleinement parti de ces talents. »
+  - [2:47] « Le transfert de technologie n'est plus optionnel. C'est la monnaie du développement moderne, le pont entre la découverte scientifique et l'impact sociétal. »
+  - [6:24] « Le réseautage n'est pas une activité annexe. C'est une ressource stratégique. »
+- **Utilisation possible par HSA** :
+  - Chiffres clés pour une infographie sur le thème « L'Afrique pèse 0,6 % des demandes de brevet ».
+  - Orienter les chercheurs et les gestionnaires de TTO vers les cours gratuits de la WIPO Academy (DL-101, DL-450).
+  - La citation sur les talents peut servir d'accroche d'un livre blanc.
+  - L'argument « le réseau est une ressource stratégique » sert la proposition de valeur du réseau social HSA.
+- **Mots-clés** : Afrique, propriété intellectuelle et brevets, politique publique, rôle du bureau de transfert, carrière du chercheur.
+
+## Will Africa Export Knowledge and Import Intelligence? | Isaac Wiafe | TEDxAccra
+- **Source** : TEDx Talks, 15 sept. 2026, https://www.youtube.com/watch?v=6En5EcfKykM, Afrique anglophone (Ghana). Pas de version française : notes tirées du texte original anglais.
+- **Intervenant(s)** : Isaac Wiafe, enseignant en informatique à l'University of Ghana.
+- **Pertinence** : faible au sens strict, car le talk ne parle ni de transfert de technologie, ni de PI, ni de licences. Il est cependant utile comme angle de souveraineté : l'Afrique fournit données et savoirs et rachète de l'« intelligence ». C'est le même schéma que pour les matières premières.
+- **Idées clés** :
+  - Question centrale : l'Afrique entre-t-elle dans une ère où elle exporte son savoir (ses données) et importe de l'intelligence, c'est-à-dire des services d'IA payants ?
+  - Le parallèle avec les matières premières : le cacao et les minerais sont exportés bruts, puis reviennent sous forme de produits finis (chocolat, téléphones) vendus beaucoup plus cher.
+  - Les systèmes d'IA reposent sur trois ressources (données, puissance de calcul, talents), et l'Afrique est déficitaire sur les trois.
+  - L'intelligence devient une marchandise que l'on loue (« un agriculteur loue de l'intelligence pour planter »). La valeur va à celui qui possède le modèle. Le risque est de creuser l'écart économique.
+  - Ces importations immatérielles échappent à la fiscalité (elles ne passent pas par le port de Tema).
+  - Gouvernance : si ministres et agences publiques décident avec des modèles étrangers, « qui gouverne le pays ? ». L'IA porte une culture, mais pas la nôtre.
+  - L'orateur reconnaît ne pas avoir de solution. Il pose la question.
+- **Chiffres et faits cités** :
+  - [2:29] Smartphone acheté environ 1 200 $.
+  - [3:25] 1 kg de cacao se vend environ 40 cedis, contre 430 cedis pour 1 kg du chocolat Golden Tree le moins cher.
+  - [4:18] Abonnements d'IA payés par les étudiants : environ 7 $, 20 $ ou 200 $ par mois (version pro).
+  - [5:10] L'Afrique fournit moins de 1 % des données utilisées pour concevoir les IA, moins de 5 % des talents en IA et environ 0,1 % de la puissance de calcul.
+- **Exemples et cas concrets** : cacao et chocolat Golden Tree, Cadbury, ChatGPT, Gemini, Claude, Ghana Revenue Authority, port de Tema.
+- **Citations** :
+  - [2:29] « Sommes-nous en train d'entrer dans une ère où l'Afrique exportera son savoir et importera de l'intelligence ? »
+  - [7:44] « Les questions sont les vôtres, mais les décisions ne sont pas les vôtres. »
+  - [7:44] « L'IA a une culture. C'est simplement que ce n'est pas la vôtre. »
+- **Utilisation possible par HSA** :
+  - Angle éditorial « souveraineté scientifique et technologique » : valoriser localement la recherche et les données africaines plutôt que les céder.
+  - Analogie cacao/chocolat pour expliquer la valeur ajoutée de la valorisation (aller du résultat brut au produit).
+  - Accroche d'un post ou d'un débat sur le thème « IA et PI des données de recherche africaines ».
+- **Mots-clés** : Afrique, politique publique, SHS et impact.
+
+## Partnerships | How Innovate UK drives business growth through knowledge transfer
+- **Source** : University Industry Innovation Network (UIIN), 9 mars 2026, https://www.youtube.com/watch?v=x8OhKSovzLU, Europe (Royaume-Uni). Podcast de 28 min. Pas de version française : notes tirées du texte original anglais.
+- **Intervenant(s)** :
+  - Richard Lamb, programme manager des Knowledge Transfer Partnerships (KTP) à Innovate UK depuis 2018. Il a plus de 15 ans d'expérience dans l'enseignement supérieur, la politique climatique, le service public et la gestion de l'innovation.
+  - Animatrice : Sarah Jabbar (transcrit « Jabber »), directrice à l'UIIN.
+- **Pertinence** : forte. Le programme KTP est un modèle éprouvé depuis 50 ans de partenariat université-entreprise, avec un rôle clé de passeur (l'« associé »). Le modèle est transposable, et l'intervenant donne explicitement des conseils aux pays qui voudraient l'adopter.
+- **Idées clés** :
+  - Origine : en 1975, dans une économie britannique en ralentissement et sous forte inflation, le Science Research Council et le Department of Industry lancent le « Teaching Company Scheme », devenu KTP. Le modèle est calqué sur les hôpitaux universitaires : on apprend en classe, puis on applique en situation réelle.
+  - La différence clé avec une subvention de collaboration classique : le KTP résout un défi de l'entreprise avec une recherche déjà faite. L'objectif n'est pas de faire avancer la recherche universitaire, ce qui inverse la logique académique habituelle.
+  - Le cœur du modèle est une « triple hélice » : une entreprise, une équipe académique et un « associé ». L'associé est un diplômé intégré dans l'entreprise, qui fait le pont dans les deux sens. Il transfère le savoir vers l'entreprise et fait remonter vers les universitaires les problèmes rencontrés.
+  - Le bon associé n'est pas forcément le plus brillant académiquement. C'est celui qui sait communiquer, une compétence sous-estimée dans le monde académique. Timide au début, il prend la main au bout d'un ou deux ans.
+  - KTP n'est pas du conseil. Le consultant vend une solution déjà éprouvée et la rhabille. Le KTP produit une solution sur mesure qui ne convient qu'à cette entreprise.
+  - Le dossier de candidature est volontairement difficile (3 à 6 mois de préparation) : si l'on ne sait pas monter un dossier ensemble, on ne tiendra pas 2 à 3 ans de partenariat. En contrepartie, la décision est rapide.
+  - Signe d'un excellent projet : on ne distingue plus qui est universitaire, qui vient de l'entreprise et qui est l'associé.
+  - Le succès n'est pas seulement financier. Il peut s'agir d'un changement culturel, par exemple une entreprise familiale qui réapprend à innover, ou de meilleures pratiques de gestion (volet « Management KTP »). Chaque projet doit au minimum couvrir son coût en retombées pour l'économie britannique.
+  - Le plus grand gain est la relation durable : suites de projet, thèses de doctorat, stages. L'université devient un partenaire qu'on appelle quand on a un problème.
+  - Les écosystèmes d'innovation sont partout complexes et difficiles à lire pour les entreprises. L'université paraît impénétrable vu de l'extérieur (« qui dois-je appeler ? »). Les relais d'orientation sont essentiels : Innovate UK Business Connect en amont, Innovate UK Business Growth en aval, chambres de commerce.
+  - Conseil aux pays qui veulent transposer le modèle : ne pas toucher à la triple hélice (le mode de financement compte moins) et ne pas oublier les knowledge transfer advisers. Ce sont des conseillers indépendants, non incités à faire passer les dossiers, qui suivent chacun un portefeuille de projets et veillent à leur réussite. C'est l'élément que la plupart des pays oublient.
+  - Diffusion internationale : la Suède a commencé dans une université, puis est passée au niveau régional et national. Des contacts ont eu lieu avec l'université d'Oslo.
+- **Chiffres et faits cités** :
+  - [1:47] Le programme KTP vient de fêter ses 50 ans (lancé en 1975 sous le nom de Teaching Company Scheme).
+  - [0:53] Sur la dernière décennie, les évaluations font état de plusieurs milliards de valeur économique nette générée et d'un rendement élevé par rapport à l'investissement public.
+  - [6:58] La conférence annuelle réunit 150 associés.
+  - [12:04] Le dossier de candidature demande 3 à 6 mois. Les projets durent 2 à 3 ans.
+  - [14:38] Environ 80 % des projets déclarent vouloir poursuivre la collaboration.
+  - [21:26–22:18] Environ 6 millions de PME au Royaume-Uni, contre 350 projets KTP financés par an : c'est « le secret le mieux gardé des entreprises britanniques ».
+  - [24:06] 830 projets en cours, soit un portefeuille d'environ 120 M£ investis par Innovate UK, avec un montant similaire apporté par les entreprises, pour un retour de 5 pour 1.
+  - [24:58] Environ 42 knowledge transfer advisers au Royaume-Uni, avec chacun un portefeuille de 15 à 30 projets.
+- **Exemples et cas concrets** :
+  - Une entreprise d'ingénierie de Sheffield qui fabrique des arceaux pour poids lourds rencontre un défaut qualité chez son client constructeur. Elle appelle l'université avec laquelle elle avait fait un KTP, qui analyse la pièce au microscope électronique. Le constructeur cite désormais ce traitement comme l'exemple de la meilleure gestion de problème.
+  - Une entreprise familiale dépassée par la concurrence, que le KTP aide à réapprendre à innover.
+  - Les rapports d'évaluation sont sur le site d'UKRI (rechercher « UKRI KTP evaluation »).
+- **Citations** :
+  - [3:30] « Le KTP résout un défi de l'entreprise avec une recherche déjà réalisée. Son but n'est pas de faire avancer la recherche, et cela renverse complètement l'éthique de beaucoup d'universités. »
+  - [10:26] « Nous ne cherchons pas forcément l'associé le plus doué académiquement, mais celui qui sait communiquer, une compétence vraiment sous-estimée dans le monde académique. »
+  - [24:58] « Ne touchez pas à la triple hélice associé, entreprise, universitaire. Ce que beaucoup de pays ont oublié, c'est le rôle du conseiller en transfert de connaissances. »
+- **Utilisation possible par HSA** :
+  - Modèle à proposer aux ministères et universités africains (Côte d'Ivoire, UEMOA) : un « KTP africain » avec des jeunes docteurs intégrés en PME comme passeurs. C'est aussi une réponse au chômage des docteurs.
+  - Module « Partenariats recherche-industrie : les modèles qui marchent ».
+  - Post « 5 pour 1 : le retour sur investissement des partenariats université-PME au Royaume-Uni ».
+  - HSA pourrait jouer le rôle de relais d'orientation (« qui dois-je appeler à l'université ? ») et d'annuaire des experts.
+- **Mots-clés** : partenariats industrie, politique publique, carrière du chercheur, mesure d'impact, financement et maturation.
+
+## AAU Talks: Challenge of Research Commercialization in African Universities (Pt 2)
+- **Source** : Association of African Universities (AAU), 14 sept. 2022, https://www.youtube.com/watch?v=dzvva9pRTlE, Afrique anglophone (Ghana). La seule transcription disponible est une traduction automatique **en allemand** d'une émission en anglais. Noms propres très déformés.
+- **Intervenant(s)** :
+  - Dr Morris (prénom transcrit « Tibiru Morris Apalia », orthographe incertaine), University of Cape Coast (Ghana), interviewé devant une bibliothèque du campus.
+  - Animateur de l'émission AAU Talks (nom inaudible).
+  - Un premier invité (« Dr Kjatisu » ou « Dr Ko ») est seulement évoqué, dans la partie 1 de l'émission.
+- **Pertinence** : moyenne. L'émission diagnostique les freins à la commercialisation dans les universités africaines (critères de promotion, infrastructures, mentorat, faible financement industriel). Le propos reste général, sans chiffres.
+- **Idées clés** :
+  - Les freins cités : manque d'éthique de la recherche, pression à publier pour être promu, coût des brevets (évoqués par l'animateur). S'y ajoutent, selon l'invité, des infrastructures insuffisantes, le manque de temps des chercheurs et l'incapacité à former et soutenir les jeunes enseignants.
+  - Lier la promotion uniquement au nombre de publications pousse à la quantité, voire à des pratiques contraires à l'éthique, au détriment d'une recherche qui mène à un produit ou à un brevet. Proposition : un article dans une grande revue (Nature, Science) devrait valoir deux ou trois articles ordinaires, pour récompenser la qualité.
+  - Débat sur les revues africaines à fort impact. Il en existe peu, hormis en Afrique du Sud et quelques-unes au Kenya, et aucune au Ghana selon l'invité. Publier dans des revues africaines et les citer augmenterait leur visibilité avec le temps.
+  - Ailleurs, l'industrie finance une grande partie de la recherche universitaire. En Afrique, le financement vient surtout de l'État et de fonds publics (au Ghana, probablement le GETFund ; la transcription est confuse), et le chercheur est livré à lui-même. Proposition : que les entreprises réservent chaque année un budget pour financer des chercheurs qui améliorent leurs produits.
+  - Le mentorat doit commencer pendant les études. Exiger un ou deux articles publiés avant l'obtention du master ou du doctorat expose l'étudiant à l'évaluation par les pairs.
+  - Associer les jeunes collègues aux projets en leur confiant des rôles (analyse de données, méthodologie). Certains seniors refusent de les aider par peur d'être dépassés.
+  - Proposition : rendre obligatoire, pour passer au rang supérieur (par exemple de maître de conférences à professeur), l'encadrement d'un ou deux jeunes collègues.
+  - Chaque université devrait réserver chaque année un budget dédié à la recherche et moderniser ses laboratoires et équipements.
+  - Il faut enseigner aux étudiants l'état de l'art de leur domaine (nanotechnologies, impression 3D…) pour qu'ils construisent au-delà.
+  - Conclusion de l'animateur : il faut réorienter l'allocation des fonds et le développement des infrastructures pour passer de « chercher et ranger » à « chercher et commercialiser ».
+- **Chiffres et faits cités** :
+  - [2:32] Exemple d'exigence de promotion : 10 publications pour passer de maître de conférences (lecturer) à professeur associé.
+  - Aucun autre chiffre n'est cité.
+- **Exemples et cas concrets** : University of Cape Coast, Ghana. Aucun cas de commercialisation précis n'est cité.
+- **Citations** :
+  - [1:42–2:32] « La recherche doit avoir un impact sur la société. Si l'on conditionne la promotion aux seules publications, on pousse les gens à faire des choses qui ne sont pas toujours éthiques. »
+  - [9:27] « Pour passer d'un rang au suivant, il devrait être obligatoire d'avoir encadré un ou deux jeunes collègues. »
+  - [12:00] « Il nous faut des chercheurs qui ne se contentent pas de chercher et de ranger, mais qui cherchent et commercialisent. » (synthèse de l'animateur)
+- **Utilisation possible par HSA** :
+  - Plaidoyer pour réformer les critères de promotion (CAMES et universités) afin d'intégrer brevets, licences et impact.
+  - Post-débat sur le thème « Publish or perish ou publish and patent ? ».
+  - Programme de mentorat entre chercheurs seniors et juniors sur la plateforme HSA.
+  - Argument pour les revues africaines et la visibilité des chercheurs africains.
+- **Mots-clés** : Afrique, carrière du chercheur, politique publique, financement et maturation, partenariats industrie, mesure d'impact.
+
+## Recent trends in university spinout terms
+- **Source** : Taylor Wessing LLP, 25 févr. 2021, https://www.youtube.com/watch?v=pEXFLM69zvc, Europe (Royaume-Uni) et États-Unis. Webinaire de 1 h 03 coorganisé avec Wilson Sonsini. Pas de version française : notes tirées du texte original anglais.
+- **Intervenant(s)** :
+  - Adrian Toutoungi (« adrian tatunji » dans la transcription), associé transactions chez Taylor Wessing (Cambridge, Royaume-Uni). Modérateur.
+  - Kathy Ku, chief licensing advisor chez Wilson Sonsini (Palo Alto). Elle a dirigé pendant 27 ans l'Office of Technology Licensing (OTL) de Stanford.
+  - Tony Raven, directeur général de Cambridge Enterprise (le TTO de l'université de Cambridge). Ancien entrepreneur, cofondateur de Summit Technology (chirurgie réfractive au laser).
+  - Jamie Kasuboski, venture associate chez RA Capital Management (Boston). Il travaillait auparavant au fonds de capital-risque de Boehringer Ingelheim.
+- **Pertinence** : forte. C'est une discussion experte et concrète sur les conditions de création de spin-offs : part du capital de l'université, clauses anti-dilution, droits préférentiels, frais initiaux, licence ou cession, accords de « pipeline », savoir-faire. Points de vue croisés États-Unis / Royaume-Uni et TTO / investisseur.
+- **Idées clés** :
+  - La part du capital (equity) prise par les universités varie énormément : de moins de 10 % à 60–70 %, voire 100 %. Les universités qui gagnent le plus en commercialisation sont souvent dans le bas de la fourchette. Cette diversité rend difficile, pour les fondateurs, de juger si une offre est « au prix du marché ».
+  - Pourquoi des écarts ? (1) Le degré d'implication souhaité comme actionnaire. (2) Le travail fourni par le TTO : à Stanford, l'écosystème fait tout (logique « darwinienne ») ; à Cambridge, le TTO aide à écrire le business plan, lever des fonds et trouver les dirigeants, donc il demande plus. (3) L'arbitrage entre capital et redevances. (4) La contribution réelle de chaque chercheur.
+  - Une petite part avec clause anti-dilution (non diluée jusqu'à un certain montant levé) peut équivaloir à une part plus grande pleinement diluable.
+  - En logiciel, les universités gagnent davantage avec le capital. En biotech, l'argent vient surtout des redevances sur les ventes, car la part de l'université est fortement diluée par des levées très lourdes et des sorties tardives. Georgia Tech ne faisait que des accords en capital et n'en fait plus aucun.
+  - Le point de vue de l'investisseur : le tableau de capitalisation (cap table) est l'élément le plus sensible. C'est un jeu à somme nulle. Une université qui détient une grosse part sans apporter de capital rend la société moins investissable (« 50 % pour l'université, c'est insensé »). Son conseil : se battre moins sur le capital et davantage sur les paiements d'étape (milestones), qui sont plus certains.
+  - La répartition entre chercheurs, département et université doit être réglée tôt, en interne. Ensuite, le front doit être uni face aux investisseurs, et c'est le marché qui fixe la dilution.
+  - Les objectifs divergent : l'université vise l'impact sociétal, l'investisseur le rendement. Les petits TTO subissent une pression pour couvrir leurs coûts. Les start-ups sont souvent « riches en capital, pauvres en cash », ce qui pousse les TTO vers plus de capital et moins de cash. Il ne faut pas « tuer le fournisseur », comme un supermarché qui écraserait ses prix d'achat.
+  - Anti-dilution et préemption. Aux États-Unis, c'est courant (5–10 % non dilués jusqu'à 10–20 M$ levés), et plus de 100 universités tiennent à leur droit préférentiel de souscription. Au Royaume-Uni, Cambridge a essayé deux fois, et les investisseurs du tour suivant ont exigé la suppression de la clause. L'université « ne va pas tuer une société pour ça ». L'investisseur accepte une anti-dilution plafonnée, pas permanente, et refuse qu'elle soit transmise aux investisseurs financiers d'amorçage.
+  - Cambridge et Oxford disposent de fonds propres ou partenaires pour exercer leurs droits de préemption : « si vous n'avez plus de siège à la table, on vous oublie ». Ils craignent les tours de financement très dilutifs (« cram down ») et l'empilement des préférences de liquidation. Il faut que les fondateurs académiques touchent une juste part pour devenir des entrepreneurs en série.
+  - Frais initiaux : pour une start-up, ils restent modestes (10 000 à 25 000 $). L'accord est chargé en fin de parcours : paiements d'étape croissants à mesure que le risque diminue, redevances. Aux États-Unis, en licence exclusive, le remboursement des frais de brevet est quasi systématique et c'est souvent la première préoccupation du TTO. Cambridge préfère ne pas retirer de cash à la start-up et parier sur le succès.
+  - Quand la PI vient de plusieurs institutions : un accord inter-institutionnel désigne une université chef de file si l'invention est commune. Sinon, c'est à la start-up de cartographier la PI dont elle a besoin (étude de liberté d'exploitation) et de négocier pièce par pièce, en expliquant ce qui est fondamental et ce qui est accessoire. On ne peut pas céder 30 % du capital à chacune des universités. Il faut éviter les ententes anticoncurrentielles entre universités.
+  - Licence plutôt que cession : aux États-Unis, sous le régime Bayh-Dole, les universités ne cèdent pratiquement jamais leur PI. Elles gardent le titre pour pouvoir reprendre la licence si le licencié ne développe pas la technologie.
+  - Accords de « pipeline » (droits sur les améliorations futures) : Stanford les limite à environ 2 ans et aux demandes dérivées du brevet initial, à cause de règles strictes sur les conflits d'intérêts. Elle n'acceptait pas de recherche sponsorisée par une start-up issue d'un professeur. Le Royaume-Uni accepte davantage qu'une spin-off finance la recherche de son labo d'origine, avec un pipeline court, étroit et limité au groupe concerné. Les investisseurs veulent ces accords pour ne pas voir leur société rendue obsolète par l'idée suivante du labo.
+  - Le savoir-faire est un actif sous-estimé, mais les universités gardent mal les secrets (impératif de publication). Il faut le définir très précisément, surtout s'il donne lieu à une redevance après l'expiration du brevet. Sa valeur se mesure au temps qu'il faudrait à un concurrent pour le reconstituer. Une spin-off peut se fonder sur du savoir-faire si celui-ci mène à une PI plus solide (composition de matière en biotech). Le savoir-faire est souvent dans la tête des chercheurs et peut s'acquérir par des contrats de consultance.
+- **Chiffres et faits cités** :
+  - [0:52] OTL de Stanford : 27 ans sous la direction de Kathy Ku, centaines de licences, plus de 1,8 Md$ de revenus.
+  - [0:52–1:42] Licence non exclusive du brevet Cohen-Boyer sur l'ADN recombinant : plus de 250 M$ avant son expiration à la fin des années 1990.
+  - [1:42] Vente des actions Google détenues par Stanford après l'introduction en bourse (vers 2005) : environ 350 M$.
+  - [1:42] Summit Technology rachetée en 2000 pour environ 850 M$.
+  - [2:32] Cambridge Enterprise : portefeuille d'environ 100 spin-offs actives, environ 10 nouvelles sociétés et 20 M£ de revenus de licences en 2019. Hausse de 250 % des spin-offs sous la direction de Tony Raven.
+  - [5:06] Enquête Nature Biotechnology (2014) sur les universités américaines et britanniques : part du capital demandée de moins de 10 % à 60–70 %, voire 100 %.
+  - [11:50] Anti-dilution typique jusqu'à 5–10 M$ levés, parfois 20 M$.
+  - [15:16] En biotech, il faut investir entre 20 M$ et 500 M$ avant que les actions aient de la valeur (introduction en bourse ou rachat).
+  - [16:59] Part typique de l'université aux États-Unis : un chiffre (haut de fourchette) à un faible pourcentage à deux chiffres selon la maturité. Europe plus conservatrice : faible pourcentage à deux chiffres en biotech.
+  - [18:42] Exemple d'un syndicat d'investisseurs apportant 100 M$.
+  - [24:33] Aux États-Unis : environ 5–10 % non dilués jusqu'à 10–20 M$. Plus de 100 universités tiennent au droit préférentiel. Droit de souscrire environ 10 % du tour.
+  - [26:20] Anti-dilution plafonnée, par exemple jusqu'à 25 M$ levés.
+  - [31:30] Données AUTM : environ 87 % des TTO américains perdent de l'argent sur un cycle de 20 ans. Le transfert est donc subventionné par l'université. Kathy Ku : « l'equity, c'est la cerise sur le gâteau, le cash reste roi ».
+  - [35:43] BioVex : l'universitaire fondateur a créé une biotech valant un milliard et n'en a retiré que « 709 » (unité inaudible). C'est le contre-exemple à éviter.
+  - [36:33] Frais initiaux pour les start-ups : environ 10 000 à 25 000 $.
+  - [50:07] Droits sur les améliorations limités à environ 2 ans à Stanford.
+- **Exemples et cas concrets** :
+  - Le litige naissant sur la répartition des revenus du vaccin d'Oxford entre universitaires, spin-off et université (article de presse cité en introduction).
+  - Le brevet Cohen-Boyer, les actions Google de Stanford, Summit Technology, BioVex, Georgia Tech, Cambridge Enterprise, les fonds d'Oxford.
+- **Citations** :
+  - [18:42] « Le tableau de capitalisation, c'est toujours 100 % d'un gâteau. On ne peut pas en créer davantage. Une université à 50 % du capital, c'est insensé : cela rend l'investissement impossible. » (Jamie Kasuboski)
+  - [31:30] « Nous ne pouvons pas vivre du seul capital. L'equity, c'est la cerise sur le gâteau ; le cash reste roi. » (Kathy Ku)
+  - [35:43] « Si nous voulons que nos universitaires jouent le jeu et deviennent des entrepreneurs en série, ils doivent voir un retour juste et équitable pour ce qu'ils ont contribué à créer. » (Tony Raven)
+- **Utilisation possible par HSA** :
+  - Module avancé « Négocier la création d'une spin-off » : part du capital, anti-dilution, préemption, frais initiaux, paiements d'étape, redevances, pipeline, savoir-faire.
+  - Fiche sur les erreurs à éviter : part universitaire trop élevée, cap table « bizarre », savoir-faire mal défini.
+  - Aide aux universités africaines qui rédigent leur politique de spin-off : recommander des parts modestes et des clauses lisibles pour les investisseurs.
+  - Post « 87 % des bureaux de transfert américains perdent de l'argent ».
+- **Mots-clés** : spin-offs et start-ups, licences, propriété intellectuelle et brevets, rôle du bureau de transfert, financement et maturation, politique publique (Bayh-Dole), carrière du chercheur.
+
