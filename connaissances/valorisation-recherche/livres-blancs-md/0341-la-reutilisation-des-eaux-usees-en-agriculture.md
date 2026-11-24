@@ -1,6 +1,6 @@
 ---
 sous_titre: Faire entrer les résultats de recherche sur l'irrigation par eaux usées traitées dans les normes, les règlements et les pratiques.
-meta_description: Réutilisation des eaux usées en agriculture : guide pour décideurs publics afin de transformer des résultats de recherche en normes et pratiques sûres.
+meta_description: Réutilisation des eaux usées en agriculture : guide pour décideurs publics, de la recherche aux normes et pratiques sûres.
 mots_cles: eaux usées, irrigation, normes, santé, agriculture
 ---
 

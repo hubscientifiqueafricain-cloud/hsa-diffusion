@@ -1,7 +1,7 @@
 ---
 sous_titre: Bâtir des services rentables d'assainissement autonome et de gestion des boues à partir d'innovations issues de la recherche.
-meta_description: Assainissement non collectif : comment valoriser les innovations de vidange et de traitement des boues et construire un modèle économique viable.
-mots_cles: assainissement, boues de vidange, assainissement autonome, modèle économique
+meta_description: Assainissement non collectif : valoriser les innovations de vidange et de traitement des boues avec un modèle économique viable.
+mots_cles: assainissement, boues de vidange, modèle économique, services
 ---
 
 # L'assainissement non collectif : innovations et modèles économiques

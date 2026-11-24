@@ -1,6 +1,6 @@
 ---
 sous_titre: Transformer des données hydrologiques en services d'alerte et de conseil que des usagers acceptent de payer, ou que des institutions financent.
-meta_description: Services d'information hydrologique : comment créer des services d'alerte crues et de conseil à partir de données de recherche, pour entreprises et investisseurs.
+meta_description: Services d'information hydrologique : créer des services d'alerte crues et de conseil à partir de données de recherche.
 mots_cles: hydrologie, services climatiques, alerte crues, données, usagers
 ---
 
