@@ -1,0 +1,31 @@
+# Fiche : Comprendre VRAIMENT la valorisation de la recherche [Nathalie Popiolek]
+- Source : Xerfi (Xerfi Canal), 4 févr. 2022, https://www.youtube.com/watch?v=cp5TJDu2bgU, France
+- Intervenant(s) et fonction :
+  - Nathalie Popiolek : économiste, ancienne experte senior au CEA (Commissariat à l'énergie atomique et aux énergies alternatives), présidente d'Adéquat Consulting. Coautrice avec Jean-Alain Héraud de *L'organisation et la valorisation de la recherche : le grand angle mort des politiques publiques ? Problématiques européennes et étude comparée de la France et de l'Allemagne* (Peter Lang).
+  - Interviewer : Jean-Philippe Denis.
+- Pertinence pour le sujet : moyenne. Cadrage conceptuel et historique de la valorisation (fondamental contre appliqué, modèles allemand et américain). L'entretien est court, sans éléments opérationnels.
+- Idées clés :
+  - La recherche est un flux qui alimente un stock de connaissances, et ce stock fructifie à mesure qu'on l'utilise.
+  - Il faut distinguer la recherche fondamentale (motivée par la curiosité et la beauté de la science) de la recherche appliquée (orientée vers les inventions, puis les innovations).
+  - La valorisation est ce qui donne de la valeur à la recherche. On peut la concevoir de façon utilitariste (échange, commerce), sociétale, ou purement scientifique (publications, accroissement des connaissances).
+  - Le modèle humboldtien (1809) marque une rupture : liberté d'enseigner et de chercher sans tutelle. L'Allemagne l'a inscrit dans sa Constitution fédérale (citée comme « article 4 ») et sépare nettement les tâches entre recherche fondamentale, recherche appliquée et valorisation.
+  - La rupture américaine d'après-guerre : la science mobilisée pour l'effort de guerre, puis Roosevelt qui veut guérir les maladies. Le rapport Bush (1945) fonde une politique de la science comme fin en soi, qui a influencé la France et le Japon.
+  - Thèse du livre : pour comprendre vraiment la valorisation, il ne faut pas penser seulement à la recherche appliquée. La science fondamentale a une valeur propre. Les synergies avec l'industrie stimulent la créativité si chaque chercheur garde sa propre motivation tout en étant questionné par des chercheurs industriels.
+  - En Allemagne, les fonds publics misent sur la recherche fondamentale et les entreprises font elles-mêmes beaucoup de recherche appliquée. On valorise des personnes porteuses d'idées plutôt que des thématiques : « l'humain au cœur ».
+  - Le livre traite aussi du rôle de la science face aux grandes transitions.
+- Chiffres et faits cités :
+  - Modèle de Humboldt en 1809 [2:37].
+  - Rapport Bush (*Science, the Endless Frontier*) en 1945 [4:25].
+  - La société Max Planck a récemment reçu 4 prix Nobel, dont deux en physique et chimie « l'année dernière » [6:08].
+  - Un rapport antérieur sur la valorisation de la recherche aurait eu Emmanuel Macron parmi ses rapporteurs, selon l'interviewer qui le dit avec réserve [0:50].
+- Exemples et cas concrets : la société Max Planck (Allemagne), le CEA (France) et le rapport Bush (États-Unis).
+- Citations fortes :
+  - « La valorisation, c'est ce qui va donner de la valeur à la recherche, que ce soit par le commerce, à des fins sociétales ou pour la science elle-même. » [1:45]
+  - « Ce n'est pas en ayant un but appliqué que les chercheurs feront des découvertes, c'est en poursuivant leur curiosité tout en étant questionnés par l'industrie. » [5:17]-[6:08]
+- Utilisation possible par HSA :
+  - Leçon d'introduction « Qu'est-ce que valoriser ? Les trois formes de valeur » : utile pour rassurer les chercheurs en recherche fondamentale et en SHS, car la valorisation ne se limite pas au brevet.
+  - Encadré historique (Humboldt, rapport Bush) dans un livre blanc.
+  - Référence bibliographique francophone à citer.
+- Mots-clés : définitions, politique publique (Bayh-Dole, etc.), partenariats industrie, SHS et impact
+
+Transcription complète : [../transcriptions/comprendre-vraiment-la-valorisation-de-la-recherche-nathalie.md](../transcriptions/comprendre-vraiment-la-valorisation-de-la-recherche-nathalie.md)

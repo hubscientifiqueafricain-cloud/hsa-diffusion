@@ -1,0 +1,42 @@
+# Fiche : University Technology Transfer – What It Is and How to Do It : Tom Hockaday – Panel discussion
+- Source : SA SME Fund, 6 mai 2021, https://www.youtube.com/watch?v=GtmcncrEXms, Royaume-Uni / Afrique du Sud (1h22, traduction automatique de l'anglais)
+- Intervenant(s) et fonction : Tom Hockaday (auteur du livre « University Technology Transfer: What It Is and How to Do It », ancien directeur du bureau de transfert d'Oxford créé en 1987, président du comité d'investissement de l'University Technology Fund – UTF) ; Cebisa / « Cecil » (ancien du CSIR, comité d'investissement UTF, modérateur) ; Danny Kohn et Keto Gordon (SA SME Fund) ; Dr Mmboneni Muofhe (DG adjoint, ministère sud-africain Science et Innovation – DSI) ; Andrew Bailey (bureau de transfert, University of Cape Town – UCT) ; Daniel Strauss et Wayne Stocks (gestionnaires de l'UTF).
+- Pertinence pour le sujet : forte – panorama complet (rôle du TTO, gouvernement, fonds d'amorçage, impact vs revenus) appliqué à un pays africain, l'Afrique du Sud.
+- Idées clés :
+  - La voie commerciale n'est que « parfois » la meilleure façon de faire bénéficier la société de la recherche ; l'université a d'autres canaux (enseignement, publications, expertise).
+  - Le bureau de transfert (TTO) n'est pas la pièce maîtresse : ce sont les chercheurs-inventeurs ; le TTO les aide à faire passer les résultats vers l'industrie (brevets, marketing, licences, spin-offs).
+  - Tout part d'une recherche fondamentale bien financée par l'État : c'est elle qui alimente l'« entonnoir » de projets.
+  - Leviers publics : financement de la recherche, fiscalité incitative (ex. EIS britannique pour les investisseurs particuliers dans les start-ups), subventions ciblées pour bâtir les capacités des TTO, subventions non dilutives aux jeunes entreprises.
+  - La durée est un facteur clé : programme britannique de financement récurrent sur 20 ans ; « on ne déracine pas un arbre pour vérifier ses racines ».
+  - Penser « communauté d'innovation » (les personnes qui se connaissent) plutôt qu'« écosystème » ; soutenir tout le monde, car on ne sait pas à l'avance qui réussira ; organiser en continu événements et réseautage.
+  - Viser l'impact plutôt que le revenu : « bien faire en faisant le bien » ; la maximisation du profit est inappropriée pour une université ; si l'impact est là, l'argent suit et peut être réinvesti.
+  - Raconter des histoires de réussite pour que le public comprenne la valeur de la recherche (le Royaume-Uni a tardé à le faire).
+  - Les idées peuvent venir de toute l'université, pas seulement de l'ingénierie (à Oxford, plusieurs succès venaient de la zoologie) ; les SHS comptent aussi (impact sur les politiques publiques, même sans brevet).
+  - Ne pas transformer les chercheurs en entrepreneurs : bâtir des équipes mixtes chercheurs + entrepreneurs expérimentés.
+  - Motivation des chercheurs : voir leurs résultats utilisés plus que l'argent ; à Oxford, beaucoup réinvestissaient leurs gains dans leur recherche.
+  - Lenteur des financeurs : la vérification préalable puis le contrat peuvent prendre jusqu'à 2 ans en Afrique du Sud ; l'élan se perd et la technologie peut tomber dans le domaine public (A. Bailey).
+  - Les universités ont « les œufs, le lait et la farine », pas le gâteau : le TTO fait monter les résultats en maturité technologique (TRL) jusqu'à intéresser investisseurs et industriels.
+  - Faire reconnaître la PI universitaire comme une « classe d'actifs » pour attirer capitaux et compétences ; coût et défense des brevets : un brevet non défendu attire les contrefacteurs.
+- Chiffres et faits cités :
+  - [12:56] Le transfert de technologie moderne prend son essor aux États-Unis puis au Royaume-Uni dans les années 1980 ; [13:44] le TTO d'Oxford est créé en 1987.
+  - [20:22] Le Higher Education Innovation Fund britannique finance chaque année les capacités de transfert des universités depuis environ 2000 (21 ans).
+  - [41:31] Afrique du Sud : création il y a une dizaine d'années de l'Office national de gestion de la PI (NIPMO), qui a fait créer des TTO dans tous les établissements d'enseignement supérieur et les conseils scientifiques ; création de la Technology Innovation Agency (TIA).
+  - [43:56] Partenariats public-privé avec co-investissement de plus de 100 millions (« livres sterling » dans la traduction, probablement rands).
+  - [47:06] UCT : fonds interne d'amorçage d'environ 80 millions (dollars selon la traduction), 50 % investis dans six entreprises.
+  - [47:56] 26 universités en Afrique du Sud ; délai de décision des financeurs jusqu'à 2 ans.
+  - [49:34] UCT : vaccins candidats contre le VIH (souche africaine) dont deux en essais cliniques, et premier centre accrédité OCDE en Afrique pour produire des lots cliniques, avant 2010 ; expertise ensuite perdue faute de financement.
+  - [51:10] Spin-off Cape Bio Pharms : près d'1 milliard de rands d'investissements étrangers ; proposition d'appeler « quagga » une start-up valorisée 1 milliard de rands.
+  - [51:58] Strait Access Technologies (valves cardiaques en polymère) : 65 employés.
+  - [56:47] UTF, 1re année : 7 investissements, environ 28,5 millions de rands.
+  - [1:10:34] Capital-risque sud-africain : 3 à 4 milliards de rands investis en 2-3 ans, surtout par des entreprises moyennes et grandes (Standard Bank, Imperial : 20 à 30 millions).
+  - [1:19:39] Oxford, 2015 : 300 millions de livres levées pour un fonds dédié aux spin-offs d'Oxford (Oxford Sciences Innovation), aujourd'hui 600 millions.
+  - [1:21:15] SA SME Fund lève un nouveau fonds de 750 millions (devise incertaine dans la traduction).
+- Exemples et cas concrets : vaccin Oxford-AstraZeneca (spin-off Vaccitech, fonds Oxford Sciences Innovation, Oxford University Innovation, approche sans but lucratif pendant la pandémie) ; consortium Oxford-Emergent contre la tuberculose (2008-2009, double canal payant / non lucratif) ; pénicilline ; Lumkani (détecteur d'incendie pour quartiers informels, UCT : une spécialiste SHS a imposé l'adhésion des leaders communautaires et un prix de vente) ; Cape Bio Pharms (protéines Spike par plants de tabac) ; Strait Access Technologies ; spin-off de Stellenbosch devenue rentable en 12 mois ; programme Wine Tech (vin sud-africain) ; programme Deep Mine (mines profondes, CSIR) ; batterie lithium-ion issue du CSIR ; brevets Wi-Fi du CSIRO australien gagnés en justice aux États-Unis ; « l'homme à la Jaguar rouge » à Oxford comme catalyseur.
+- Citations fortes :
+  - [9:39] « Le bureau de transfert n'est pas la pièce maîtresse du puzzle : ce sont les chercheurs eux-mêmes, les inventeurs. »
+  - [34:55] « Si vous réussissez à créer de l'impact, vous gagnerez probablement aussi de l'argent : c'est bien faire en faisant le bien. Si vous concluez que tout se résume aux revenus, vous vous trompez probablement. »
+  - [46:18] « Les universités ne possèdent pas le gâteau de mariage, mais les œufs, le lait et la farine. Le transfert de technologie sert à tester la recette jusqu'au gâteau. »
+- Utilisation possible par HSA : module « Pourquoi et comment créer un écosystème de valorisation dans un pays africain » (cas sud-africain : NIPMO, TIA, UTF) ; post sur la métaphore « œufs, lait, farine » ; argument pour décideurs ivoiriens : financement durable des TTO et rapidité des décisions de financement ; angle « communauté d'innovation » qui colle à la mission réseau social d'HSA ; exemple Lumkani pour montrer l'apport des SHS.
+- Mots-clés : rôle du bureau de transfert, financement et maturation, spin-offs et start-ups, politique publique, Afrique, SHS et impact, carrière du chercheur, propriété intellectuelle et brevets.
+
+Transcription complète : [../transcriptions/university-technology-transfer-what-it-is-and-how-to-do-it-t.md](../transcriptions/university-technology-transfer-what-it-is-and-how-to-do-it-t.md)

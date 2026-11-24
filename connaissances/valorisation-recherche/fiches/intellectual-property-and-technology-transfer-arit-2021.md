@@ -1,0 +1,31 @@
+# Fiche : Propriété intellectuelle et transfert de technologie (ARIT 2021)
+- Source : Office of Science and Technology Austria, Washington DC, 5 oct. 2021, https://www.youtube.com/watch?v=VmsCMUkPfOw, États-Unis
+- Intervenant(s) : Zaina Babusa (nom tel que transcrit, à vérifier), responsable senior des licences au bureau de commercialisation des technologies de l'université de Georgetown
+- Pertinence : forte – une praticienne d'un bureau de transfert américain décrit l'histoire, le rôle concret et les bénéfices d'un TTO pour les chercheurs.
+- Idées clés :
+  - Le transfert de technologie universitaire américain naît avec la loi Bayh-Dole de 1980, qui donne aux institutions la propriété des inventions issues de fonds fédéraux.
+  - Avant cette loi, les inventions financées par l'État appartenaient au gouvernement, sans cadre de gestion, et les entreprises n'avaient aucune incitation à prendre des licences faute d'exclusivité.
+  - La loi prévoit un délai limité pour que l'université choisisse de détenir le titre et dépose un brevet, puis qu'elle cherche à commercialiser avec des partenaires, en priorité des petites entreprises.
+  - Les revenus de commercialisation alimentent la recherche de l'université et sont partagés avec les inventeurs.
+  - Un bureau de transfert intervient à chaque étape : évaluation des déclarations d'invention, brevetabilité, potentiel commercial, dépôt avec des cabinets externes, marketing, négociation des contrats, suivi des licences.
+  - Un choix difficile se présente quand plusieurs entreprises veulent la même technologie : licencier à une start-up (plus de risques, levée de fonds) ou à une entreprise établie (plus de moyens).
+  - Le bureau sert d'interprète entre chercheurs et industrie : il aide à traduire une découverte en valeur pour l'entreprise, pas seulement en article scientifique.
+  - Un fonds de maturation (« gap fund ») peut aider à franchir la « vallée de la mort » avec des données de preuve de concept, à condition d'avoir une protection de PI et un retour de l'industrie.
+  - Les accords de recherche sponsorisée peuvent offrir des stages et des embauches aux doctorants.
+  - La conseillère encourage les chercheurs à s'engager étroitement avec leur bureau de transfert.
+- Chiffres et faits cités :
+  - [0:50] Avant Bayh-Dole, sur environ 28 000 brevets fédéraux, moins de 5 % étaient licenciés (non exclusivement) à des entreprises.
+  - [1:43] En moyenne, environ un quart du coût pour mettre un produit sur le marché se situe en phase de recherche.
+  - [3:29] Avant la loi, moins de 10 % des nouvelles substances actives étaient lancées d'abord aux États-Unis ; en 2010-2014, plus de 60 %.
+  - [4:22] En 2020, plus de 27 000 déclarations d'invention, plus de 1 000 start-ups créées, 900 produits, 10 000 options et licences (données de l'association AUTM, chiffres à vérifier).
+  - [4:22] Depuis 1996 : plus de 800 milliards de dollars de contribution au PIB, 15 000 start-ups, plus de 200 médicaments et vaccins.
+  - [5:14] Plus de 70 % des licences et options sont signées avec des start-ups et petites entreprises.
+  - [11:58] Fonds de maturation de l'ancienne université de l'intervenante : environ 500 000 dollars, abondés par 500 000 dollars d'une fondation locale, avec des prix jusqu'à 50 000 dollars.
+- Exemples et cas concrets : cisplatine (Michigan State), ADN recombinant (Stanford), Allegra et vaccin HPV (Georgetown), Lyrica (environ 1,3 milliard de dollars pour Northwestern), Google (Stanford), gamme capillaire issue du MIT, vitamine D synthétique (Wisconsin-Madison), pomme Cosmic Crisp (Washington State). Cas de l'oxymètre de pouls d'une chercheuse de Carnegie Mellon, développé grâce au privé avec des domaines d'usage séparés. Anecdote d'une présentation de 40 minutes à ExxonMobil non préparée, illustrant le besoin de coaching.
+- Citations :
+  - [9:28] « Je vois un bureau de transfert comme un centre d'affaires, partenaire des inventeurs. » (Zaina Babusa)
+  - [11:10] « Nous les aidons à traduire leur recherche au-delà de l'article pour exprimer la valeur de leur invention pour l'entreprise. » (Zaina Babusa)
+  - [13:40] « Je recommande à tous les chercheurs de s'engager étroitement avec leur bureau de transfert. » (Zaina Babusa)
+- Réutilisation HSA : module de cours « le rôle d'un bureau de transfert, étape par étape » ; post comparant l'histoire de Bayh-Dole aux besoins africains ; webinaire pratique sur la préparation d'un pitch chercheur-industrie.
+
+Transcription complète : [../transcriptions/intellectual-property-and-technology-transfer-arit-2021.md](../transcriptions/intellectual-property-and-technology-transfer-arit-2021.md)

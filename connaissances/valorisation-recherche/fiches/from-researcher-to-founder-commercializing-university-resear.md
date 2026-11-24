@@ -1,0 +1,43 @@
+# Fiche : From Researcher to Founder: Commercializing University Research
+- **Source** : University of Utah Technology Licensing Office, 1 juin 2026, https://www.youtube.com/watch?v=ocm5Fv2LL34, États-Unis (panel de 36 min, en anglais, traduction automatique).
+- **Intervenant(s)** (noms tels que transcrits, orthographe incertaine) :
+  - Ainsley Lloyd, directrice adjointe de l'Energy Accelerator de l'université de l'Utah, conseillère et partenaire du Dolmen Innovation Studio (incubateur de la David Eccles School of Business). Elle a un parcours en entrepreneuriat et en capital-risque. Modératrice du panel.
+  - Rachel Deweiler, postdoctorante en génie biomédicale, qui crée la spin-off Lantra Bio avec sa directrice Jessica Kramer.
+  - Daniel Gryer, cofondateur et président de Kissia Bioscience.
+- **Pertinence** : moyenne à forte. C'est un témoignage concret sur la transition chercheur → fondateur et sur l'écosystème de soutien d'une université (TLO, incubateur, subventions non dilutives). Il y a peu de données chiffrées.
+- **Idées clés** :
+  - La première étape est toujours de parler aux gens : TLO (avec qui les brevets étaient déjà déposés), incubateur, événements, réseaux. Chaque structure de l'université connaît les autres et oriente vers la suivante.
+  - Il faut financer la transition. Le TLO fournit un financement-pont. La bourse Ascender est une subvention de commercialisation non dilutive du TLO qui permet à une postdoctorante de consacrer 90 % de son temps à la start-up. Une fois le statut d'étudiant terminé, il n'existe plus de financement pour commercialiser : c'est une « vérité universelle ».
+  - Il faut sortir de sa zone de confort. Les scientifiques sont souvent introvertis, mais le réseautage et l'art de raconter une histoire (storytelling) sont indispensables. Cela s'améliore par itération.
+  - Il faut apprendre le « langage des affaires » : finances, taille du marché, nombre de personnes touchées. Les investisseurs veulent savoir comment la technologie changera le monde, et pas seulement qu'elle le pourrait.
+  - Métacognition : savoir ce qu'on ne sait pas et accepter de ne plus être l'expert.
+  - La méthode scientifique s'applique à l'entreprise : hypothèses sur l'adéquation produit-marché, entretiens clients, retour au labo pour vérifier que la technologie répond au besoin réel. Avant, on « devinait » l'application dans les articles.
+  - La transition est progressive. Il faut des soirées et des week-ends, puis déléguer et recruter après la levée de fonds. Cumuler les rôles de PDG, directeur de la stratégie et directeur financier n'est pas tenable : il faudra recruter un PDG ou un directeur de la stratégie.
+  - Comprendre l'accord de licence avec le TLO a été le plus difficile. L'incubateur a aidé à décoder la terminologie, ce qui a facilité la négociation (« nous voulions tous la même chose »).
+  - Le fondateur doit trancher. Il recevra des conseils excellents et d'autres désastreux. C'est à lui de décider quels brevets et quelles revendications garder et quel marché viser. Il faut combattre le syndrome de l'imposteur : « je suis la personne la mieux placée pour faire avancer cette technologie ».
+  - Le bon moment compte. Le portefeuille de brevets expire, donc il faut viser la bonne indication au bon moment. La fabrication en labo diffère de la fabrication pour l'humain (thérapie cellulaire).
+  - Le mythe de l'industriel qui vient choisir une technologie dans un catalogue est faux. Sans un chercheur entrepreneur pour franchir le fossé, beaucoup de technologies restent lettre morte.
+  - Recommandation à l'université : cartographier et consolider les ressources. Un fondateur a découvert l'accélérateur thérapeutique trop tard.
+  - Pour valider un besoin, il n'existe pas de base de données unique. La méthode NSF I-Corps (entretiens de découverte client) permet de collecter ces données soi-même.
+- **Chiffres et faits cités** :
+  - [11:17] Avec la bourse Ascender, la postdoctorante consacre 90 % de sa semaine à la start-up.
+  - [4:54] Opportunité de commercialisation identifiée environ 2 ans après son arrivée au labo.
+  - [5:42] La technologie de Kissia est apparue en 5e année de doctorat.
+  - [7:19] Mentorat de l'incubateur : 2 heures toutes les deux semaines depuis un an et demi, comme un « thérapeute d'entreprise ».
+  - [26:37] Réunion préliminaire (pre-IND) avec la FDA prévue dans les 8 mois. La voie 510(k) ne s'applique pas à une thérapie.
+- **Exemples et cas concrets** :
+  - Lantra Bio : un polypeptide synthétique qui imite les protéines antigel des poissons arctiques, pour congeler sans dommage des bioréactifs, des médicaments biologiques et des aliments, et à terme des cellules et des organes.
+  - Kissia Bioscience : des macrophages modifiés qui « nettoient » les résidus après l'ablation d'une tumeur cérébrale. Financement par des groupes locaux, University of Utah Ventures et l'accélérateur Altitude Lab.
+  - Ressources réglementaires sur le campus : centre de coordination des données, Center for Medical Innovation avec un spécialiste de la réglementation.
+- **Citations** :
+  - [16:59] « Les meilleurs fondateurs se disent : je suis l'expert de cette technologie, je vais utiliser ce que j'ai appris en doctorat pour apprendre le langage des affaires, parce que je suis la personne la mieux placée pour la faire avancer. »
+  - [29:51] « Il y a un fossé entre l'université et l'industrie. À moins qu'un chercheur un peu entrepreneur ne fasse avancer la technologie, beaucoup resteront lettre morte. »
+  - [34:39] « Votre expertise vous a rendu très doué pour apprendre. L'information est disponible : avancez étape par étape. Mais si vous n'êtes pas passionné, ne le faites pas, cela demande énormément de travail. »
+- **Utilisation possible par HSA** :
+  - Module « Devenir chercheur-entrepreneur » : état d'esprit, compétences à acquérir, méthode I-Corps.
+  - Série de posts « 5 leçons de chercheurs devenus fondateurs ».
+  - Plaidoyer auprès des universités africaines pour des bourses de transition non dilutives de type Ascender et une carte unique des ressources.
+  - Argument contre le syndrome de l'imposteur chez les doctorants.
+- **Mots-clés** : spin-offs et start-ups, carrière du chercheur, financement et maturation, rôle du bureau de transfert, licences.
+
+Transcription complète : [../transcriptions/from-researcher-to-founder-commercializing-university-resear.md](../transcriptions/from-researcher-to-founder-commercializing-university-resear.md)

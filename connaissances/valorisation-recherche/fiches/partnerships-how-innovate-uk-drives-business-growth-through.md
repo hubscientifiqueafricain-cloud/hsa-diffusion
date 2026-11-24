@@ -1,0 +1,44 @@
+# Fiche : Partnerships | How Innovate UK drives business growth through knowledge transfer
+- **Source** : University Industry Innovation Network (UIIN), 9 mars 2026, https://www.youtube.com/watch?v=x8OhKSovzLU, Europe (Royaume-Uni). Podcast de 28 min. Pas de version française : notes tirées du texte original anglais.
+- **Intervenant(s)** :
+  - Richard Lamb, programme manager des Knowledge Transfer Partnerships (KTP) à Innovate UK depuis 2018. Il a plus de 15 ans d'expérience dans l'enseignement supérieur, la politique climatique, le service public et la gestion de l'innovation.
+  - Animatrice : Sarah Jabbar (transcrit « Jabber »), directrice à l'UIIN.
+- **Pertinence** : forte. Le programme KTP est un modèle éprouvé depuis 50 ans de partenariat université-entreprise, avec un rôle clé de passeur (l'« associé »). Le modèle est transposable, et l'intervenant donne explicitement des conseils aux pays qui voudraient l'adopter.
+- **Idées clés** :
+  - Origine : en 1975, dans une économie britannique en ralentissement et sous forte inflation, le Science Research Council et le Department of Industry lancent le « Teaching Company Scheme », devenu KTP. Le modèle est calqué sur les hôpitaux universitaires : on apprend en classe, puis on applique en situation réelle.
+  - La différence clé avec une subvention de collaboration classique : le KTP résout un défi de l'entreprise avec une recherche déjà faite. L'objectif n'est pas de faire avancer la recherche universitaire, ce qui inverse la logique académique habituelle.
+  - Le cœur du modèle est une « triple hélice » : une entreprise, une équipe académique et un « associé ». L'associé est un diplômé intégré dans l'entreprise, qui fait le pont dans les deux sens. Il transfère le savoir vers l'entreprise et fait remonter vers les universitaires les problèmes rencontrés.
+  - Le bon associé n'est pas forcément le plus brillant académiquement. C'est celui qui sait communiquer, une compétence sous-estimée dans le monde académique. Timide au début, il prend la main au bout d'un ou deux ans.
+  - KTP n'est pas du conseil. Le consultant vend une solution déjà éprouvée et la rhabille. Le KTP produit une solution sur mesure qui ne convient qu'à cette entreprise.
+  - Le dossier de candidature est volontairement difficile (3 à 6 mois de préparation) : si l'on ne sait pas monter un dossier ensemble, on ne tiendra pas 2 à 3 ans de partenariat. En contrepartie, la décision est rapide.
+  - Signe d'un excellent projet : on ne distingue plus qui est universitaire, qui vient de l'entreprise et qui est l'associé.
+  - Le succès n'est pas seulement financier. Il peut s'agir d'un changement culturel, par exemple une entreprise familiale qui réapprend à innover, ou de meilleures pratiques de gestion (volet « Management KTP »). Chaque projet doit au minimum couvrir son coût en retombées pour l'économie britannique.
+  - Le plus grand gain est la relation durable : suites de projet, thèses de doctorat, stages. L'université devient un partenaire qu'on appelle quand on a un problème.
+  - Les écosystèmes d'innovation sont partout complexes et difficiles à lire pour les entreprises. L'université paraît impénétrable vu de l'extérieur (« qui dois-je appeler ? »). Les relais d'orientation sont essentiels : Innovate UK Business Connect en amont, Innovate UK Business Growth en aval, chambres de commerce.
+  - Conseil aux pays qui veulent transposer le modèle : ne pas toucher à la triple hélice (le mode de financement compte moins) et ne pas oublier les knowledge transfer advisers. Ce sont des conseillers indépendants, non incités à faire passer les dossiers, qui suivent chacun un portefeuille de projets et veillent à leur réussite. C'est l'élément que la plupart des pays oublient.
+  - Diffusion internationale : la Suède a commencé dans une université, puis est passée au niveau régional et national. Des contacts ont eu lieu avec l'université d'Oslo.
+- **Chiffres et faits cités** :
+  - [1:47] Le programme KTP vient de fêter ses 50 ans (lancé en 1975 sous le nom de Teaching Company Scheme).
+  - [0:53] Sur la dernière décennie, les évaluations font état de plusieurs milliards de valeur économique nette générée et d'un rendement élevé par rapport à l'investissement public.
+  - [6:58] La conférence annuelle réunit 150 associés.
+  - [12:04] Le dossier de candidature demande 3 à 6 mois. Les projets durent 2 à 3 ans.
+  - [14:38] Environ 80 % des projets déclarent vouloir poursuivre la collaboration.
+  - [21:26–22:18] Environ 6 millions de PME au Royaume-Uni, contre 350 projets KTP financés par an : c'est « le secret le mieux gardé des entreprises britanniques ».
+  - [24:06] 830 projets en cours, soit un portefeuille d'environ 120 M£ investis par Innovate UK, avec un montant similaire apporté par les entreprises, pour un retour de 5 pour 1.
+  - [24:58] Environ 42 knowledge transfer advisers au Royaume-Uni, avec chacun un portefeuille de 15 à 30 projets.
+- **Exemples et cas concrets** :
+  - Une entreprise d'ingénierie de Sheffield qui fabrique des arceaux pour poids lourds rencontre un défaut qualité chez son client constructeur. Elle appelle l'université avec laquelle elle avait fait un KTP, qui analyse la pièce au microscope électronique. Le constructeur cite désormais ce traitement comme l'exemple de la meilleure gestion de problème.
+  - Une entreprise familiale dépassée par la concurrence, que le KTP aide à réapprendre à innover.
+  - Les rapports d'évaluation sont sur le site d'UKRI (rechercher « UKRI KTP evaluation »).
+- **Citations** :
+  - [3:30] « Le KTP résout un défi de l'entreprise avec une recherche déjà réalisée. Son but n'est pas de faire avancer la recherche, et cela renverse complètement l'éthique de beaucoup d'universités. »
+  - [10:26] « Nous ne cherchons pas forcément l'associé le plus doué académiquement, mais celui qui sait communiquer, une compétence vraiment sous-estimée dans le monde académique. »
+  - [24:58] « Ne touchez pas à la triple hélice associé, entreprise, universitaire. Ce que beaucoup de pays ont oublié, c'est le rôle du conseiller en transfert de connaissances. »
+- **Utilisation possible par HSA** :
+  - Modèle à proposer aux ministères et universités africains (Côte d'Ivoire, UEMOA) : un « KTP africain » avec des jeunes docteurs intégrés en PME comme passeurs. C'est aussi une réponse au chômage des docteurs.
+  - Module « Partenariats recherche-industrie : les modèles qui marchent ».
+  - Post « 5 pour 1 : le retour sur investissement des partenariats université-PME au Royaume-Uni ».
+  - HSA pourrait jouer le rôle de relais d'orientation (« qui dois-je appeler à l'université ? ») et d'annuaire des experts.
+- **Mots-clés** : partenariats industrie, politique publique, carrière du chercheur, mesure d'impact, financement et maturation.
+
+Transcription complète : [../transcriptions/partnerships-how-innovate-uk-drives-business-growth-through.md](../transcriptions/partnerships-how-innovate-uk-drives-business-growth-through.md)

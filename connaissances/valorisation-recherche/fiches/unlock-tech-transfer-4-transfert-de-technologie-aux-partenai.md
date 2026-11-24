@@ -1,0 +1,44 @@
+# Fiche : UNLOCK Tech Transfer #4 : Transfert de technologie aux partenaires industriels
+- **Source** : Université Paris Cité, 5 mars 2026, https://www.youtube.com/watch?v=f1QRAMqPhh4, France (podcast vidéo de 23 min, 4e épisode de la série « Unlock Tech Transfer » du PUI Vallocité).
+- **Intervenant(s)** :
+  - Fabien, animateur.
+  - Nicolas, professionnel du transfert de technologie qui anime la série. Sa fonction exacte n'est pas précisée dans l'épisode.
+  - Miranda Delmot (orthographe incertaine), coordinatrice du Hub innovation de l'AP-HP (transcrit « PHP »). Elle se décrit comme « porte d'entrée simplifiée de l'innovation » et coordinatrice interne.
+- **Pertinence** : forte. L'épisode est très pratique sur la relation avec les industriels : quand contacter le TTO, accords de confidentialité, risques de captation, durée des négociations, accords-cadres, accords de transfert de matériel, négociation interculturelle.
+- **Idées clés** :
+  - Rappel du « continuum de l'innovation » vu dans la série : détection des applications, protection (déclaration d'invention, brevets), prématuration et maturation (montée en TRL, financements), puis partenariat industriel.
+  - Il faut contacter le transfert de technologie le plus tôt possible. Un échange informel (appel, mail) suffit, sans données complètes. Le TTO aide à dérisquer, techniquement et commercialement, par exemple avec un « target product profile » ou une petite étude de marché.
+  - Ce n'est pas au chercheur de chercher seul une entreprise. Il est accompagné par des professionnels qui ont l'habitude de travailler avec l'industrie.
+  - L'accord de confidentialité (CDA/NDA) est le cadre de base. Le TTO dispose de modèles prêts à l'emploi. Il ne faut pas rester naïf face à la concurrence et à l'espionnage industriel, ni se laisser flatter quand une entreprise appelle après un poster ou une publication.
+  - Réflexe simple et rarement appliqué : marquer « confidentiel » sur toute présentation ou tout mail contenant des résultats non publiés, même envoyés à un collègue étranger. Les Américains le font systématiquement.
+  - Risque concret : un industriel dépose un brevet sur ce que le chercheur lui a confié. Les procédures juridiques pour le récupérer sont très lourdes. Mieux vaut prévenir que guérir. Ce type de cas arrive souvent.
+  - La durée de négociation dépend du sujet, de l'implication du chercheur, de la taille du partenaire, de la complexité de la licence (tout domaine ou domaine restreint) et de la connaissance qu'a le partenaire des règles publiques. Les industriels croient parfois pouvoir « se servir » dans les organismes publics.
+  - Il faut un momentum, une partie de ping-pong. Si le partenaire met 6 mois à revenir, c'est mauvais signe. En cas de blocage, il faut revenir à la table sans attendre la prochaine réunion : c'est un jeu gagnant-gagnant.
+  - Plusieurs modalités existent au-delà de la licence : collaboration de recherche, accès d'un labo à des brevets industriels, accords-cadres avec des partenaires stratégiques. Avec un accord-cadre, on ne renégocie que l'accord spécifique (lots de travail, financement, expertises).
+  - Le MTA (Material Transfer Agreement) de pré-collaboration ou pré-licence : on prête le matériel biologique pour une expérience donnée pendant un temps donné. Si les résultats sont positifs, on passe à la licence ou à la collaboration. Cela raccourcit la contractualisation.
+  - Transferts public-public : en cas de cotutelle, l'établissement le plus expert reçoit le mandat de gestion et de valorisation. Des transferts vers des institutions étrangères sont possibles quand on n'a pas les moyens d'aller plus loin.
+  - En négociation interculturelle, rester humble et s'adapter. La Corée du Sud, la Chine et le Japon ont chacun leurs codes. Ne pas imposer de modalités françaises.
+  - Il faut penser Europe, puis international, dès le départ. Le financement du déploiement industriel reste insuffisant malgré Bpifrance.
+- **Chiffres et faits cités** :
+  - [12:47] Pendant le Covid, pour un anticorps monoclonal thérapeutique anti-SARS-CoV-2 destiné aux patients non vaccinables : création d'une start-up ad hoc avec un investisseur, dépôt de brevet et accord de licence menés en parallèle, le tout en 1 mois.
+  - [11:55] Un partenaire qui met 6 mois à revenir est un mauvais signe.
+  - [19:28–20:19] Une négociation au Japon peut prendre 18 mois, mais toutes les étapes sont alors bien faites.
+  - [17:47] Un anticorps monoclonal contre la dengue a été transféré à Oxford, qui mènera l'essai de phase 1 faute de moyens côté français.
+- **Exemples et cas concrets** :
+  - Anticorps anti-SARS-CoV-2 (start-up créée en 1 mois).
+  - Anticorps anti-dengue transféré à Oxford.
+  - Transferts vers des institutions anglaises, américaines et brésiliennes.
+  - PUI Vallocité, qui réunit des équipes pour produire des déclarations d'invention et des brevets communs.
+  - Hub innovation de l'AP-HP.
+- **Citations** :
+  - [6:47] « Tant que vos travaux ne sont pas publiés, mettez "confidentiel" sur vos présentations et vos mails. C'est très simple, mais personne ne le fait. »
+  - [8:30] « Le risque, c'est que le partenaire industriel dépose une demande de brevet sur ce que le chercheur lui a dit, sans rien nous dire. Mieux vaut prévenir que guérir. »
+  - [11:55] « Quand l'intention de collaborer est réelle, il faut un momentum. Si le partenaire met six mois à revenir vers nous, ce n'est pas bon signe. »
+- **Utilisation possible par HSA** :
+  - Fiche réflexe « Avant de parler à un industriel » : CDA, mention confidentiel, appel au TTO.
+  - Post « Votre poster a attiré un industriel ? Attention ».
+  - Module « Contrats de la valorisation » : CDA, MTA, accord-cadre, accord de collaboration, licence.
+  - Argument pour les chercheurs africains souvent sollicités par des partenaires du Nord : signer un CDA ou un MTA avant tout échange de matériel ou de données.
+- **Mots-clés** : rôle du bureau de transfert, partenariats industrie, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation.
+
+Transcription complète : [../transcriptions/unlock-tech-transfer-4-transfert-de-technologie-aux-partenai.md](../transcriptions/unlock-tech-transfer-4-transfert-de-technologie-aux-partenai.md)

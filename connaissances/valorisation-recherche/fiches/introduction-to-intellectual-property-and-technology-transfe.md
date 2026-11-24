@@ -1,0 +1,31 @@
+# Fiche : Introduction à la propriété intellectuelle et au transfert de technologie (UC Davis)
+- Source : POCTCTR (présentation du bureau « Innovation Access » de l'université de Californie à Davis), 5 oct. 2010, https://www.youtube.com/watch?v=lZuiV9uXPdY, États-Unis
+- Intervenant(s) : non identifiés (voix de présentation ; contact cité : David McGee, UC Davis)
+- Pertinence : forte – cours complet sur le processus de transfert, les brevets, les licences, les redevances et la création de start-ups universitaires.
+- Idées clés :
+  - Le brevetage et la commercialisation permettent d'attirer des entreprises qui financent le développement d'une découverte précoce, qui resterait sinon inexploitée.
+  - Un accord de confidentialité est indispensable avant de parler à un licencié potentiel, car une divulgation non confidentielle peut faire perdre les droits.
+  - Le processus : recherche financée, déclaration d'invention, évaluation de brevetabilité et de potentiel, dépôt, marketing, licence.
+  - L'évaluation commerciale regarde le besoin, la solidité de la PI, la concurrence, le coût et le temps de développement, la taille du marché, la durée de vie du produit et les droits de tiers.
+  - Distinguer inventeur (contribution intellectuelle à une revendication) et auteur d'article ; l'inventorat est une détermination juridique.
+  - Un formulaire de déclaration d'invention ne protège pas l'invention : ne pas publier avant la décision de déposer.
+  - Les chercheurs doivent connaître leurs obligations d'employé, la politique de consultation (un jour par semaine maximum) et les conflits d'intérêts.
+  - Brevet provisoire (12 mois, non examiné) puis brevet non provisoire ; coûts et délais très différents.
+  - Un brevet ne donne pas la liberté d'exploiter (« freedom to operate ») : il peut être dominé par le brevet d'un tiers.
+  - Option ou accord d'évaluation : alternative moins coûteuse pour les start-ups avant de signer une licence.
+  - Les licences contiennent des jalons, devenus clauses de diligence, qui permettent de reprendre l'invention si l'entreprise la laisse dormir.
+  - Il faut anticiper l'empilement de redevances (« royalty stacking ») avec des clauses anti-empilement.
+- Chiffres et faits cités :
+  - [4:18] Aux États-Unis, délai de grâce de 12 mois ; à l'international, la divulgation entraîne la perte immédiate des droits.
+  - [17:23] Brevet : 20 ans à compter du dépôt.
+  - [21:48] Brevet provisoire : de quelques centaines de dollars jusqu'à environ 10 000 dollars ; brevet non provisoire : 10 000 à 20 000 dollars ou plus ; brevets étrangers dans une douzaine de pays industrialisés : bien plus de 100 000 dollars.
+  - [31:25] Option : généralement 6 à 12 mois.
+  - [37:29] Répartition des revenus nets à l'Université de Californie : 35 % aux inventeurs, 15 % à la recherche de la faculté, 50 % au fonds général du chancelier.
+  - [40:07] Forte croissance des start-ups universitaires depuis la création du bureau Innovation Access en 2004.
+- Exemples et cas concrets : loi Bayh-Dole de 1980 ; feuille de route pour les chercheurs-entrepreneurs ; concours de plans d'affaires « Little Bang » et « Big Bang » ; large variété de start-ups issues de l'université (vétérinaire, agriculture, logiciel, biotechnologies).
+- Citations :
+  - [5:12] Une invention doit d'abord avoir un bénéfice public. (présentateur)
+  - [12:54] Le formulaire de déclaration ne protège pas l'invention. (présentateur)
+- Réutilisation HSA : cours complet en cinq modules (processus, brevets, licences, redevances, start-ups) ; fiche pratique sur la différence auteur et inventeur ; tableau de coûts de brevet pour budget de laboratoire.
+
+Transcription complète : [../transcriptions/introduction-to-intellectual-property-and-technology-transfe.md](../transcriptions/introduction-to-intellectual-property-and-technology-transfe.md)

@@ -1,0 +1,31 @@
+# Fiche : Dr Kelly Sexton : le pouvoir transformateur de la recherche et de la commercialisation des technologies
+- Source : MU AgEBB, 30 sept. 2019, https://www.youtube.com/watch?v=nVicPiT0_UE, États-Unis (Missouri)
+- Intervenant(s) : Dr Kelly Sexton (vice-présidente associée à la recherche, université du Michigan, en charge de l'innovation et du transfert de technologie ; ancienne responsable de la commercialisation à NC State) ; Michael Gold (directeur par intérim du Centre d'agroforesterie de l'université du Missouri) ; le doyen de la faculté d'agriculture (nom non audible).
+- Pertinence : forte – Conférence d'ouverture d'un symposium sur l'innovation et l'entrepreneuriat : valeur de la recherche universitaire, transfert de technologie et construction d'écosystèmes d'amorçage hors des grands pôles.
+- Idées clés :
+  - Les universités de recherche ont une valeur unique : savoir réagir vite à des défis imprévus (exemple de l'épidémie de Zika) grâce à un investissement public soutenu.
+  - Les universités à vocation agricole (« land-grant ») allient recherche, enseignement et vulgarisation ; exemple de la patate douce Covington et du pâturage tournant géré de façon intensive.
+  - Les grandes découvertes viennent de décennies de recherche fondamentale : voie de signalisation Hedgehog, Internet, algorithme à l'origine de Google.
+  - Le transfert de technologie moderne s'appuie sur la loi Bayh-Dole (1980), qui a laissé aux universités la propriété des inventions issues de financements publics.
+  - Les start-up comblent le vide entre l'université et les grandes entreprises, car les entreprises hésitent à reprendre des technologies encore précoces.
+  - Un écosystème d'amorçage a besoin de trois éléments : l'étincelle (innovation, abondante), l'oxygène (talents et entrepreneurs, plus rares hors des villes) et le combustible (capital).
+  - Le capital-risque est très concentré (Californie, Boston, New York) et l'investissement en phase précoce dépend de la proximité et des relations personnelles.
+  - Programmes utiles pour former les talents : I-Corps (méthode lean startup, entretiens avec de vrais clients) et service de mentorat de créateurs d'entreprise.
+  - Les réseaux d'anciens élèves investisseurs, détenus et gérés par l'université, mobilisent de nouveaux donateurs et du capital pour les start-up.
+  - À Michigan, licences logicielles contre une prise de participation seulement, pour inciter les chercheurs à passer par le bureau, ainsi que des mentors en résidence à mi-temps et une cérémonie de la cloche pour chaque start-up.
+  - Il faut expliquer aux décideurs que la valeur de la recherche ne se mesure pas en retour sur investissement immédiat.
+- Chiffres et faits cités :
+  - [19:57] Patate douce Covington : 90 % des patates douces de Caroline du Nord, deux fois plus de surface cultivée, profits des producteurs en hausse de 25 %.
+  - [31:31] Entre 1996 et 2015, les licences universitaires ont contribué pour 1,3 billion (mille milliards) de dollars à la production industrielle américaine (à vérifier).
+  - [32:29] 755 nouveaux produits mis sur le marché via des licences.
+  - [38:01] 75 % du capital-risque va à des start-up de Californie, Boston et New York ; seulement 4 % des codes postaux en reçoivent.
+  - [50:28] Réseaux de trois universités : 466 membres, près de 24 millions de dollars investis dans 47 start-up ; cotisation annuelle de 1 000 dollars ; environ 1,5 poste à plein temps pour le gérer.
+  - [54:46] En 2017, les start-up de l'université du Michigan ont levé un peu plus de 300 millions de dollars, mais la moitié de celles restées sur place en ont levé moins de 40 millions.
+  - [1:05:34] Relations actives avec plus de 200 investisseurs.
+- Exemples et cas concrets : réseau d'investisseurs anciens élèves (Duke, NC State, UNC) ; start-up de véhicules autonomes issue de l'université du Michigan ; fonds de capital-risque créé par une grande université de Boston ; incubateur subventionné sans prise de participation.
+- Citations :
+  - [34:17] « Les start-up comblent un vide entre l'université et les grandes entreprises. » (Kelly Sexton)
+  - [56:31] « C'est difficile : nous essayons de commercialiser des miracles. » (Kelly Sexton)
+- Réutilisation HSA : module sur les écosystèmes d'amorçage hors des capitales ; post sur les réseaux d'anciens investisseurs ; webinaire sur la manière de raconter la valeur de la recherche aux décideurs.
+
+Transcription complète : [../transcriptions/dr-kelly-sexton-the-transformative-power-of-research-and-tec.md](../transcriptions/dr-kelly-sexton-the-transformative-power-of-research-and-tec.md)

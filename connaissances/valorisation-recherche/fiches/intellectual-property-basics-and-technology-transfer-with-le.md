@@ -1,0 +1,47 @@
+# Fiche : Intellectual Property Basics and Technology Transfer with Leah Haman at WARF
+- Source : Wisconsin Ventures, 12 nov. 2026, https://www.youtube.com/watch?v=gX3ah0rW6vI, États-Unis
+- Intervenant(s) et fonction : Leah Haman (orthographiée Hamon dans la transcription), responsable principale de la propriété intellectuelle à la Wisconsin Alumni Research Foundation (WARF), chargée des sciences physiques (ingénierie, informatique) ; ancienne d'Epic (logiciels de santé), à WARF depuis 2009. Session du Wisconsin Venture Innovation Challenge (avec la Wisconsin School of Business).
+- Pertinence pour le sujet : forte. Cours complet de base sur la PI (brevet, droit d'auteur, marque, secret commercial) vu depuis un bureau de transfert, avec des conseils pratiques sur la divulgation, l'IA et le logiciel libre.
+- Idées clés :
+  - La PI est une « création de l'esprit » protégée par des lois nationales. WARF travaille surtout sur les brevets, plus marginalement sur les droits d'auteur et les marques. Le secret commercial est rare en milieu universitaire.
+  - Le brevet est un compromis : un droit d'exclure les autres pendant 20 ans à compter du dépôt, puis l'invention tombe dans le domaine public. C'est pendant cette exclusivité qu'on crée une entreprise ou qu'on investit (ex. médicament).
+  - Un brevet comporte trois parties : la description (contexte, détails techniques, variantes), des dessins et les revendications. Les revendications sont la partie décisive : elles fixent les limites du droit d'exclusion. Il faut les faire rédiger par un conseil en brevets.
+  - Critères de brevetabilité : un objet éligible et utile (ni lois de la nature, ni phénomènes naturels, ni idées abstraites ou mathématiques pures), la nouveauté, la non-évidence (l'office peut combiner plusieurs antériorités), une description écrite suffisante, la reproductibilité par un tiers (« enablement ») et l'indication du meilleur mode de réalisation.
+  - L'examen se fait par allers-retours avec un examinateur. Les revendications sont souvent restreintes, et on ne peut plus ajouter d'éléments nouveaux après le dépôt : il faut tout mettre dans la description initiale.
+  - Divulgation : les États-Unis accordent un an de grâce après une divulgation publique. La plupart des autres pays appliquent la « nouveauté absolue » : votre propre publication détruit la brevetabilité. Il n'existe pas de brevet mondial : il faut payer et déposer pays par pays.
+  - Le brevet provisoire américain dure un an, avec peu de formalités (slides, manuscrit ou document Word possibles) et fixe une date d'antériorité. Mais tout élément ajouté ensuite ne bénéficie pas de cette date.
+  - Le droit d'auteur protège l'expression fixée d'une idée (vie de l'auteur + 70 ans). Il naît automatiquement et coûte peu, mais sa portée est plus étroite qu'un brevet. Il est utile pour le code, les bases de données et les compilations non brevetables. Le dessin ou modèle (« design patent ») protège l'aspect non fonctionnel pendant 15 ans après la délivrance. La marque désigne l'origine d'un produit (nom, image, son ; ex. noms de variétés végétales). Le secret commercial exige une valeur économique et des mesures de protection actives, et il est perdu dès qu'il est divulgué.
+  - Conseils pour les concours de pitch : ne divulguer que le nécessaire (bénéfices, résultats) et pas l'algorithme exact. Adapter le type de dépôt au stade de maturité : provisoire si l'idée va encore évoluer, non provisoire si les bases sont solides.
+  - IA et brevets : une invention qui utilise l'IA reste brevetable si on revendique un système ou un procédé (prétraitement, étapes spécifiques) qui est nouveau et non évident. Il faut aussi vérifier qu'on pourra détecter une contrefaçon : si le produit d'un concurrent est une « boîte noire », un brevet est peu utile.
+  - IA et confidentialité : utiliser des outils d'IA « entreprise » validés par l'université et vérifier les paramètres d'entraînement, car « ce qu'on entre peut ressortir ». Une IA ne peut être ni inventeur ni auteur, et poser seulement le problème ne fait pas de vous l'inventeur.
+  - Processus WARF : un formulaire de divulgation d'environ 10 minutes (idée, contributeurs, financements), confidentiel, puis une rencontre avec les inventeurs et une décision lors d'une réunion mensuelle. L'inventeur cède ses droits, WARF paie tous les frais de brevet, et la start-up de l'inventeur doit ensuite prendre une licence. Le processus de divulgation sert aussi à vérifier les obligations liées aux financements : une subvention fédérale (NIH) donne des droits au gouvernement.
+  - Logiciel libre : les licences « copyleft » ou virales (GPL) obligent à redistribuer sous la même licence et peuvent contenir des clauses de brevet. Les licences permissives (MIT, BSD) imposent peu d'obligations. Il faut éviter la GPL pour un produit propriétaire. Publier sur GitHub du code qui révèle l'algorithme constitue une divulgation publique.
+- Chiffres et faits cités :
+  - WARF soutient l'Université du Wisconsin-Madison depuis près de 100 ans [0:01]. Fondée en 1925 par Steenbock et neuf autres anciens élèves [3:13] [4:50].
+  - Licence du brevet vitamine D à Quaker Oats pour plus d'un million de dollars [4:50].
+  - Brevet : 20 ans à compter du dépôt aux États-Unis [7:15]. Publication à 18 mois [10:31].
+  - Obtention d'un brevet : entre 1,5 et 5 ans ou plus [11:18]. Brevet d'Apple déposé en 2012, délivré en 2017 [18:35].
+  - Coût : 5 000 à 10 000 $ pour déposer avec un conseil, puis environ 20 000 $ ou plus jusqu'à la délivrance, plus des frais de maintien [12:06].
+  - Délai de grâce d'un an aux États-Unis après une divulgation publique [14:32] [59:40]. Brevet provisoire valable un an [19:22].
+  - Droit d'auteur : vie de l'auteur + 70 ans [27:30]. Dessin ou modèle : 15 ans après la délivrance [31:33].
+  - Formulaire de divulgation d'environ 10 minutes, décision lors d'une réunion mensuelle [49:59] [54:51].
+- Exemples et cas concrets :
+  - Harry Steenbock : l'irradiation UV des aliments augmente leur teneur en vitamine D (lutte contre le rachitisme). L'université refuse de breveter, d'où la création de WARF [2:26]-[4:50].
+  - WARF a refusé des licences aux fabricants de margarine et aux compagnies de tabac : le brevet sert aussi à contrôler l'usage de l'invention.
+  - Contre-exemple de Babcock : son test du lait, non breveté, a été mal fabriqué par des industriels et sa réputation en a souffert.
+  - Revendication d'Apple sur un capteur d'empreintes, restreinte pendant l'examen. Litige Apple contre Samsung sur des dessins et modèles (bords du téléphone, interface).
+  - Recette de Coca-Cola (secret commercial). Poids des modèles d'IA générative protégés par le secret plutôt que par le brevet.
+  - Des mathématiciens auraient vu un problème résolu par un tiers après avoir soumis leur manuscrit à une IA publique (anecdote rapportée).
+  - Programmes WARF : un accélérateur (financement de laboratoires) et une branche de capital-risque qui investit dans les start-ups de l'UW-Madison.
+- Citations fortes :
+  - « Le meilleur moment pour venir nous voir, c'est avant que ce soit public. Le pire que nous puissions vous dire, c'est qu'il est trop tôt. » [48:22]
+  - « L'IA est un outil : ne lui cédez pas votre propriété intellectuelle. » [43:36]
+  - « La propriété intellectuelle vous aide à exploiter votre invention et vous donne aussi la possibilité d'en contrôler l'usage. » [4:50]-[5:38]
+- Utilisation possible par HSA :
+  - Module de cours « PI 101 pour chercheurs » : les quatre formes de PI, les critères de brevetabilité et l'anatomie d'un brevet.
+  - Post : « Publier ou breveter ? En Afrique comme en Europe (OAPI), la nouveauté absolue s'applique : il n'y a pas de délai de grâce comme aux États-Unis. » Ce point reste à vérifier pour l'OAPI avant publication.
+  - Fiche pratique « IA générative et confidentialité des résultats de recherche ».
+  - Le récit Steenbock-WARF est un bon récit fondateur pour expliquer la création d'une structure de valorisation autonome.
+- Mots-clés : définitions, propriété intellectuelle et brevets, rôle du bureau de transfert, détection d'inventions, licences, spin-offs et start-ups, financement et maturation, politique publique (Bayh-Dole, etc.)
+
+Transcription complète : [../transcriptions/intellectual-property-basics-and-technology-transfer-with-le.md](../transcriptions/intellectual-property-basics-and-technology-transfer-with-le.md)

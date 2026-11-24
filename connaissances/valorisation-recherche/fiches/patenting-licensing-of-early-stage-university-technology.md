@@ -1,0 +1,61 @@
+# Fiche : Patenting & Licensing of Early-Stage University Technology
+- **Source** : Columbia TechVentures, 6 nov. 2014, https://www.youtube.com/watch?v=ZzczaFujs3A, États-Unis (conférence de 1 h 07, en anglais, traduction automatique).
+- **Intervenant(s)** : Orin Herskowitz (transcrit « Oren Herschwitz »), directeur exécutif de Columbia Technology Ventures (le bureau de transfert de technologie de Columbia) et vice-président Propriété intellectuelle et transfert de technologie de l'université Columbia. Ancien consultant au Boston Consulting Group pendant 7 ans, diplômé en littérature anglaise et MBA, « sans formation technique ». Il cite des collègues (Liz, Margie pour le marketing, Richard pour les licences, Laura, juriste contrats, Jeff Sears pour le cours sur les brevets).
+- **Pertinence** : forte. C'est un cours complet, vu de l'intérieur d'un bureau de transfert de technologie (TTO) parmi les plus performants, sur tout le parcours : déclaration d'invention, brevet provisoire, marketing, lettre d'intention, licence, termes économiques.
+- **Idées clés** :
+  - Le parcours type : déclaration d'invention par le chercheur, puis analyse de la brevetabilité et du potentiel commercial (avec l'aide de doctorants stagiaires), puis dépôt d'un brevet provisoire (environ 2/3 des inventions), puis conversion d'environ 2/3 de ceux-ci en demande complète à 12 mois, puis marketing et licence.
+  - Le brevet provisoire américain coûte peu et se dépose vite. On peut joindre un article scientifique avec une page de garde. Il donne un an pour consolider. Le TTO en dépose parfois en quelques heures, quand un chercheur l'appelle de l'aéroport avant une conférence. Règle : le TTO ne doit jamais empêcher un chercheur de publier ou de présenter ses travaux.
+  - Raisons de ne pas convertir un brevet provisoire : la science ne marche pas, l'étude ne trouve pas de marché, le chercheur n'achève pas ses travaux, le doctorant part.
+  - La « vallée de la mort » : les subventions publiques et des fondations financent la recherche fondamentale. L'industrie et le capital-risque ne financent que le lancement. Entre les deux (faisabilité, prototype, premiers essais), personne ne paie.
+  - Le délai est long. Il faut en moyenne environ 3 ans entre la déclaration et la licence, même pour les inventions qui finissent licenciées. Le profil est le même en sciences de la vie et en sciences physiques, en licence exclusive ou non exclusive, avec ou sans redevances. Le National Cancer Institute, l'université de Californie et Cornell obtiennent la même courbe.
+  - Un brevet est un droit « négatif » et national. Il permet seulement d'empêcher autrui d'exploiter l'invention. Il n'autorise pas à l'exploiter soi-même (exemple : un brevet d'usage sur une échelle déjà brevetée). Il n'existe pas de brevet mondial. Après le premier dépôt américain, on a environ 30 mois pour choisir les pays.
+  - Critères de brevetabilité : utilité (l'invention doit marcher pour l'usage prévu), nouveauté (absence d'antériorité), non-évidence. Ce sont les revendications qui définissent l'invention, « comme le plan d'un géomètre ». Plus elles sont larges, plus le brevet a de valeur, mais plus le risque d'antériorité est grand. Un brevet délivré peut être invalidé plus tard en justice.
+  - Les licences offrent une flexibilité presque infinie : exclusive ou non exclusive, par territoire, par domaine d'usage (thérapeutique ou diagnostic), par durée, exclusivité convertible, droit de fabriquer, d'utiliser ou de vendre, sous-licence.
+  - Columbia privilégie la licence non exclusive dès que possible, pour diffuser largement la technologie. Trois de ses quatre brevets les plus rentables sont licenciés de façon non exclusive. L'exclusivité est réservée à un domaine précis quand l'industriel doit investir lourdement, par exemple en pharmacie.
+  - Le montage économique s'adapte au partenaire. Une grande entreprise préfère tout payer d'entrée. Une start-up préfère limiter les frais initiaux et payer en actions (equity) et en redevances. Les redevances peuvent être dégressives ou progressives, calculées sur les ventes brutes ou nettes, différentes selon l'usage, avec plancher et plafond, ou rachetables (par exemple « 15 M$ pour éteindre la redevance »).
+  - La négociation part des besoins de droits de l'industriel et s'appuie sur des bases de données d'accords comparables. Elle aboutit à une lettre d'intention (term sheet : paiement initial, part du capital, paiements d'étape, taux de redevance), puis au contrat rédigé par les juristes. Le modèle de licence de Columbia fait 18 pages et est en ligne. La plupart des licences sont amendées par la suite.
+  - Les licences sont des « jeux répétés ». On retrouve les mêmes partenaires, donc un comportement avide ou contraire à l'éthique se paie vite.
+  - Les places de marché centralisées de brevets (comme iBridge, financée par la Fondation Kauffman) n'ont jamais décollé. Les licenciés préfèrent le contact direct, le site du TTO, les salons et la lecture des publications des professeurs.
+  - Le brevet n'est pas toujours la bonne réponse. Les coûts arrivent surtout au début. Un dépôt mondial peut atteindre 500 000 $ sur 7 à 8 ans. Le secret d'affaires est une autre option (exemple : la formule du Coca-Cola), mais il ne vaut que tant que le secret tient.
+- **Chiffres et faits cités** :
+  - [3:20] Apple contre Samsung : Samsung condamné à 930 M$, montant réduit en appel.
+  - [3:58–4:08] Google a racheté Motorola Mobility pour 12 Md$, a récupéré environ 8 Md$ en cédant les activités et a gardé 17 000 brevets, soit environ 4 Md$ pour les brevets.
+  - [4:56–5:45] Enchères Nortel : 4 000 brevets, enchère d'ouverture à 900 M$, offre de Google à environ 4,4 Md$ (dont 3,14159 Md$), victoire d'Apple, Microsoft et d'autres à 4,5 Md$, création de l'entité Rockstar.
+  - [5:45] Carnegie Mellon a obtenu 1,1 Md$ de dommages et intérêts contre Marvell (« Marvel » dans la transcription) pour un brevet.
+  - [6:37–7:29] Universités américaines sur 20 ans : environ 700 Md$ de recherche, environ 300 000 inventions déclarées, soit environ 2,4 M$ de recherche par invention (1,8 à 1,9 M$ dans les grandes universités, 2,5 à 2,8 M$ dans les petites). Environ un tiers des demandes de brevet aboutissent. Environ 50 000 licences actives, près de 7 500 start-ups, 150 nouveaux médicaments et dispositifs médicaux.
+  - [13:09] En pharmacie, 1 composé sur 100 entré en développement atteint le marché.
+  - [13:09] 84 universités américaines perdent de l'argent chaque année sur le transfert de technologie (dépenses supérieures aux recettes).
+  - [14:02] Columbia figure parmi les 2 ou 3 premières universités américaines en revenus de licences depuis 20 ans. Emory et Wake Forest, plus petites, ont aussi figuré dans le top 10.
+  - [17:17–18:05] Pour les inventions finalement licenciées, il faut environ 3 ans en moyenne après la déclaration. Au bout de 6 à 7 ans, des licences sont encore signées.
+  - [18:53] Brevet déposé pour environ 67 % des inventions.
+  - [20:31] Sur environ 400 inventions par an, les droits sont proposés aux chercheurs dans environ 130 cas d'abandon par le TTO, et seulement 4 environ sont repris. Columbia ne demande que le remboursement des frais de brevet, sans pourcentage.
+  - [23:40] Environ 75 % des inventions converties sont publiées sur le site du TTO.
+  - [26:07] Parmi les licences actives sur une année : 40 % ont généré au moins 1 $ et moins de 1 % plus de 1 M$.
+  - [30:15] Environ 20 000 à 30 000 $ par brevet après 3 ans, plus 100 000 à 150 000 $ par pays (Europe, Asie) sur 5 à 7 ans, jusqu'à environ 500 000 $ sur 7 à 8 ans.
+  - [32:39] Columbia, chaque année : environ 400 inventions, environ 100 licences et options, environ 18 start-ups.
+  - [33:28] Plus de 150 start-ups issues de Columbia en 20 ans : plus de 40 financées par capital-risque, 9 introduites en bourse, 18 rachetées.
+  - [48:04] La plupart des brevets mettent 5 ans à être délivrés aux États-Unis. On licencie donc souvent des demandes qui ne sont pas encore délivrées.
+  - [49:37] Sur environ 100 licences par an, 18 vont à des start-ups.
+  - [58:24] Le TTO emploie 35 stagiaires doctorants et mène environ 200 campagnes marketing par an.
+  - [1:03:32] Environ 1 200 brevets disponibles en licence sur le site de Columbia. Environ 75 % des inventions sont liées aux sciences de la vie.
+- **Exemples et cas concrets** :
+  - Un mur lumineux qui repousse les moustiques, mis au point au département de physique, avec une application possible contre le paludisme.
+  - Les algorithmes de modélisation de fibres et de tiges élastiques d'Eitan Grinspun (informatique), utilisés pour les cheveux du film Raiponce (Disney) et licenciés à une start-up de mode new-yorkaise.
+  - Un robot chirurgical (œil et oreille) licencié à une start-up.
+  - Les brevets d'algorithmes de compression de données (MPEG) du professeur Dimitris Anastassiou, qui comptent parmi les quatre plus rentables de Columbia. Il s'est ensuite reconverti en biologie computationnelle du cancer.
+  - Le brevet américain d'un piège à souris en forme de chat, cité comme exemple pédagogique de revendications.
+  - Les affaires Myriad (brevets sur les gènes) et Amazon One-Click (méthodes commerciales).
+  - La plateforme iBridge (Fondation Kauffman).
+- **Citations** :
+  - [35:04] « Un brevet ne vous autorise pas à faire quoi que ce soit. Il vous permet seulement d'empêcher quelqu'un d'autre de le faire. »
+  - [22:05] « Notre mission est de ne jamais entraver la mission première de l'université, la recherche et l'enseignement. Nous ne voulons pas qu'un professeur renonce à publier pour protéger un secret. »
+  - [31:05] « Les brevets sont un excellent outil si vous en avez besoin, mais ils ne conviennent pas à toutes les entreprises. »
+- **Utilisation possible par HSA** :
+  - Matière principale d'un module « Du labo à la licence » : schéma déclaration → brevet provisoire → marketing → lettre d'intention → contrat.
+  - Fiche pratique « anatomie d'une licence » : variables à négocier.
+  - Post « 84 universités américaines perdent de l'argent » pour casser le mythe du jackpot.
+  - Argument pour les chercheurs africains : protéger n'empêche pas de publier si l'on dépose avant (l'équivalent ARIPO/OAPI du brevet provisoire reste à vérifier).
+  - Infographie sur la vallée de la mort.
+- **Mots-clés** : rôle du bureau de transfert, détection d'inventions, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation, mesure d'impact.
+
+Transcription complète : [../transcriptions/patenting-licensing-of-early-stage-university-technology.md](../transcriptions/patenting-licensing-of-early-stage-university-technology.md)

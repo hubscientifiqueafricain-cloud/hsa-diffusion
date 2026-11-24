@@ -1,0 +1,34 @@
+# Fiche : The Potential of Technology Transfer | David Allen | TEDxTucsonSalon
+- Source : TEDx Talks, 23 février 2018, https://www.youtube.com/watch?v=KGHFcsCVAyE, États-Unis (conférence TEDx, 16 min, traduction automatique de l'anglais)
+- Intervenant(s) et fonction : David Allen, professionnel du transfert de technologie depuis environ 25 ans (Ohio University puis University of Arizona, d'après les exemples cités ; fonction exacte non précisée dans la vidéo).
+- Pertinence pour le sujet : forte – plaidoyer clair, avec chiffres, pour mieux financer les bureaux de transfert ; bon support de vulgarisation.
+- Idées clés :
+  - Le transfert de technologie fait passer la recherche du laboratoire au marché : protection, puis intégration dans une entreprise (licence à une entreprise existante ou start-up).
+  - Ce que le contribuable obtient de la recherche financée : publications, diplômés (travailleurs du savoir), propriété intellectuelle, licences et start-ups.
+  - Depuis la loi fédérale de 1980 (Bayh-Dole), les inventions issues de la recherche financée par l'État fédéral appartiennent à l'université ; toutes les universités ont un TTO.
+  - Une déclaration d'invention est souvent une ébauche d'idée avec quelques données : le TTO doit « prendre des jumelles » pour l'évaluer.
+  - Évaluation en deux volets : brevetabilité (peut-on obtenir des revendications commercialement valables ?) et marché futur – anticiper le marché à 5-10 ans, durée du développement après la licence ; s'il y a adéquation, on a un actif commercial ; sinon, la science rejoint le corpus de connaissances.
+  - Accord de licence : l'université accorde le droit de fabriquer des produits fondés sur les brevets ; l'entreprise s'engage à développer et verse des redevances (faible pourcentage des ventes).
+  - Partage des redevances : la plus grosse part à l'inventeur ou à l'équipe d'inventeurs (y compris assistants de recherche), une part pour la recherche (laboratoire, université), parfois département, et 15 à 25 % au TTO.
+  - Problème central : cette part ne suffit pas à faire fonctionner un TTO ; les gros succès (médicament vedette) sont extrêmement rares ; les universités subventionnent la fonction.
+  - Le budget des TTO représente moins de 1 % des dépenses de recherche : c'est insuffisant ; un investissement supplémentaire dans le transfert aurait plus d'impact social que la même somme en recherche (« hérésie » assumée).
+  - Changer le débat : parler des conditions nécessaires au transfert avant de parler d'efficacité et de bonnes pratiques ; la recherche pour elle-même ne suffit pas.
+- Chiffres et faits cités :
+  - [0:51] Fin des années 1980 : souris transgéniques modifiées pour l'hormone de croissance (laboratoires de John Kopchick et Wen Chen, Ohio University).
+  - [1:45] Création d'une entreprise en 1992 ; rachat par un laboratoire pharmaceutique ; médicament contre l'acromégalie approuvé par la FDA en 2003.
+  - [4:10] Logiciel de gestion des interactions médicamenteuses (faculté de pharmacie, University of Arizona) licencié à une entreprise créée en 2013 ; au rachat par une société cotée, 250 employés et 50 millions de personnes suivies.
+  - [4:10] Le gouvernement fédéral soutient la recherche universitaire à hauteur de 30 milliards $ par an ; [5:02] environ 10 % des propositions sont financées.
+  - [5:50] 1 million d'articles publiés par les professeurs américains.
+  - [6:39] En 2015 : 25 000 déclarations d'invention transmises aux TTO ; [7:30] un millier de start-ups créées issues de la recherche universitaire.
+  - [7:30], [9:15] Développement de 5 à 10 ans après la licence.
+  - [10:57] Part des redevances revenant au TTO : généralement 15 à 25 %.
+  - [12:38] Budget des TTO : moins de 1 % du budget de recherche.
+- Exemples et cas concrets : médicament contre l'acromégalie issu des souris transgéniques d'Ohio University (André le Géant cité pour illustrer la maladie) ; logiciel d'interactions médicamenteuses de l'University of Arizona (scénario de la grand-mère prévenue par le pharmacien) ; université de l'orateur où le budget du transfert dépasse 1 %, avec le soutien de deux présidents successifs.
+- Citations fortes :
+  - [14:16] « Je vous affirme que 1 % n'est pas suffisant, et qu'un pourcentage investi dans le transfert de technologie aura un impact social bien plus important que la même somme consacrée à la recherche. »
+  - [15:05] « La recherche pour elle-même ne suffit pas : il faut aussi la transférer au bénéfice de la communauté. »
+  - [8:22] « Les inventions nous arrivent à un stade embryonnaire, comme une forme lointaine sur l'océan : il faut prendre des jumelles pour savoir s'il s'agit d'une plateforme pétrolière ou d'un paquebot. »
+- Utilisation possible par HSA : post « Le chiffre qui explique pourquoi la valorisation stagne : moins de 1 % » ; argument budgétaire pour les présidents d'université et ministères ivoiriens ; module « Évaluer une déclaration d'invention : brevetabilité + marché à 10 ans » ; schéma de partage des redevances à adapter dans une politique de PI universitaire ; vidéo à recommander en ouverture d'une masterclass.
+- Mots-clés : rôle du bureau de transfert, licences, détection d'inventions, politique publique (Bayh-Dole), financement et maturation, spin-offs et start-ups, mesure d'impact.
+
+Transcription complète : [../transcriptions/the-potential-of-technology-transfer-david-allen-tedxtucsons.md](../transcriptions/the-potential-of-technology-transfer-david-allen-tedxtucsons.md)

@@ -1,0 +1,34 @@
+# Fiche : Du laboratoire à l'impact : comprendre le processus de commercialisation des technologies
+- Source : Center for Technology Licensing, Université Cornell, 30 octobre 2026, https://www.youtube.com/watch?v=kW2k7fvM7oo, États-Unis
+- Intervenant(s) : équipe du Center for Technology Licensing (CTL) de Cornell ; noms transcrits de façon approximative (à vérifier) : Linda Seke (directrice de l'initiative et de l'engagement), Lisa Placanica (directrice générale du CTL à Weill Cornell Medicine), Bill Peg (directeur de la propriété intellectuelle, avocat en brevets), Martin Teschl (directeur du développement commercial et des licences)
+- Pertinence : forte – Présentation complète du processus de valorisation d'une grande université de recherche : financement de maturation, loi Bayh-Dole, brevets, divulgations, licences et start-ups.
+- Idées clés :
+  - Le CTL a pour mission de catalyser la commercialisation des découvertes, de développer de nouveaux produits et services et de promouvoir la création de start-ups.
+  - Il offre des heures de permanence ouvertes aux chercheurs sur les différents campus, pour un accès facile à l'équipe.
+  - Un programme de financement de maturation (« INACT ») a été créé parce que beaucoup de divulgations arrivaient trop tôt ; il comporte trois volets : subvention à un laboratoire, bourse de chercheur-fondateur, financement de start-up.
+  - À Weill Cornell Medicine, un fonds « Catalyst » finance preuve de concept, validation et partenariats commerciaux avec trois niveaux de dotation.
+  - Un groupe de conseillers (investisseurs et entrepreneurs expérimentés) donne un avis sur la stratégie de commercialisation des chercheurs.
+  - La loi Bayh-Dole de 1980 a transféré aux universités la propriété des inventions issues de la recherche financée par l'État fédéral, en échange d'obligations : chercher à les exploiter, privilégier les entreprises américaines et les petites entreprises, partager les revenus avec les inventeurs et déclarer les inventions.
+  - L'État conserve une licence non exclusive et des « droits d'intervention » (march-in) en cas d'urgence publique.
+  - Un brevet donne le droit d'exclure les autres, pas celui d'exploiter sa propre invention ; la qualité d'inventeur (définition juridique) diffère de celle d'auteur d'un article.
+  - Le processus : divulgation, recherche d'antériorité, dépôt provisoire, puis demande complète ou internationale dans les 12 mois, examen sur plusieurs années, paiement des frais de maintien.
+  - Une divulgation publique (article, préimpression, thèse, poster, réseaux sociaux, outils d'IA grand public) peut empêcher le dépôt à l'étranger ; les États-Unis accordent un délai de grâce d'un an, pas le reste du monde.
+  - Le bureau évalue le problème traité, la protection possible, les solutions concurrentes, le marché, le stade de développement et la voie réglementaire.
+  - Selon une estimation anecdotique, environ 80 % des accords universitaires se font avec des start-ups, souvent cofondées par les chercheurs, ou avec des entreprises contactées grâce aux chercheurs.
+- Chiffres et faits cités :
+  - [1:42] Plus de 1,6 milliard de dollars de dépenses de recherche sur cinq campus.
+  - [6:50] Exercice 2025 : 293 nouvelles divulgations d'invention, 22 millions de dollars de revenus, plus de 461 millions levés par les start-ups associées, 15 start-ups créées (7:44, 8:34).
+  - [12:55] INACT : 50 000 dollars à un laboratoire ; 120 000 dollars à un chercheur-fondateur ; 75 000 dollars à une start-up par un accord de type SAFE (13:45).
+  - [15:26] Fonds Catalyst de Weill Cornell : jusqu'à 50 000 dollars (prototype), 200 000 par an (validation), 400 000 (percée avec partenaire commercial).
+  - [19:43] Avant Bayh-Dole, moins de 5 % d'environ 30 000 brevets fédéraux étaient licenciés.
+  - [20:35] Plus de 13 000 start-ups issues de la recherche universitaire ; près de 70 % des licences avec de petites entités ; plus de 200 médicaments et vaccins approuvés.
+  - [36:06] Examen d'un brevet : 3 à 6 ans selon l'intervenant ; [39:33] coût indicatif d'environ 60 000 dollars par brevet.
+  - [43:07] Obligation d'informer l'État dans les 60 jours suivant une divulgation lorsqu'un financement public est en jeu.
+- Exemples et cas concrets : Exostellar, start-up financée en 2019 et rachetée par Qualcomm ; pommes Snapdragon et Ruby Frost ; programme de stage étudiant (« practicum »).
+- Citations :
+  - [22:15] « Si une invention est financée par l'État, nous avons des obligations, et nous ne pouvons les respecter que si nous le savons. » (L. Placanica)
+  - [41:19] « Considérez toute innovation potentiellement brevetable comme confidentielle jusqu'à en avoir parlé au bureau. » (B. Peg)
+  - [56:05] « Quand vous allez à une conférence, vous ne faites pas que présenter votre science : vous vendez votre invention. » (M. Teschl)
+- Réutilisation HSA : (1) module de cours sur le fonctionnement d'une divulgation d'invention ; (2) post sur les trois niveaux de financement de maturation ; (3) webinaire sur les droits d'un État sur la recherche qu'il finance et leurs équivalents africains.
+
+Transcription complète : [../transcriptions/lab-to-impact-understanding-the-technology-commercialization.md](../transcriptions/lab-to-impact-understanding-the-technology-commercialization.md)

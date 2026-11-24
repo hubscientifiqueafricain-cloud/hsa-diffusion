@@ -1,0 +1,33 @@
+# Fiche : Symposium sur le transfert de technologie (Salisbury, Maryland)
+- Source : PAC 14, 30 mai 2012, https://www.youtube.com/watch?v=PT3nLNjGgeM, États-Unis (Maryland)
+- Intervenant(s) : Bill Badger (accueil) ; Robbie Melton, directrice de l'innovation entrepreneuriale à TEDCO (Maryland Technology Development Corporation) ; Gary Jones, représentant à Washington du Federal Laboratory Consortium (FLC) ; Jim Pulis, coordinateur du transfert de technologie du centre de recherche agricole de Beltsville (USDA, service de recherche agricole) ; Wes Blakesley, directeur exécutif du transfert de technologie à Johns Hopkins ; Pasquale Ferrari, Université du Maryland à College Park (noms transcrits automatiquement, orthographe à vérifier)
+- Pertinence : forte – long débat (2 h 24) qui couvre les mécanismes de licence, les financements précoces, les laboratoires publics et les universités, avec des conseils concrets aux entrepreneurs.
+- Idées clés :
+  - Le transfert de technologie repose sur des brevets et de la propriété intellectuelle ; d'autres protections existent : secret commercial, droit d'auteur, marque (qui n'est pas vraiment de la propriété intellectuelle mais un identifiant).
+  - Les formes formelles du transfert : licence de brevet, accord de coopération, partenariat ou protocole d'accord, contrat.
+  - L'université s'est ouverte au monde économique : autrefois, un chercheur qui créait une entreprise était mal vu ; aujourd'hui, les succès de grandes universités américaines poussent chacun à imiter.
+  - Les entreprises recourent au transfert pour créer un produit, enrichir un produit existant, gagner un avantage concurrentiel et économiser du temps et de l'argent.
+  - Les modèles de groupes qui prospectent les technologies universitaires pour y investir sans équipe adéquate échouent presque toujours ; les modèles réussis associent des personnes passionnées, qui connaissent la technologie, et des fonds.
+  - Une licence exclusive peut être limitée à un domaine d'usage ; une licence non exclusive est parfois la seule offerte par certains laboratoires fédéraux, ce qui pose problème aux entreprises.
+  - Avant de prendre une licence, il faut vérifier la durée de protection restante, les restrictions d'exportation et de fabrication, l'adéquation avec la stratégie de l'entreprise et l'attrait pour les investisseurs.
+  - Les paiements typiques : à la signature, frais de dépôt, frais de maintenance, redevances, étapes ; le titulaire de licence doit généralement couvrir les frais de brevet.
+  - Le capital-risque ne convient qu'à très peu d'entreprises ; les investisseurs providentiels et les subventions de départ sont plus accessibles.
+  - Les laboratoires fédéraux disposent d'un bureau de transfert (ORTA) et proposent plusieurs outils au-delà de la licence : accords de recherche coopérative, utilisation d'installations, mise à disposition de souches et de bases de données.
+  - Les chercheurs doivent apprendre à parler valeur et marché, et non seulement science, devant les investisseurs.
+  - Le transfert est « un sport de contact » : il faut rencontrer les gens, aller aux événements et construire des relations.
+- Chiffres et faits cités :
+  - [27:26] D'après des données d'universités (hors laboratoires fédéraux), 188 licences donnent environ 49 produits commercialisés et peut-être un seul grand succès ; règle empirique : sur 10 entreprises, 5 réussissent, dont 1 ou 2 vraiment grandes.
+  - [34:07] Le programme TEDCO Techstart finance jusqu'à 15 000 dollars un projet d'environ six mois associant un entrepreneur, un chercheur et le bureau de transfert, pour étudier le potentiel de marché et la liberté d'exploitation.
+  - [35:50] Le fonds de transfert et de commercialisation du Maryland est passé à un modèle de dette convertible, remboursée seulement si l'entreprise gagne de l'argent.
+  - [37:40] Une initiative commune avec des laboratoires fédéraux offre 75 000 dollars (subvention).
+  - [44:30] Seul 1 % des technologies pouvant être licenciées par les laboratoires fédéraux et les universités le serait réellement (affirmation de l'animateur).
+  - [57:02] Le Federal Laboratory Consortium a été créé en 1986, après les lois Bayh-Dole et Stevenson-Wydler de 1980.
+  - [1:14:39] Le service de recherche agricole applique des frais généraux d'environ 20 %, inférieurs à ceux de ses partenaires universitaires (à vérifier).
+  - [1:32:08] Johns Hopkins a conclu deux accords de deux millions de dollars dans l'année ; en général, un accord d'un million par an.
+- Exemples et cas concrets : entreprise d'armures composites implantée dans la région ; technologie de la NASA devenue un déambulateur pour blessés de la moelle épinière ; produits agricoles venant du service de recherche agricole ; start-up agricole rachetée pour 100 millions de dollars (nom à vérifier) ; système de localisation en intérieur sans GPS pour pompiers.
+- Citations :
+  - [1:27:11] « Le transfert de technologie est un sport de contact : il faut sortir et rencontrer les gens, rien ne se fait tout seul. » (Wes Blakesley, reformulé)
+  - [2:02:35] « L'instinct de l'inventeur est de parler de science, ce qui peut ennuyer l'investisseur : il faut parler de valeur et d'impact. » (échange avec la salle, reformulé)
+- Réutilisation HSA : liste de contrôle « Avant de signer une licence » ; webinaire « Financer la preuve de concept : subventions et dette convertible » ; module sur le rôle des laboratoires publics et des organismes de recherche agricole.
+
+Transcription complète : [../transcriptions/technology-transfer-symposium.md](../transcriptions/technology-transfer-symposium.md)

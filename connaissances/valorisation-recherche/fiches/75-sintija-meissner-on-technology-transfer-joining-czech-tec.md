@@ -1,0 +1,32 @@
+# Fiche : Sintija Meissner sur le transfert de technologie, son arrivée à l'Université technique tchèque et la création d'un espace d'incubation
+- Source : Startup Kitchen (podcast), 30 octobre 2026, https://www.youtube.com/watch?v=wXk0xcLGScI, République tchèque (Europe centrale)
+- Intervenant(s) : Sintija Meissner (transcrite « Cintia »), originaire de Lettonie, nouvelle responsable du transfert de technologie et de l'entrepreneuriat à l'Université technique tchèque de Prague (CTU) ; Fergus O'Sullivan, rédacteur en chef du podcast
+- Pertinence : forte – Une responsable de transfert de technologie, venue du monde des start-ups et du capital-risque, détaille les lacunes de la valorisation universitaire et la création d'un espace de coworking pour les chercheurs-entrepreneurs.
+- Idées clés :
+  - Le transfert de technologie est le passage des connaissances et technologies du laboratoire vers le monde réel : par licence, par partenariat de recherche avec l'industrie ou par création d'une spin-off.
+  - Beaucoup de chercheurs le perçoivent surtout comme un transfert juridique de la propriété intellectuelle ; pour l'intervenante, la licence ou la spin-off ne servent à rien sans impact réel ni potentiel commercial.
+  - Le transfert est un pont entre deux mondes : l'université, conservatrice et ancrée dans la recherche, et l'entreprise, plus agile.
+  - Le capital-risque se méfie des universités : conditions de spin-off peu claires, manque de transparence et bureaucratie ; les investisseurs cherchent d'abord des raisons d'écarter un dossier, il faut donc leur simplifier la lecture.
+  - Du côté académique, on craint aussi les investisseurs et les financements hors subventions ; le remède est la communication et la formation des deux côtés.
+  - Une spin-off est une entreprise dont la propriété intellectuelle est née à l'université et dans laquelle l'université détient des parts ; l'université révise ses conditions pour les rendre simples et favorables aux fondateurs.
+  - Première lacune : la phase de preuve de concept, où manquent ressources, capacité et formation pour valider le marché en parlant à des dizaines de clients.
+  - Seconde lacune : le manque d'engagement des fondateurs, qui montent leur entreprise le soir et le week-end tout en rédigeant articles et thèses.
+  - La direction de l'université encourage ceux qui le souhaitent à quitter l'université pour se consacrer à leur projet, sans être pénalisés ; en cas d'échec, ils peuvent revenir comme mentors plus expérimentés.
+  - Tous les chercheurs ne doivent pas devenir entrepreneurs : un chercheur peut rester directeur scientifique, à condition de trouver un cofondateur qui pilote l'activité.
+  - Un programme de trois mois (« PhD Academy, Get Spin-off Ready ») forme à la validation du marché, à l'identification du client, à l'adéquation produit-marché et au pitch.
+  - Un espace de coworking, « Vector Space », ouvre sur le campus avec trois autres institutions, pour environ 15 équipes, avec rotation tous les six mois ; il est pensé comme un prototype d'incubateur.
+- Chiffres et faits cités :
+  - [0:01] L'intervenante est en poste depuis moins de deux mois.
+  - [12:46] Un consensus existe pour dire qu'une participation de 10 % ou plus de l'université au capital d'une spin-off rend celle-ci non finançable.
+  - [20:26] Programme de trois mois de préparation à la spin-off pour les doctorants.
+  - [23:00] Ouverture du hub en octobre, dans les locaux de la Bibliothèque technique nationale, en partenariat avec l'Université de chimie et de technologie et l'Institut de chimie organique et de biochimie.
+  - [23:50] Capacité d'environ 15 équipes ; objectif futur : un vivier de 200 projets et un lieu plus grand (25:30).
+  - [27:13] Modèle visité : l'Université technique de Munich (TUM) et UnternehmerTUM, construit depuis une vingtaine d'années avec un soutien privé important.
+- Exemples et cas concrets : WeWork Labs à Prague (accélérateur sans prise de capital) ; modèle de Munich ; DTU Skylab au Danemark (douze ans d'existence).
+- Citations :
+  - [7:40] « Nous pouvons créer la meilleure licence, mais cela n'a pas de sens si elle n'a aucun impact dans le monde réel. » (S. Meissner)
+  - [11:57] « Les investisseurs cherchent essentiellement des raisons d'écarter un dossier ; il faut leur rendre ce monde facile à comprendre. » (S. Meissner)
+  - [18:43] « Même s'ils échouent, ils peuvent revenir comme une meilleure ressource pour l'université. » (S. Meissner)
+- Réutilisation HSA : (1) module de cours sur la révision des conditions de spin-off (part de capital raisonnable) ; (2) post sur les deux lacunes de la valorisation (preuve de concept, engagement) ; (3) webinaire sur un espace de coworking universitaire comme prototype d'incubateur.
+
+Transcription complète : [../transcriptions/75-sintija-meissner-on-technology-transfer-joining-czech-tec.md](../transcriptions/75-sintija-meissner-on-technology-transfer-joining-czech-tec.md)

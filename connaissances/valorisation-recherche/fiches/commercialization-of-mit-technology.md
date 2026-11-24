@@ -1,0 +1,38 @@
+# Fiche : La commercialisation des technologies du MIT
+- Source : Technology Licensing Office (TLO) du MIT, 31 janvier 2022, https://www.youtube.com/watch?v=2ADE7tP4bYM, États-Unis (Massachusetts)
+- Intervenant(s) : Lauren Foster, directrice adjointe du Technology Licensing Office du MIT (formation en sciences de la vie, 15 ans au MIT) ; Deirdre Zammit, directrice adjointe des licences pour les sciences physiques ; Amelia McGowan, modératrice
+- Pertinence : forte – un bureau de transfert de référence détaille ses chiffres, sa politique de propriété intellectuelle, ses choix de brevets et la structure de ses licences.
+- Idées clés :
+  - Le TLO gère toute la propriété intellectuelle issue de la recherche du MIT, y compris celle du laboratoire Lincoln, et travaille avec professeurs, étudiants et stagiaires.
+  - Le cycle de transfert est un « cercle vertueux » : financement de la recherche, déclarations d'invention, brevets, licences, produits, retour de valeur partagé avec les inventeurs et réinvesti dans la recherche.
+  - Le MIT revendique la propriété selon l'usage de ses fonds et installations ; l'inventeur peut garder ses droits s'il n'a pas utilisé de façon significative ces ressources.
+  - Le transfert de technologie est subordonné à la diffusion ouverte des résultats : il ne doit pas retarder la publication.
+  - Le financement fédéral implique l'obligation de notifier l'agence et, si le MIT ne dépose pas de brevet, de rendre ses droits à l'agence.
+  - Le sponsor industriel obtient toujours un droit non exclusif d'usage interne et un choix entre licence non exclusive (quasi gratuite) et licence exclusive (négociée avec redevances).
+  - Les fondations à but non lucratif financent la maturation mais peuvent imposer des obligations (par exemple viser une maladie précise).
+  - Pour décider d'un brevet, le bureau pose des questions « problème-solution » : quel problème, quel marché, quel intérêt de l'industrie pour l'innovation académique, brevetabilité (utilité, nouveauté, non-évidence) et avantage de l'exclusivité.
+  - Le brevet est un incitatif : « un monopole à durée limitée » qui récompense le risque pris par l'entreprise licenciée.
+  - Les licences exclusives conviennent souvent aux start-up, car l'exclusivité justifie l'investissement ; les licences non exclusives vont plus souvent à de grandes entreprises établies.
+  - L'option est un contrat préalable qui laisse le temps de monter l'équipe, de lever des fonds et de rédiger un plan d'affaires avant la licence.
+  - Les licences contiennent des « diligences » (jalons de développement) et le MIT reprend la technologie si elle n'est pas développée.
+  - Pour les start-up, le MIT demande moins de frais initiaux et prend des parts du capital (rémunération différée) ; pas de parts pour les entreprises établies.
+  - Le retour sur investissement est lent : le portefeuille de télévision haute définition a rapporté l'essentiel de ses revenus presque vingt ans après les premiers dépôts.
+- Chiffres et faits cités :
+  - [5:44] Exercice 2021 : environ 1,8 milliard de dollars de financement de recherche ; plus de 700 déclarations d'invention (730) ; environ 358 brevets américains déposés ; plus de 400 brevets américains délivrés.
+  - [7:27] Environ 140 licences et options commerciales l'an dernier ; 20 à 30 licences à des start-up chaque année.
+  - [10:56] Partage des redevances : frais d'administration de 15 %, remboursement des frais de brevet, puis un tiers pour les inventeurs et deux tiers pour les départements, laboratoires, centres et fonds général.
+  - [13:24] Un peu plus de 20 % du financement de la recherche du campus de Cambridge vient du secteur industriel.
+  - [30:56] Des brevets sont déposés sur environ la moitié des déclarations reçues.
+  - [41:09] Sur dix ans, 62 % des licences exclusives vont à des start-up.
+  - [47:05] 25 à 30 start-up par an prennent une licence du MIT ; 21 % sont dans le logiciel et 27 % dans le matériel.
+  - [28:22] L'obtention d'un brevet peut prendre trois à quatre ans.
+  - [1:08:25] Sur environ 200 universités américaines, les revenus de licences représentent environ 3,5 % des dépenses de recherche.
+  - [18:30] Exemple de financement étranger : le programme SMART avec Singapour.
+- Exemples et cas concrets : portefeuille de télévision haute définition (trois décennies, revenus importants dix à vingt ans après les premiers brevets) ; cadre d'accès aux technologies pour la pandémie, créé avec Harvard et Stanford, rendant les technologies liées au COVID disponibles gratuitement de façon non exclusive pour la durée de la pandémie.
+- Citations :
+  - [23:27] « Quand les universités pensent aux brevets, notre but n'est pas de bloquer les autres. » (Lauren Foster)
+  - [37:45] « Souvent, la technologie venue de l'université est à un stade précoce, et il reste beaucoup de travail aux entreprises licenciées. » (Deirdre Zammit)
+  - [1:09:12] « Le but principal est de rendre la technologie disponible au public au bénéfice de la société. » (Deirdre Zammit)
+- Réutilisation HSA : module « Licence exclusive ou non exclusive : comment choisir » ; infographie du « cercle vertueux » ; webinaire sur les options, diligences et participations au capital des start-up.
+
+Transcription complète : [../transcriptions/commercialization-of-mit-technology.md](../transcriptions/commercialization-of-mit-technology.md)

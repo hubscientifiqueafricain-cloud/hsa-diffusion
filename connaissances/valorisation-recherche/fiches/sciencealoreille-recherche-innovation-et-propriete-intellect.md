@@ -1,0 +1,43 @@
+# Fiche : #ScienceÀlOreille Recherche, innovation et propriété intellectuelle en Afrique
+- Source : African Science Communication Agency (ASCA), 26 avr. 2026 (Journée mondiale de la propriété intellectuelle), https://www.youtube.com/watch?v=RHa_JVWwAxA, Afrique francophone (Côte d'Ivoire)
+- Intervenant(s) et fonction :
+  - Jean-Philippe Za (orthographe incertaine : Za, Zya ou Ze) : consultant expert en propriété intellectuelle, innovation, transfert de technologie et documentation scientifique. Consultant pour un programme de l'OMPI en faveur des pays en développement, il appuie l'Office ivoirien de la propriété intellectuelle (OIPI) sur des projets avec les universités et les lycées techniques. Secrétaire du jury du salon Abidjan Innova (Fondation Africa Innova). Enseignant vacataire dans deux universités ivoiriennes.
+  - Animateur : Emmanuel Dabo.
+- Pertinence pour le sujet : forte. C'est un entretien de vulgarisation sur la PI en contexte ivoirien et africain (OAPI, OIPI, BURIDA, points valorisation des universités). Il est directement transposable au public de HSA.
+- Idées clés :
+  - La PI désigne l'ensemble des œuvres de l'esprit matérialisées et les droits qui s'y attachent. Elle est mentionnée à l'article 27 de la Déclaration universelle des droits de l'homme. Tout ce qui nous entoure au quotidien en est le fruit.
+  - En Afrique, les plaintes du type « on m'a volé mon idée » viennent d'abord d'un manque de connaissances : la PI n'est pas ancrée dans les mœurs. Les organisations régionales et nationales multiplient toutefois les initiatives.
+  - La PI a deux branches.
+    - La propriété industrielle (brevets, marques de produits et de services, dessins et modèles, circuits intégrés, indications géographiques) exige un dépôt et le respect de conditions. Le titre est territorial : un brevet obtenu en Côte d'Ivoire vaut dans tout l'espace OAPI, mais il faut déposer ailleurs pour les autres pays.
+    - La propriété littéraire et artistique (droit d'auteur) est automatique, sans formalité, et mondiale. Pour percevoir ses droits, l'artiste s'enregistre auprès d'un organisme de gestion collective (le BURIDA en Côte d'Ivoire).
+  - Le système est coordonné au niveau mondial par l'OMPI à travers des traités, puis décliné par les organisations régionales (OAPI) et les lois nationales (en Côte d'Ivoire, une loi de 2016 a remplacé celle de 1996 en droit d'auteur).
+  - Protéger ne suffit pas : un titre non valorisé (création d'entreprise, mise sur le marché) est un investissement perdu, car la propriété industrielle a un coût. Il faut tout un écosystème.
+  - Les écosystèmes des pays industrialisés (États-Unis, Europe, Chine) sont structurés depuis des siècles. En Afrique, « le minimum existe » mais beaucoup reste à faire.
+  - L'OIPI, qui représente l'OAPI en Côte d'Ivoire, est décrit comme proactif : il sensibilise et forme avec l'appui de l'OMPI et de partenaires, accompagne les dépôts et relaie les opportunités des programmes internationaux.
+  - Les « points valorisation » des universités et centres de recherche sont les interlocuteurs de l'OIPI. Formés par l'office, ils font l'intermédiation avec les chercheurs. C'est aussi une source d'emplois pour les jeunes.
+  - Intérêt pour le chercheur : la publication permet la valorisation scientifique et l'avancement (CAMES). La valorisation économique (produits, start-ups) peut rapporter davantage, sans abandonner la carrière.
+  - Conseil aux institutions : examiner le potentiel innovant des thèses et mémoires avant les soutenances publiques. Beaucoup de résultats ont été divulgués sans analyse préalable.
+  - Les indications géographiques valorisent les produits du terroir ivoirien.
+- Chiffres et faits cités :
+  - Technologie ougandaise de conservation de la banane plantain pendant 6 mois [23:00].
+  - Journée mondiale de la PI instituée en 2000 par les États membres de l'OMPI, célébrée le 26 avril. Thème de l'année : la PI et le sport [27:10]-[28:03].
+  - Loi ivoirienne sur le droit d'auteur de 2016, qui remplace celle de 1996 [11:06].
+- Exemples et cas concrets :
+  - Un professeur ougandais (nom mal transcrit, « George Biarou Gaba »), formé en biotechnologie en Afrique du Sud et présenté comme président du conseil national de la recherche scientifique de l'Ouganda. Il a isolé les enzymes responsables du pourrissement de la banane, ce qui permet de la conserver 6 mois. Il valorise tout le bananier : vin, sirop, biogaz à partir des peaux, sacs, charbon écologique. Il a créé une fondation qui forme des start-ups et de nombreux emplois [22:08]-[24:37].
+  - Salon Abidjan Innova (créé par la Fédération des inventeurs, aujourd'hui porté par la Fondation Africa Innova).
+  - Indications géographiques ivoiriennes : l'attiéké est cité (un autre produit est mal transcrit) [18:39].
+  - BURIDA (Bureau ivoirien du droit d'auteur).
+- Citations fortes :
+  - « Aucun pays développé n'a réussi son développement en négligeant les questions de propriété intellectuelle. » [28:56]
+  - « Avoir un titre de propriété intellectuelle et s'arrêter là sans le valoriser, c'est un investissement perdu, car ce n'est pas gratuit. » [16:08]
+  - « Faites attention à toutes les thèses et à tous les mémoires soutenus dans nos universités : il y a énormément de potentiel derrière, souvent divulgué en soutenance publique sans analyse. » [25:27]
+- Utilisation possible par HSA :
+  - Module d'introduction « La PI en Côte d'Ivoire : OAPI, OIPI, BURIDA, qui fait quoi ? ».
+  - Post du 26 avril.
+  - Fiche « Avant votre soutenance de thèse : vérifiez le potentiel brevetable ».
+  - Le cas ougandais de la banane est un récit inspirant d'un chercheur entrepreneur africain.
+  - Un plaidoyer pour des « points valorisation » formés dans chaque université. HSA peut se positionner comme relais des opportunités de l'OMPI.
+  - Intervenant potentiel pour un webinaire HSA.
+- Mots-clés : définitions, propriété intellectuelle et brevets, Afrique, politique publique (Bayh-Dole, etc.), rôle du bureau de transfert, détection d'inventions, spin-offs et start-ups, carrière du chercheur
+
+Transcription complète : [../transcriptions/sciencealoreille-recherche-innovation-et-propriete-intellect.md](../transcriptions/sciencealoreille-recherche-innovation-et-propriete-intellect.md)

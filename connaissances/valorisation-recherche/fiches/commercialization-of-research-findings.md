@@ -1,0 +1,31 @@
+# Fiche : Commercialisation des résultats de la recherche (atelier Innoboost)
+- Source : RUN Innoboost, 20 nov. 2025, https://www.youtube.com/watch?v=HXYSbitrBA0, Europe (Portugal)
+- Intervenant(s) : intervenant principal prénommé Vítor (à vérifier), directeur général de Startup Leiria (incubateur et accélérateur du centre du Portugal) et professeur d'économie de l'innovation à l'institut polytechnique de Leiria, cofondateur de deux sociétés dont une spin-off ; participants doctorants en génie civil et sciences sociales.
+- Pertinence : forte – Atelier pédagogique complet : pourquoi commercialiser, licence ou spin-off, brevet, financement, équipe, avec des cas européens.
+- Idées clés :
+  - Les chercheurs sont motivés par la nouveauté et les publications ; les évaluations de carrière en Europe valorisent rarement le transfert de technologie, à la différence des États-Unis.
+  - Il faut garder la recherche fondamentale mais améliorer le développement appliqué et le transfert, souvent faible en Europe faute de bureaux efficaces et de marché unifié.
+  - Raisons de commercialiser : impact concret (un système de filtration qui apporte de l'eau potable à 10 000 personnes compte plus qu'un indice h), emplois qualifiés, rétention des talents, effet d'agglomération.
+  - Le transfert génère un cercle vertueux : des redevances réinvesties dans la recherche (exemple du Gatorade, né à l'université de Floride).
+  - Entre un résultat de laboratoire et un produit, il y a une vallée de la mort ; il faut monter le niveau de maturité technologique et tester le passage à l'échelle industrielle.
+  - Quatre voies : licence, spin-off, recherche sous contrat, coentreprise ; pas de bonne réponse unique.
+  - Matrice de choix : beaucoup de partenaires et peu de rupture, licencier ; peu de partenaires et forte rupture, créer une spin-off ; mixte, coentreprise.
+  - Ne pas publier avant de breveter : toute divulgation publique détruit la nouveauté ; séquence correcte : contacter le bureau de transfert, déposer, attendre confirmation, puis publier.
+  - Un dépôt provisoire de brevet coûte 40 euros au Portugal et donne du temps pour finaliser.
+  - Licence : l'université garde la propriété, le preneur exploite ; prévoir des paiements par jalons, des redevances, des clauses anti-mise au placard, et licencier même à faible redevance plutôt que laisser des brevets dormir.
+  - Spin-off : plus de contrôle et de gains potentiels, mais risque élevé ; elle exige du brevet pour lever des fonds en technologie profonde.
+  - Le capital « patient » est indispensable pour les technologies à long cycle de vente ; les universités peuvent co-créer des fonds.
+  - Le fondateur chercheur doit souvent quitter le poste de professeur ; équipe idéale de trois profils (technicien, vendeur, designer) ; un CEO externe peut être nécessaire.
+  - Les spin-offs universitaires sont décrites comme souvent meilleures que les start-up classiques (rigueur, expertise, problèmes difficiles).
+- Chiffres et faits cités :
+  - [0:54] Environ 180 sociétés dans l'écosystème de l'incubateur.
+  - [1:01:05] Dépôt provisoire de brevet à 40 euros (Portugal).
+  - [1:27:43] Répartition des gains de l'institut polytechnique pour un chercheur qui développe la technologie : 55 % pour le chercheur et 45 % pour l'université ; ailleurs, souvent 50/50.
+  - [1:04:41] Une licence portugaise par étapes pourrait atteindre jusqu'à un milliard d'euros (à vérifier).
+- Exemples et cas concrets : bioplastique issu d'algues empêchant les brûlures de givre sur produits surgelés (passage à l'échelle à tester) ; Gatorade ; PageRank licencié contre des actions de Google ; logiciel de sons 3D pour le cinéma issu d'un chercheur ; capteurs pour éoliennes financés par du capital patient puis rachetés par un industriel.
+- Citations :
+  - [28:08] « Un article de filtration d'eau améliore l'indice h ; un système de filtration qui apporte de l'eau potable à 10 000 personnes change des vies. » (intervenant, reformulé)
+  - [1:50:34] « Les start-up qui réussissent partent du problème du marché, pas de leur technologie. » (intervenant, reformulé)
+- Réutilisation HSA : module « licence ou spin-off : matrice de choix » ; post sur le brevet provisoire peu coûteux ; webinaire sur la gestion du temps entre carrière académique et start-up.
+
+Transcription complète : [../transcriptions/commercialization-of-research-findings.md](../transcriptions/commercialization-of-research-findings.md)

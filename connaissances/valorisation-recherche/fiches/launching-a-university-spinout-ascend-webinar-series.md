@@ -1,0 +1,36 @@
+# Fiche : Lancer une spin-out universitaire (série de webinaires ASCEND)
+- Source : ASCEND Hub, 1 avr. 2022, https://www.youtube.com/watch?v=sAZ0Be57rpg, États-Unis (Nevada)
+- Intervenant(s) : Dr Grace Cho (nom transcrit, à vérifier), directrice de l'innovation et de la commercialisation à l'Université du Nevada à Reno, responsable du centre d'innovation du centre-ville de Reno ; deux animateurs (dont un prénommé Michael)
+- Pertinence : forte – guide complet du lancement d'une spin-out : choix licence ou spin-out, cofondateur, structure juridique, capital, licence, brevets, écosystème.
+- Idées clés :
+  - Deux voies pour amener une technologie au marché : la licence à une entreprise existante (idéale quand elle a déjà infrastructure, clients et canaux) ou la spin-out (plus de travail, plus de risque, rendement potentiellement supérieur).
+  - Licence exclusive (attention à bien choisir le partenaire, qui « verrouille » les droits) ou non exclusive (pour une technologie à diffuser largement comme standard).
+  - Critères pour choisir la spin-out : technologie de rupture, portefeuille de brevets solide, capacité à lever des fonds (les investisseurs cherchent 5 à 10 fois la mise), efficacité en capital, chercheur entrepreneurial, soutien interne.
+  - La plupart des spin-outs universitaires sont « poussées par la technologie » (de l'intérieur) ; le modèle « tiré par le marché » (de l'extérieur) est plus rare.
+  - Un cofondateur-dirigeant non universitaire est indispensable : il négocie la licence (le chercheur ne doit pas négocier avec sa propre université, pour éviter un conflit d'intérêts) et gère l'entreprise.
+  - Critères pour évaluer un dirigeant : expérience de start-up, levée de fonds, constitution d'équipe, mise sur le marché, sorties réussies, connaissance du secteur (par exemple la réglementation FDA pour les dispositifs médicaux).
+  - Structure : une société de type « C corporation » du Delaware permet d'émettre des actions et de lever du capital, contrairement à la société à responsabilité limitée (LLC).
+  - Partage du capital entre fondateurs avec un calendrier d'acquisition (« vesting ») identique pour tous (par exemple quatre ans avec un an de « cliff »).
+  - Participation de l'université souvent de 5 à 10 % ; plan d'options de 10 à 20 % pour attirer des talents ; le tableau de capital doit être tenu à jour.
+  - Conseil d'administration et comité scientifique consultatif sont essentiels, surtout en biotechnologie.
+  - Conflits d'intérêts : l'université et l'entreprise sont deux entités juridiques distinctes ; échanges sous accord de confidentialité, transferts de matériel sous accord de transfert de matériel (MTA).
+  - Le brevet est un droit d'exclure et non un droit d'exploiter : d'où l'importance de la liberté d'exploitation (FTO), à réaliser avec des avocats quand le produit est proche du marché.
+  - Écosystème : compétences (« minds »), management, marché et argent ; et un accès à des services (avocats, comptables) et à des capitaux en région.
+  - Principal obstacle des technologies universitaires : trop précoces ; il faut les « dérisquer » (subventions SBIR/STTR, fonds internes de recherche translationnelle) avant l'industrie.
+- Chiffres et faits cités :
+  - [5:04] Les investisseurs en capital-risque attendent des gagnants un rendement de 5 à 10 fois pour compenser les échecs.
+  - [8:29] Selon l'intervenante, 9 start-ups sur 10 échouent (transcription approximative, à vérifier).
+  - [20:21] L'université reçoit généralement 5 à 10 % des actions en échange de la licence.
+  - [21:17] Plan d'options pour les salariés : 10 à 20 %.
+  - [19:30] Calendrier d'acquisition courant : 4 ans avec un « cliff » d'un an (25 % acquis après un an).
+  - [23:02] Exemple : valorisation avant investissement de 5 millions pour une levée de 5 millions donne 50 % à l'investisseur.
+  - [41:51] Partage entre chercheur et cofondateur-dirigeant observé : 50/50 ou 40/60.
+  - [33:14] Un brevet dure 20 ans à partir du dépôt et ne vaut que dans le pays où il est déposé.
+- Exemples et cas concrets : licence d'un capteur à une entreprise du secteur de la construction ; brevet d'ADN recombinant de Stanford, qui a lancé l'industrie biotech ; un dirigeant parti sans calendrier d'acquisition, que l'entreprise a dû racheter ; une entreprise de lunettes ayant réalisé un petit essai clinique avec d'autres départements ; une entreprise du Delaware domiciliée au Nevada et éligible aux aides locales.
+- Citations :
+  - [13:30] « Les investisseurs en capital-risque investissent dans des personnes, pas dans une technologie. » (Grace Cho, reformulé)
+  - [27:17] « Un mélange de propriété intellectuelle dont la propriété n'est pas claire ne sert ni l'université ni l'entreprise. » (Grace Cho, reformulé)
+  - [50:25] « Le plus grand défi des technologies universitaires, c'est qu'elles sont trop précoces : il faut les dérisquer. » (Grace Cho, reformulé)
+- Réutilisation HSA : module de cours en plusieurs séances (choix licence ou spin-out, équipe, capital, licence) ; checklist « Avant de créer sa spin-out » ; webinaire « Trouver le bon dirigeant pour une spin-out universitaire ».
+
+Transcription complète : [../transcriptions/launching-a-university-spinout-ascend-webinar-series.md](../transcriptions/launching-a-university-spinout-ascend-webinar-series.md)

@@ -1,0 +1,36 @@
+# Fiche : Transfert de technologie et propriété intellectuelle
+- Source : OSU Center for Clinical and Translational Science, 6 déc. 2017, https://www.youtube.com/watch?v=HKAvhkDKxNQ, États-Unis (Ohio)
+- Intervenant(s) : un responsable de la propriété intellectuelle et de la commercialisation des technologies de l'Ohio State University (nom non identifié) ; Cheryl Turnbull (directrice principale des nouvelles entreprises) est annoncée pour la suite de la séance
+- Pertinence : forte – un praticien d'un grand bureau universitaire explique comment fonctionne le transfert de technologie, ses chiffres réels et pourquoi les start-ups sont la voie principale d'impact.
+- Idées clés :
+  - La valeur des grandes entreprises repose de plus en plus sur des actifs incorporels (brevets, marques, logiciels, savoir-faire) : la propriété intellectuelle est donc un enjeu économique central.
+  - La loi Bayh-Dole (1980) a donné aux universités la propriété des résultats issus de recherches financées par l'État fédéral, ce qui a fait naître le métier de transfert de technologie.
+  - Le bureau reçoit souvent une « solution » (l'invention) et doit ensuite chercher le problème de marché auquel elle répond : il faut inverser ce réflexe en présentant tôt les défis commerciaux aux chercheurs.
+  - Le processus se découpe en étapes : rencontre des chercheurs, évaluation (technologie, paysage de propriété intellectuelle, marché), protection, marketing ciblé, négociation, licence ou création d'entreprise.
+  - La protection par brevet est un arbitrage coûts-avantages, avec une stratégie internationale et un budget limité.
+  - Le bureau suit des indicateurs d'entrée (rencontres avec les chercheurs, pipeline) et de résultat (déclarations d'invention) pour repérer les points faibles de son processus.
+  - Très peu d'inventions rapportent beaucoup : les licences à plus de 100 millions de dollars par an reposent presque toujours sur un seul médicament à succès.
+  - Les revenus de licences ne suffisent pas à rentabiliser un bureau : l'impact vient surtout des start-ups, qui réduisent le risque technologique avant l'intérêt des industriels.
+  - Il existe une « vallée de la mort » entre la recherche et l'investissement privé, que comblent des fonds d'amorçage et des programmes comme le SBIR/STTR.
+  - Les étudiants de premier cycle ne cèdent aucun droit ; les doctorants sont traités comme des chercheurs et ont une part dans l'invention (environ un tiers des revenus pour les inventeurs, d'après la transcription).
+- Chiffres et faits cités :
+  - [4:05] Les actifs incorporels représentent 84 % de la capitalisation du S&P 500, qui a dépassé 20 000 milliards de dollars.
+  - [8:12] IBM a lancé son activité de licences de brevets avec quatre personnes et en tire 1,4 à 1,8 milliard de dollars par an.
+  - [7:23] 80 % des bénéfices de Qualcomm en 2013 venaient des seules licences de brevets (à vérifier, transcription déformée).
+  - [13:08] Étude 1996-2013 : 518 milliards de dollars d'effet sur le PIB américain des technologies universitaires ; 3,8 millions d'emplois créés ; plus de 8 000 start-ups aujourd'hui contre environ 5 000 à l'époque de l'étude.
+  - [13:57] 153 nouveaux médicaments et vaccins sur le marché grâce à la recherche universitaire.
+  - [14:46] Plus de 80 % des produits pharmaceutiques approuvés sur une décennie provenaient des universités (étude d'Ashley Stevens, Université de Boston).
+  - [15:35] 28 milliards de dollars de chiffre d'affaires net issus de la propriété intellectuelle universitaire en 2014.
+  - [20:30] L'Ohio State dépense environ 4 millions de dollars par an en brevets et a reçu 451 nouvelles inventions l'année précédente.
+  - [27:05] Seulement 0,1 % des inventions universitaires déclarées dépassent 1 million de dollars de revenus cumulés ; Stanford atteint 0,8 %.
+  - [31:17] Taux de redevance moyen de 1 % à 2 % : pour couvrir 10 millions de dollars investis, il faudrait des milliards de chiffre d'affaires issus de la propriété intellectuelle.
+  - [33:45] L'université a placé 100 millions de dollars dans huit fonds de start-ups ; 69 start-ups actives ont attiré 143 millions de dollars, dont 91 % d'investisseurs externes.
+  - [41:42] Le programme SBIR représente environ 2,5 milliards de dollars par an ; en règle générale, deux tiers vont à l'entreprise et un tiers à l'université (la répartition s'inverse en STTR).
+- Exemples et cas concrets : programme de cadres en résidence (une quinzaine d'experts de l'industrie qui aident à commercialiser, parfois comme dirigeants de start-up) ; programme Advance Reach pour les femmes inventrices ; futur portail Buckeye Tech Smart pour les contenus protégés par le droit d'auteur ; contrats standardisés pour les start-ups logicielles de professeurs.
+- Citations :
+  - [8:12] « L'important, c'est l'impact. C'est le rôle du transfert de technologie et de la commercialisation. » (l'intervenant)
+  - [28:47] « On ne peut pas compter sur un succès accidentel : il faut une approche de portefeuille rigoureuse. » (l'intervenant, reformulé)
+  - [34:36] « Commercialiser des technologies est un processus long et difficile qui exige une approche rigoureuse. » (l'intervenant)
+- Réutilisation HSA : module de cours « Comment fonctionne un bureau de transfert de technologie, étape par étape » ; post de réseau sur la vallée de la mort et les fonds d'amorçage ; webinaire sur le partage des revenus entre inventeurs, laboratoire et université.
+
+Transcription complète : [../transcriptions/technology-transfer-and-intellectual-property.md](../transcriptions/technology-transfer-and-intellectual-property.md)

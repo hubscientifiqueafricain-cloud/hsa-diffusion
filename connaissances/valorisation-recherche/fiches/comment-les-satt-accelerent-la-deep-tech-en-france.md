@@ -1,0 +1,32 @@
+# Fiche : Comment les SATT accélèrent la deep tech en France ?
+- Source : Dynergie (podcast enregistré à Deeptech Connect, au 104, Paris), 14 déc. 2025, https://www.youtube.com/watch?v=0LwtiPO7kOs, France
+- Intervenant(s) : la présidente d'Aquitaine Science Transfert (SATT couvrant les campus de La Rochelle, Bordeaux et Pau) et présidente du Réseau SATT (prénom mal reconnu par la transcription) ; Philippe B. (président de la SATT Lutech, couvrant l'Alliance Sorbonne Université ; ancien directeur R&D/stratégie en entreprise).
+- Pertinence : forte – présentation claire du modèle SATT (mission, place dans la chaîne, financement, prises de participation, résultats chiffrés).
+- Idées clés :
+  - Les SATT (Sociétés d'accélération du transfert de technologies) ont été créées par l'État pour accélérer et « dérisquer » les résultats de la recherche publique afin qu'ils créent des barrières concurrentielles pour des entreprises existantes ou des start-ups. Ce sont des SAS externalisées ; il existe aussi des « SATT expérimentales » (consortiums sans structure juridique propre) qui font le même métier.
+  - Métier : détection, propriété intellectuelle, maturation technique et maturation marché, puis transfert (licence) ; elles apportent « la dernière brique » avant la sortie du campus. Elles mobilisent des expertises en PI, en feuilles de route technologiques, en proposition de valeur et en juridique.
+  - La proximité avec les laboratoires est une condition sine qua non : détecter, dialoguer, bien protéger, traverser ensemble les hauts et les bas d'un projet long ; la proximité crée la confiance.
+  - Le bon réflexe s'installe : le chercheur appelle la SATT avant de publier. Dialogue à trois très en amont (inventeur, service de valorisation de l'université, SATT), « synchronisé » plutôt que séquentiel, pour mobiliser les bonnes ressources au bon moment.
+  - Articulation avec les PUI (Pôles universitaires d'innovation) : chaque SATT intervient sur un à trois PUI ; le PUI est une politique d'autonomie accrue des universités en innovation ; la SATT y est un « must have ». Les SATT peuvent aussi sensibiliser à la PI ou faciliter la recherche partenariale.
+  - Spécialisations territoriales : chaque site choisit des thématiques liées à son histoire et à son écosystème ; la spécialisation crée de l'attractivité ; les équipes du réseau mobilisent leurs contacts nationaux et internationaux.
+  - Interdisciplinarité : les SHS apportent les facteurs d'acceptabilité et d'adoption, par exemple dans les projets d'IA.
+  - Modèle économique : mission de service public financée par le ministère de la Recherche et France 2030 (opéré par l'ANR) ; recettes de marché via les redevances de licences (start-ups et grands industriels) ; prises de participation dans les start-ups par conversion de créance (pas d'apport en numéraire) ; revenus exceptionnels lors des sorties (exits). Gouvernance : comité d'investissement indépendant qui valide maturations et prises de participation, puis conseil d'administration.
+  - Rôle d'influence : auditions par l'Assemblée nationale, le Sénat, la Cour des comptes ; dialogue avec France Universités, UDICE, le CNRS.
+  - Trois chantiers pour 5 ans : interaction avec les écosystèmes (PUI), mutualisation et économies d'échelle au sein du réseau, dimension européenne et internationale (brevets déposés presque toujours avec protection internationale, start-ups préparées pour l'international).
+- Chiffres et faits cités :
+  - [0:55] Le Réseau SATT coordonne 13 SATT.
+  - [4:25] Deeptech Connect (3e édition) : plus de 400 investisseurs et industriels, 1 600 rendez-vous organisés sur 6 000 demandes.
+  - [6:04] Environ 12 000 à 13 000 détections (inventions) depuis la création, en environ 12 ans d'existence.
+  - [6:56] Plus de 2 000 transferts ; près de 50 % sous forme de start-ups, soit environ 1 000 start-ups (900 fin 2024).
+  - [6:56]-[7:49] Environ 60 % des transferts se font sur les territoires ; une vingtaine de transferts à l'international.
+  - [7:49] Les start-ups issues des SATT ont levé environ 2 milliards d'euros (chiffre cité pour 2024) ; certaines rachetées par des grands groupes français ou européens.
+  - [25:49] SATT Lutech : une douzaine de prises de participation en une douzaine d'années.
+- Exemples et cas concrets : Alice & Bob (quantique, accompagné par une SATT) ; TreeFrog Therapeutics (Bordeaux, bioproduction de cellules, en lien avec la stratégie nationale d'accélération sur la bioproduction) ; Pasqal (quantique, Paris) ; thématiques de site : La Rochelle (ville côtière durable), Pau (énergie et environnement), ouest parisien (ville durable) ; Sorbonne Université (humanités, santé avec la Pitié-Salpêtrière, sciences et ingénierie, Muséum national d'histoire naturelle) ; délégation coréenne à l'événement.
+- Citations :
+  - [10:25] « La recherche est dans les territoires : être implanté à proximité des laboratoires est une grande force, c'est même une condition sine qua non. »
+  - [19:49] « Le réflexe est installé : un chercheur qui s'apprête à publier une idée appelle d'abord la SATT. »
+  - [21:35] « La SATT avec les PUI, ce n'est pas un "nice to have", c'est un "must have". »
+- Utilisation possible par HSA : étude de cas « le modèle SATT » pour inspirer des structures de maturation mutualisées en Afrique de l'Ouest ; module « Financer un bureau de transfert : public, redevances, participations » ; post chiffré « 13 000 inventions, 2 000 transferts, 1 000 start-ups en 12 ans » ; argument pour la proximité terrain et la spécialisation thématique des campus africains ; idée d'un événement de mise en relation start-ups / investisseurs / industriels sur le modèle de Deeptech Connect.
+- Mots-clés : rôle du bureau de transfert, détection d'inventions, propriété intellectuelle et brevets, licences, spin-offs et start-ups, financement et maturation, politique publique, SHS et impact
+
+Transcription complète : [../transcriptions/comment-les-satt-accelerent-la-deep-tech-en-france.md](../transcriptions/comment-les-satt-accelerent-la-deep-tech-en-france.md)

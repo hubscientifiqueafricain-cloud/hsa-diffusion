@@ -1,0 +1,34 @@
+# Fiche : Forty Years of Technology Transfer Under the Bayh-Dole Act and What May Come Next
+- Source : Venable LLP, 8 avril 2020, https://www.youtube.com/watch?v=qjWa5iVfsSE, États-Unis (webinaire juridique, 58 min, texte original anglais, audio dégradé par moments)
+- Intervenant(s) et fonction : avocats du cabinet Venable LLP (pôle marchés publics et subventions) : Liz (nom mal transcrit), modératrice ; Spencer Williams (historique et débats actuels) ; Chris Griesedieck (mécanique de la loi et obligations).
+- Pertinence pour le sujet : forte – exposé détaillé des mécanismes de la loi Bayh-Dole, référence mondiale des politiques de PI sur la recherche publique ; utile pour concevoir une politique nationale ou universitaire.
+- Idées clés :
+  - Contexte des années 1970 : les agences fédérales détenaient environ 28 000 brevets, dont moins de 5 % licenciés, avec 26 politiques différentes ; Bayh-Dole (Patent and Trademark Law Amendments Act, 1980) permet aux bénéficiaires (universités, organismes, puis toute entité financée) de conserver la propriété des inventions issues de la recherche fédérale.
+  - Bilan avancé : plus de 1 000 milliards $ de production économique, de nombreux emplois, des industries entières (biotechnologie) ; essor des TTO dans les universités.
+  - Mise en œuvre par une clause standard insérée dans chaque accord de financement (37 CFR 401) : lire l'accord, car la clause peut être modifiée.
+  - « Subject invention » : invention conçue ou réduite à la pratique pour la première fois dans le cadre du travail financé ; un équipement acheté sur fonds fédéraux mais utilisé hors projet ne rend pas l'invention « fédérale ».
+  - Droits partagés : le bénéficiaire détient la propriété mondiale ; l'État obtient une licence non exclusive, irrévocable et gratuite pour ses propres besoins.
+  - Obligations : déclarer chaque invention à l'agence dans les 2 mois suivant la déclaration interne écrite ; contrats imposant aux employés de déclarer et céder leurs inventions ; prévenir 60 jours avant tout abandon de demande de brevet ; mentionner les droits de l'État dans le brevet (obligation souvent oubliée) ; répercuter la clause aux sous-traitants ; rapports annuels d'exploitation.
+  - On peut perdre la propriété par simple inaction : non-déclaration dans les délais, absence d'élection du titre, dépôt tardif ; l'État peut alors demander le titre (sans y être obligé).
+  - Délais : élire le titre dans les 2 ans suivant la déclaration (raccourcissable par l'agence) ; déposer dans l'année suivant l'élection ; demande non provisoire dans les 10 mois après une demande provisoire.
+  - « March-in rights » : l'État peut imposer des licences à des tiers en cas d'absence d'application pratique, de besoins de santé ou de sécurité, d'usage public ou de non-respect de la préférence industrielle américaine ; jamais utilisés à ce jour pour faire baisser le prix des médicaments (le NIH a rejeté toutes les pétitions).
+  - Règles spécifiques aux organismes sans but lucratif : cession seulement à une structure de gestion des inventions (ex. fondation universitaire) ; préférence aux petites entreprises ; partage obligatoire des redevances avec les inventeurs ; revenus nets affectés à la recherche et à l'enseignement.
+  - Préférence de fabrication aux États-Unis pour les licences exclusives (dérogation possible).
+  - Recommandations : mettre en place un système de conformité, marquer comme confidentielles les informations transmises, connaître les voies de recours (contestations et appels prévus par les règlements).
+  - Critiques : universités accusées de s'allier à des « patent trolls » (réponse : document « Nine Points to Consider » sur les licences, plus de 100 signataires) ; débat sur l'usage des march-in rights pour le prix des médicaments, relancé par la pandémie de COVID-19.
+- Chiffres et faits cités :
+  - [0:53] 40e anniversaire de la loi en 2020 ; sénateurs Birch Bayh et Bob Dole.
+  - [1:51] Années 1970 : environ 28 000 brevets fédéraux, moins de 5 % licenciés, 26 politiques d'agences différentes.
+  - [2:45] Plus de 1 000 milliards $ de production économique attribués à la loi (selon diverses sources).
+  - [8:50] Déclaration à l'agence dans les 2 mois ; [10:35] avis 60 jours avant abandon ; [31:35] élection du titre dans les 2 ans ; [34:09] délai de 60 jours avant la fin de la période d'un an (auparavant 30 jours) ; [35:00] 10 mois entre dépôt provisoire et non provisoire.
+  - [42:03] « Nine Points to Consider » : 11 rédacteurs initiaux, plus de 100 signataires.
+  - [43:48] Lettre de membres du Congrès en 2016 au NIH demandant l'usage des march-in rights ; [45:32] réponse du NIH de 2004 rejetant cet usage pour les prix.
+- Exemples et cas concrets : Google (algorithme de recherche développé à Stanford et licencié) ; biotechnologie comme industrie née de Bayh-Dole ; rapport du Congressional Research Service sur le COVID-19 évoquant les march-in rights pour raisons de santé.
+- Citations fortes :
+  - [18:29] « Vous pouvez perdre la propriété d'une invention par simple inaction, si vous ne respectez pas les délais de déclaration, d'élection et de dépôt. »
+  - [3:40] « Des industries entières, comme la biotechnologie, n'existeraient pas sans la loi Bayh-Dole. »
+  - [51:54] « La question est de savoir si le balancier n'est pas allé trop loin, avec une industrie privée qui développe pour son usage une PI financée par le contribuable : il faut trouver un point d'équilibre. »
+- Utilisation possible par HSA : module « Bayh-Dole : le modèle qui a inspiré le monde » avec transposition aux pays africains (propriété des inventions financées sur fonds publics, partage des revenus, obligation de déclaration) ; fiche « obligations et délais » comme modèle de politique de PI universitaire ; post « Pourquoi 95 % des brevets publics dormaient avant 1980 » ; argument pour des lois nationales en Côte d'Ivoire et dans l'espace OAPI ; débat éthique (prix des médicaments, march-in) pour une masterclass.
+- Mots-clés : politique publique (Bayh-Dole, etc.), propriété intellectuelle et brevets, licences, rôle du bureau de transfert, définitions.
+
+Transcription complète : [../transcriptions/forty-years-of-technology-transfer-under-the-bayh-dole-act-a.md](../transcriptions/forty-years-of-technology-transfer-under-the-bayh-dole-act-a.md)

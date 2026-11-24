@@ -1,0 +1,31 @@
+# Fiche : Cours 1.7.4 : propriété intellectuelle et transfert de technologie (master en robotique médicale)
+- Source : Universal Digital Health, 16 novembre 2026, https://www.youtube.com/watch?v=dpGKvBrhbwY, États-Unis et Europe (cadre juridique américain et européen)
+- Intervenant(s) : enseignant non identifié (cours magistral du module « méthodes de recherche, biostatistique et communication »)
+- Pertinence : forte – Un cours structuré pour des étudiants ingénieurs : brevets, liberté d'exploitation, divulgation publique, rôle du bureau de transfert, licences et secret d'affaires.
+- Idées clés :
+  - Un brevet est un droit d'exclure les autres, pas un droit d'exploiter sa propre invention : on peut détenir un brevet valable et être bloqué par le brevet d'un tiers.
+  - Le brevet est territorial et limité dans le temps : environ 20 ans à partir du premier dépôt pour un brevet d'utilité, 15 ans à partir de l'octroi pour un brevet de dessin.
+  - Quatre conditions à remplir : objet brevetable, nouveauté, non-évidence, description suffisante.
+  - Le dépôt provisoire fixe une date de priorité pour 12 mois ; il faut le rédiger comme une vraie demande, et le convertir à temps.
+  - Une recherche de brevetabilité (peut-on breveter ?) diffère d'une analyse de liberté d'exploitation (peut-on vendre ?).
+  - La liberté d'exploitation se fait en cinq temps : définir, rechercher, comparer élément par élément, obtenir un avis du conseil, agir (contourner, négocier, contester, accepter le risque).
+  - Aux États-Unis, un délai de grâce de 12 mois suit la divulgation de l'inventeur ; en Europe, aucun : toute divulgation avant dépôt détruit la nouveauté.
+  - Six pièges de divulgation : conférences et posters, thèses, préimpressions et soumissions, registres d'essais cliniques, résumés de subventions et démonstrations sans accord de confidentialité, présentations informelles.
+  - Quatre habitudes : déposer d'abord, signer des accords de confidentialité, suivre le calendrier, prévenir tôt le bureau de transfert.
+  - Le bureau de transfert remplit six fonctions : évaluer, protéger, promouvoir, négocier, répartir les revenus, respecter les règles des financeurs.
+  - Trois modèles de licence (exclusive, non exclusive, par champ d'application) et cinq mécanismes financiers (paiement initial, redevance, jalons, participation au capital, redevance minimale).
+  - Quand préférer le secret d'affaires : si l'invention est difficile à reconstituer à partir du produit, qu'elle n'a pas à être divulguée à un régulateur, qu'on n'aura pas à la licencier ni à la faire respecter, et si l'on sait garder le secret.
+- Chiffres et faits cités :
+  - [4:18] Plus de 500 brevets autour du système chirurgical da Vinci (ordre de grandeur donné par l'enseignant).
+  - [5:08] Délai de grâce de 12 mois aux États-Unis ; aucun en Europe.
+  - [24:47] Cas d'étude : Intuitive Surgical contre Computer Motion ; poursuites pour neuf brevets en 2000 ; environ trois ans de litiges ; fusion des deux sociétés en 2003 (26:31).
+  - [37:38] Une licence exclusive est généralement exigée par les investisseurs en capital-risque pour financer une start-up de dispositifs médicaux.
+  - [40:17] Intuitive a d'abord obtenu des licences de brevets fondamentaux de SRI International, d'IBM et du MIT.
+- Exemples et cas concrets : litige Intuitive/Computer Motion et fusion ; Stryker et l'acquisition de Mako ; CMR Surgical contraint de contourner les brevets existants ; exemple d'un doctorant ayant une démonstration prévue dans six semaines (conseil : déposer d'abord un provisoire).
+- Citations :
+  - [6:01] « Un brevet est un droit d'exclure les autres : ce n'est pas un droit de pratiquer sa propre invention. » (l'enseignant)
+  - [32:31] « Traitez chaque public externe comme un risque de divulgation tant qu'un dépôt n'a pas été reçu. » (l'enseignant)
+  - [35:55] « L'action la plus rentable est l'étape zéro : informer le bureau de transfert avant quiconque. » (l'enseignant)
+- Réutilisation HSA : (1) module de cours sur les pièges de la divulgation publique, adapté à la thèse et aux conférences ; (2) fiche pratique « brevetabilité ou liberté d'exploitation » ; (3) post sur le choix entre brevet et secret d'affaires.
+
+Transcription complète : [../transcriptions/lecture-1-7-4-intellectual-property-technology-transfer-mast.md](../transcriptions/lecture-1-7-4-intellectual-property-technology-transfer-mast.md)

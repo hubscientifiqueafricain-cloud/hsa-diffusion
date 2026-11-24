@@ -1,0 +1,36 @@
+# Fiche : University Spinouts and Deep Tech Investing | Marc Singer | Osage University Partners (OUP)
+- Source : Lab to Market Leadership (podcast Deep Tech Leaders), 21 novembre 2024, https://www.youtube.com/watch?v=He83ki5TlP4, États-Unis (entretien, 52 min, texte original anglais)
+- Intervenant(s) et fonction : Marc Singer, managing partner d'Osage University Partners (OUP), fonds de capital-risque spécialisé dans les spin-offs universitaires, plus de 30 ans dans le capital-risque ; Chris Reichhelm, fondateur et PDG de Deep Tech Leaders (animateur).
+- Pertinence pour le sujet : forte – regard d'investisseur sur ce qui fait réussir ou échouer une spin-off universitaire ; très utile pour le module création d'entreprise.
+- Idées clés :
+  - Origine d'OUP : les universités détenaient 30 à 60 participations au capital de leurs spin-offs, avec des droits de réinvestissement (follow-on) qu'elles n'exerçaient pas ; OUP s'associe aux universités pour exercer ces droits (modèle gagnant-gagnant).
+  - Sélection des universités comme on évalue un fonds de capital-risque : budget de recherche, nombre de start-ups, levées de fonds, qualité des investisseurs, sorties (exits).
+  - Les universités investissent aujourd'hui bien au-delà du transfert de technologie classique : entrepreneuriat, accélérateurs.
+  - Entrer en relation très tôt (au moment où l'on pense créer l'entreprise) pour suivre les équipes dans la durée, avant d'investir ; aider aussi en connectant à d'autres investisseurs, clients, partenaires.
+  - Facteur n° 1 de réussite : l'équipe (actuelle et future), car presque toutes les start-ups pivotent et la qualité du pivot dépend de l'équipe.
+  - Santé : le succès dépend d'abord de la faisabilité scientifique (le médicament fonctionne-t-il, toxicité ?) et du choix du candidat principal issu d'une plateforme.
+  - Technologies physiques : les spin-offs universitaires font le chemin « à l'envers » (technologie d'abord, problème ensuite) ; la difficulté majeure est de traduire la technologie en produit pour un vrai problème de marché, souvent avec des entrepreneurs extérieurs.
+  - Erreur classique : vouloir exploiter toutes les applications d'une plateforme à la fois – ces entreprises ont « presque toujours échoué » ; il faut choisir tôt une seule application.
+  - Critères d'évaluation des dirigeants : performance passée dans leur domaine, jugement stratégique (produit, marché), capacité à recruter une équipe et des conseillers meilleurs qu'eux, humilité et écoute.
+  - Les professeurs installés depuis 20 ans font en moyenne de mauvais PDG (vitesse de décision, culture académique) ; mieux vaut qu'ils soient conseillers ou CTO ; les doctorants et postdoctorants bien choisis peuvent être d'excellents PDG.
+  - Profil gagnant : « profondément humble et profondément intense » – s'entoure bien, travaille à vitesse entrepreneuriale, privilégie le succès du produit sur l'argent.
+  - Chercher des signaux de validation précoces pour les technologies lourdes en capital (climat) ; un ou deux « champions » dans une grande entreprise sont nécessaires mais pas suffisants.
+  - Cycles du marché : les ignorer pour construire produit et équipe, mais profiter des bonnes périodes pour lever des fonds ou vendre ; on peut créer une entreprise en période difficile.
+- Chiffres et faits cités :
+  - [3:17] En 1993, le capital-risque américain levait 4 milliards $ ; environ 7 ans plus tard, 100 milliards $.
+  - [5:42] Travaux préparatoires d'OUP dès fin 2007 ; [6:30] test avec 5 universités (Penn, University of Florida, Duke, Caltech, Yale) en 2009-2010 sur fonds propres ; [7:23] premier fonds bouclé en 2011.
+  - [10:47] Plus de 100 universités partenaires (États-Unis, Canada, Royaume-Uni, Israël, Singapour) ; 29 des 30 premières universités américaines par dépenses de recherche ; 4 fonds ; plus de 150 entreprises en portefeuille ; plus de 30 sorties (introductions en bourse et rachats) ; 40 à 50 entreprises par fonds.
+  - [12:22] Dans 20 % des cas, l'entreprise n'est pas encore immatriculée au premier contact ; [14:03] investissements : environ 20 % en amorçage, 40 % en série A, 40 % en séries B, C, D.
+  - [14:53] Objectif : tripler l'argent des investisseurs (LP), avec quelques succès à 10 fois ou plus (loi de puissance).
+  - [18:06] Biotech : sorties possibles après un essai de phase IIb ; 6 ou 7 entreprises du portefeuille ont obtenu l'autorisation d'un médicament.
+  - [19:47] Plus de la moitié des biotechs américaines ayant levé des fonds significatifs sont des spin-offs universitaires (analyse OUP).
+  - [37:25] Dans le portefeuille sciences physiques, les PDG issus du doctorat ou du postdoctorat ont surperformé les entrepreneurs en série et les dirigeants venus de l'industrie (avec un biais de sélection reconnu).
+- Exemples et cas concrets : IonQ (informatique quantique, cotée) ; Menlo Security et Corelight (cybersécurité) ; vague des cleantech des années 2000 dont presque toutes ont échoué ; universités partenaires (Penn, Duke, Caltech, Yale, University of Florida).
+- Citations fortes :
+  - [23:08] « Même si nous investissons dans des entreprises deep tech fondées sur une recherche exceptionnelle, l'équipe reste le facteur numéro un. »
+  - [27:19] « Les spin-offs universitaires font le chemin à l'envers : elles développent une technologie de rupture, puis cherchent quel problème résoudre. Traduire la technologie en produit est le défi le plus difficile. »
+  - [29:51] « Vous ne pouvez pas tout faire : mieux vaut choisir une seule chose et réunir toute l'expertise pour la réussir. »
+- Utilisation possible par HSA : module « Créer une spin-off : ce que regardent les investisseurs » ; post « Professeur ou doctorant : qui doit être PDG de la spin-off ? » ; conseil aux universités africaines : prendre des parts au capital de leurs spin-offs et prévoir des droits de suivi, et mettre en place des outils de suivi des start-ups ; atelier « de la technologie au problème de marché » ; argument pour valoriser les doctorants comme futurs entrepreneurs.
+- Mots-clés : spin-offs et start-ups, financement et maturation, carrière du chercheur, partenariats industrie, mesure d'impact.
+
+Transcription complète : [../transcriptions/university-spinouts-and-deep-tech-investing-marc-singer-osag.md](../transcriptions/university-spinouts-and-deep-tech-investing-marc-singer-osag.md)

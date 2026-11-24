@@ -1,0 +1,34 @@
+# Fiche : Professor Mike Wright – « Academic Entrepreneurship & University Spin-Offs »
+- Source : University Industry Innovation Network (UIIN), 18 déc. 2017, https://www.youtube.com/watch?v=pU_1OJ2O4Lw, Europe (Royaume-Uni, réseau européen). Version française = traduction automatique.
+- Intervenant(s) : Pr Mike Wright (professeur, spécialiste de l'entrepreneuriat académique, dirige depuis 30 ans un centre de recherche sur les rachats d'entreprises par les cadres – MBO – à Imperial College) ; questions de la salle (dont un représentant de la Royal Society et une responsable de l'accompagnement des étudiants à l'Université du Kent).
+- Pertinence : forte – conférence de référence sur l'évolution de l'entrepreneuriat académique, du modèle « spin-off/licence » vers l'entrepreneuriat des étudiants et diplômés.
+- Idées clés :
+  - Modèle traditionnel : « troisième mission » centrée sur la recherche, les professeurs et post-docs, via le TTO, avec objectif de retours financiers (licences, brevets, conseil). Il est complété (pas remplacé) par un modèle reliant enseignement, anciens élèves et entrepreneuriat étudiant.
+  - Réalisme sur les spin-offs : peu entrent en bourse, la plupart échouent, les revenus de licence sont très concentrés, la levée de capital-risque est difficile. Tendance au Royaume-Uni : moins de spin-offs mais « fuite vers la qualité ».
+  - Les universités ne sont pas toutes égales : les universités du premier quartile ont le plus d'impact via les spin-offs ; les universités intermédiaires contribuent surtout par le transfert de connaissances, la recherche contractuelle et le conseil. Ne pas croire que toute université créera des spin-offs de rang mondial.
+  - Problème récurrent : décalage entre ambitions (gains via spin-offs) et ressources/compétences des TTO, qui conduit à des approches sous-optimales. Il faut une combinaison d'expertises adéquate dans les TTO.
+  - Entrepreneuriat académique indirect : les diplômés qui travaillent quelques années puis créent une entreprise. Selon une étude sur données suédoises, ces entreprises sont plus performantes que les spin-offs directes.
+  - Freins côté chercheurs : conflits d'intérêts entre université et investisseurs ; prise en compte de l'entrepreneuriat dans la titularisation et la promotion encore rare.
+  - Gouvernance : chaque département a sa propre culture ; les conseils d'université doivent avoir la composition et les compétences pour piloter l'entrepreneuriat.
+  - Penser un écosystème en continuum : communauté de pré-incubation/pré-accélération → accélérateur → incubateur connecté à l'extérieur (entrepreneurs, mécanismes de soutien, investisseurs variés). Pas de modèle unique : dépend du type d'université, de son héritage et du contexte régional.
+  - Université entrepreneuriale et université de recherche sont complémentaires : la recherche fondamentale reste indispensable (« rien de plus pratique qu'une bonne théorie », Kurt Lewin).
+  - Entrepreneuriat étudiant : risque de « bulle » d'attentes comme pour les spin-offs ; encourager les bons profils et décourager ceux qui ne sont pas faits pour cela ; passer « d'un optimisme béat à un pessimisme réaliste » avec de vrais mécanismes de soutien.
+  - Mesure : compter spin-offs et licences ne suffit pas ; mesurer les effets indirects (diplômés entrepreneurs) est la « question à 64 000 dollars ». Les services d'orientation des universités ne savent souvent pas combien d'étudiants deviennent entrepreneurs. Les indicateurs d'évaluation peuvent provoquer des créations « pour faire du chiffre » (explosion des spin-offs au début des années 2000).
+  - Parcs scientifiques : à mieux connecter au continuum pré-accélération/incubation ; question de leur stade d'intervention et de la sortie des entreprises.
+- Chiffres et faits cités :
+  - [2:34] 61 pays représentés à la conférence.
+  - [4:10] Données britanniques sur les spin-offs 2002-2014 : tendance à la baisse dans les universités du premier quartile.
+  - [14:52] Rapport de 20 contre 1 : nombre de start-ups créées chaque année par des diplômés par rapport à celles issues de la recherche universitaire (Royaume-Uni).
+  - [15:42] Au Royaume-Uni, environ 10 % des start-ups créées chaque année impliquent des diplômés récents ; pourcentage bien plus élevé dans les économies émergentes (données GEM ; Chine, Argentine).
+  - [18:10] Seule une quinzaine d'universités britanniques intègrent explicitement l'entrepreneuriat dans les décisions de promotion.
+  - [19:48] Le travail de M. Wright sur les MBO n'a été pris en compte dans l'évaluation de la recherche (REF) qu'à partir de 2013.
+  - [28:04] Début de ses travaux sur les MBO en 1981 ; « 35 ans et 4 millions de livres plus tard ».
+- Exemples et cas concrets : Imperial College (Imperial Innovations, Imperial Launchpad en fin d'année, laboratoire de création ouvert toute l'année aux étudiants et post-docs) ; « Million Dollar Homepage » (étudiant de l'Université de Nottingham ayant vendu 1 million de pixels à 1 dollar) ; UC Berkeley (programme de licences socialement responsables) ; Université du Kent (soutien aux étudiants et anciens depuis 2004 : formation + incubateur) ; deux universités des West et East Midlands aux trajectoires différentes ; parcs scientifiques en Espagne ; article de Ben Martin (Research Policy, 2012) sur le mythe de la tour d'ivoire.
+- Citations :
+  - [14:52] « Vingt contre un : c'est le rapport entre les start-ups créées chaque année par des diplômés et celles issues de la recherche universitaire. Ce n'est pas marginal, c'est une composante essentielle de l'entrepreneuriat universitaire. »
+  - [26:19] « L'université entrepreneuriale et l'université de recherche sont complémentaires, pas substituables. »
+  - [39:25] « Comme me l'a dit un investisseur, il faut passer d'un optimisme béat à un pessimisme réaliste, tout en mettant en place des mécanismes de soutien efficaces. »
+- Utilisation possible par HSA : module « Entrepreneuriat académique direct et indirect » ; argument pour les universités africaines intermédiaires : viser d'abord le transfert de connaissances et la recherche contractuelle plutôt que des spin-offs de rang mondial ; post « 20 contre 1 : les diplômés créent plus d'entreprises que les labos » ; argument sur le poids de l'entrepreneuriat des diplômés dans les économies émergentes ; plaidoyer pour intégrer la valorisation dans les promotions (CAMES) ; idée d'un suivi des diplômés entrepreneurs sur HSA.
+- Mots-clés : définitions, rôle du bureau de transfert, spin-offs et start-ups, carrière du chercheur, mesure d'impact, politique publique, partenariats industrie
+
+Transcription complète : [../transcriptions/professor-mike-wright-academic-entrepreneurship-university-s.md](../transcriptions/professor-mike-wright-academic-entrepreneurship-university-s.md)

@@ -1,0 +1,33 @@
+# Fiche : Les FABLABS de l'INP-HB : moteur de l'innovation en Côte d'Ivoire
+- Source : Agence Ecofin, 12 nov. 2025, https://www.youtube.com/watch?v=psQ8eig9lms, Côte d'Ivoire
+- Intervenant(s) et fonction : les intervenants ne sont pas nommés dans la transcription. Il s'agit de responsables des fablabs et de l'incubateur central de l'Institut national polytechnique Félix Houphouët-Boigny (INP-HB, Yamoussoukro).
+- Pertinence pour le sujet : moyenne. C'est un reportage sur l'infrastructure d'incubation et de prototypage d'une grande école ivoirienne, avec ses partenaires de financement et de PI. Il traite plus d'entrepreneuriat que de transfert de résultats de recherche au sens strict, mais il annonce une technopole de transfert vers l'industrie.
+- Idées clés :
+  - Objectif de l'INP-HB : former des diplômés qui créent des entreprises et des emplois. Les fablabs assurent l'accompagnement technique, et l'incubateur central gère tous les autres aspects de la start-up (formation, hébergement, levée de fonds).
+  - L'accompagnement va de l'idéation jusqu'à la maturité. La progression du projet est mesurée sur l'échelle TRL (Technology Readiness Level). Le projet « sort » du fablab une fois mûr.
+  - Les fablabs thématiques sont ouverts aux étudiants et à toute personne extérieure qui a une idée : numérique et TIC (imprimantes 3D, graveurs laser, gravure sur bois), chimie (fabrication de produits, valorisation des déchets), bâtiment et travaux publics (logiciels de dessin technique et de dimensionnement), agro-industrie et agritech (technologies de récolte et outils numériques).
+  - L'incubateur fournit des experts encadrants, des espaces de coworking (ordinateurs, internet) et des bureaux privatifs avec domiciliation. Les projets sont sélectionnés sur leur fort impact économique et social, ce qui sert ensuite d'argument pour lever des fonds.
+  - Partenaires nationaux :
+    - l'Office ivoirien de la propriété intellectuelle (OIPI), pour la PI ;
+    - des fonds de financement de projets (transcrits « FONI » et « FIRK », probablement le FONSTI et le FIRCA, à vérifier) ;
+    - une banque partenaire (transcrite « BCC ») ;
+    - le ministère de la Promotion de la jeunesse et de l'insertion professionnelle (financements via des concours).
+  - Partenaire international : la GIZ (coopération allemande).
+  - Les fablabs renforcent aussi l'enseignement (cours, travaux pratiques) et sont ouverts 24 h/24. Les étudiants participent à leur gestion.
+  - L'entrepreneuriat est enseigné dans quasiment toutes les écoles de l'INP-HB, qui propose aussi un master spécialisé en innovation et entrepreneuriat. Des concours internes et sous-régionaux (valorisation des déchets) et des hackathons sont organisés régulièrement.
+  - Prochaine étape, la technopole : passer du laboratoire à l'échelle industrielle, avec de grands champs expérimentaux, des mini-industries pour les start-ups et l'accueil de centres de R&D de grandes entreprises. L'ambition est de faire des incubés des « champions nationaux », voire sous-régionaux.
+- Chiffres et faits cités : aucun chiffre précis, à part l'ouverture des fablabs 24 h/24 [7:52].
+- Exemples et cas concrets :
+  - Marcelin : développe une voiture « made in Côte d'Ivoire » avec un moteur de sa conception. Le prototype est amélioré grâce aux financements des partenaires [6:59].
+  - M. Atta : système de purification de l'eau en cours d'affinage pour une commercialisation en zones rurales [7:52].
+- Citations fortes :
+  - « L'idée, c'est de pouvoir transférer les technologies qu'on développe dans les laboratoires au niveau industriel, donc à l'échelle. » [0:00] / [10:31]
+  - « Il n'y a de limite que l'imagination du startuper. » [3:32]
+- Utilisation possible par HSA :
+  - Cartographie de l'écosystème ivoirien de valorisation : l'INP-HB comme acteur, ses partenaires (OIPI, fonds publics, GIZ).
+  - Exemple local pour un module « Du labo au marché : TRL et maturation ».
+  - Post sur les fablabs comme outil de preuve de concept.
+  - Partenariat potentiel entre HSA et l'incubateur de l'INP-HB, par exemple pour mettre en avant ses incubés sur la plateforme.
+- Mots-clés : Afrique, spin-offs et start-ups, financement et maturation, partenariats industrie, propriété intellectuelle et brevets
+
+Transcription complète : [../transcriptions/les-fablabs-de-linp-hb-moteur-de-linnovation-en-cote-divoire.md](../transcriptions/les-fablabs-de-linp-hb-moteur-de-linnovation-en-cote-divoire.md)

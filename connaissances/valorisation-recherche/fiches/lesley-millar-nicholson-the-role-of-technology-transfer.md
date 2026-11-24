@@ -1,0 +1,40 @@
+# Fiche : Lesley Millar-Nicholson : The Role of Technology Transfer
+- Source : Technology Licensing Office (TLO, MIT), 29 mars 2024, https://www.youtube.com/watch?v=BtnDins-U4g, États-Unis (conférence, 43 min, traduction automatique de l'anglais)
+- Intervenant(s) et fonction : Lesley Millar-Nicholson, directrice exécutive du Technology Licensing Office du MIT depuis environ 7 ans et demi (auparavant University of Illinois Urbana-Champaign) ; extrait vidéo du professeur Vladimir Bulović (MIT.nano).
+- Pertinence pour le sujet : forte – vue d'ensemble pédagogique du rôle d'un TTO, chiffres AUTM sur 30 ans et réalisme sur les revenus et les délais.
+- Idées clés :
+  - Le transfert de technologie est un processus non linéaire : entrée = une invention issue de la recherche ; sortie = une licence ou autre mécanisme vers un tiers, avec vérification (diligence) que ce tiers tiendra ses engagements.
+  - Le TTO veille au respect des obligations de PI liées aux financements : sponsors privés (informer de toute invention, négocier une licence s'ils le souhaitent) et fédéraux (Bayh-Dole).
+  - Obligations Bayh-Dole citées : protéger la PI, commercialiser, rendre compte, privilégier les petites entreprises, exiger une fabrication substantielle aux États-Unis, partager les revenus avec les inventeurs.
+  - Remettre la commercialisation dans son contexte : l'université enseigne, fait de la recherche, conseille ; la licence n'est qu'un canal.
+  - Types d'actifs gérés : brevets, logiciels, open source, droits d'auteur, matériel biologique (lignées, souris), réactifs, variétés végétales ; peu de secrets d'affaires, car l'université publie.
+  - Chaque type de PI exige une stratégie différente : un logiciel s'intègre vite ; un dispositif médical ou une thérapie exige essais et autorisations réglementaires.
+  - Le transfert est avant tout un « réseau de relations » : profil recherché chez les chargés de valorisation = curiosité, connaissances scientifiques, sens des affaires, capacité à raconter des histoires et à créer des liens, envie d'impact ; comprendre le « pourquoi » des inventeurs.
+  - Les inventeurs sont souvent motivés par une expérience personnelle (maladie, handicap) plus que par l'argent.
+  - Le transfert de technologie n'est pas une activité rentable pour l'université : sa valeur est l'effet catalyseur (entreprises, emplois, impôts, infrastructures).
+  - « Vallée de la mort » : une série de vallées imprévisibles, coûteuses et longues (2 à 3 ans de l'invention au brevet, autant pour créer et financer l'entreprise) ; plus profondes pour la santé et les technologies climatiques.
+  - Fenêtre de licence courte : au-delà de 5-6 ans après la déclaration, la probabilité de licencier devient quasi nulle.
+  - Licences non exclusives multiples quand la technologie vaut par son adoption large (norme TV haute définition).
+  - Revenus partagés entre départements, laboratoires, centres et inventeurs.
+- Chiffres et faits cités :
+  - [4:03] Modèle MIT décrit par V. Bulović : le TLO dépose et avance les frais de brevet ; le porteur peut démarcher les investisseurs pendant 9 mois puis rembourse les frais après la levée de fonds.
+  - [5:39] Selon V. Bulović (chiffre « au hasard ») : le MIT génère environ 60 M$ par an de licences, réinvestis dans de nouveaux brevets ; le MIT récupère 13 cents de frais de scolarité par dollar dépensé pour un étudiant de premier cycle.
+  - [8:04] Recherche sur le campus MIT : environ 800 M$ par an (selon la traduction), dont environ 65 % du gouvernement fédéral.
+  - [12:54] 600 à 800 nouvelles déclarations d'invention par an au MIT (campus + Lincoln Laboratory) ; [13:44] plus de 200 inventions présentées sur le site web.
+  - [23:34] Enquêtes AUTM 1991-2022 (150 à 200 universités) : 1 461 milliards de $ de financement de recherche (« 1,461 milliard » dans la traduction, ordre de grandeur cohérent avec les ratios suivants) ; 548 000 déclarations d'invention ; une invention déclarée pour 2,6 M$ de recherche.
+  - [24:21] Près de 310 000 demandes de brevet ; environ 56 % des inventions ont donné lieu à un dépôt ; [25:11] 46 % délivrées ; 167 000 licences et options ; « 177 000 » nouvelles entreprises (chiffre probablement déformé par la traduction) ; plus de 200 médicaments issus de la recherche universitaire sur le marché.
+  - [25:57] 58 milliards $ de revenus pour les universités en 30 ans, soit 4 cents par dollar de recherche.
+  - [26:46] Avec une redevance hypothétique de 2 %, les ventes des licenciés représentent un retour d'environ 2 fois le financement de recherche initial (chiffre de ventes cité « 22,9 », mal rendu par la traduction).
+  - [29:10] Données Brookings : les revenus de licence représentent 3,5 à 4 % du financement total de la recherche ; seulement 14 % des TTO américains couvrent leurs frais de fonctionnement.
+  - [32:25] Données TLO MIT 2002-2024 : environ 40 % des brevets licenciés ; 89 % des licences signées dans les 5 ans suivant la déclaration, 8 % entre 5 et 10 ans, 2 % après 10 ans.
+  - [33:16] Durée du brevet : 20 ans à compter du dépôt ; délivrance environ 3 ans après la déclaration.
+  - [35:42] Cas TV HD (prof. Jae Lim) : déclaration 1989, premier dépôt un an plus tard, délivrance 4 ans après, dernier dépôt 1995, norme en 1996 ; premier brevet expiré en 2009 ; revenus tombés à zéro vers 2020, 31 ans après la déclaration.
+- Exemples et cas concrets : Stephen Boppart (otoscope à tomographie par cohérence optique, ancien patient d'un cancer) ; Canan Dağdeviren, MIT Media Lab (patch mammaire à ultrasons pour le dépistage du cancer du sein) ; Hugh Herr, MIT Media Lab (prothèses bioniques, double amputé) ; norme de télévision numérique HD (Jae Lim, licences non exclusives à plusieurs industriels, responsable licences Jack Turner) ; écosystème MIT (Martin Trust Center, sandbox, Venture Mentoring Service) ; produits issus de la recherche universitaire : LED bleues, DVD, OLED, Blu-ray, batteries.
+- Citations fortes :
+  - [16:10] « Nous ne sommes pas que des bureaucrates : la commercialisation de la technologie est avant tout un réseau de relations. »
+  - [25:57] « Pour chaque dollar investi dans la recherche, les universités ont gagné 4 cents : ce n'est pas une proposition commerciale très intéressante. La valeur est dans ce que nous créons – entreprises, emplois, recettes fiscales. »
+  - [22:43] « Si vous êtes là pour gagner de l'argent rapidement, vous risquez d'être déçu. »
+- Utilisation possible par HSA : module « Le cycle de vie d'une invention universitaire » (de la déclaration à la licence, avec le cas TV HD comme frise chronologique) ; post chiffré « 4 cents par dollar : pourquoi la valorisation n'est pas une machine à cash » ; argument pour les présidents d'université africains : financer un TTO pour l'impact, pas pour l'autofinancement ; fiche métier « chargé de valorisation : profil et compétences » ; message aux chercheurs : déclarer tôt, car la fenêtre de licence se ferme en 5 ans.
+- Mots-clés : rôle du bureau de transfert, licences, propriété intellectuelle et brevets, politique publique (Bayh-Dole), mesure d'impact, définitions, carrière du chercheur, spin-offs et start-ups.
+
+Transcription complète : [../transcriptions/lesley-millar-nicholson-the-role-of-technology-transfer.md](../transcriptions/lesley-millar-nicholson-the-role-of-technology-transfer.md)

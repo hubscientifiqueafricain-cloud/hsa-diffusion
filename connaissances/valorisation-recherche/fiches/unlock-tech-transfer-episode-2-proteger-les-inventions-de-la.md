@@ -1,0 +1,32 @@
+# Fiche : UNLOCK Tech Transfer Épisode 2 : Protéger les inventions de la recherche académique
+- Source : Université Paris Cité, 21 janvier 2026, https://www.youtube.com/watch?v=Tggv7GHpY1o, France (podcast vidéo, 16 min)
+- Intervenant(s) et fonction : Nicolas (nom de famille non donné), professionnel du transfert de technologie (propriété intellectuelle) au sein de l'écosystème Université Paris Cité / CNRS / Institut Pasteur / Inria / AP-HP ; Fabien, animateur.
+- Pertinence pour le sujet : forte – explication concrète et rassurante du parcours déclaration d'invention → brevet, centrée sur les craintes des chercheurs.
+- Idées clés :
+  - Premier réflexe après avoir identifié une application : faire une déclaration d'invention auprès de son office de transfert (CNRS Innovation, Pasteur, Université Paris Cité, Inria, AP-HP).
+  - La déclaration est simple : formulaire (inventeurs, invention, applications envisagées) + note technique, qui peut être simplement un projet de publication.
+  - Suivent des réunions avec le TTO : discussion scientifique, puis critères de brevetabilité (nouveauté, activité inventive), veille et recherche d'antériorités (PubMed, publications, brevets).
+  - Envisager d'autres formes de protection que le brevet : dépôt de matériel biologique (lignée cellulaire, souche probiotique, levure), dépôt de logiciel à l'Agence pour la protection des programmes, secret.
+  - En domaine compétitif, le premier qui dépose prend la position forte : on peut déposer tôt, même sans toute la preuve de concept, et consolider la demande pendant la première année (année de priorité).
+  - Les inventions de rupture permettent des brevets dominants à revendications très larges, couvrant toutes les applications ultérieures et poussant les industriels à prendre des licences.
+  - Breveter ne retarde pas la publication : déclarer au moment où l'article est quasi final ; le TTO dépose en environ 3 semaines, le temps d'une relecture par les pairs.
+  - Le brevet est un contrat avec la société : 20 ans de protection contre la publication complète de l'invention (après 18 mois) ; brevet et open innovation ne sont pas antinomiques.
+  - Le dépôt est un point de départ : environ 5 ans pour obtenir le brevet ; une licence peut être signée sur une simple demande ; le TTO gère la procédure et ne sollicite l'inventeur que ponctuellement.
+  - Stratégie territoriale à définir (Europe, États-Unis, de plus en plus Chine ; pays à faible revenu si la technologie est adaptée), car les dépôts coûtent cher.
+  - Plus un brevet rapporte, plus il sera attaqué : constituer un « panier » de brevets (nouvelles applications, perfectionnements) pour peser en négociation.
+  - Motivations du chercheur : d'abord apporter des innovations au plus grand nombre, ensuite intéressement financier et notoriété.
+- Chiffres et faits cités :
+  - [5:51] Délai de dépôt d'une demande de brevet par le TTO : environ 3 semaines.
+  - [6:44] Publication de la demande à 18 mois ; protection de 20 ans.
+  - [8:21] Environ 5 ans pour obtenir la délivrance du brevet.
+  - [12:25] Calcul de l'industriel : continuer à payer une licence de 100 millions par an ou tenter d'invalider le brevet pour 1 million.
+  - [13:14] Rémunération des inventeurs : de l'ordre de 20 à 25 % des revenus, après déduction des frais.
+- Exemples et cas concrets : ciseaux moléculaires CRISPR-Cas9 (Emmanuelle Charpentier, prix Nobel, passée par des institutions françaises) comme brevet dominant ; ARN messager (litiges en cours) ; séquençage à haut débit (premiers brevets Illumina d'origine académique, attaqués sans succès par des acteurs chinois) ; brevets sur le VIH et les kits de dépistage (Françoise Barré-Sinoussi, Luc Montagnier, Institut Pasteur, CNRS, AP-HP) ; souche de levure donnant un goût particulier à la bière (exemple de dépôt de matériel biologique).
+- Citations fortes :
+  - [5:02] « Est-ce que nous freinons parfois les publications ? Jamais. C'est une simple question de timing : nous allons aussi vite que les relecteurs. »
+  - [6:44] « Le brevet, c'est un contrat avec la société : on vous donne 20 ans de protection, en échange votre innovation est publiée et accessible à tout le monde. »
+  - [8:21] « Déposer un brevet est un point de départ, pas un point d'arrivée. »
+- Utilisation possible par HSA : post « 5 idées reçues sur le brevet » (retard de publication, complexité de la déclaration, etc.) ; fiche pratique « Que mettre dans une déclaration d'invention » ; module sur les protections alternatives (matériel biologique, logiciel, secret) très utile pour les laboratoires africains en biotechnologie et agronomie ; argument sur la stratégie de dépôt adaptée aux pays à faible revenu.
+- Mots-clés : détection d'inventions, propriété intellectuelle et brevets, rôle du bureau de transfert, licences, carrière du chercheur, définitions.
+
+Transcription complète : [../transcriptions/unlock-tech-transfer-episode-2-proteger-les-inventions-de-la.md](../transcriptions/unlock-tech-transfer-episode-2-proteger-les-inventions-de-la.md)

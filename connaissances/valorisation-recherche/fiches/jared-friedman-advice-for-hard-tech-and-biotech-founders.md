@@ -1,0 +1,50 @@
+# Fiche : Jared Friedman - Advice for Hard-tech and Biotech Founders
+
+- **Source** : Y Combinator, 20 sept. 2019, https://www.youtube.com/watch?v=C1DlZWfI6rk, États-Unis (24:33). Fiche établie à partir du texte original anglais, car aucune traduction n'était disponible.
+- **Intervenant(s)** : Jared Friedman, associé (partner) chez Y Combinator (conférence Startup School).
+- **Pertinence** : moyenne. Ce n'est pas du transfert de technologie au sens strict, mais des conseils très concrets pour les spin-offs deeptech et biotech : produit minimum viable (MVP) coûteux, preuve de la demande, levée de fonds par paliers.
+- **Idées clés** :
+  - Définition d'une entreprise hard tech : il faut beaucoup de temps et d'argent pour construire le premier produit, et rien ne garantit qu'on pourra le construire. Le risque est technique plus que commercial (contrairement à une application mobile).
+  - Le paradoxe de Sam Altman : il est plus facile de démarrer une entreprise difficile qu'une entreprise facile. Le produit est dur à construire, mais le reste est facile (presse, talents, investisseurs attirés par l'ambition).
+  - Problème n°1, le MVP lourd : il faut trouver des moyens de progresser sans les millions nécessaires :
+    - conseillers prestigieux, simulations, maquette ;
+    - preuve de concept à petite échelle ;
+    - détour par un dispositif déjà approuvé ;
+    - vente de services qui génèrent revenus et données ;
+    - satellite de test bon marché ;
+    - contrats signés avant d'avoir le produit (« vendre avant de fabriquer »).
+  - Problème n°2, prouver la demande avant d'avoir le produit : idéalement par des préventes. En santé, la prévente d'un dispositif soumis à l'approbation de la FDA est illégale. On utilise alors une lettre d'intention (LOI) non contraignante mais prise au sérieux par les clients. Plus elle est précise, plus elle a de valeur, et elle donne une feuille de route du produit.
+  - Une LOI est difficile à obtenir, et c'est justement ce qui fait sa valeur : c'est le signe qu'on résout un « point de douleur critique ». Elle oblige aussi à une répétition du processus de vente et révèle les différentes parties prenantes chez le client.
+  - Levée de fonds : il ne faut pas viser 50 millions de dollars d'un coup (le « mur »). On découpe en paliers successifs (quelques centaines de milliers de dollars, puis 1 million, 4 millions, etc.), chacun lié à des jalons précis. Il faut « pousser maniaquement » vers des paliers les plus petits possibles.
+  - Principe général : prouver le plus possible, le plus tôt possible, pour réduire le risque perçu.
+  - Recrutement : les projets très ambitieux attirent plus facilement les talents.
+- **Chiffres et faits cités** :
+  - [02:36] Boom : avion supersonique à Mach 2,2, San Francisco-Tokyo en 5 heures.
+  - [05:12] Y Combinator a financé plus de 250 entreprises bio et environ deux cents entreprises hard tech. C'est le premier investisseur d'amorçage au monde dans ces deux catégories.
+  - [00:00] Plus de 1 000 entreprises de Startup School travaillent sur du hard tech ou de la biotech.
+  - [06:02] Les candidatures hard tech à Y Combinator ont un taux d'acceptation environ 10 fois plus élevé.
+  - [10:18] Un satellite de télécommunication utile coûte au moins 10 millions de dollars. Le satellite de test d'Astranis a été construit en moins de 3 mois pour moins de 50 000 dollars.
+  - [09:26] Airx a été mis en service en moins de 3 mois sans approbation FDA, grâce à un dispositif existant.
+  - [14:37] Exemple de plan de levée de 50 millions de dollars découpé en 5 tours, dont une série A à 15 millions.
+  - [17:15] Cruise a été rachetée par GM pour environ un milliard de dollars (chiffre partiellement inaudible). Sa première voiture a été construite en 3 mois.
+- **Exemples et cas concrets** :
+  - Boom (maquette en plastique et intérêt des compagnies aériennes).
+  - Solugen (« solute » dans la transcription) : du bécher produisant une tasse de peroxyde d'hydrogène à l'usine.
+  - Airx (dispositif médical existant plus logiciel).
+  - Notable Labs (services de criblage de tumeurs pour les laboratoires pharmaceutiques, puis développement de ses propres médicaments).
+  - Astranis (satellite de test).
+  - Ginkgo Bioworks (contrats signés avant de créer les organismes).
+  - Jetpack Aviation (préventes de motos volantes).
+  - Cruise.
+- **Citations fortes** :
+  - « À bien des égards, il est plus facile de lancer une entreprise difficile qu'une entreprise facile. » (Sam Altman, cité) [01:42]
+  - « Les lettres d'intention sont difficiles à obtenir, et c'est précisément ce qui leur donne de la valeur. » [19:08]
+  - « Pour une entreprise deeptech, l'essentiel est de prouver le plus possible, le plus tôt possible, pour réduire le risque perçu. » [20:57]
+- **Utilisation possible par HSA** :
+  - Module « Financer une spin-off deeptech par paliers ».
+  - Fiche « La lettre d'intention, mode d'emploi », directement utile aux chercheurs africains qui démarchent des industriels sans prototype.
+  - Post : « Vendre avant de fabriquer, l'exemple de Ginkgo Bioworks. »
+  - Argument : un projet de recherche ambitieux est un atout pour recruter et pour attirer l'attention.
+- **Mots-clés** : spin-offs et start-ups, financement et maturation, partenariats industrie.
+
+Transcription complète : [../transcriptions/jared-friedman-advice-for-hard-tech-and-biotech-founders.md](../transcriptions/jared-friedman-advice-for-hard-tech-and-biotech-founders.md)

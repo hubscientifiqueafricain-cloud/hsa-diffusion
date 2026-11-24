@@ -1,0 +1,41 @@
+# Fiche : Le Salon de la Valorisation des Résultats de Recherche et de l'Innovation en Afrique de l'Ouest
+- **Source** : Norbert DOUHADJI (débat sur la radio Nana FM, Lomé), 13 sept. 2023, https://www.youtube.com/watch?v=ys3EST5KOLU, Afrique francophone (Togo). Transcription automatique très bruitée, notamment pendant les appels d'auditeurs.
+- **Intervenant(s)** :
+  - Dr Kossi Dodji (prénom et nom incertains dans la transcription), chef de la division recherche à l'Institut national de la recherche scientifique (INRS, Togo) et membre du comité d'organisation du SAVARI-AO.
+  - Animateur : Norbert Douhadji, avec des auditeurs au téléphone.
+- **Pertinence** : moyenne. L'émission présente un dispositif régional ouest-africain (projet VaRIWA, salon, fonds) avec des chiffres utiles sur le financement de la recherche. La partie technique sur la propriété intellectuelle reste superficielle et contient une approximation.
+- **Idées clés** :
+  - Le projet VaRIWA (Valorisation des résultats de la recherche et de l'innovation en Afrique de l'Ouest) est porté par un consortium d'agences de recherche et d'innovation de quatre pays : Bénin, Burkina Faso, Sénégal, Togo. Il est financé par le Fonds OEACP pour la recherche et l'innovation et l'Union européenne, et coordonné par l'Agence universitaire de la Francophonie (AUF). Objectif : créer un environnement favorable au transfert de technologie.
+  - Il comporte trois volets : (1) former les chercheurs à la protection et à la valorisation, (2) mettre en place des dispositifs d'accompagnement (incubateurs), (3) créer des réseaux public-privé. Le salon est issu du volet 3.
+  - Constat : les chercheurs de la sous-région produisent beaucoup mais s'arrêtent au stade du « résultat primaire ». Une recherche financée doit avoir un impact sur la vie des citoyens.
+  - Programme du salon : un panel présidentiel (« Investir dans l'innovation et la recherche pour un développement durable et inclusif »), un panel ministériel sur les politiques et stratégies de recherche, une masterclass pour jeunes innovateurs (propriété intellectuelle, démarches, coûts, avantages), des expositions organisées en « villages » par pays, des rencontres B2B et B2C avec des investisseurs, un concours avec jury et huissier.
+  - Beaucoup d'innovateurs ignorent qu'il existe des institutions pour les accompagner dans la protection. Au Togo, l'INPIT (Institut national de la propriété industrielle et de la technologie) reçoit les demandes et les transmet à l'OAPI.
+  - Breveter n'est pas une fin en soi. Il faut ensuite trouver des investisseurs et signer des conventions d'exploitation.
+  - Les États ne peuvent pas financer seuls la recherche. Dans les pays qui ont réussi, ce sont les partenariats public-privé qui ont porté la R&D. Le salon doit servir au plaidoyer auprès des chefs d'État.
+  - Un fonds ne sert à rien s'il n'est pas alimenté. Il faut des mécanismes innovants pour l'abonder.
+  - Les innovations sont évaluées selon les priorités des feuilles de route nationales (au Togo, l'agriculture).
+  - Le suivi des lauréats après le salon et la mise en œuvre des recommandations sont des enjeux reconnus : « on en a vu finir dans les tiroirs ».
+- **Chiffres et faits cités** :
+  - [9:31] Environ 1,7 % du PIB consacré à la recherche et l'innovation dans le monde, contre à peine 0,4 % en Afrique de l'Ouest.
+  - [10:24] Plan d'action de Lagos (1980) : les chefs d'État africains s'étaient engagés à consacrer au moins 1 % du PIB à la R&D. Le Togo y consacre environ 0,22 % (cité « 22 % » par erreur à [25:17]).
+  - [10:24–11:18] Lancement d'une étude de faisabilité d'un Fonds de soutien à la recherche et à l'innovation au Togo, avec l'appui de l'OEACP et de l'UE et des experts mandatés.
+  - [8:40] Environ 75 exposants attendus : 15 du Burkina, 15 du Bénin, 15 du Sénégal, 30 du Togo.
+  - [12:52] Prix du concours : 5 millions, 2 millions et 1 million (FCFA).
+  - [0:00] Salon du 18 au 20 septembre 2023 au Centre togolais des expositions et foires (CETEF) de Lomé. Première édition, qui pourrait devenir annuelle.
+  - [22:46] Affirmation de l'intervenant : une protection OAPI vaudrait « ici, en Afrique et dans le monde entier » grâce aux bases de l'OMPI. C'est **inexact** : un brevet OAPI couvre les États membres de l'OAPI. À corriger dans tout contenu HSA.
+- **Exemples et cas concrets** :
+  - Pendant la crise du Covid, des jeunes Togolais ont produit des masques et du gel hydroalcoolique.
+  - Un auditeur demande si des chercheurs travaillent sur la valorisation des plantes envahissantes en ville. Réponse : des laboratoires universitaires s'y intéressent.
+  - Allusion à la phrase prêtée au général de Gaulle sur le CNRS : « Des chercheurs qui cherchent, on en trouve ; des chercheurs qui trouvent, on en cherche. »
+- **Citations** :
+  - [4:22] « Les chercheurs de notre sous-région produisent beaucoup, mais la plupart du temps ils s'arrêtent à la phase de résultats primaires. Or la recherche a pour vocation de contribuer au développement. »
+  - [23:37] « Breveter n'est pas une fin en soi. Il faut ensuite trouver des investisseurs avec qui signer des conventions d'exploitation économique. »
+  - [27:55] « Nos États ne peuvent pas financer seuls la recherche. Dans les pays qui en ont fait un outil de développement, ce sont des partenariats public-privé qui l'ont portée. »
+- **Utilisation possible par HSA** :
+  - Données de plaidoyer sur le financement de la R&D (1,7 % dans le monde, 0,4 % en Afrique de l'Ouest, 0,22 % au Togo, objectif de Lagos à 1 %) pour un post ou un livre blanc.
+  - Cartographie des dispositifs régionaux (VaRIWA, AUF, OEACP, SAVARI-AO) dans un module « Écosystème ouest-africain ».
+  - Contenu correctif sur la territorialité du brevet OAPI.
+  - HSA peut se positionner comme plateforme de suivi des innovateurs après les salons.
+- **Mots-clés** : Afrique, politique publique, financement et maturation, partenariats industrie, propriété intellectuelle et brevets, spin-offs et start-ups.
+
+Transcription complète : [../transcriptions/le-salon-de-la-valorisation-des-resultats-de-recherche-et-de.md](../transcriptions/le-salon-de-la-valorisation-des-resultats-de-recherche-et-de.md)

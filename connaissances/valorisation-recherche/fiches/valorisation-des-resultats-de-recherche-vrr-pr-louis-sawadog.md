@@ -1,0 +1,32 @@
+# Fiche : Valorisation des Résultats de Recherche (VRR) / Pr Louis Sawadogo
+- Source : ANRSI (chaîne « Anrsi »), 14 déc. 2022, https://www.youtube.com/watch?v=-ShpuabPOJo, Afrique francophone (Burkina Faso)
+- Intervenant(s) et fonction : Pr Louis Sawadogo, responsable depuis 2018 de l'Agence nationale de valorisation des résultats de la recherche et des innovations (ANVAR) du Burkina Faso, rattachée au ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation. Il s'exprime oralement, sans support, lors d'une conférence régionale.
+- Pertinence pour le sujet : forte. Il décrit le dispositif institutionnel national de valorisation d'un pays d'Afrique de l'Ouest (loi, stratégie, agence, outils).
+- Idées clés :
+  - Constat de départ : au Burkina Faso (CNRST et universités), la plupart des chercheurs font de la recherche « pour se valoriser eux-mêmes », c'est-à-dire pour l'avancement au CAMES et donc le salaire, tandis que les résultats « dorment dans les tiroirs ».
+  - Le cadre politique est fixé par la loi d'orientation de la recherche scientifique et de l'innovation (LORSI). Elle crée un Haut Conseil de la recherche scientifique et de l'innovation, qui donne les orientations, et une agence de valorisation, courroie de transmission entre la recherche et la valorisation.
+  - La stratégie nationale de valorisation des technologies, inventions et innovations (SNVTII) encadre toute la valorisation, publique comme privée (universités, instituts, innovateurs privés), pour fédérer les acteurs. Elle couvre la commercialisation et l'utilisation sociale des résultats.
+  - Un comité interministériel de pilotage de la stratégie, où chaque ministère inscrit ses activités de valorisation, se réunit deux fois par an (programme et rapport d'activité). L'ANVAR coordonne.
+  - Outil de visibilité : le Forum national de la recherche scientifique et des innovations technologiques (FRSIT), tous les deux ans, de niveau national et sous-régional. Il est placé sous le haut patronage du président du Faso et organisé avec les ministères de la Recherche et du Commerce, pour faire le lien avec la commercialisation.
+  - Les parcs d'innovation servent de lieux d'exposition et d'expérimentation des résultats, notamment agricoles. Les étudiants en fin de cycle y sont formés à une filière (orange, papaye, produits halieutiques…) pour s'installer à leur compte en environ 3 ans. C'est une forme d'incubation, qui évite que les diplômés agricoles deviennent professeurs de sciences faute de débouchés.
+  - Les plateformes d'innovation multi-acteurs se placent au-dessus de la chaîne de valeur. Elles réunissent chercheurs, innovateurs, grossistes, transporteurs et tous ceux qui ont un intérêt dans une filière, pour transformer des intérêts parfois conflictuels en force commune. L'ANVAR les coordonne, par exemple pour que les variétés de semences améliorées atteignent les producteurs.
+- Chiffres et faits cités :
+  - Le Pr Sawadogo est responsable de l'ANVAR depuis 2018 [0:50].
+  - FRSIT tous les deux ans : 13e édition, depuis 1998 selon l'intervenant (« depuis 98 je pense ») [4:14].
+  - Comité interministériel réuni deux fois par an [4:14].
+  - Une plateforme d'innovation sur le maïs a augmenté la production d'environ 50 % dans cinq régions [7:45].
+  - Installation d'un jeune à son compte en trois ans via les parcs d'innovation [6:53].
+- Exemples et cas concrets :
+  - Plateforme maïs (financeur mal transcrit).
+  - Un innovateur qui s'est appuyé sur les résultats de la recherche agricole a créé une entreprise « multimilliardaire » (en FCFA, non nommée) [9:31].
+  - Évocation du projet régional de valorisation conduit avec les agences de plusieurs pays (VaRRIWA, voir fiche suivante).
+- Citations fortes :
+  - « Les résultats de recherche dorment dans les tiroirs : il faut les sortir des tiroirs. » [1:41]
+  - « Dans toute chose il faut un cadrage : la stratégie nationale encadre tout ce qui se fait en recherche et innovation, public comme privé. » [2:33]
+- Utilisation possible par HSA :
+  - Étude de cas « Le modèle burkinabè : loi, stratégie, agence et comité interministériel ». C'est un benchmark pour un livre blanc sur les politiques nationales de valorisation en Afrique de l'Ouest, à comparer avec la Côte d'Ivoire.
+  - Le concept de « plateforme d'innovation multi-acteurs » est un bon angle de post pour les SHS et l'agriculture.
+  - Argument sur la nécessité de faire reconnaître la valorisation dans la carrière (CAMES).
+- Mots-clés : Afrique, politique publique (Bayh-Dole, etc.), rôle du bureau de transfert, carrière du chercheur, partenariats industrie, SHS et impact, financement et maturation
+
+Transcription complète : [../transcriptions/valorisation-des-resultats-de-recherche-vrr-pr-louis-sawadog.md](../transcriptions/valorisation-des-resultats-de-recherche-vrr-pr-louis-sawadog.md)
